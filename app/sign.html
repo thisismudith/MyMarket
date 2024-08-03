@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-app.js";
+        import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-firestore.js";
+
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+          apiKey: "AIzaSyDipKhAfKge_3tFFghhVYnbm-GKIasSA84",
+          authDomain: "mymarket-4db2b.firebaseapp.com",
+          databaseURL: "https://mymarket-4db2b-default-rtdb.asia-southeast1.firebasedatabase.app",
+          projectId: "mymarket-4db2b",
+          storageBucket: "mymarket-4db2b.appspot.com",
+          messagingSenderId: "451626188613",
+          appId: "1:451626188613:web:6500ca1e81b23236b5882c"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const db = getFirestore(app);
+      </script>
+
+    <link rel="stylesheet" href="styles/globals.css">
+    <link rel="stylesheet" href="styles/animations.css">
+    <link rel="stylesheet" href="styles/sign.css">
+    <title>MyMarket</title>
+</head>
+<body>
+    <div class="signing">
+        <h1>Sign Up</h1>
+        <p>Already have an account? <span style="text-decoration: underline; cursor: pointer;" onclick="toggle(this, 1)">Sign in</span></p>
+        <div>
+            <input type="text" placeholder="Your Name" id="name">
+            <input type="email" placeholder="Email">
+            <input type="password" placeholder="Password">
+            <input type="password" placeholder="Confirm Password" id="confirm">
+			<div class="hidden-toggles">
+                <input type="radio" id="user" name="type" value="user" class="hidden-toggles__input" checked>
+                <label for="user" class="hidden-toggles__label">User</label>
+
+                <input type="radio" id="restaurant" name="type" value="restaurant" class="hidden-toggles__input">
+                <label for="restaurant" class="hidden-toggles__label">Restaurant</label>
+
+                <input type="radio" id="chef" name="type" value="chef" class="hidden-toggles__input">
+                <label for="chef" class="hidden-toggles__label">Chef</label>
+			</div>
+        </div>
+        <button class="sign-btn">Sign Up</button>
+    </div>
+
+    </form>
+    <script>
+        function toggle(elm, num) {
+            if (num == 1) {
+                document.querySelector(".signing h1").innerText = "Sign In";
+                document.querySelector(".sign-btn").innerText = "Sign In";
+                document.getElementById("name").style.display = "none";
+                document.getElementById("confirm").style.display = "none";
+                document.querySelector(".hidden-toggles").style.display = "none";
+                elm.parentElement.innerHTML = "Don't have an account? <span style=\"text-decoration: underline; cursor: pointer;\" onclick=\"toggle(this, 2)\">Sign up</span>";
+            } else {
+                document.querySelector(".signing h1").innerText = "Sign Up";
+                document.querySelector(".sign-btn").innerText = "Sign Up";
+                document.getElementById("name").style.display = "inline-block";
+                document.getElementById("confirm").style.display = "inline-block";
+                document.querySelector(".hidden-toggles").style.display = "flex";
+                elm.parentElement.innerHTML = "Already have an account? <span style=\"text-decoration: underline; cursor: pointer;\" onclick=\"toggle(this, 1)\">Sign in</span>";
+            }
+        }
+        // const user = doc(db, "cities", )
+    </script>
+</body>
+</html>

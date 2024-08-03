@@ -179,33 +179,4 @@ def extractRestraunts():
 
 
 
-
-
-
 extractRestraunts()
-exit()
-
-
-countries = ['India']
-
-_, response_content = request('https://www.zomato.com/india', common_headers)
-data = re.search(r'window\.__PRELOADED_STATE__ = JSON.parse\("(.*)"\)', response_content).group(1)
-parsed_data = orjson.loads(data.encode().decode('unicode_escape'))
-print(parsed_data)
-
-exit()
-# soup = BeautifulSoup(response_content, 'html.parser')
-
-
-
-
-# FETCHING STARTS HERE
-_, response_content = request("https://www.zomato.com/webroutes/getPage?page_url=/surat/spice-villa-piplod/order&location=&isMobile=0", common_headers)
-data = orjson.loads(response_content)
-
-print(data['page_data']['order']['menuList']['menus'])
-
-with open('restaurant.json', 'w', encoding='utf-8') as f:
-	f.write(orjson.dumps(data, option=orjson.OPT_INDENT_2).decode('utf-8'))
-
-# https://www.zomato.com/surat/spice-villa-piplod/order <-- Also has the same data as above but needs to be extracted from the HTML (window.__PRELOADED_STATE__)

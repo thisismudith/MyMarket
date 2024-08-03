@@ -1,0 +1,79 @@
+/* Gloss Effect */
+
+.gloss{
+    position: relative;
+    overflow: hidden;
+}
+
+.gloss::before{
+    content: "";
+    background: rgba(255, 255, 255, 0.4);
+    width: 60%;
+    height: 100%;
+    top: 0%;
+    left: -125%;
+    opacity: 0;
+    transform: skew(45deg);
+    position: absolute;
+}
+
+.gloss:hover::before{
+    opacity: 1;
+    z-index: 100;
+    animation: gloss .7s ease-out;
+}
+
+@keyframes gloss{
+    0%{
+        display: inline-block;
+        left: -125%;
+    }
+    99%{
+        opacity: 1;
+        left: 150%;
+    }
+    100%{
+        display: none;
+        opacity: 0;
+        left: 125%;
+    }
+}
+
+/* Gooey */
+.gooey{
+    color: var(--navy-blue);
+    padding: 1em 2em;
+    font-size: 1em;
+    position: relative;
+    filter: url("#goo");
+}
+
+
+.gooey::before,
+.gooey::after {
+    width: 4.4em;
+    height: 2.95em;
+    position: absolute;
+    content: "";
+    display: inline-block;
+    background: white;
+    border-radius: 50%;
+    transition: transform 1s ease;
+    transform: scale(0);
+    z-index: -1;
+}
+
+.gooey::before {
+    top: -25%;
+    left: 20%;
+}
+
+.gooey::after {
+    bottom: -25%;
+    right: 20%;
+}
+
+.gooey:hover::before,
+.gooey:hover::after {
+    transform: scale(1);
+}

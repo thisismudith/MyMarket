@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+}
+
+.signing{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 30px;
+    color: black;
+}
+
+.signing h1{
+    font-size: 5em;
+}
+
+.signing p{
+    font-size: 1.1em;
+    margin-top: -20px;
+}
+
+.signing span{
+    color: var(--navy-blue);
+    cursor: pointer;
+}
+
+.signing div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 20px;
+    height: 50vh;
+}
+
+.signing input{
+    font-size: 1.2em;
+    color: black;
+    /* background-color: #addcfb; */
+    border: 1.5px solid var(--navy-blue);
+}
+
+.sign-btn{
+    font-size: 1.2em;
+    width: 100%;
+    background-color: var(--navy-blue);
+}

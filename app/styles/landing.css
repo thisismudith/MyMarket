@@ -1,0 +1,38 @@
+body{
+    background-image: url("../../assets/landing_image.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: right;
+    background-position-y: center;
+    background-color: var(--navy-blue);
+    /* backc */
+    background-attachment: fixed;
+}
+
+.landing-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3% 5%;
+    width: fit-content;
+    width: 25em;
+    height: 80vh;
+    row-gap: 2em;
+}
+
+.landing-box h1{
+    font-size: 5.35em;
+}
+
+.landing-box h3{
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #EEEEEE;
+    opacity: .9;
+}
+
+.get-started{
+    filter: url("#goo");
+    font-family: var(--font);
+}

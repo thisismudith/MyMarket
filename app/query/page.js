@@ -9,8 +9,8 @@ import { Box, Scatter } from "@ant-design/plots";
 
 const defaultMapContainerStyle = {
 	width: "100%",
-	height: "80vh",
-	borderRadius: "15px 0px 0px 15px",
+	height: "60vh",
+	borderRadius: "15px",
 };
 
 const defaultMapCenter = {
@@ -73,15 +73,15 @@ export default function queryResults() {
 
 	const PriceVsRating = {
 		height: 400,
-		data: data
-			.reduce((acc, curr) => {
+		data: Object.values(
+			data.reduce((acc, curr) => {
 				acc[`${curr.lat}|${curr.lon}`] = acc[`${curr.lat}|${curr.lon}`] || { price: 0, rating: 0, count: 0 };
 				acc[`${curr.lat}|${curr.lon}`].price += curr.price;
-				acc[`${curr.lat}|${curr.lon}`].rating += curr.rating;
+				acc[`${curr.lat}|${curr.lon}`].rating = curr.rating;
 				acc[`${curr.lat}|${curr.lon}`].count++;
 				return acc;
 			}, {})
-			.map((item) => ({ price: item.price / item.count, rating: item.rating / item.count })),
+		).map((item) => ({ price: (item.price / item.count).toFixed(2), rating: item.rating })),
 		xField: "price",
 		yField: "rating",
 		point: {
@@ -89,8 +89,16 @@ export default function queryResults() {
 			shape: "circle",
 		},
 		title: "Avg Pricing vs Rating",
-		coordinate: { transform: [{ type: "transpose" }] },
 	};
+
+	var smth = Object.values(
+		data.reduce((acc, curr) => {
+			acc[`${curr.lat}|${curr.lon}`] = acc[`${curr.lat}|${curr.lon}`] || { price: 0, lat: curr.lat, lon: curr.lon, count: 0 };
+			acc[`${curr.lat}|${curr.lon}`].price += curr.price;
+			acc[`${curr.lat}|${curr.lon}`].count++;
+			return acc;
+		}, {})
+	);
 
 	return (
 		<div>
@@ -108,13 +116,16 @@ export default function queryResults() {
 				<h1 className="font-bold text-3xl mb-3">Figures</h1>
 				<Box {...priceDistribution} className="mx-auto" />
 				<Scatter {...PriceVsRating} className="mx-auto" />
+
+				<h2>Average Pricing: ₹ {(data.reduce((acc, cur) => acc + cur.price, 0) / data.length).toFixed(2)}</h2>
+				<h2>Average Rating: ★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</h2>
 			</div>
 
 			<h1>Here are the results of your query</h1>
 			<MapProvider>
 				<GoogleMap mapContainerStyle={defaultMapContainerStyle} center={defaultMapCenter} zoom={defaultMapZoom} options={defaultMapOptions}>
-					{data.map((item) => (
-						<MarkerF key={item.id} position={{ lat: item.lat, lng: item.lon }} label={String(item.price)} />
+					{smth.map((item) => (
+						<MarkerF key={item.id} position={{ lat: item.lat, lng: item.lon }} label={(item.price / item.count).toFixed(0)} />
 					))}
 				</GoogleMap>
 			</MapProvider>

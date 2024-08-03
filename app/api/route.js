@@ -21,11 +21,14 @@ export async function GET(request) {
 	for (var i = 0; i < files.length; i++) {
 		var file = readFileSync(files[i], "utf8");
 		var data = JSON.parse(file);
+		var rating = Number(data.ratings.DINING.rating || data.ratings.DELIVERY.rating);
+		if (rating <= 0) continue;
 		for (var j = 0; j < data.items.length; j++) {
 			if (!data.items[j].name.toLowerCase().includes(query)) continue;
+			if (data.items[j].price <= 0) continue;
 			data.items[j].lat = Number(data.establishment.latitude);
 			data.items[j].lon = Number(data.establishment.longitude);
-			data.items[j].rating = Number(data.ratings.DINING.rating);
+			data.items[j].rating = rating;
 			results.push(data.items[j]);
 		}
 	}

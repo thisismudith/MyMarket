@@ -1,0 +1,24 @@
+.samples {
+	@apply grid grid-cols-4 gap-2
+	items-center;
+}
+
+.container {
+	@apply border border-[#e3ebf6] bg-white px-10 py-7 rounded-xl my-3;
+}
+
+.card {
+	@apply w-72 rounded-xl overflow-hidden pb-2	
+	border border-[#e3ebf6] bg-white;
+
+	img {
+		@apply w-full h-44 object-cover rounded-md;
+	}
+
+	h2 {
+		@apply font-bold truncate mx-3;
+	}
+	p {
+		@apply text-neutral-700 mx-3 font-semibold text-sm truncate;
+	}
+}

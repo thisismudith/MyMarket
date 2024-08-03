@@ -1,3 +1,4 @@
+'use strict'
 const styles = {
     default: [],
     silver: [
@@ -7,7 +8,7 @@ const styles = {
       },
       {
         elementType: "labels.icon",
-        stylers: [{ visibility: "off" }],
+        stylers: [{ visibility: "on" }],
       },
       {
         elementType: "labels.text.fill",
@@ -360,17 +361,137 @@ function initMap() {
         styles: styles["silver"],
     });
 
-    // map.
-
     const centerControlDiv = document.createElement("div");
     const centerControl = createCenterControl(map);
     centerControlDiv.appendChild(centerControl);
     map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(centerControlDiv);
-    var geoXml = new geoXML3.parser({map: map, suppressInfoWindows: true, zoom: false,});
+    // var geoXml = new geoXML3.parser({map: map, suppressInfoWindows: true, zoom: false,});
 
-    geoXml.parse("../assets/india_states.kml");
+    // geoXml.parse("../assets/india_states.kml");
 
 //   map.setOptions({ styles: styles["silver"] });
 }
 
-window.initMap = initMap;
+function restaurantMarkers() {
+    var restaurants = [[20, 80, "300"], [21, 81, "450"], [22, 82, "290"]];
+    restaurants.forEach(r => {
+        addMarkers(r[0], r[1], r[2]);
+    });
+}
+
+function addMarkers(lat, lng, title) {
+    var markerLabelSVG = `<svg xmlns="http://www.w3.org/2000/svg"><text x="0" y="12" class="svgpathpin" style="font-family:Arial; opacity:1; font-weight:700">${title}</text></svg>`;
+
+    var icon = {
+        url: "../assets/pizza.png", // url
+        scaledSize: new google.maps.Size(50, 50), // size
+        origin: new google.maps.Point(0,0), // origin
+        anchor: new google.maps.Point(0, 0) // anchor 
+    };
+    const marker = new google.maps.Marker({
+        position: { lat: lat, lng: lng},
+        map: map,
+        // icon: { url: 'data:image/svg+xml;charset=UTF-8;base64,' + btoa(markerLabelSVG), scaledSize: new google.maps.Size(40, 40) },
+        icon: icon,
+    });
+    return marker
+}
+
+function addCircle(latlng, radius){
+  latlng = {
+    lat: parseFloat(latlng[0]),
+    lng: parseFloat(latlng[1])
+  }
+  console.log(latlng)
+  const circle = new google.maps.Circle({
+    strokeColor: "#FF0000",
+    strokeOpacity: 0.8,
+    strokeWeight: 2,
+    fillColor: "#FF0000",
+    fillOpacity: 0.35,
+    map,
+    center: latlng,
+    radius: radius * 10000,
+  });
+return circle;
+}
+
+function generateRandomCoordinates(n = 100, seed = 42) {
+  const random = d3.randomNormal(seed);
+  const coordinates = Array.from({ length: n }, () => [random() * 0.5, random() * 0.5 + 60]);
+  return coordinates;
+}
+
+// Function to perform k-means clustering and return the centers of clusters
+function getCircleCenters(coordinates, radius) {
+  const n_clusters = Math.floor(coordinates.length / 10);
+
+  // K-means clustering function
+  function kmeans(data, k) {
+      const centroids = data.slice(0, k);
+      let assignments = new Array(data.length).fill(0);
+      let oldAssignments = new Array(data.length).fill(-1);
+
+      while (!arraysEqual(assignments, oldAssignments)) {
+          oldAssignments = assignments.slice();
+
+          // Assign points to centroids
+          data.forEach((point, i) => {
+              let minDist = Infinity;
+              centroids.forEach((centroid, j) => {
+                  const dist = measure(point[0], point[1], centroid[0], centroid[1]);
+                  if (dist < minDist) {
+                      minDist = dist;
+                      assignments[i] = j;
+                  }
+              });
+          });
+
+          // Recalculate centroids
+          centroids.forEach((_, j) => {
+              const assignedPoints = data.filter((_, i) => assignments[i] === j);
+              if (assignedPoints.length) {
+                  const mean = assignedPoints.reduce((acc, point) => [acc[0] + point[0], acc[1] + point[1]], [0, 0]);
+                  centroids[j] = [mean[0] / assignedPoints.length, mean[1] / assignedPoints.length];
+              }
+          });
+      }
+
+      return centroids;
+  }
+
+  // Helper functions
+  function measure(lat1, lon1, lat2, lon2){  // generally used geo measurement function
+    var R = 6378.137; // Radius of earth in KM
+    var dLat = lat2 * Math.PI / 180 - lat1 * Math.PI / 180;
+    var dLon = lon2 * Math.PI / 180 - lon1 * Math.PI / 180;
+    var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+    Math.sin(dLon/2) * Math.sin(dLon/2);
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+    var d = R * c;
+    console.log(Math.abs(d * 1000))
+    return Math.abs(d * 1000); // meters
+  }
+  // function euclideanDistance(a, b) {
+  //     return Math.sqrt((a[0] - b[0]) ** 2 + (a[1] - b[1]) ** 2);
+  // }
+
+  function arraysEqual(a, b) {
+      return JSON.stringify(a) === JSON.stringify(b);
+  }
+
+  return kmeans(coordinates, n_clusters);
+}
+
+function draw(){
+  coordinates.forEach(cord => {
+    addMarkers(cord[0], cord[1], "Hey");
+  })
+  centers.forEach(center => {
+    addCircle(center, 2);
+  })
+}
+
+// let coordinates = generateRandomCoordinates();
+// let centers = getCircleCenters(coordinates, 2);

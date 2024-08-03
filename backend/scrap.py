@@ -62,20 +62,20 @@ query = {
 
 url = 'https://www.swiggy.com/dapi/restaurants/list/v5?' + '&'.join([f"{key}={value}" for key, value in query.items()])
 _, initialData = request(url, common_headers)
-initialData = orjson.loads(initialData)
+responseData = orjson.loads(initialData)
 
-open('response-1.json', 'w', encoding='utf-8').write(orjson.dumps(initialData, option=orjson.OPT_INDENT_2).decode('utf-8'))
+open('response-1.json', 'w', encoding='utf-8').write(orjson.dumps(responseData, option=orjson.OPT_INDENT_2).decode('utf-8'))
 
 # Subsequent requests
 url = 'https://www.swiggy.com/dapi/restaurants/list/update'
 del query['offset']
-query['nextOffset'] = initialData['data']['pageOffset']['nextOffset']
-query['widgetOffset'] = initialData['data']['pageOffset']['widgetOffset']
-query['_csrf'] = initialData['csrfToken']
+query['nextOffset'] = responseData['data']['pageOffset']['nextOffset']
+query['widgetOffset'] = responseData['data']['pageOffset']['widgetOffset']
+query['_csrf'] = responseData['csrfToken']
 
 _, subsequentData = request(url, common_headers, orjson.dumps(query))
-subsequentData = orjson.loads(subsequentData)
+responseData = orjson.loads(subsequentData)
 
-open('response-2.json', 'w', encoding='utf-8').write(orjson.dumps(subsequentData, option=orjson.OPT_INDENT_2).decode('utf-8'))
+open('response-2.json', 'w', encoding='utf-8').write(orjson.dumps(responseData, option=orjson.OPT_INDENT_2).decode('utf-8'))
 
 # REPEAT the above code as many times as required!

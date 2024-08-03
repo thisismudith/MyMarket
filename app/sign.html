@@ -4,22 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <script type="module" href="scripts/firebase.js">
-      </script>
+    <script type="module" src="scripts/firebase.js"></script>
 
     <link rel="stylesheet" href="styles/globals.css">
     <link rel="stylesheet" href="styles/animations.css">
     <link rel="stylesheet" href="styles/sign.css">
     <title>MyMarket</title>
 </head>
-<body>
+<body onload="console.log(emailExists('da'))">
     <div class="signing">
         <h1>Sign Up</h1>
         <p>Already have an account? <span style="text-decoration: underline; cursor: pointer;" onclick="toggle(this, 1)">Sign in</span></p>
         <div>
             <input type="text" placeholder="Your Name" id="name">
-            <input type="email" placeholder="Email">
-            <input type="password" placeholder="Password">
+            <input type="email" placeholder="Email" id="email">
+            <input type="password" placeholder="Password" id="password">
             <input type="password" placeholder="Confirm Password" id="confirm">
 			<div class="hidden-toggles">
                 <input type="radio" id="user" name="type" value="user" class="hidden-toggles__input" checked>
@@ -32,7 +31,7 @@
                 <label for="chef" class="hidden-toggles__label">Chef</label>
 			</div>
         </div>
-        <button class="sign-btn">Sign Up</button>
+        <button class="sign-btn" onclick="signUp()">Sign Up</button>
     </div>
 
     </form>
@@ -41,6 +40,7 @@
             if (num == 1) {
                 document.querySelector(".signing h1").innerText = "Sign In";
                 document.querySelector(".sign-btn").innerText = "Sign In";
+                doucment.querySelector(".sign-btn").setAttribute("onclick", "signUp()");
                 document.getElementById("name").style.display = "none";
                 document.getElementById("confirm").style.display = "none";
                 document.querySelector(".hidden-toggles").style.display = "none";
@@ -48,13 +48,14 @@
             } else {
                 document.querySelector(".signing h1").innerText = "Sign Up";
                 document.querySelector(".sign-btn").innerText = "Sign Up";
+                doucment.querySelector(".sign-btn").setAttribute("onclick", "signIn()");
                 document.getElementById("name").style.display = "inline-block";
                 document.getElementById("confirm").style.display = "inline-block";
                 document.querySelector(".hidden-toggles").style.display = "flex";
                 elm.parentElement.innerHTML = "Already have an account? <span style=\"text-decoration: underline; cursor: pointer;\" onclick=\"toggle(this, 1)\">Sign in</span>";
             }
         }
-        // const user = doc(db, "cities", )
+
     </script>
 </body>
 </html>

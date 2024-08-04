@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Icon } from "@iconify/react";
+import Image from "next/image";
 
 export default function SearchBox() {
 	const cities = ["Surat", "Mumbai", "Delhi", "Bangalore", "Chennai", "Kolkata", "Hyderabad", "Ahmedabad"];
@@ -34,3 +35,24 @@ export default function SearchBox() {
 		</div>
 	);
 }
+
+function SignUps() {
+	if (localStorage.getItem("signedIn"))
+		return (
+			<div className="middle">
+				<Image src="https://mighty.tools/mockmind-api/content/cartoon/31.jpg" width={30} height={30} className="rounded-full" />
+				<span className="cursor-pointer">Sign Out</span>
+			</div>
+		);
+
+	return (
+		<div className="middle">
+			<Icon icon="iconamoon:enter" width="1.2em" height="1.2em" />
+			<a className="SignUp" href="/signup">
+				Sign up
+			</a>
+		</div>
+	);
+}
+
+export { SignUps };

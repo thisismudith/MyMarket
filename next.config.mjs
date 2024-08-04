@@ -12,6 +12,11 @@ const nextConfig = {
 				hostname: "b.zmtcdn.com",
 				port: "",
 			},
+			{
+				protocol: "https",
+				hostname: "mighty.tools",
+				port: "",
+			},
 		],
 	},
 };

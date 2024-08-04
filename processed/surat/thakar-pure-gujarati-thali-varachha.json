@@ -1,0 +1,314 @@
+{
+  "basicInfo": {
+    "name": "Thakar Pure Gujarati Thali",
+    "cuisine_string": "Gujarati",
+    "canonicalUrl": "https://www.zomato.com/surat/thakar-pure-gujarati-thali-varachha/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "4",
+      "reviewTextSmall": "4 Reviews",
+      "subtext": "4 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.7",
+      "reviewCount": "81",
+      "reviewTextSmall": "81 Reviews",
+      "subtext": "81 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.7",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395006",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Varachha, Surat",
+    "latitude": "21.2096542067",
+    "longitude": "72.8487914801",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2096542067,72.8487914801&maptype=zomato&markers=21.2096542067,72.8487914801,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 5, Vrundavan, Diamond Center, Varachha, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917490060073"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Gujarati Thali",
+      "description": "2 Sabji+5 Roti+Dal Rice+Salad+1 Sweet+Buttermilk [Subject to Availability]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4a3/18fb35b6c90cabfacc6ba162df60d4a3.png",
+      "price": 151,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "category-thali",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "category-thali",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gujrati Small Thali",
+      "description": "1 Sabji+4 Roti+Chaach+Salad [Subject to Availability]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1a6/644141b04d9f4a1e851e2ad9e18971a6.png",
+      "price": 98,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sabji Paratha Thali",
+      "description": "1 Sabji - 4 Paratha - Salad - Chhash",
+      "media": null,
+      "price": 119,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Tiffin",
+      "description": "1 Sweet+2 Sabji+Dal Rice+Papad+Pickle+6 Roti+Butter Milk [Subject to Availability]",
+      "media": null,
+      "price": 200,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f9f/9db48161815b12a01310bebdfed76f9f.png",
+      "price": 15,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fc3/3d1a1d025d055b78d83fd09a04077fc3.png",
+      "price": 12,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rotlo",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Bhakhri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/797/5d54b057e2cfb1687613fc12b2189797.png",
+      "price": 30,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paratha",
+      "description": "4 Pcs",
+      "media": null,
+      "price": 49,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gulab Jamun [3 Pieces]",
+      "description": "Gulab jamun.",
+      "media": null,
+      "price": 50,
+      "menuName": "Sweet",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "category-slab-1",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "category-slab-1",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gujrati Dal",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4c1/ffc74322a91969138d9f6d4b22f8b4c1.png",
+      "price": 35,
+      "menuName": "Dal & Rice",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b42/fe478a6ab3d399ef8080d7d161184b42.jpg",
+      "price": 35,
+      "menuName": "Dal & Rice",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papad",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Buttermilk",
+      "description": "",
+      "media": null,
+      "price": 15,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1418 @@
+{
+  "basicInfo": {
+    "name": "Famous Chinese Cuisine",
+    "cuisine_string": "Chinese, North Indian",
+    "canonicalUrl": "https://www.zomato.com/surat/famous-chinese-cuisine-chowk-bazaar/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.1",
+      "reviewCount": "287",
+      "reviewTextSmall": "287 Reviews",
+      "subtext": "287 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.1",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "9,346",
+      "reviewTextSmall": "9,346 Reviews",
+      "subtext": "9,346 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Chowk Bazaar, Surat",
+    "latitude": "21.1993188675",
+    "longitude": "72.8214285895",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1993188675,72.8214285895&maptype=zomato&markers=21.1993188675,72.8214285895,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Zam Zam Palace, Nanavat Main Road, Chowk Bazaar, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919574716666"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Special Chicken Combo",
+      "description": "Oyster chilli dry + Chiken chilli gravy+  Chicken fried rice full  +Hakka noodles + Special Salad",
+      "media": null,
+      "price": 599,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Meal For 1 - Chicken Chilli Gravy + Chicken fried Rice + Special salad",
+      "description": "Chicken Chilli Gravy + Chicken fried Rice + Special salad",
+      "media": null,
+      "price": 160,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Meal For 1 - Veg Manchurian gravy +Veg fried rice + Special salad",
+      "description": "Veg Manchurian gravy +Veg fried rice + Special salad",
+      "media": null,
+      "price": 135,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Combo",
+      "description": "Oyster chilli dry + Chiken chilli gravy+  Chicken fried rice full  +Hakka noodles + Special Salad",
+      "media": null,
+      "price": 599,
+      "menuName": "Zomato Express Meals Special Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "non-veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Meal For 1 - Chicken Chilli Gravy + Chicken fried Rice + Special salad",
+      "description": "Chicken Chilli Gravy + Chicken fried Rice + Special salad",
+      "media": null,
+      "price": 160,
+      "menuName": "Zomato Express Meals Special Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "non-veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Meal For 1 - Veg Manchurian gravy +Veg fried rice + Special salad",
+      "description": "Veg Manchurian gravy +Veg fried rice + Special salad",
+      "media": null,
+      "price": 135,
+      "menuName": "Zomato Express Meals Special Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Dragon Soup",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Soups",
+      "categoryName": "Chicken Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Soups",
+      "categoryName": "Chicken Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hot and Sour Soup",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Soups",
+      "categoryName": "Chicken Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Barbeque",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hakka Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Apple Lollipop",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lollipop Oil Fry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lollipop Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6fe/c4a6deb10b2e8ba32501bac7fd9246fe.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Oyester Chilli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6f5/b80149ff167d19fe4252797e22d546f5.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pepri Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Salted and Pepper Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Black Bean Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burn Chilli Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4d1/eb083ccfb8b2cdfdcd9366e9262b34d1.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maska Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6f2/67ae9df5b2218fdc958ea6fcacb976f2.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Phai Spicy Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hunan Chilli",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "King Kong Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Arabian Roll",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/abb/f70b0fd77a130c5ad6914e1b9e35eabb.jpg",
+      "price": 130,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Golden Fry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Crunchy Tukda",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "New Introductions - Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kurkure dry",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "New Introductions - Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Green Chilli Dry",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "New Introductions - Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Roll",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Starters",
+      "categoryName": "New Introductions - Chicken Starters",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Golden Leg",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Tandoor",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hawkers Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chicken Main Course",
+      "categoryName": "Chicken Chinese Gravy",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sliced Chicken on Oyster Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chicken Main Course",
+      "categoryName": "Chicken Chinese Gravy",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Diced Chicken in Soya Coriander Sauce",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chicken Main Course",
+      "categoryName": "Chicken Chinese Gravy",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hunan Chicken Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chicken Main Course",
+      "categoryName": "Chicken Chinese Gravy",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilly Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chicken Main Course",
+      "categoryName": "Chicken Chinese Gravy",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burnt Chicken Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chicken Main Course",
+      "categoryName": "Chicken Chinese Gravy",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Black Bean Chicken Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chicken Main Course",
+      "categoryName": "Chicken Chinese Gravy",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Barbeque Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chicken Main Course",
+      "categoryName": "Chicken Chinese Gravy",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/56f/0da8f07f9f656694c9426c2d7e14356f.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hong Kong Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Bamboo Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Triple Schezwan Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1cf/162fca98f8f95e3fd5db9adf2c0b11cf.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "rice",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "rice",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hunan Chilli Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Pepper Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "rice",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Chicken Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Noodles",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Garlic Chicken Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Noodles",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "noodle",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "noodle",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hunan Chilli Chicken Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Noodles",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Black Bean Chilli Chicken Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Noodles",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "noodle",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "noodle",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Barbeque Chicken Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Noodles",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "noodle",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "noodle",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e47/acd66b0857498b47be351b16abe58e47.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Soya Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Singapuri Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Schezwan Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dcc/9396e1acfeb4c9a57fdfdd4d3ae0cdcc.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "rice",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "rice",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Bunt Garlic Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "rice",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chilli Garlic Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "rice",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hong Kong Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chilli Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "rice",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Bamboo Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Triple Schezwan Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1cf/162fca98f8f95e3fd5db9adf2c0b11cf.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "rice",
+        "hero-item",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "rice",
+        "hero-item",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hu Nan Chili Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "rice",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paper Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "rice",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "rice",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "BBQ Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Black Bean Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Oyster Chili Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mongolian Pot Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/187/a98c585936590ee4d69750b22b10f187.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hakka Pot Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "rice",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Crispy Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f8/49752ddf34c572e4b6993224301049f8.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chicken Fried Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Famous Special Rice",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "New Items",
+      "slugs": [
+        "non-veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pot Noodles",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "New Items",
+      "slugs": [
+        "non-veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

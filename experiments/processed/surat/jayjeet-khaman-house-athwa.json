@@ -1,0 +1,871 @@
+{
+  "basicInfo": {
+    "name": "Jayjeet Khaman House",
+    "cuisine_string": "North Indian, Street Food",
+    "canonicalUrl": "https://www.zomato.com/surat/jayjeet-khaman-house-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.6",
+      "reviewCount": "18",
+      "reviewTextSmall": "18 Reviews",
+      "subtext": "18 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.6",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.5",
+      "reviewCount": "320",
+      "reviewTextSmall": "320 Reviews",
+      "subtext": "320 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.5",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "800"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.2010870000",
+    "longitude": "72.8338170000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2010870000,72.8338170000&maptype=zomato&markers=21.2010870000,72.8338170000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Mahidharpura, Vaniya Sheri Corner, Opposite Bank Of Baroda, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919725225111"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Overloaded Butter Locho [400 grams]",
+      "description": "Your favorite Butter Locho now overloaded with Extra Locho",
+      "media": null,
+      "price": 110,
+      "menuName": "Zomato Overloaded",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Overloaded Singtel Locho [400 grams]",
+      "description": "Your favorite Shingtel Locho now overloaded with Extra Locho",
+      "media": null,
+      "price": 70,
+      "menuName": "Zomato Overloaded",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sado Locho[250gm]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/664/01b2f09d127aefdf37661a67fdf6d664.jpg",
+      "price": 35,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sado Locho[500gm]",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sado Locho[1 Kg]",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shingtel Locho [250 grams]",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shingtel Locho[[500gm]",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shingtel Locho[1Kg]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Locho [250 grams]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bac/b3952f1f9ca53a3f445f09e1d3997bac.jpg",
+      "price": 60,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Locho[500gm]",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Locho[1kg]",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Locho[250gm]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/916/5f52cc813709fa1185e2d2eca4af7916.jpg",
+      "price": 75,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Locho[500gm]",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Locho[1kg]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman[250gm]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d36/b467a2bb6e927ca7679f376f33a2dd36.jpg",
+      "price": 50,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman[500gm]",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman[1Kg]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Special Amiri Khamani",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Special Amiri Khamani [500gm]",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Special Amiri Khamani[1 Kg]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nylon Khaman",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5c6/8d8320ece86d0c00c50f1092d81865c6.jpg",
+      "price": 40,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nylon Khaman[500gm]",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nylon Khaman [1Kg]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Patudi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3b9/2ce34909d901d2e5e5bf12dc453783b9.jpg",
+      "price": 40,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Patudi[500gm]",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idada [250gm]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50c/a8246286505ff4df08465c34bb9ec50c.jpg",
+      "price": 40,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idada[500gm]",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idada[1Kg]",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Dal and Onion Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bcf/ae8fa41ac752e5627a15ee2aa1960bcf.jpg",
+      "price": 60,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Dal and Onion Samosa [500gm]",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Dal and Onion Samosa[1Kg]",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Patty",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Patra",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7c8/e4e355c3ba90aeb4b92e3c9b576e67c8.jpg",
+      "price": 0,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Khaman",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1fc/741a11526f99fe1b3be50d2aa72b71fc.jpg",
+      "price": 0,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Idada",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1fe/67f855cb17a8c00889df2348c5e1e1fe.jpg",
+      "price": 0,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Locho Khira Batter",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idada Khira Batter",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal and Onion Samosa [Without Fry]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Savouries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev [150 grams]",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-sides",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-sides",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chutney [4 Packets]",
+      "description": "",
+      "media": null,
+      "price": 10,
+      "menuName": "Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-sides",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-sides",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jalebi",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Sweet",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "navratri-special",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "navratri-special",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Water [500 ml]",
+      "description": "",
+      "media": null,
+      "price": 12,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chaas [200 ml]",
+      "description": "",
+      "media": null,
+      "price": 10,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "basicInfo": {
+    "name": "Jay Jalaram Khaman",
+    "cuisine_string": "Gujarati",
+    "canonicalUrl": "https://www.zomato.com/surat/jay-jalaram-khaman-palanpore/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "2.2",
+      "reviewCount": "5",
+      "reviewTextSmall": "5 Reviews",
+      "subtext": "5 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "2.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "orange",
+        "tint": "300"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.7",
+      "reviewCount": "6,062",
+      "reviewTextSmall": "6,062 Reviews",
+      "subtext": "6,062 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.7",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Palanpore, Surat",
+    "latitude": "21.2090978391",
+    "longitude": "72.7776784077",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2090978391,72.7776784077&maptype=zomato&markers=21.2090978391,72.7776784077,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 1, Plot 5, Ground Floor, Darshan Society, Near Jalaram Temple, Palanpore, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919879655079"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Cheese Paneer Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e64/333baec14be8df40c5d53af0bbfcfe64.jpg",
+      "price": 0,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Samosa [1 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3c1/442f4a862ff4c85340b8af1db80a63c1.jpg",
+      "price": 28,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "new",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "new",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Idadda",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d8d/c0e4cc16898ff699d875741484326d8d.jpg",
+      "price": 0,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/068/855e92b6861f5d2eb36490bb2a38c068.jpg",
+      "price": 0,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5aa/ae4e5f5bec67ad1828fb20dd517425aa.jpg",
+      "price": 0,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/535/edc89efd31b330bfdf105d3be0466535.jpg",
+      "price": 0,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Farsan",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papdi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/70c/2f8ac544ad4cab7987c40e6f0e1e370c.jpg",
+      "price": 0,
+      "menuName": "Farsan",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Surti Bhusu",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Farsan",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mora Gathiya",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Farsan",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bhavnagari Gathiya",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Farsan",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jada Mora Gathiya",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Farsan",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Idadda",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a57/2fa383f2c43c0bdeed4f65a89fcfda57.jpg",
+      "price": 0,
+      "menuName": "Idada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Idadda",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/139/bb6b77414d4c211eb85b73275c6f8139.jpg",
+      "price": 0,
+      "menuName": "Idada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "hero-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Idadda",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Idada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Samosa [1 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3c1/442f4a862ff4c85340b8af1db80a63c1.jpg",
+      "price": 28,
+      "menuName": "Samosa and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "new",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "new",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fry Dal Samosa [Non Jain]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/633/e7dd6b054a6148241e34481af89b3633.jpg",
+      "price": 0,
+      "menuName": "Samosa and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e64/333baec14be8df40c5d53af0bbfcfe64.jpg",
+      "price": 0,
+      "menuName": "Samosa and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Samosa",
+      "description": "[Non Jain]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f55/fb3abc226873933aec519e714a34ef55.jpg",
+      "price": 0,
+      "menuName": "Samosa and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fafda",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/86b/3fb5822de6e023773665fde6a8c7486b.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "hero-item",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "hero-item",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Batata Puri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8c1/8daed76d3dda7b2c12109bf52bb1a8c1.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Methi Gota",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d52/7993680ff31b07761bfe75b2a336fd52.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Bhajiya",
+      "description": "Batata puri+Methi Gota+Samosa's+Petis+Dalvada",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f49/5f9db4d0e5abf9b6333546c1f25bcf49.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jalebi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/541/b6759898226e54f5e4287c16287db541.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "hero-item",
+        "navratri-special",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "hero-item",
+        "navratri-special",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bafela Patra",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Patra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Patra",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a21/fc286345331b981cdddf64e78fdfca21.jpg",
+      "price": 0,
+      "menuName": "Patra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Butter Milk [200 ml]",
+      "description": "",
+      "media": null,
+      "price": 25,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-desserts",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-desserts",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4a0/ae2a5fb1b80a19482ee0a8483bcac4a0.jpg",
+      "price": 0,
+      "menuName": "Khaman",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nylon Khaman",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Khaman",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Khaman",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b4/5ec7f1ef4f6368af69315fe44ee4b8b4.jpg",
+      "price": 0,
+      "menuName": "Khaman",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev Khamani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f9/fd3b46b7164fc59eae3ee62d596069f9.jpg",
+      "price": 0,
+      "menuName": "Khaman",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fafda",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/86b/3fb5822de6e023773665fde6a8c7486b.jpg",
+      "price": 0,
+      "menuName": "Dussehra Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Jalebi",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Dussehra Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    }
+  ]
+}

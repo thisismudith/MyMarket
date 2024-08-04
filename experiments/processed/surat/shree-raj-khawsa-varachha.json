@@ -1,0 +1,473 @@
+{
+  "basicInfo": {
+    "name": "Shree Raj Khawsa",
+    "cuisine_string": "Street Food",
+    "canonicalUrl": "https://www.zomato.com/surat/shree-raj-khawsa-varachha/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "53",
+      "reviewTextSmall": "53 Reviews",
+      "subtext": "53 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.3",
+      "reviewCount": "639",
+      "reviewTextSmall": "639 Reviews",
+      "subtext": "639 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.3",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Varachha, Surat",
+    "latitude": "21.1938897506",
+    "longitude": "72.8618410975",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1938897506,72.8618410975&maptype=zomato&markers=21.1938897506,72.8618410975,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "21, Janta Bazaar, Parvat Patiya, Aai Mata Road, Varachha, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919978836655, +919727018471"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Sada Khwasa",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Khwasa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Khwasa",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Khwasa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Soup [500 ml]",
+      "description": "",
+      "media": null,
+      "price": 10,
+      "menuName": "Khwasa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Soup [1 Litre]",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Khwasa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Chatani",
+      "description": "",
+      "media": null,
+      "price": 10,
+      "menuName": "Khwasa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sadi Papdi",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papdi Chaat",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papdi Churan",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Papdi Chaat",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Papdi Churan",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sadi Maggi",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Maggi",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Maggi",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Vegetable Maggi",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Vegetable Maggi",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Vegetable Maggi",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Pasta",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Pasta",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Pasta",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

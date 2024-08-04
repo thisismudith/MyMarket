@@ -1,0 +1,428 @@
+{
+  "basicInfo": {
+    "name": "Tawakal Biryani Center",
+    "cuisine_string": "North Indian, Lebanese, Roast Chicken",
+    "canonicalUrl": "https://www.zomato.com/surat/tawakal-biryani-center-chowk-bazaar/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.0",
+      "reviewCount": "22",
+      "reviewTextSmall": "22 Reviews",
+      "subtext": "22 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "1,271",
+      "reviewTextSmall": "1,271 Reviews",
+      "subtext": "1,271 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395003",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Chowk Bazaar, Surat",
+    "latitude": "21.1960035288",
+    "longitude": "72.8203808516",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1960035288,72.8203808516&maptype=zomato&markers=21.1960035288,72.8203808516,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "10/2269, Zaveri Mension, Soni Faliya, Chowk Bazaar, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919978613786"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Special Chicken Dum Biryani",
+      "description": "Richly flavored aromatic rice and marinated chicken cooked in dum style in a flavored masala; accompanied by raita.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3da/6fa9d24f1317036ce0d9b1bd7de913da.jpg",
+      "price": 0,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Red Chicken with Chicken 65 [250 grams]",
+      "description": "Red Chicken [A delightfully flavor-packed combo of mouthwatering red chicken]+Chicken 65+Chutney",
+      "media": null,
+      "price": 549,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "combo-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tangdi with Chicken Lollipop",
+      "description": "A flavour packed combo of chicken tangdi kebab with bone and a hot and spicy appetizer made with drummettes/whole chicken wings.",
+      "media": null,
+      "price": 579,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "combo-item",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "combo-item",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Boneless with Chicken Kaleji",
+      "description": "",
+      "media": null,
+      "price": 459,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "combo-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken 65 [250 grams]",
+      "description": "Succulent chicken chunks dipped in a seasoned batter and fried to golden perfection served with a dip.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fa3/758553738cc5ba6681f35ccc6617ffa3.jpg",
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Red Chicken",
+      "description": "Spicy red coconut milk gravy with protein rich chicken.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ac5/373323d0b13022ec9f758ac6019f5ac5.jpg",
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "reco-snacks",
+        "hero-item",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "reco-snacks",
+        "hero-item",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Green Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a94/9a758a960db6189aee3d7fbd8a99aa94.jpg",
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Leg Fry",
+      "description": "Cooked on the stovetop by marinating the chicken drumsticks in some spices.",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chest Fry",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tangdi",
+      "description": "A flavour packed combo of chicken tangdi with curd and herbs marinated over it.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e4f/e578ac2ba1db85f6067cc3e6d96a8e4f.jpg",
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lollipop",
+      "description": "A hot and spicy appetizer made with drummettes or whole chicken wings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a8/b2dc6d588b07ca071f740cf7349c65a8.jpg",
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Boneless",
+      "description": "Chunks of grilled chicken [tandoori chicken] cooked in a smooth buttery and creamy tomato based gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2cc/52fca2a047562834b05902caad4c72cc.jpg",
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Khaleji",
+      "description": "Made with chicken liver. A little something different from traditional curry recipes.",
+      "media": null,
+      "price": 135,
+      "menuName": "Starters",
+      "categoryName": "Roasted Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Leg Piece",
+      "description": "A chicken leg or drumstick kabab made by marinating the leg pieces in spiced yoghurt based marination.",
+      "media": null,
+      "price": 245,
+      "menuName": "Starters",
+      "categoryName": "Roasted Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Roasted [7 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Roasted Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "bestseller-dinner",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Cheese Leg",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Starters",
+      "categoryName": "Roasted Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Cheese Tikka [8 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Starters",
+      "categoryName": "Roasted Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Satpuda",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Starters",
+      "categoryName": "Roasted Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

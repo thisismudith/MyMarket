@@ -1,0 +1,542 @@
+{
+  "basicInfo": {
+    "name": "Gurung Momos",
+    "cuisine_string": "Momos",
+    "canonicalUrl": "https://www.zomato.com/surat/gurung-momos-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.3",
+      "reviewCount": "22",
+      "reviewTextSmall": "22 Reviews",
+      "subtext": "22 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.3",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.5",
+      "reviewCount": "890",
+      "reviewTextSmall": "890 Reviews",
+      "subtext": "890 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.5",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "800"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.2029604653",
+    "longitude": "72.7941562235",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2029604653,72.7941562235&maptype=zomato&markers=21.2029604653,72.7941562235,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "L-15, Golden Park Society, Anand Mahal Road, Opposite Prime Arcade, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917490979808"
+    },
+    "res_chain_text": "See all 2 Gurung Momos outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/gurung-momos",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Steamed Veg Momos",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3e7/c94554912326d3719dd33fc0cfaac3e7.jpg",
+      "price": 99,
+      "menuName": "Steamed and Fried Momos",
+      "categoryName": "Steamed Momos",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Paneer Momos",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fac/6de99c78177a1f02cbfdee4aa1de3fac.jpg",
+      "price": 109,
+      "menuName": "Steamed and Fried Momos",
+      "categoryName": "Steamed Momos",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilli Steamed Momos",
+      "description": "",
+      "media": null,
+      "price": 119,
+      "menuName": "Steamed and Fried Momos",
+      "categoryName": "Steamed Momos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Momos",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/496/fb7e1f082d949c26940f08ebadcc0496.jpg",
+      "price": 109,
+      "menuName": "Steamed and Fried Momos",
+      "categoryName": "Fried Momos",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Fried Momos",
+      "description": "",
+      "media": null,
+      "price": 119,
+      "menuName": "Steamed and Fried Momos",
+      "categoryName": "Fried Momos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilli Fried Momos",
+      "description": "",
+      "media": null,
+      "price": 129,
+      "menuName": "Steamed and Fried Momos",
+      "categoryName": "Fried Momos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Sauce Momos",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4c8/dd5c36353ed04e5d8ac8b756c98094c8.jpg",
+      "price": 149,
+      "menuName": "Schezwan Sauce Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Schezwan Sauce Momos",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a70/a6747720034ca0c15236101a22dc0a70.jpg",
+      "price": 159,
+      "menuName": "Schezwan Sauce Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Schezwan Sauce Momos",
+      "description": "",
+      "media": null,
+      "price": 169,
+      "menuName": "Schezwan Sauce Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Jain Momos",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Jain Momos Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Jain Momos",
+      "description": "",
+      "media": null,
+      "price": 109,
+      "menuName": "Jain Momos Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Jain Momos",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Jain Momos Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Solty Cheese Jain Momos",
+      "description": "",
+      "media": null,
+      "price": 169,
+      "menuName": "Jain Momos Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Creamy Sauce Momos",
+      "description": "",
+      "media": null,
+      "price": 139,
+      "menuName": "Jain Momos Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Solty Momos",
+      "description": "",
+      "media": null,
+      "price": 169,
+      "menuName": "Solty Cheese Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Solty Momos",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Solty Cheese Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Solty Momos",
+      "description": "",
+      "media": null,
+      "price": 189,
+      "menuName": "Solty Cheese Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Creamy Sauce Momos",
+      "description": "",
+      "media": null,
+      "price": 139,
+      "menuName": "Creamy Sauce Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Creamy Sauce Momos",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Creamy Sauce Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Creamy Sauce Momos",
+      "description": "",
+      "media": null,
+      "price": 159,
+      "menuName": "Creamy Sauce Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Kurkure Momos",
+      "description": "",
+      "media": null,
+      "price": 159,
+      "menuName": "Kurkure Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kurkure Momos",
+      "description": "",
+      "media": null,
+      "price": 169,
+      "menuName": "Kurkure Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Kurkure Momos",
+      "description": "",
+      "media": null,
+      "price": 169,
+      "menuName": "Kurkure Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Soup",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Extra Add On",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "basicInfo": {
+    "name": "Sardarji Ka Dhaba",
+    "cuisine_string": "North Indian",
+    "canonicalUrl": "https://www.zomato.com/surat/sardarji-ka-dhaba-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "22",
+      "reviewTextSmall": "22 Reviews",
+      "subtext": "22 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "195",
+      "reviewTextSmall": "195 Reviews",
+      "subtext": "195 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1703341764",
+    "longitude": "72.8181814402",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1703341764,72.8181814402&maptype=zomato&markers=21.1703341764,72.8181814402,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "13, Kapadia Health Club Street, Madhav Baug Society, Janta Nagar, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919824130134"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Butter Tandoori Roti",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lachha Paratha",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a45/b2f5ac4d322e78adaa36fd8c802e1a45.jpg",
+      "price": 40,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Stuffed Naan",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Pyaz Paratha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f65/496e156de8af35dbf489791f2a940f65.png",
+      "price": 50,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gehu Ki Roti",
+      "description": "Gehu wali roti made in tandoor",
+      "media": null,
+      "price": 18,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paratha",
+      "description": "Pratha stuffed with cheese and Indian spices",
+      "media": null,
+      "price": 120,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Paratha",
+      "description": "Gehu ki roti with full of garlic on the top",
+      "media": null,
+      "price": 110,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Rice fried with Indian spice jeera",
+      "media": null,
+      "price": 139,
+      "menuName": "Rice And Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pulao Rice",
+      "description": "Rice fried with green veges",
+      "media": null,
+      "price": 179,
+      "menuName": "Rice And Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Biryani",
+      "description": "Fried vegetables with rice and steam cooled slowly",
+      "media": null,
+      "price": 179,
+      "menuName": "Rice And Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hyderabadi Biryani",
+      "description": "Green veges steamed with rice and paneer",
+      "media": null,
+      "price": 199,
+      "menuName": "Rice And Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shahi Biryani",
+      "description": "Green veges steamed with rice and paneer some cashew with pure Indian taste",
+      "media": null,
+      "price": 249,
+      "menuName": "Rice And Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

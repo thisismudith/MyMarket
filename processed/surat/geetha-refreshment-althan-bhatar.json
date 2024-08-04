@@ -1,0 +1,2118 @@
+{
+  "basicInfo": {
+    "name": "Geetha Refreshment",
+    "cuisine_string": "North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/geetha-refreshment-althan-bhatar/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.1",
+      "reviewCount": "503",
+      "reviewTextSmall": "503 Reviews",
+      "subtext": "503 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.1",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.1",
+      "reviewCount": "18.1K",
+      "reviewTextSmall": "18.1K Reviews",
+      "subtext": "18.1K Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Althan Bhatar, Surat",
+    "latitude": "21.1644009241",
+    "longitude": "72.8123905510",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1644009241,72.8123905510&maptype=zomato&markers=21.1644009241,72.8123905510,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Silver Point, Bhatar Ram Chowk Road, Near Vidya Bharathi School, Althan Bhatar, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+912612231923, +912612233096"
+    },
+    "res_chain_text": "See all 4 Geetha Refreshment outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/geetha-restaurant",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Idli",
+      "description": "2 Idli",
+      "media": "https://b.zmtcdn.com/data/dish_photos/127/db0061c43300a82e492f993c75e6a127.jpg",
+      "price": 95,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wada",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/885/d5d2c243b72493557f6b813b37ce6885.jpg",
+      "price": 105,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idli/Wada",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idli Fry",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/559/1dceb757ac4ed9ff94edc9f05983d559.jpg",
+      "price": 105,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cutlet",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dhai Idli",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dhai Wada",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3bb/a753b5d36e1dcff4a4b747fa023ab3bb.jpg",
+      "price": 125,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Finger Chips",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/03d/d863248ffaa4de348e5683b5bbaeb03d.jpg",
+      "price": 112,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Sada",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c86/741c3bf292d3b2ebf94b528a322a4c86.jpg",
+      "price": 125,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be3/b8a88e55035867c475b0c4ae2a4cebe3.jpg",
+      "price": 130,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/233/3a7bd47a9c4724496523d6c8a9c1d233.jpg",
+      "price": 150,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Sada",
+      "description": "",
+      "media": null,
+      "price": 131,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Rava Sada",
+      "description": "",
+      "media": null,
+      "price": 138,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Masala",
+      "description": "",
+      "media": null,
+      "price": 144,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Rava Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/43b/cbed1664c3f60e78eee3aa03eee2c43b.jpg",
+      "price": 156,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Dosa",
+      "description": "",
+      "media": null,
+      "price": 143,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Paneer Dosa",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spring Dosa",
+      "description": "",
+      "media": null,
+      "price": 168,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paper Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 312,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paper Masala",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp. Masala Dosa",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Dosa",
+      "categoryName": "Dosa - Variety",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Uttappa",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Uttappa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Uttappa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a1b/4c29d3bf435042cac5da4044ce382a1b.jpg",
+      "price": 130,
+      "menuName": "Uttappa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Uttappa",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Uttappa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coconut Uttappa",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Uttappa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Uttappa",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Uttappa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Onion Uttappa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/017/2925f86e13c2e163f06a68ef3bca4017.jpg",
+      "price": 135,
+      "menuName": "Uttappa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Masala Uttappa",
+      "description": "",
+      "media": null,
+      "price": 135,
+      "menuName": "Uttappa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/400/5135b7f1874a045e5e8885c5159b4400.jpg",
+      "price": 100,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chutney Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jam Sandwich",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 137,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/95b/a4574c03a6089fc725fcd17d540b095b.jpg",
+      "price": 150,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Club Sandwich",
+      "description": "",
+      "media": null,
+      "price": 162,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Toast",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Jam",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Cheese Grill Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cf2/bd91a9ab639afaf4c9a4803dd11cecf2.jpg",
+      "price": 170,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Grill Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6bf/76b573c67cf0d343f4e5bd34c886c6bf.jpg",
+      "price": 185,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Geetha Sp. Grill Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1bb/2ce199889207977c786b34b27a3541bb.jpg",
+      "price": 200,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pahadi Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Corn Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilly Chees Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 168,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pahadi Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 218,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilly Toast",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9bc/cf74ff0bc5d3a3e89eb45700312ca9bc.jpg",
+      "price": 162,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Capsicum Pizza",
+      "description": "",
+      "media": null,
+      "price": 162,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza",
+      "description": "",
+      "media": null,
+      "price": 181,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Pizza",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Pizza",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Pizza",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9db/24f413e77732b0fb26f5b6a5509e19db.jpg",
+      "price": 187,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Pizza",
+      "description": "",
+      "media": null,
+      "price": 181,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Geetha Sp. Pizza",
+      "description": "",
+      "media": null,
+      "price": 206,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Pizza",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Pizza",
+      "description": "",
+      "media": null,
+      "price": 187,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Continental Pizza",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Pizza",
+      "description": "",
+      "media": null,
+      "price": 181,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "",
+      "media": null,
+      "price": 193,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Rolls & Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 137,
+      "menuName": "Rolls & Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Salad",
+      "description": "",
+      "media": null,
+      "price": 81,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Salad",
+      "description": "",
+      "media": null,
+      "price": 68,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Salad",
+      "description": "",
+      "media": null,
+      "price": 37,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kachumber Salad",
+      "description": "",
+      "media": null,
+      "price": 81,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Dhai",
+      "description": "",
+      "media": null,
+      "price": 81,
+      "menuName": "Raitas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato Raita",
+      "description": "",
+      "media": null,
+      "price": 93,
+      "menuName": "Raitas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Boondi Raita",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Raitas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Raita",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Raitas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Raita",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f15/0105786c234929abd7625ade18c9bf15.jpg",
+      "price": 93,
+      "menuName": "Raitas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gulab Jamun",
+      "description": "",
+      "media": null,
+      "price": 85,
+      "menuName": "Sweet",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "category-slab-1",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "category-slab-1",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mineral Water",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/454/f907942037f06ce784d98a973285b454.jpg",
+      "price": 33,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chikoo Shake",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Milk Shake",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Mango Shake",
+      "description": "",
+      "media": null,
+      "price": 181,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Anjeer",
+      "description": "",
+      "media": null,
+      "price": 187,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Draksh",
+      "description": "",
+      "media": null,
+      "price": 193,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Badam",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dry Fruit Milk Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b4d/27640330afbdeb9706d6f4ce6c0ffb4d.jpg",
+      "price": 206,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coffee",
+      "description": "",
+      "media": null,
+      "price": 87,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fruit Salad With Ice-cream",
+      "description": "",
+      "media": null,
+      "price": 162,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Geetha Sp. Lassi",
+      "description": "",
+      "media": null,
+      "price": 137,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Lassi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted Lassi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Milk",
+      "description": "",
+      "media": null,
+      "price": 44,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Milk Shake",
+      "description": "",
+      "media": null,
+      "price": 87,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Badam Milk Shake",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fruit Punch",
+      "description": "",
+      "media": null,
+      "price": 168,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rose Milk Shake",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Milk Shake",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fruit Salad",
+      "description": "",
+      "media": null,
+      "price": 137,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Milk Shake",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Shake",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Apple Shake",
+      "description": "",
+      "media": null,
+      "price": 137,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Chiku Shake",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chiku Chocolate Shake",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Milk Shake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Royal Falooda",
+      "description": "",
+      "media": null,
+      "price": 181,
+      "menuName": "Falooda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesar Falooda",
+      "description": "",
+      "media": null,
+      "price": 181,
+      "menuName": "Falooda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ice Cream Falooda",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Falooda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mosambi Juice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7bc/aab4f7a018869e7bbdb619fc432797bc.jpg",
+      "price": 93,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Juice",
+      "description": "",
+      "media": null,
+      "price": 93,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mara Mari",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "description": "",
+      "media": null,
+      "price": 62,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Butter",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Extra - Add On",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Cheese",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Extra - Add On",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ghee Extra",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Extra - Add On",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

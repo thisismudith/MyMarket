@@ -1,0 +1,484 @@
+{
+  "basicInfo": {
+    "name": "Jani Locho & Khaman House",
+    "cuisine_string": "Gujarati, Street Food",
+    "canonicalUrl": "https://www.zomato.com/surat/jani-locho-khaman-house-1-pal-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.7",
+      "reviewCount": "11",
+      "reviewTextSmall": "11 Reviews",
+      "subtext": "11 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.7",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.4",
+      "reviewCount": "253",
+      "reviewTextSmall": "253 Reviews",
+      "subtext": "253 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.4",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "394510",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Pal Gam, Surat",
+    "latitude": "21.1899937000",
+    "longitude": "72.7771778000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1899937000,72.7771778000&maptype=zomato&markers=21.1899937000,72.7771778000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "G 22, Nishal Shopping Centre, Green CIty Road, Pal Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918347551616"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Cheese Paneer Samosa (jain)",
+      "description": "Serves 1 | A steamed surti snack prepared in oil served with green chilli, and chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/946/4ed6f50c64eb1ada0fd6bb495ea84946.jpeg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev",
+      "description": "Sev Use all farshaan item",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dce/33a7eb9fb9f9b50729fd20ca203a5dce.jpg",
+      "price": 25,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "mild",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "mild",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Locho [1 Plate] + Butter Locho [1 Plate] + Sev",
+      "description": "",
+      "media": null,
+      "price": 135,
+      "menuName": "Jani Special Combos",
+      "categoryName": "Jani Special Combos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman [1 Plate] + Butter Locho [1 Plate] + Sev",
+      "description": "Vagharela Khaman [1 Plate, 150g]+Butter Locho [120 g]+Sev [40 g]",
+      "media": null,
+      "price": 135,
+      "menuName": "Jani Special Combos",
+      "categoryName": "Jani Special Combos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman [1 Plate] + Oil Locho [1 Plate] + Sev",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Jani Special Combos",
+      "categoryName": "Jani Special Combos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Locho Combo",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Jani Special Combos",
+      "categoryName": "Big Combos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Locho [2 Plate] + Butter Locho [2 Plate] + Sev [50] Grams]",
+      "description": "Oil Locho [2 Plates]+Butter Locho [2 Plates]+Sev [50 g]",
+      "media": null,
+      "price": 235,
+      "menuName": "Jani Special Combos",
+      "categoryName": "Big Combos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Locho [500 Gram] + Vagharela Khaman [1 Plate] + Sev [50 Grams]",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Jani Special Combos",
+      "categoryName": "Big Combos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman [2 Plate] + Butter Locho [2 Plate] + Sev [50 Grams]",
+      "description": "Vagharela Khaman [2 Plates, 250 g]+Butter Locho [2 Plates, 240 g]+Sev [50 g]",
+      "media": null,
+      "price": 235,
+      "menuName": "Jani Special Combos",
+      "categoryName": "Big Combos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman",
+      "description": "Serves 1 | A steamed surti snack prepared in oil  served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/087/f7052f4066c568ba1ac60cc990026087.jpeg",
+      "price": 0,
+      "menuName": "Khaman",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f72/8f5d8f57258b77ebeaf3c70e3278cf72.jpeg",
+      "price": 100,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil And Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9c/236bc92153ff53d3a80aff69c7542b9c.jpeg",
+      "price": 110,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/41b/2ef8daf5130aeb6d13dfffd4384d241b.jpeg",
+      "price": 0,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasan Butter Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d1b/e66afb6dacbd9bd0e5da6afa79cc0d1b.jpeg",
+      "price": 90,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasan Cheese Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d1b/e66afb6dacbd9bd0e5da6afa79cc0d1b.jpeg",
+      "price": 120,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasan Oil Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d1b/e66afb6dacbd9bd0e5da6afa79cc0d1b.jpeg",
+      "price": 90,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/708/3f90da839a1dd95154f0664c92152708.jpeg",
+      "price": 65,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0c6/1f9a2547de84cdb7936130a3549c60c6.jpeg",
+      "price": 0,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d1b/e66afb6dacbd9bd0e5da6afa79cc0d1b.jpeg",
+      "price": 55,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ff2/bd934698ce64fc867d52735bd51d9ff2.jpeg",
+      "price": 0,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoor Locho",
+      "description": "Serves 1 | A steamed surti snack prepared in oil Or Butter served chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/01e/be9153195d07ef77b5ca82e955d4101e.jpeg",
+      "price": 0,
+      "menuName": "Locho",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alkaline Water 500ml",
+      "description": "",
+      "media": null,
+      "price": 25,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

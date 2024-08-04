@@ -1,0 +1,994 @@
+{
+  "basicInfo": {
+    "name": "Pizza Pie",
+    "cuisine_string": "Fast Food, Pizza, Pasta",
+    "canonicalUrl": "https://www.zomato.com/surat/pizza-pie-nanpura/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "2",
+      "reviewTextSmall": "2 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "1,093",
+      "reviewTextSmall": "1,093 Reviews",
+      "subtext": "1,093 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395001",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Nanpura, Surat",
+    "latitude": "21.1895767614",
+    "longitude": "72.8119003773",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1895767614,72.8119003773&maptype=zomato&markers=21.1895767614,72.8119003773,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "1/704, Ground Floor, Sarang Building, Opposite River Palace, Nanpura, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918238706679"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Simply Veggie Pizza",
+      "description": "Onion, tomatoes, capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/696/92d49a3e16902eb968267458d7e92696.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Margherita Pizza",
+      "description": "Topped with two type cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b3/fb4e58ddacf6ae98643cca9d6146d2b3.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Seven Cheese Margherita Pizza",
+      "description": "Pizza topped with seven different type of cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/80a/2e31dced81c7c819943d43b2c156c80a.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hawaiian Pizza",
+      "description": "Topped with paneer, jalapenos, onions and green chilli.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f9d/b09c67f5f76645c1eef97e9b8aea4f9d.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Loaded Pizza",
+      "description": "Topped with onions, tomatoes, capsicum, olives, green chilli, sweet corn and mushrooms.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bc6/f5f39cb4ad81993c3ed97d3392f09bc6.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gourmet Pizza",
+      "description": "Topped with olives, jalapenos, sweet corn and lots of cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8eb/ed9967918cea8f84e1bfbdb5b64248eb.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Makhani Pizza",
+      "description": "Makhani gravy with paneer, onions, capsicum and red paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/575/a594a82bdb3e10790a8782859ab6e575.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Curry Premium Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Super Veggies Pizza",
+      "description": "Capsicum, tomatoes, onions, mushrooms, olives, jalapenos, red paprika, sweet corn, baby corn, paneer and extra cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/34c/a971bb52586e2828eeda95b4a091c34c.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Curry Premium Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kadhai Pizza",
+      "description": "Topped with paneer, capsicum, onions, tomato, red peprika in Makhani Gravy",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Curry Premium Pizza",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Pizza",
+      "description": "Topped with paneer, onions, capsicum red peprika with Tandoori gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/947/ac899798ef39343dd5178614f465f947.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Curry Premium Pizza",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "Mozzarella cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f58/5a04a48189eb4070815dda00111d0f58.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomatoes Pizza",
+      "description": "Mozzarella cheese with sliced tomatoes",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Extravaganza Pizza",
+      "description": "Onions, capsicums, tomatoes and black olives.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e6d/077463d1a7b996244f176d5d71174e6d.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Del Paneer Pizza",
+      "description": "Capsicum, red paprika and paneer.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f99/6e4c36331f43118b46201f70220c0f99.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Delight Pizza",
+      "description": "Sweet corn , baby corn and paneer.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Herby Herbs Pizza",
+      "description": "Jalapenos, red paprika, basils and mixed dry herbs.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Farm Pizza",
+      "description": "Mushrooms, onions and red paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a1f/8b9d6fc0a4207dc1d90cce3415c85a1f.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza",
+      "description": "Black olives, tomato and jalapeno.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Pizza",
+      "description": "Capsicum, paneer tomato..",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b1b/2b642ea397cc0da240b077ddf5eabb1b.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pickly Pizza",
+      "description": "Black olives, red paprika and jalepeno.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f7a/7b28b5ce2f166e80602dfdfe5ee77f7a.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [9 inches] with Thums Up [250 ml]",
+      "description": "Margherita Pizza [9 inches] with Thums Up [250 ml]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/821/8eb11e6c0b282fd7f2756a1dd06f2821.jpeg",
+      "price": 250,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roll N Crisp Combo",
+      "description": "Stuffed Paneer Delight Calzone [Roll]+Salted French Fries",
+      "media": null,
+      "price": 250,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sides Combo",
+      "description": "Stuffed Garlic Bread+Salted French Fries+Cheesy Garlic Toasties [2 Pieces]",
+      "media": null,
+      "price": 320,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Simply Veggie Combo",
+      "description": "Simply Veggie Pizza [Small, 7 inches]+Cheesy Garlic Toasties [2 Pieces]+ Thums Up [250 ml]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/149/84fd0451da71c8b0ff6a7bc2c2828149.jpeg",
+      "price": 360,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Seven Cheese Pizza Combo",
+      "description": "Triple Cheese Pizza [Small, 7 inches]+Cheesy Garlic Toasties [2 Pieces]+Thums Up [250 ml]",
+      "media": null,
+      "price": 420,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Combo",
+      "description": "Classic Pizza [Small, 7 inches]+French Fries+Dip",
+      "media": null,
+      "price": 360,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Premium Homealone Combo",
+      "description": "Classic Pizza [Small, 7 inches]+French Fries+Dip+ Thums Up [250 ml]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0a3/cc9a2891380d11654bc1b5ee788330a3.jpeg",
+      "price": 250,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 for 2 Premium Combo",
+      "description": "Premium Pizza [Medium, 9 inches]+Cheesy Garlic Toasties [2 Pieces]+ Thums Up [250 ml]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6d3/40c4893a8aeefea6b24eeb1ac85666d3.jpeg",
+      "price": 360,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combo",
+      "description": "any Claasic 9\" Pizza with French Fries",
+      "media": null,
+      "price": 300,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Cheese Party Combo",
+      "description": "Triple Cheese Pizza [Large, 12 inches]+Stuffed Garlic Bread+Thums Up [250 ml]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c2/e2789ce6358a9310906d005fe6a5d2c2.jpeg",
+      "price": 650,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Party Premium Combo",
+      "description": "Premium Pizza [Large, 12 inches]+Thums Up [250 ml]+Stuffed Garlic Bread [2 Pieces]",
+      "media": null,
+      "price": 730,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "party-combo",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "party-combo",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Paneer Roll",
+      "description": "Freshly baked breadsticks stuffed with paneer, capsicum, onion and red paprika mixed in special india gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4c5/4b8f1438335907598e9804f4c94c44c5.jpeg",
+      "price": 240,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Veggie Roll",
+      "description": "Freshly baked breadsticks stuffed with onion, capsicum and sweet corn mixed in special tomato gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/667/0f35ffa179fa979c140e272545b49667.jpeg",
+      "price": 165,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Mint Roll",
+      "description": "Freshly baked breadsticks stuffed with onion and capsicum with sour and creamy mint sauce.",
+      "media": null,
+      "price": 175,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Garlic Bread",
+      "description": "Freshly baked breadsticks stuffed with cheese, jalapenos and sweet corn.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d3a/960a07b5520ccb753974444d15135d3a.jpeg",
+      "price": 145,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Chilli Cheese Bread",
+      "description": "Freshly baked breadsticks stuffed with cheese and green chillies.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/94e/6b2dbf7f186544479963f0435468394e.jpeg",
+      "price": 175,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Toastie",
+      "description": "Classic bread drenched in butter topped with aromatic spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc0/af257054fdefc6de2cc9e364451becc0.jpeg",
+      "price": 115,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Garlic Toastie",
+      "description": "Classic bread drenched in butter topped with aromatic spices and 100% mozzarella.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0d1/faa5f4bc47ba87d8f4a77d474fcf80d1.jpeg",
+      "price": 119,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted French Fries",
+      "description": "Regular Salted Fries",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5e0/713e71dc8d759767c7b5eae733ec85e0.jpeg",
+      "price": 95,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Super Cheesy Garlic Toastie",
+      "description": "Classic bread drenched in butter topped with aromatic spices and three cheese.",
+      "media": null,
+      "price": 190,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala French Fries",
+      "description": "Topped with Different Spices",
+      "media": null,
+      "price": 115,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "description": "Topped with Peri Peri Spice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cfc/ffcf3422ecdd42760f649159488abcfc.jpeg",
+      "price": 125,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Margherita",
+      "description": "Two margherita   Pizza",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e2c/f4c172f1109ac7f7ab7952d020cdce2c.jpeg",
+      "price": 0,
+      "menuName": "Low Cost Combo",
+      "categoryName": "Pizza Combos",
+      "slugs": [
+        "veg",
+        "new",
+        "main-course",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "main-course",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Paneer Delight Combo",
+      "description": "2 Paneer delight pizza",
+      "media": null,
+      "price": 0,
+      "menuName": "Low Cost Combo",
+      "categoryName": "Pizza Combos",
+      "slugs": [
+        "veg",
+        "new",
+        "main-course",
+        "mild",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "main-course",
+        "mild",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Mushroom Pizza",
+      "description": "2 Mushroom Pizza",
+      "media": null,
+      "price": 0,
+      "menuName": "Low Cost Combo",
+      "categoryName": "Pizza Combos",
+      "slugs": [
+        "veg",
+        "new",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Paneer Makhani",
+      "description": "2 Paneer makhani pizza",
+      "media": null,
+      "price": 0,
+      "menuName": "Low Cost Combo",
+      "categoryName": "Pizza Combos",
+      "slugs": [
+        "veg",
+        "new",
+        "main-course",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "main-course",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    }
+  ]
+}

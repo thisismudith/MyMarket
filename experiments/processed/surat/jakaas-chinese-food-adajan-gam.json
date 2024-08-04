@@ -1,0 +1,2042 @@
+{
+  "basicInfo": {
+    "name": "Jakaas Chinese Food",
+    "cuisine_string": "Chinese, Street Food",
+    "canonicalUrl": "https://www.zomato.com/surat/jakaas-chinese-food-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.2",
+      "reviewCount": "516",
+      "reviewTextSmall": "516 Reviews",
+      "subtext": "516 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.2",
+      "reviewCount": "21.2K",
+      "reviewTextSmall": "21.2K Reviews",
+      "subtext": "21.2K Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395009",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1971010436",
+    "longitude": "72.7938635275",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1971010436,72.7938635275&maptype=zomato&markers=21.1971010436,72.7938635275,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 38/39, Royal Residency, Building C, Vir Arjun Marg, Near Mahalaxmi Temple, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919484636048"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Piri Piri Mushroom Dry",
+      "description": "Spicy",
+      "media": null,
+      "price": 350,
+      "menuName": "Special Varieties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Veg (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/654/6e940d6a64b96dc72169a6c2ac31b654.jpeg",
+      "price": 0,
+      "menuName": "Special Varieties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Lollipop (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9bd/b0dcbeb38ef7ae598e450e029c2279bd.jpeg",
+      "price": 0,
+      "menuName": "Special Varieties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato Torque",
+      "description": "Semi Gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/313/dff7167c0ccdc640f8e3a47faf768313.jpeg",
+      "price": 270,
+      "menuName": "Special Varieties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stick Chilly Dry",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Special Varieties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg 65",
+      "description": "| Served Dry |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/950/7a8dac098fe5e9d82e92cdf5f4e6b950.jpeg",
+      "price": 280,
+      "menuName": "Special Varieties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Chilly Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/29a/0872613a0d33f76c8e8c73ba4086b29a.jpeg",
+      "price": 300,
+      "menuName": "Special Varieties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "MUSHROOM Chilly Dry",
+      "description": "A Tantalizingly Crispy And Satisfying Vegetarian Starter With A Rich, Earthy Flavor That Will Transport Your Taste Buds.?",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a96/01cde5af85ee98261dbf01a7298a8a96.jpeg",
+      "price": 330,
+      "menuName": "Special Varieties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Pimiento Chilly Soup",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Shorba",
+      "description": "Must Try",
+      "media": null,
+      "price": 250,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Coriander Soup",
+      "description": "A Refreshing Soup Bursting With Zesty Lemon And Fragrant Coriander Flavors.?",
+      "media": null,
+      "price": 250,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Pimiento Chilly Soup",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rich And Clear Tomato Soup",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot N Sour Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/702/38e2a30d472f8f5412529dba24264702.jpeg",
+      "price": 230,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchow Soup",
+      "description": "Satisfy Your Craving For A Hearty And Flavorful Soup With This Veggie-Packed Bowl.?",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ef/452ff0ad453816e7ded771e221ae61ef.jpeg",
+      "price": 230,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Soup (Jain Preparation Not Available)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/37e/8e227be4bc447764fccc47ad7a5dd37e.jpeg",
+      "price": 230,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "MUSHROOM Soup",
+      "description": "Cream of mushroom soup is a simple type of soup where a basic roux is thinned with cream or milk & then mushrooms and/or mushroom broth are added",
+      "media": null,
+      "price": 260,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Talumein Soup",
+      "description": "Must Try",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5bd/4809f9c790b7bc033ad818fd834855bd.jpeg",
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Khowsuey Soup",
+      "description": "Jain preparation not available (Must Try)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/851/12d652dc8b80774fd20485431bd66851.jpeg",
+      "price": 300,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dry Manchurian",
+      "description": "A Savory And Crispy Chinese Dish With A Tangy And Flavorful Sauce.?",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8aa/7a7d0775e049064f12f20b9cbf48d8aa.jpeg",
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Dry",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Balls Dry With Cheese",
+      "description": "Must Try",
+      "media": "https://b.zmtcdn.com/data/dish_photos/944/ec59c5c52611f3cff72ea13fed2a4944.jpeg",
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Dry",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "No Cheese Green Manchurian Dry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Dry",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian Dry (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3fa/78f122040fb713f418b70c8ff7fe33fa.jpeg",
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Dry",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "SHANGHAI Manchurian Dry",
+      "description": "Spicy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a9f/314f11253b7d4cda2ff71c8a7debea9f.jpeg",
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Dry",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Balls Gravy With Cheese",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "No Cheese Green Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Gravy",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Gravy",
+      "description": "| Served with Semi Gravy |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/583/bba294f75c48b100542dcf4abd0ff583.jpg",
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Gravy",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian Gravy (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": null,
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "SHANGHAI Manchurian Gravy",
+      "description": "Spicy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/643/00055ba4672e6b9e36a67e5cfe951643.jpeg",
+      "price": 0,
+      "menuName": "Manchurian",
+      "categoryName": "Manchurian Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Garlic Paneer Chilly Dry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Paneer Chilly Dry With Cheese",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c64/134862f841b00bdb460e5493c3175c64.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Thai Paneer Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bc2/29e64d43b97051169199440e4ca29bc2.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "MUSHROOM & Paneer Dry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Hunan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b0e/f42803692078cf8a2dadfe4f8be3db0e.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Red Cook Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fcd/d072e340b2cd1feca4ad5d1462be5fcd.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Thai Paneer Dry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilly Dry",
+      "description": "A Flavorful Vegetarian Stir-Fry With Savory And Aromatic Notes.?",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e49/18b4b1c999e0b1eb4bb4f834dd244e49.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hibachi Paneer Chilly",
+      "description": "Must Try",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cba/623a911e50ec12afe79717c1724cecba.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Dragon",
+      "description": "Must Try",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0d9/a6bacccb383bfc8b69e0a183449f60d9.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mongolian",
+      "description": "Must Try",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5e7/5e855e0bc31dce2c4d342249591315e7.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Chilly Dry (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/041/9757cb4272a018edde4d5683403c7041.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "SHANGHAI Paneer Chilly Dry",
+      "description": "Peri Peri style Spicy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/480/5860fa57e215648306cfd7e2c37c5480.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Dry Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Paneer Chilly Gravy With Cheese",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Gravy Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilly Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9ba/163e17e30e38d4c89f3f3eadba2f99ba.jpg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Gravy Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Chilly Gravy (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e33/c5eb37ebf102b481eee4d3cb528d1e33.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Gravy Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "SHANGHAI Paneer Chilly Gravy",
+      "description": "Spicy Peri Peri",
+      "media": "https://b.zmtcdn.com/data/dish_photos/387/3a0a286f42e930fa50388dbb247c8387.jpeg",
+      "price": 0,
+      "menuName": "Paneer Mix",
+      "categoryName": "Gravy Paneer's Varieties",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Butter Garlic Bhel",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2d9/11d713b1b7911505d78f2c82b6a792d9.jpeg",
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chinese Bhel",
+      "description": "Serves 1",
+      "media": "https://b.zmtcdn.com/data/dish_photos/995/0b61214de0522ee13809765e5c7e8995.jpeg",
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Bhel",
+      "description": "Spicy",
+      "media": null,
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shanghai Crispy Bhel",
+      "description": "Spicy",
+      "media": null,
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Taiwan Bhel",
+      "description": "Must Try",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1d6/3a8f40e1456f4373e6cea5cddf8ed1d6.jpeg",
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Bhel",
+      "description": "Semi Sweet",
+      "media": "https://b.zmtcdn.com/data/dish_photos/872/6d8295f907023b541c633ac9622d6872.jpeg",
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "Semi Sweet",
+      "media": "https://b.zmtcdn.com/data/dish_photos/65c/510eacc1f063730fc14819424320765c.jpeg",
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Bhel",
+      "description": "| Served Dry |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/986/a7785841a83de649250d4ba3b954c986.jpeg",
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "MUSHROOM Singapuri Bhel",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Noodle Rice Mix",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Bhel (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4da/9dcad38418ffbd2a02d31197bdd1a4da.jpeg",
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Bhel",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Bhel",
+      "description": "| Served Dry |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a57/d036d35e5fa026f4b23e79090fc92a57.jpeg",
+      "price": 290,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tai Pei Bhel (Greenes)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9a/8d8515a4b9b8168d38157f8dbf4f2b9a.jpeg",
+      "price": 0,
+      "menuName": "Mix",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Butter Garlic Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Rice",
+      "description": "An aromatic dish of cooked rice that has been stir fried in a wok.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b4/5c61d2194bb245774663add81604d1b4.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Rice",
+      "description": "Spicy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fb5/e7375388618d315877f5349d92febfb5.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Taiwan Rice (without Gravy)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Rice Mix",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/281/1b2572c494a5a9cdba5c243e7c007281.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "MUSHROOM Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd2/255387926df150f7e34154225f2e6dd2.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Rice Mix",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a4c/ae68d8b7dc0838f4fdbdc58beededa4c.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Rice (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a1e/87d9d1eb6ba447046edd4d6bc0242a1e.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian Rice Mix (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d82/a5d1c284fa73b32e1251cc0bc3efad82.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Rice",
+      "description": "Aromatic And Flavorful Rice  be Dish With A Hint Of Exotic Singaporean Spices.?",
+      "media": "https://b.zmtcdn.com/data/dish_photos/930/cdcde961c99064ebe4a6e2abdccdd930.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Manchurian Rice Mix",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/84c/f68c0ff9a3673b9271ce1b077d39584c.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Clear Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tai Pei Rice (Greenes)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/714/b888fa99b01462ab835eb5d8ad014714.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Chopsuey",
+      "description": "A Delicious Blend Of Crispy Noodles And Fresh Veggies Tossed In A Savory Sauce.?",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ab/e3d4fa086044d38b426d23c4b48941ab.jpeg",
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Butter Garlic Noodle",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Noodles",
+      "description": "A delicious dish prepared from perfectly cooked noodles and stir-fried vegetables.",
+      "media": null,
+      "price": 30,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Noodle",
+      "description": "Spicy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4af/8fb797220a964451eb9f18e402f054af.jpeg",
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Taiwan Noodle",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fc7/81ceb260cd5cec5ffbf7dfd3d31f4fc7.jpeg",
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Chopsuey",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodles [Chowmein]",
+      "description": "| Served Dry |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/376/6a6a0dd7b024796b735128c01e0bc376.jpeg",
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Noodle Mix",
+      "description": "| Served Dry |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0d2/5ee08e3b2dccb44bfae2e125eec700d2.jpeg",
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Miya Biwi Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "MUSHROOM Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4b8/019888a4bee1c3d275d9e1d1172064b8.jpeg",
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Noodle Mix",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "SHANGHAI Chopsuey",
+      "description": "Jain preparation not available",
+      "media": null,
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodles (Jain Preparation Not Available)",
+      "description": "| Served Dry | Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ac/1b65e2d8ad245465672257627bff34ac.jpeg",
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian Noodle Mix (Jain Preparation Not Available)",
+      "description": "| Served Dry | Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/42f/5e4b970619901073d7e098d95a84b42f.jpeg",
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Manchurian Noodle Mix",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Noodles",
+      "description": "Tantalizingly Flavored Noodles From The Heart Of Singapore.?",
+      "media": "https://b.zmtcdn.com/data/dish_photos/53b/00607ea23785d5acafc4beefbb2bc53b.jpeg",
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tai Pei Noodle (Greenes)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Rice With Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/41b/a90345c271ce80af228ea0976d3ca41b.jpeg",
+      "price": 390,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fusion Rice With Gravy",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Thai Curry With Rice",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Thai Curry With Rice",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Taiwan Rice With Green Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/669/16ad34b1d794bf67b8192bfbac5f3669.jpeg",
+      "price": 370,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Rice",
+      "description": "Three Rice Varieties Come Together In This Savory Chinese Dish.?",
+      "media": null,
+      "price": 320,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Schezwan Rice (Jain Preparation Not Available)",
+      "description": "Jain preparation not available",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ba8/659b292ae26bde733fe25768e026aba8.jpeg",
+      "price": 330,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Schezwan Singapuri Rice",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jakaas Rice",
+      "description": "Must Try",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3cf/30a071db6aa3ba0b773c149240a9c3cf.jpeg",
+      "price": 370,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Triple Rice",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Triple Rice",
+      "categoryName": "Rice With Gravy",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Fried Noodles",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Chutney (Jain Preparation Not Available)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9da/e03c587caea5d4b7ae75bf3564ad29da.jpeg",
+      "price": 50,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    }
+  ]
+}

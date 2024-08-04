@@ -1,0 +1,4935 @@
+{
+  "basicInfo": {
+    "name": "Sankalp & Saffron Restaurant",
+    "cuisine_string": "South Indian, North Indian, Chinese, Italian, Beverages, Desserts, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/sankalp-saffron-restaurant-pandesara/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.2",
+      "reviewCount": "61",
+      "reviewTextSmall": "61 Reviews",
+      "subtext": "61 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "176",
+      "reviewTextSmall": "176 Reviews",
+      "subtext": "176 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Pandesara, Surat",
+    "latitude": "21.1451622567",
+    "longitude": "72.8012704477",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1451622567,72.8012704477&maptype=zomato&markers=21.1451622567,72.8012704477,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 101 - 104, Western Shoppers, Near Metro Mall, VIP Road, Pandesara, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919512410102"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Set Dosa",
+      "description": "Served with kurma.",
+      "media": null,
+      "price": 210,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malabari Porotta with Kurma",
+      "description": "Single porotta served with kurma and pachdi.",
+      "media": null,
+      "price": 185,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Soup",
+      "description": "A vegetable broth prepared using garden fresh tomatoes, herbs and spice.",
+      "media": null,
+      "price": 110,
+      "menuName": "Soups and Salad",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn N Tomato Soup",
+      "description": "A healthy soup made from fresh ripe tomatoes and scraped boiled corn kernel.",
+      "media": null,
+      "price": 150,
+      "menuName": "Soups and Salad",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Veg Soup",
+      "description": "A thick soup made from fresh American corn and assorted vegetables.",
+      "media": null,
+      "price": 150,
+      "menuName": "Soups and Salad",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot N Sour Soup",
+      "description": "A dark brown Chinese soup with ginger and garlic fried vegetables.",
+      "media": null,
+      "price": 150,
+      "menuName": "Soups and Salad",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchow Soup",
+      "description": "A popular hot n spicy meal soup prepared in Chinese style and garnished with fried noodles.",
+      "media": null,
+      "price": 150,
+      "menuName": "Soups and Salad",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Makai ka Shorba",
+      "description": "A rich and delicious corn soup.",
+      "media": null,
+      "price": 150,
+      "menuName": "Soups and Salad",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tamatar Dhaniya Shorba",
+      "description": "The Indian tomato soup garnished with coriander.",
+      "media": null,
+      "price": 150,
+      "menuName": "Soups and Salad",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salad",
+      "description": "Slices of vegetables served in a dish.",
+      "media": null,
+      "price": 110,
+      "menuName": "Soups and Salad",
+      "categoryName": "Salad",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tiranga Dry",
+      "description": "A delicacy of the restaurant paneer marinated in three different yogurt sauces.",
+      "media": null,
+      "price": 310,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Dry",
+      "description": "Dices of paneer seasoned in marinated tandoori gravy.",
+      "media": null,
+      "price": 275,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malai Paneer Tikka",
+      "description": "Paneer marinated in the chef's special rich and lacy cashew gravy.",
+      "media": null,
+      "price": 275,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lehsuni Paneer Tikka",
+      "description": "Cottage cheese on light garlic sauce.",
+      "media": null,
+      "price": 275,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hariyali Paneer Tikka",
+      "description": "Slice of cottage cheese laced in a special mint coriander sauce made with curd.",
+      "media": null,
+      "price": 275,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Achari Paneer Tikka",
+      "description": "Cottage cheese marinated in a pickled yogurt gravy.",
+      "media": null,
+      "price": 275,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobi Lehsuni",
+      "description": "Cauliflower tossed in herbs, garlic sauce and cooked in a tandoor.",
+      "media": null,
+      "price": 190,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobi Tikka",
+      "description": "Pieces of cauliflower marinated in tightly spiced Indian sauce and roasted in a clay oven.",
+      "media": null,
+      "price": 190,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Chutney",
+      "description": "Dices of potatoes mixed in a special piquant Indian herb sauce.",
+      "media": null,
+      "price": 190,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Shikhari",
+      "description": "Dices of potatoes mixed in a special piquant Indian herb sauce.",
+      "media": null,
+      "price": 190,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Aloo",
+      "description": "Dices of potatoes mixed in a special piquant Indian herb sauce.",
+      "media": null,
+      "price": 190,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kumbh Kabab",
+      "description": "An exquisite combination of mushrooms and fresh vegetables prepared in a pickled sauce.",
+      "media": null,
+      "price": 275,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Seekh Kabab",
+      "description": "Indian kabab made with special masala paste with a prominent tinge of ginger and garlic.",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Roll",
+      "description": "Veg rolls stuffed with cheese.",
+      "media": null,
+      "price": 275,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Kabab",
+      "description": "Paneer and cheese simmed.",
+      "media": null,
+      "price": 285,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hara Bhara Kabab",
+      "description": "Deep fried kababs made of choicest vegetables boiled and mixed with leafy green, paneer and bread crumbs.",
+      "media": null,
+      "price": 230,
+      "menuName": "Starters",
+      "categoryName": "Jalwa e Tandoor",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli",
+      "description": "",
+      "media": null,
+      "price": 275,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dragon Paneer",
+      "description": "Crispy cottage cheese tossed with spicy schezwan sauce.",
+      "media": null,
+      "price": 275,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Crispy",
+      "description": "Dices of choices vegetable dusted in cornflour, deeply fried and tossed in Chinese sauces.",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Spring Roll",
+      "description": "Deep fried thin pancake rolls stuffed with vegetables.",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian in Soya Chilli Sauce",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian in Schezwan Sauce",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Vegetables",
+      "description": "Assorted boiled vegetables prepared in schezwan sauce and Chinese herbs.",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sweet and Sour",
+      "description": "Stir fried vegetables sauteed in a special sauce and sour herbs.",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Afghani Bhurji",
+      "description": "Fresh cottage cheese grated and cooked with green peppers, tomatoes and onions.",
+      "media": null,
+      "price": 375,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Balti",
+      "description": "Two different cuts of paneer prepared in two different gravies and served layered in a balti.",
+      "media": null,
+      "price": 375,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tawa",
+      "description": "Slices of paneer cooked along with onion, tomatoes and bell papers in spicy brown onion gravy.",
+      "media": null,
+      "price": 355,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kolhapuri",
+      "description": "Paneer cooked in spicy Kolhapuri gravy which is a combination of tomato and onion gravy.",
+      "media": null,
+      "price": 355,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Musallum",
+      "description": "Matignons of fresh Indian paneer in a tomato based makhni gravy with lots of cream.",
+      "media": null,
+      "price": 345,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kadai",
+      "description": "Cubes of paneer, onion, tomatoes and green bell peppers tossed in Indian gravy with whole spices.",
+      "media": null,
+      "price": 345,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Handi",
+      "description": "Dices of cottage cheese cooked on low heat in brown onion gravy and served in a handi.",
+      "media": null,
+      "price": 345,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chatpata",
+      "description": "A spicy but tangy'style of preparing cottage cheese in the chefs special preparation style.",
+      "media": null,
+      "price": 345,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "description": "Barbecued paneer pieces marinated and cooked in makhni gravy.",
+      "media": null,
+      "price": 345,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Palak",
+      "description": "Midly spiced cottage cheese preparation in spinach and onion gravy.",
+      "media": null,
+      "price": 335,
+      "menuName": "Main Course",
+      "categoryName": "Subz e Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Saffron Special Vegetable",
+      "description": "[Chef's Special] A specialty made by our chef with passion.",
+      "media": null,
+      "price": 365,
+      "menuName": "Main Course",
+      "categoryName": "Taaza Tarkariyan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Khoya Kaju",
+      "description": "Cashew but cooked in khoya rice mad gravy with lots of cream.",
+      "media": null,
+      "price": 345,
+      "menuName": "Main Course",
+      "categoryName": "Taaza Tarkariyan",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Makhani",
+      "description": "Chicest cashew nuts simmered in makhani gravy and cream.",
+      "media": null,
+      "price": 345,
+      "menuName": "Main Course",
+      "categoryName": "Taaza Tarkariyan",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Navratan Korma",
+      "description": "Idealy a combination of nine choicest vegetables, fruits and nuts prepaid in rich mild gravy.",
+      "media": null,
+      "price": 345,
+      "menuName": "Main Course",
+      "categoryName": "Taaza Tarkariyan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Toofani",
+      "description": "Chefs special way of preparing the vegetables with touch of north India.",
+      "media": null,
+      "price": 320,
+      "menuName": "Main Course",
+      "categoryName": "Taaza Tarkariyan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Makhanwala",
+      "description": "Fresh vegetable cooked in makhani gravy.",
+      "media": null,
+      "price": 320,
+      "menuName": "Main Course",
+      "categoryName": "Taaza Tarkariyan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kadai",
+      "description": "Assorted garden fresh vegetables cooked in a mixture of makhani and onion gravy and served in a karahi.",
+      "media": null,
+      "price": 320,
+      "menuName": "Main Course",
+      "categoryName": "Taaza Tarkariyan",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Jaipuri",
+      "description": "A delicious and colorful veg dish prepared in onion gravy.",
+      "media": null,
+      "price": 320,
+      "menuName": "Main Course",
+      "categoryName": "Taaza Tarkariyan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Diwani Handi",
+      "description": "Garden fresh vegetable cooked with aromatic species and served in handi.",
+      "media": null,
+      "price": 320,
+      "menuName": "Main Course",
+      "categoryName": "Taaza Tarkariyan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dum Aloo",
+      "description": "Stuffed whole baby potatoes in a spicy yogurt gravy.",
+      "media": null,
+      "price": 275,
+      "menuName": "Main Course",
+      "categoryName": "Kofta ka Khazana",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malai Kofta",
+      "description": "Delicious dumplings of paneer in rich creamy Indian sauces.",
+      "media": null,
+      "price": 275,
+      "menuName": "Main Course",
+      "categoryName": "Kofta ka Khazana",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Kofta",
+      "description": "Soft veggie balls prepared in spinach onion gravy.",
+      "media": null,
+      "price": 295,
+      "menuName": "Main Course",
+      "categoryName": "Kofta ka Khazana",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shahi Kofta",
+      "description": "Stuffed dumplings made with cheese and nuts in a cashew rich mild Indian gravy.",
+      "media": null,
+      "price": 295,
+      "menuName": "Main Course",
+      "categoryName": "Kofta ka Khazana",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chana Peshawari",
+      "description": "A piquant chick peas preparation in the traditional North Indian way using spices and pomegranate seeds.",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Khaas Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Matar",
+      "description": "The famous Punjabi dish made with curried pieces of potatoes and fresh green peas.",
+      "media": null,
+      "price": 215,
+      "menuName": "Main Course",
+      "categoryName": "Khaas Main Course",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Chatpata",
+      "description": "Tangy spicy n piquant preparation of diced potatoes.",
+      "media": null,
+      "price": 215,
+      "menuName": "Main Course",
+      "categoryName": "Khaas Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn N Capsicum Masala",
+      "description": "A delectable corn and bell pepper preparation cooked in spicy Indian brown gravy.",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Khaas Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Methi Malai",
+      "description": "Delightful blend of fenugreek with fresh American corn in a creamy rich gravy.",
+      "media": null,
+      "price": 235,
+      "menuName": "Main Course",
+      "categoryName": "Khaas Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "Lentils tampered with butter cumin seed and red chilly powder served hot.",
+      "media": null,
+      "price": 185,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Bukhara",
+      "description": "Assorted lentils cooked in an authentic recipe on a low heat and thickened with generous helping of cream and butter.",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Amritsari",
+      "description": "The Punjabi style of preparing split black lentils and Bengal gram lentils with a flavor of mint.",
+      "media": null,
+      "price": 210,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Hariyali",
+      "description": "A rich and tasty dal prepared by mixing tuvar, lentils in spinach gravy.",
+      "media": null,
+      "price": 210,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "Assorted lentils cooked in an authentic recipe on a low heat and thickened with generous helping of cream and butter.",
+      "media": null,
+      "price": 210,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roti",
+      "description": "Flat discs of unleavened Indian bread with a chewy texture.",
+      "media": null,
+      "price": 30,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Missi Roti",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rumali Roti",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paratha",
+      "description": "A flat disc of unleavened Indian bread made from whole wheat flour and cooked in a tandoor.",
+      "media": null,
+      "price": 75,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rumali Paratha",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Methi Paratha",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pudina Paratha",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Paratha",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Kulcha",
+      "description": "Baked flat bread made from maida and cooked in an ethnic style in a clay oven.",
+      "media": null,
+      "price": 75,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Kulcha",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Kulcha",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Naan",
+      "description": "A leavened bread from North India made from maida and baked in a clay tandoor.",
+      "media": null,
+      "price": 85,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Naan",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Taftani Naan",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Cheese Naan",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Seasoned boiled basmati rice tossed in butter and cumin seeds.",
+      "media": null,
+      "price": 165,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peas Pulao",
+      "description": "An easy all time favorite basmati preparation with fresh green peas and coriander.",
+      "media": null,
+      "price": 175,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Banarasi Pulao",
+      "description": "A vegetable pulao prepared with Indian spices.",
+      "media": null,
+      "price": 210,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Awadhi Dum Biryani",
+      "description": "Long grained rice stir fried in aromatic spices and herbs with fresh vegetables cooked in a handi.",
+      "media": null,
+      "price": 235,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hyderabadi Biryani",
+      "description": "The cooking recipe comes all the way from Hyderabad a special style of minty flavored rice with fried onions.",
+      "media": null,
+      "price": 235,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nargisi Pulao",
+      "description": "Piquant, aromatic and deeply flavored basmati preparation with vegetables and nuts.",
+      "media": null,
+      "price": 235,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Saffron Special Pulao",
+      "description": "[Chef's Special] Our chef's special recipe for preparation of this saffron flavored basmati.",
+      "media": null,
+      "price": 235,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Rice",
+      "description": "Plain rice with rasam or sambar.",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Pulao",
+      "description": "Pulao with cheese.",
+      "media": null,
+      "price": 295,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bisi Bela Hulianna",
+      "description": "Coconut flavored rice and lentil preparation served with papadum.",
+      "media": null,
+      "price": 215,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaikari Biryani",
+      "description": "Sankalp special biryani served with pachdi.",
+      "media": null,
+      "price": 265,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Pulao",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bagala Bhath",
+      "description": "The inimitable curd rice.",
+      "media": null,
+      "price": 215,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Cheese Idli",
+      "description": "Fried little idlis topped with cheese.",
+      "media": null,
+      "price": 195,
+      "menuName": "South Indian Dishes",
+      "categoryName": "South Indian Dishes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Boondi",
+      "description": "Fried lentil balls with onion, tomatoes and special masala.",
+      "media": null,
+      "price": 155,
+      "menuName": "South Indian Dishes",
+      "categoryName": "South Indian Dishes",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Thayir Boondi",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "South Indian Dishes",
+      "categoryName": "South Indian Dishes",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted Thayir Boondi",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "South Indian Dishes",
+      "categoryName": "South Indian Dishes",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Upma",
+      "description": "Made from suji and grated fresh vegetables.",
+      "media": null,
+      "price": 145,
+      "menuName": "South Indian Dishes",
+      "categoryName": "South Indian Dishes",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sevai Upma",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "South Indian Dishes",
+      "categoryName": "South Indian Dishes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Idli",
+      "description": "",
+      "media": null,
+      "price": 165,
+      "menuName": "South Indian Dishes",
+      "categoryName": "South Indian Dishes",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Idli",
+      "description": "Rice cakes served steaming hot.",
+      "media": null,
+      "price": 105,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idli Littles",
+      "description": "",
+      "media": null,
+      "price": 145,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Idli",
+      "description": "Loaded with butter.",
+      "media": null,
+      "price": 145,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Thayir Idli",
+      "description": "Sweet idli in curd.",
+      "media": null,
+      "price": 165,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted Thayir Idli",
+      "description": "Salted idli in curd.",
+      "media": null,
+      "price": 165,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rasam Idli",
+      "description": "Pieces of idli dipped in spicy rasam.",
+      "media": null,
+      "price": 175,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idli Vada",
+      "description": "A combination of idli with fried lentil doughnuts.",
+      "media": null,
+      "price": 155,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kanchipuram Idli",
+      "description": "South Indian speciality idli.",
+      "media": null,
+      "price": 170,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicorn Idli",
+      "description": "Idlis topped with capsicum and corn.",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Vegetable Idli",
+      "description": "Tangy little idlis flavored with garden fresh tomato puree.",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cocktail Rice Cakes",
+      "description": "Pieces of little idlis tossed in milagai podi.",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "veg"
+      ]
+    },
+    {
+      "name": "Achari Rice Cakes",
+      "description": "The pickle flavored little idlis.",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chettinad Rice Cakes",
+      "description": "Spicy little idlis tossed in Chettinad gravy.",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nilgiri Rice Cakes",
+      "description": "Pudina flavored little idlis.",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vaghar Idli",
+      "description": "Little idlis tossed in special masala.",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Medu Vada",
+      "description": "Deep fried lentil doughnuts.",
+      "media": null,
+      "price": 165,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rasam Vada",
+      "description": "Vada dipped in rasam.",
+      "media": null,
+      "price": 195,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Thayir Vada",
+      "description": "Plain vada in curd.",
+      "media": null,
+      "price": 195,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Thayir Vada",
+      "description": "Sweet vada in curd.",
+      "media": null,
+      "price": 195,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Vada",
+      "description": "Vada made with chopped onion mixed in the batter.",
+      "media": null,
+      "price": 195,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Golden Crisp Dosa",
+      "description": "Simple tastier and favorite dosa.",
+      "media": null,
+      "price": 145,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dashing Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Dosa",
+      "description": "Dosa with chopped onion and garlic chutney.",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dashing Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Super Paper Dosa",
+      "description": "The crispy dosa.",
+      "media": null,
+      "price": 225,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dashing Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Chatpata Dosa",
+      "description": "Spicy dosa with coriander and garlic chutney.",
+      "media": null,
+      "price": 195,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dashing Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nilgiri Special Dosa",
+      "description": "The mint flavored dosa.",
+      "media": null,
+      "price": 195,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dashing Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sankalp 4 Feet Long Dosa",
+      "description": "Miniature version of the guinness hit dosa.",
+      "media": null,
+      "price": 900,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Dosa",
+      "description": "Dosa with a generous helping of cheese.",
+      "media": null,
+      "price": 225,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spring Dosa",
+      "description": "Special dosa with vegetable filling.",
+      "media": null,
+      "price": 285,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Spring Dosa",
+      "description": "Special spring dosa with cheese.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Dosa",
+      "description": "A Chinese twist to the traditional South Indian dosa the Chinese affair.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Indian Bhaji Dosa",
+      "description": "[Chef’s Special]",
+      "media": null,
+      "price": 325,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Dosa",
+      "description": "Dosa with a filling of spicy paneer.",
+      "media": null,
+      "price": 325,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Corn Dosa",
+      "description": "",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Military Ghee Roast Dosa",
+      "description": "Crispy special masala filling dosa roasted in pure ghee.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chettinad Spicy Dosa",
+      "description": "A crisp spicy dosa with a filling of fresh vegetable prepared in Chettinad style.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Keerai Cheese Garlic Dosa",
+      "description": "The spinach and cheese dosa with a hint of garlic.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicum Chilly Garlic Dosa",
+      "description": "A specialty dosa with a filling of capsicum tossed in green gravy.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Achari Onion Dosa",
+      "description": "The pickle flavored onion dosa.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kara Mura Dosa",
+      "description": "Butter paper dosa with milagai podi on the layer.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Three Barrel Dosa",
+      "description": "Combination of three small dosas.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dosa Platter",
+      "description": "Platter containing miniature version of spring, Indian bhaji and paneer dosa.",
+      "media": null,
+      "price": 355,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Speciality Dosas",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kanchipuram Achari Rava",
+      "description": "Pickle flavored spiced rava dosa. Made form cream of wheat/semolina.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Ravishing Rava",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Rava Dosa",
+      "description": "A Chinese twist to the traditional South Indian dosa the Chinese affair. Made form cream of wheat/semolina.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Ravishing Rava",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Rava",
+      "description": "Rava dosa with sliced onion in the layer. Made form cream of wheat/semolina.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Ravishing Rava",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Udipi Rava",
+      "description": "Rava dosa with grated carrot and beet in the layer. Made form cream of wheat/semolina.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Ravishing Rava",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coconut Rava",
+      "description": "Rava dosa having grated fresh coconut in the layer. Made form cream of wheat/semolina.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Ravishing Rava",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crisp N Crunchy Rava",
+      "description": "Dosa made from semolino flour. Made form cream of wheat/semolina.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Ravishing Rava",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicum Rava",
+      "description": "Finally chopped capsicum within the layer. Made form cream of wheat/semolina.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Ravishing Rava",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Roast Plain Uttapam",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Roast Topping Uttapam",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Madurai Sandwich Uttapam",
+      "description": "Twin layered specialty uttapam with cheese.",
+      "media": null,
+      "price": 375,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chennai Pizza Uttapam",
+      "description": "Crispy uttapam  that tastes like a pizza.",
+      "media": null,
+      "price": 375,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilly Uttapam",
+      "description": "An uttapam with lots and lots of cheese.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Madurai Sandwich Uttapam",
+      "description": "Twin layered specialty uttapam.",
+      "media": null,
+      "price": 315,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Tomato Masala Uttapam",
+      "description": "A delicacy prepared using the secretive method topped with vegetables.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Tomato Uttapam",
+      "description": "A delicacy prepared using the secretive method with tomatoes.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Panchavarna Uttapam",
+      "description": "Assortment of five different types of uttapam.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Corn Uttapam",
+      "description": "Jain specialty.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Keerai Uttapam",
+      "description": "Tossed french beans filled uttapam.",
+      "media": null,
+      "price": 295,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Amazing Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg American Chopsuey",
+      "description": "Crispy fried noodles, fresh vegetables cooked with a special sweet and sour sauce.",
+      "media": null,
+      "price": 250,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "description": "Soft noodles tossed with fresh vegetables and Chinese sauce.",
+      "media": null,
+      "price": 250,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Noodles",
+      "description": "Spicy soft noodles sauteed with vegetables in spicy schezwan sauce.",
+      "media": null,
+      "price": 275,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Fried Rice",
+      "description": "Spicy soft noodles sauteed with vegetables in spicy schezwan sauce.",
+      "media": null,
+      "price": 250,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Regular Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom and Onion Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Garlic Pepper Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baked Macaroni",
+      "description": "A very popular Italian baked dish made with boiled elbow macaroni in white sauce topped with cheese.",
+      "media": null,
+      "price": 255,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Milagai Podi Chips N Chips",
+      "description": "French fries with milagai podi.",
+      "media": null,
+      "price": 145,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Chips N Chips",
+      "description": "French fries with milagai podi.",
+      "media": null,
+      "price": 145,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Telangana Aloo",
+      "description": "Spicy tangy potato wedges tossed in a special masala.",
+      "media": null,
+      "price": 155,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Thool Pakoras",
+      "description": "Deep fried onion pakoras served steaming hot.",
+      "media": null,
+      "price": 155,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baked Corn Chilli",
+      "description": "Tender sweet corn kernels in white sauce flavored with green chillies and baked with lots of cheese.",
+      "media": null,
+      "price": 255,
+      "menuName": "Italian Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Augratin",
+      "description": "[Veg Preparation] A healthy recipe delivered by mixing dices of boiled vegetables with seasoned white sauce and baked cheese.",
+      "media": null,
+      "price": 255,
+      "menuName": "Italian Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Raita",
+      "description": "A cooling combination of yogurt with fresh tomatoes and cucumber and garnished with roasted cumin seeds.",
+      "media": null,
+      "price": 80,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Boondi Raita",
+      "description": "Deep fried lentil crumbs with seasoned creamy yogurt with fresh coriander.",
+      "media": null,
+      "price": 80,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Raita",
+      "description": "Dices of pineapple mixed with sweetened creamy hung curd served chilled.",
+      "media": null,
+      "price": 90,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "",
+      "media": null,
+      "price": 25,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fry Papad",
+      "description": "",
+      "media": null,
+      "price": 28,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Papad",
+      "description": "Papd with onion, tomato and special masala.",
+      "media": null,
+      "price": 55,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Salad",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rasam",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Appalam",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Poppodum",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Poppodum",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pachadi",
+      "description": "Curd mixed with diced vegetables.",
+      "media": null,
+      "price": 75,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sizzling Brownie with Ice Cream",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Dessert",
+      "slugs": [
+        "veg",
+        "reco-desserts",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-desserts",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesari",
+      "description": "The traditional South Indian suji halwa.",
+      "media": null,
+      "price": 195,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Dessert",
+      "slugs": [
+        "veg",
+        "reco-desserts",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-desserts",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sizzling Brownie",
+      "description": "Chocolate brownie with vanilla on a sizzler plate.",
+      "media": null,
+      "price": 185,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Dessert",
+      "slugs": [
+        "veg",
+        "reco-desserts",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-desserts",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutty Hot Fudge Sundae",
+      "description": "Chocolate and vanilla ice cream with hot fudge chocolate sauce mode from a special recipe.",
+      "media": null,
+      "price": 175,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Dessert",
+      "slugs": [
+        "veg",
+        "reco-desserts",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-desserts",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tri Color Jamaican Sundae",
+      "description": "Chocolate, vanilla and strawberry ice cream topped with fresh fruits, chocolate sauce and nuts.",
+      "media": null,
+      "price": 175,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Dessert",
+      "slugs": [
+        "veg",
+        "reco-desserts",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-desserts",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swiss Peak Tall Sundae",
+      "description": "A mix of ice cream and jellos with a different sauce and fresh fruits in tall glass.",
+      "media": null,
+      "price": 175,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Dessert",
+      "slugs": [
+        "veg",
+        "reco-desserts",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-desserts",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cassata",
+      "description": "The cake based ice cream.",
+      "media": null,
+      "price": 105,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Dessert",
+      "slugs": [
+        "veg",
+        "reco-desserts",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-desserts",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Ice Cream",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Ice Creams",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Ice Creams",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesar Pista Ice Cream",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Ice Creams",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Ice Cream",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Ice Creams",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butterscotch Ice Cream",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Ice Creams",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Fresh Lime Soda",
+      "description": "Sweet lime juice with soda water served chilled.",
+      "media": null,
+      "price": 75,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted Fresh Lime Soda",
+      "description": "Salted lime juice with soda water served chilled.",
+      "media": null,
+      "price": 70,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Fresh Lime Soda",
+      "description": "Salted lime juice with soda water served chilled.",
+      "media": null,
+      "price": 90,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh Fruit Juice",
+      "description": "Assorted seasonal fresh fruit juice served chilled.",
+      "media": null,
+      "price": 90,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mosambi Juice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Orange Juice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Juice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Apple Juice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ganga Jamuna Juice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coffee",
+      "description": "Frothy cream coffee served chilled.",
+      "media": null,
+      "price": 145,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coffee with Ice Cream",
+      "description": "Cold coffee with vanilla ice cream [1 scoop].",
+      "media": null,
+      "price": 175,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Icy Shake",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Icy Shake",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Icy Shake",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pina Colada",
+      "description": "A blend of pineapple juice with coconut cream.",
+      "media": null,
+      "price": 195,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Carribean Fruit Punch",
+      "description": "An exotic mocktails from fruit juices.",
+      "media": null,
+      "price": 195,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blue Sea Surfer",
+      "description": "Fizzy curacao with vanilla ice cream.",
+      "media": null,
+      "price": 195,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Litchi Fizz",
+      "description": "A frothy concoction of litchi juice and ice cream.",
+      "media": null,
+      "price": 195,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Neermor",
+      "description": "Authentic Indian beverage with blended yogurt.",
+      "media": null,
+      "price": 95,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chaas",
+      "description": "Authentic Indian beverage with blended yogurt.",
+      "media": null,
+      "price": 95,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ginger Tea",
+      "description": "Ginger flavored Indian tea.",
+      "media": null,
+      "price": 75,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Filter Coffee",
+      "description": "The specialty coffee from Mysore.",
+      "media": null,
+      "price": 75,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aerated Soft Beverage",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Assorted Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Milk",
+      "description": "The authentic Indian blend of yogurt with salt, coriander and cumin seeds.",
+      "media": null,
+      "price": 45,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Lassi",
+      "description": "A traditional North Indian beverage made by blending yogurt with sugar and a dash of fresh cream.",
+      "media": null,
+      "price": 125,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted Lassi",
+      "description": "A traditional North Indian beverage made by blending yogurt with salt and a dash of fresh cream.",
+      "media": null,
+      "price": 125,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Drooling Gauva",
+      "description": "A spicy beverage with guava flavor topped with salt, pepper and twist.",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fruit Mocktini",
+      "description": "Its a smooth mixture of vanilla, strawberry, mango, guava topped with dry cranberry.",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peanut Banana",
+      "description": "A healthy beverage having mixture of peanut butter and fresh banana.",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sunrise Mocktail",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Beach Mocktail",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mint Orange Mocktail",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blue Lagoon Mocktail",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pinnaco Mocktail",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peach Iced Tea",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Apple Iced Tea",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jasmine Iced Tea",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mint Iced Tea",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thick Choco Shake",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Thick Shakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brownie Thick Shake",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Thick Shakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oreo Crunch Thick Shake",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Thick Shakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Passion Mix Larger Thick Shake",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Thick Shakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Thick Shake",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Thick Shakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Thick Shake",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Thick Shakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Thick Shake",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Thick Shakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Passion Fruit Mango Smoothie",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Smoothies",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Berry Bingo Smoothie",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Smoothies",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Banana and Dry Fruits Smoothie",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Smoothies",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Mojito",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mint Mojito",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cranberry Mojito",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh Cucumber Mojito",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Melon Mojito",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Chocolate",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Hot Chocolate",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Hot Chocolate",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Hot Chocolate",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

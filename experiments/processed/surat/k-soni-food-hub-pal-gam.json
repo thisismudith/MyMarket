@@ -1,0 +1,1531 @@
+{
+  "basicInfo": {
+    "name": "K Soni Food Hub",
+    "cuisine_string": "Chinese, Fast Food, Sandwich, Pizza, Pasta, Beverages, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/k-soni-food-hub-pal-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "2.9",
+      "reviewCount": "19",
+      "reviewTextSmall": "19 Reviews",
+      "subtext": "19 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "2.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "yellow",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.4",
+      "reviewCount": "195",
+      "reviewTextSmall": "195 Reviews",
+      "subtext": "195 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.4",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Pal Gam, Surat",
+    "latitude": "21.1835064153",
+    "longitude": "72.7831196040",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1835064153,72.7831196040&maptype=zomato&markers=21.1835064153,72.7831196040,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "G 20, Marvela Business Hub, Opposite Pal RTO, Pal Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919924276767"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gravy Manchurian",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Manchurian",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Manchurian",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "rice",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "rice",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "rice",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "rice",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Rice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Singapuri Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "K Soni Special Rice",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Noodles",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "K Soni Special Noodles",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "noodle",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "noodle",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "K Soni Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot and Spice Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Punjabi Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulcha Pizza [8 inches]",
+      "description": "Rasila kulcha.",
+      "media": null,
+      "price": 260,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Punjabi Kulcha Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Kulcha Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thin Crust Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Kulcha [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chatpata Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "White Cheese Pasta",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Yellow Special Cheese Pasta",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Yellow Cheese Masala Pasta",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Yellow Double Cheese Masala Pasta",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "White Double Cheese Masala Pasta",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Yellow Lahsuni Cheese Pasta",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Pasta",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Chilli Pasta",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Cheese Pasta",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Double Cheese Pasta",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "K Soni Special Pasta",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Sandwich",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Cheese Butter Sandwich",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Roasted Cheese Mayo Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chutney Sandwich",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Sandwich",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Jam Sandwich",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Masala Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Masala Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Open Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maggi",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-late-night",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-late-night",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maggi Double Masala",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ginger Garlic Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Ginger Garlic Maggi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Vegetable Maggi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Maggi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mayo Maggi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Masala Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Peri Peri Masala Maggi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Masala Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mexican Masala Maggi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Masala Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Schezwan Masala Maggi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Maggi with Wafers",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Maggi with Wafers",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

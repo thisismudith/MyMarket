@@ -1,0 +1,2288 @@
+{
+  "basicInfo": {
+    "name": "Gangour",
+    "cuisine_string": "North Indian, Fast Food, Chinese, Sandwich, Street Food, Pizza, Beverages, Desserts",
+    "canonicalUrl": "https://www.zomato.com/surat/gangour-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "288",
+      "reviewTextSmall": "288 Reviews",
+      "subtext": "288 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "14K",
+      "reviewTextSmall": "14K Reviews",
+      "subtext": "14K Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1748153016",
+    "longitude": "72.8041213006",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1748153016,72.8041213006&maptype=zomato&markers=21.1748153016,72.8041213006,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "L1, Royal Palace, Ghod Dod Road, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919376744431"
+    },
+    "res_chain_text": "See all 12 Gangour outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/gangour",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Bhel",
+      "description": "Serves 1.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e23/09c52079a096ab19027350526f7eae23.jpg",
+      "price": 0,
+      "menuName": "Bhel ki Bahar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jhalmudi[Kolkata Special]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Bhel ki Bahar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sevpuri[5 Pcs]",
+      "description": "A spicy and tangy chaat snack from the streets of mumbai.",
+      "media": null,
+      "price": 0,
+      "menuName": "Bhel ki Bahar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Cheese Bhel",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Bhel ki Bahar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vada Pav",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cf3/c54243ed399022a4ff28a6abe5950cf3.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Vada Pav",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7ee/b8cc66a206d80cd8a8f0070ab26377ee.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Dabeli",
+      "description": "A tangy and sweet potato filling inside a pan tossed pav with butter, drizzled with spices and served with chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e06/d7e7211bcb6c123551a9b5a674bb4e06.JPG",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Dabeli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b80/18a4476585d60f35655454beabeeab80.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Locho",
+      "description": "A steamed surti snack prepared in butter served with green chilli, sev and chutney.Serves 1.",
+      "media": null,
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Locho",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Locho",
+      "description": "A steamed surti snack prepared in butter and cheese served with green chilli, sev and chutney. Serves 1.",
+      "media": null,
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Locho",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dry Manchurian",
+      "description": "|Serves 1|",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f12/7c9f49dee211b8a3973021b919baff12.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli",
+      "description": "A spicy and flavorful Chinese inspired dish made with paneer cubes and bell peppers in a spicy sauce. Perfect for satisfying your cravings for Chinese cuisine and spice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8ca/20740814f6bd1d4ef875fe6ba942f8ca.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Bhaji",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chhole Bhatura",
+      "description": "A combination of chana masala and 2 bhaturas, a deep-fried bread made from maida, accompanied with lasanaiya aloo sabji and spicy fry mirchi for a sizzling burst of hot flavors.",
+      "media": "https://b.zmtcdn.com/data/pictures/chains/6/3800536/fab9f073493fd71c4872c2ba7b6e458f.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Chhole Bhatura",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/pictures/chains/6/3800536/fab9f073493fd71c4872c2ba7b6e458f.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Bhatura(1 Pc)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/162/4f35077512863c163aa8e2b1602c2162.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Chole",
+      "description": "[Chef's Special]",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka",
+      "description": "[Chef's Special]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/caf/65a2ae720d7fea3f6c9519dfd2426caf.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Tikka",
+      "description": "[Chef's Special]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c52/2e21a37aaae019940b38e4e340b05c52.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pavbhaji (Butter)",
+      "description": "|Serves 1||A delightsome & flavourful butter bhaji & surti pav with salad. |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a87/9927810546fbf9a7f97530c1d9182a87.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Pavbhaji",
+      "description": "A twist on the classic Mumbai street food, made with a flavorful and spicy mixture of vegetables cooked in a spicy tomato based sauce and served with soft, buttery pav buns and topped with melted cheese for an extra creamy and indulgent twist. This dish is sure to satisfy your cravings for the flavors of India, your love of buttery goodness, and your love of cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a0f/5bd6bde3e17ddc64142b6c3aa011fa0f.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Pav ( 2 Pcs )",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tawa Pulao",
+      "description": "There is no jain option in this item",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b4e/9fd0771de2894f9f41149987653dcb4e.jpg",
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Litti Chokha",
+      "description": "Sattu and spice stuffed whole wheat balls served with spicy potato-tomato-eggplant bharta, litti chokha is a rustic delight from Bihar and Eastern UP.",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Kachori Chat",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/224/ac8c90be642c984d3d04533e19c8e224.jpg",
+      "price": 0,
+      "menuName": "Chat Bazaar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papdi Chat(Delhi Chat)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chat Bazaar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Vada(2 Pcs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chat Bazaar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Chat",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chat Bazaar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Basket Chat(Gangour Sp.Chat)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chat Bazaar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter",
+      "description": "A classic and comforting dish perfect for breakfast or a snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/da0/8882ddfed3471c7cc029dd3218c7fda0.jpeg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Sandwich",
+      "description": "Images used are for representation purposes only and do not indicate size, portion, quantity or color of the actual dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f5a/1ca5d62e4f7de87225482ae0c991bf5a.jpg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Bread Butter Cheese",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Cheese Sandwich",
+      "description": "Images used are for representation purposes only and do not indicate size, portion, quantity or color of the actual dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d6d/f3b0e76f790f83105a92063eac271d6d.jpg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Cheese Grill Sandwich (3 Bread)",
+      "description": "A dish consisting of three pieces of bread with a fillings of tomato, pepper, potato, onion and grated cheese with chat masala and grilled to make you drool.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a29/306c443417b3f19f37443192cbb8aa29.jpg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Cheese Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Cheese Bread",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Matka Grill Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c38/3cb9d58ee7e0e1b580409104c7d2bc38.jpg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilly Toast",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Makhani Sandwich",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Vada (Rajasthani)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Chilla",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilla",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aaloo Tikki(1 Pc)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chhole Tikki",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aaloo Chat",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pakoda(5 Pcs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala French Fries",
+      "description": "Golden brown strips of potato fried to crisp perfection and flavored with salt and masala served with delectable sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2be/f18c8c09fe01f994bdebcb3f5cdd62be.jpg",
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain French Fries",
+      "description": "Golden brown strips of potato fried to crisp perfection and flavored with salt; served with delectable sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/426/20e556a5a1df2021951e331855c94426.jpg",
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Fries",
+      "description": "A spicy twist on the classic fries, made with thin, crispy potatoes seasoned with a spicy peri peri masala. Perfect for satisfying your cravings for a spicy and satisfying snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2be/f18c8c09fe01f994bdebcb3f5cdd62be.jpg",
+      "price": 0,
+      "menuName": "Gangour Special Chaats",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Capsicum Cheese Pizza",
+      "description": "[Regular] A delectable medley of savory vegetables and creamy cheese atop a freshly baked crust.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/331/17d1a6c79e4230b958240e7ebd74c331.jpg",
+      "price": 0,
+      "menuName": "Pizza and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Cheese Pizza",
+      "description": "[Regular]",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Cheese Pizza",
+      "description": "[Regular]",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Cheese Pizza",
+      "description": "[Regular]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/870/5faa2f662b70afead153a96ce864d870.jpg",
+      "price": 0,
+      "menuName": "Pizza and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Cheese Pizza",
+      "description": "[Regular]",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Stuff Pizza",
+      "description": "[Regular]",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gangour Special Pizza",
+      "description": "[Regular]",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Decker Pizza",
+      "description": "[Regular]",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Cheese Frankie",
+      "description": "A popular Indian street food made with a tortilla wrap filled with a mixture of vegetables and cheese, grilled to perfection. A delicious and satisfying snack or meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fbc/b46bd22a0d1cc258f6b0e5f087e49fbc.jpg",
+      "price": 0,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Cheese Frankie",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/799/28c1e8d0b14ca3c04a26324ff5c13799.jpg",
+      "price": 0,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayonnaise Veg. Frankie",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Frankie",
+      "description": "A mouthwatering cheese and paneer blend in a soft bread wrap.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/404/126f5cbdca588641773ee9ff9ba04404.jpg",
+      "price": 0,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesar Malai Kulfi",
+      "description": "Images used are for representation purposes only and do not indicate size, portion, quantity or color of the actual dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/601/6e2057e1ef5d30c0f3688478ec7e0601.jpg",
+      "price": 55,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Malai Kulfi",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Badam Kulfi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/910/d3275485c27f8d589b498d214c5bc910.jpg",
+      "price": 65,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Anjeer Kulfi",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesar Gulab Kulfi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b75/266a43c45377917309cb02d64a1d3b75.jpg",
+      "price": 65,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Kulfi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/739/e1889c63b4e7ec6aefc4dcfbacf8d739.jpg",
+      "price": 65,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sitafal Kulfi",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pan Pasand Kulfi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/602/239f52c2e0cea24e5d2c82ea32bad602.jpg",
+      "price": 65,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thandai Kulfi",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gangour Sp.Rabdi Falooda",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Rabdi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dryfruit Rabdi",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sugar Free Kulfi",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gud ki Kulfi",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Kulfi Gangour Ki",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Makhaniya Lassi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f9/3c1862296400f8c8d6a7bef0703fe9f9.jpg",
+      "price": 90,
+      "menuName": "Cool Cool",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coco",
+      "description": "Cold coco is a dense, creamy and silky chocolate drink.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/87d/4502d183eea032e7d64887c7325a687d.jpg",
+      "price": 100,
+      "menuName": "Cool Cool",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ice Cream Coco",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Cool Cool",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Cold Coco",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d8c/68a3dfe837048df023ff439bb8c7ed8c.jpg",
+      "price": 130,
+      "menuName": "Cool Cool",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Chips Coco",
+      "description": "Rich, chocolatey beverage with a hint of coconut.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/239/b35a25cc082497f1dd99e54a3cf52239.jpg",
+      "price": 130,
+      "menuName": "Cool Cool",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Chhas",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Cool Cool",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Watermelon Juice",
+      "description": "A quick and delicious drink that goes well on any day made up of fresh watermelons.",
+      "media": null,
+      "price": 70,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Orange Juice",
+      "description": "The juice made by extraction of oranges, a perfect source for vitamin c for you.",
+      "media": null,
+      "price": 110,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Juice",
+      "description": "Pineapple juice is a liquid made from pressing the pulp of pineapple.",
+      "media": null,
+      "price": 100,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rasgulla Chilled(2 Pcs)",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gulab Jamun (2 Pcs)",
+      "description": "Soft, spongy and delicious Indian dessert served with a generous helping of sugar syrup.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f55/7fd39f15693483d9c612bb58928caf55.jpeg",
+      "price": 60,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesaria Jalebi(Plate)",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Imarti(Kangan)(Plate)",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rabdi Malpuwa(Plate)",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mung Dal Halwa",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesariya Jalebi [250 g]",
+      "description": "Jalebi is prepared by deep frying flour batter in desi ghee followed by dousing them into a fragrant sugar syrup. A carnival of flavors and textures swirling on your palate.",
+      "media": null,
+      "price": 160,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-mithai",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-mithai",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ghewar",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a9/7e736c1aa421e4a7caf8cac4bf9f75a9.jpg",
+      "price": 80,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malai Ghewar",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mendu Vada (4 Pcs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Dosa",
+      "description": "Crisp and long simple sada dosa served with sambar and chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f45/94dce17d5419744552e6aac41216af45.jpg",
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "Deliciously crispy dosa with a generous spread of fresh butter, spicy chutney and onions served with sambhar and chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eb8/adb1ecc1e320d8f428529dbe6216eeb8.jpg",
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Dosa",
+      "description": "South Indian speciality dosa served with coconut chutney and sambhar.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Cheese Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/315/9e93aac00767d1260dbb381336f03315.jpg",
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mysore Dosa",
+      "description": "Spicy dosa with grated cheese, a red chutney spread and masala folded in.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Masala Dosa",
+      "description": "Served with butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a0d/c084d17fa1d9618ee223a9a23dfb9a0d.jpg",
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Dosa",
+      "description": "Served with butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5f7/ac6da133a744f10dbbf993ad97a535f7.jpg",
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Uttapam",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Uttapam",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aaloo or Kela Paratha",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Paratha[With Curd]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobhi Paratha",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Paratha[With Curd]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Paneer Paratha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b55/db8f98efe6d99b391c9ddb0ee58d2b55.jpeg",
+      "price": 0,
+      "menuName": "Paratha[With Curd]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pepper Paratha",
+      "description": "A flavorful and spicy North Indian flatbread made with a mixture of soft paneer cubes and spicy peppers, rolled and cooked to perfection. A great choice for anyone looking for a satisfying and flavor packed meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b1e/fde9d9801e6cb47f75cfd1e3cbd5cb1e.jpg",
+      "price": 0,
+      "menuName": "Paratha[With Curd]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Paratha",
+      "description": "A deliciously satisfying vegetarian dish from the Punjab De Parathe category.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c87/48737d65ee519c08520ae143b877ec87.jpg",
+      "price": 0,
+      "menuName": "Paratha[With Curd]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Aloo Paratha",
+      "description": "A crispy, savory Punjabi flatbread stuffed with a tantalizing blend of potato and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e81/e8920b3cfcdf2663788d0401b45bbe81.jpg",
+      "price": 0,
+      "menuName": "Paratha[With Curd]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falahaari Sabudana Khichdi",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Falhari",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falahari Sabudana Vada",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Falhari",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falhari French Fry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Falhari",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falhari Dahi Vada",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Falhari",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

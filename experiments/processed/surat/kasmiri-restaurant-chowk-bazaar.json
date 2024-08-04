@@ -1,0 +1,2549 @@
+{
+  "basicInfo": {
+    "name": "Kasmiri Restaurant",
+    "cuisine_string": "North Indian, Mughlai, Chinese, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/kasmiri-restaurant-chowk-bazaar/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.2",
+      "reviewCount": "167",
+      "reviewTextSmall": "167 Reviews",
+      "subtext": "167 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.5",
+      "reviewCount": "5,992",
+      "reviewTextSmall": "5,992 Reviews",
+      "subtext": "5,992 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.5",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Chowk Bazaar, Surat",
+    "latitude": "21.1963686386",
+    "longitude": "72.8202802688",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1963686386,72.8202802688&maptype=zomato&markers=21.1963686386,72.8202802688,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "10/2336, Kamal Gali, Chowk Bazaar, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919978151411"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Chicken Clear Soup",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lemon Coriander Soup",
+      "description": "",
+      "media": null,
+      "price": 165,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Butter Garlic Soup",
+      "description": "",
+      "media": null,
+      "price": 165,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hot and Sour Soup",
+      "description": "",
+      "media": null,
+      "price": 165,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Special Kashmiri Soup",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "description": "Dark brown soup prepared with various vegetables, scallions, and chicken, thickened with broth and corn flour.",
+      "media": null,
+      "price": 180,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Kashmiri Dry",
+      "description": "[Chef's Special]",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli Dry",
+      "description": "Juicy chicken chunks dipped in seasoned batter, fried and then tossed in a spicy chilli sauce along with peppers and more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4b7/c72b26f83c446673e669863ba20574b7.jpg",
+      "price": 240,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchurian Dry",
+      "description": "Marinated, fried chicken tossed in Chinese sauces.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a5e/26e3afc24d50f1ba8f3074dd20f0aa5e.jpg",
+      "price": 240,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pepper and Salt",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Crispy",
+      "description": "Fried chicken season it with garlic salt, paprika and black pepper and some regular salt.",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lollipop Dry [6 Pieces]",
+      "description": "Everyones favourite home spiced chicken lollipop served straight from the tandoor.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cfc/d0483d2f08b950bc58ee301001f5ccfc.jpg",
+      "price": 265,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken 8 to 9 Dry",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Dry",
+      "description": "",
+      "media": null,
+      "price": 265,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lemon Chilli Dry",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dragon Chicken",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken 65 Dry",
+      "description": "Succulent chicken chunks dipped in a seasoned batter, fried to golden perfection and tossed in Chinese masala.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/98e/ed844761caa9d261a2c24dfc7860698e.jpg",
+      "price": 240,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken 65 Dry Pakora [250 grams]",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Smoke Coriander",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kote Cheese",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli Gravy",
+      "description": "",
+      "media": null,
+      "price": 205,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchurian Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a5e/26e3afc24d50f1ba8f3074dd20f0aa5e.jpg",
+      "price": 205,
+      "menuName": "Starters",
+      "categoryName": "Chinese Dry Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Dry",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Starters",
+      "categoryName": "Veg Chinese Starters",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Manchurian Dry",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Starters",
+      "categoryName": "Veg Chinese Starters",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Dry",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Starters",
+      "categoryName": "Veg Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Gravy",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "Starters",
+      "categoryName": "Veg Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 215,
+      "menuName": "Starters",
+      "categoryName": "Veg Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Pahadi Tandoori",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5f8/90c7f8ae1b66cbaa82862384799395f8.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Afghani Tandoori",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pathani Tandoori",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Leg Piece [1 Piece]",
+      "description": "Irresistibly juicy and crispy chicken leg piece fried to perfection; served with a dip.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/633/00a1aaeadc8c1e0777d6d1e0f01ae633.jpg",
+      "price": 170,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pahadi Leg",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Winter Leg Piece",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Leg",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pathani Leg",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Dry",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pahadi Tikka Dry [8 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malai Tikka [8 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Reshmi Tikka",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lasania Tikka [8 Pieces]",
+      "description": "Is made with succulent chunks of chicken marinated in a generous amount of garlic and a few seasonings.",
+      "media": null,
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tiranga Tikka [12 Piece]",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Seekh Kabab [8 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ccb/f855a51f876ab73f4e3728e2ec1b3ccb.jpg",
+      "price": 280,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Achari Tandoori",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5f8/90c7f8ae1b66cbaa82862384799395f8.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Dry [8 Pieces]",
+      "description": "Fire-roasted boneless chicken on skewers flavored with yogurt and spices - perfect appetizer to tickle your taste buds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/de5/aa14efc86f42e0c6d72c16cbc878ade5.jpg",
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Achari Tikka Dry [8 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kurkure [20 Pieces]",
+      "description": "Deep fried chicken saucy starter makes your taste buds crave for.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d93/af3faebd6c5e2d2a10f27d33dd9e3d93.jpg",
+      "price": 320,
+      "menuName": "Starters",
+      "categoryName": "Mughlai Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malai Kurkure [20 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f44/69592e048ca34137392b29f8905f0f44.jpg",
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Mughlai Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Stick Sizzler",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Sizzlers",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chinese Sizzler",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Sizzlers",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Thali [Serves 6]",
+      "description": "Welcome Beverage+Welcome Soup+Chicken Kabab [18 Pieces]+Mutton Gravy+Chicken Gravy+Chicken Bon Chilli Black+Chicken Mandi Rice+6 Butter Lachha Paratha+6 Laban [One Time]+Salad/6 Papad+Mineral Water",
+      "media": null,
+      "price": 2650,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Thali [Serves 4]",
+      "description": "Welcome Beverage+Welcome Soup+Chicken Kabab [12 Pieces]+Mutton Gravy+Chicken Gravy+Chicken Bon Chilli Black+Chicken Mandi Rice+4 Butter Lachha Paratha+6 Laban [One Time]+Salad/4 Papad+Mineral Water",
+      "media": null,
+      "price": 1750,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Thali [Serves 3]",
+      "description": "Welcome Beverage+Welcome Soup+Chicken Kabab [3 Pieces]+Mutton Gravy+Chicken Gravy+Chicken Bon Chilli Black+Chicken Mandi Rice+3 Butter Lachha Paratha+3 Laban [One Time]+Salad/3 Papad+Mineral Water",
+      "media": null,
+      "price": 1250,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "description": "Is a delicious, creamy and flavorful Indian dish made by grilling paneer and then simmering it in a masala gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e49/486cda9fae03c59c0891705739bcbe49.jpg",
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kadai",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/196/2e0675c55aaf27e06ae018c5a532c196.jpg",
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Paneer",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Makhanwala",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kadai",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "Yellow gram with a sizzling touch of onion and garlic.",
+      "media": null,
+      "price": 155,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Dal Fry",
+      "description": "",
+      "media": null,
+      "price": 165,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry Tadka",
+      "description": "Yellow lentils, garlic, green chilli, coriander leaves and cumin seeds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be6/f9573e36ed0b177ddbb2e25c39761be6.jpg",
+      "price": 165,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "pair-with-bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Masala",
+      "description": "Made with boiled eggs, onions, tomatoes, whole spices and spice powders.",
+      "media": null,
+      "price": 190,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "egg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "pair-with-bread",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Curry",
+      "description": "Eggs cooked in a spicy and tangy curry. Best savoured with steamed rice.",
+      "media": null,
+      "price": 180,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "egg",
+        "pair-with-bread",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "pair-with-bread",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Keema",
+      "description": "Flavorful recipe made from minced hardboiled eggs, onions, tomatoes, and spices.",
+      "media": null,
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhurji",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chilli Chicken Gravy",
+      "description": "",
+      "media": null,
+      "price": 205,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchurian Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a5e/26e3afc24d50f1ba8f3074dd20f0aa5e.jpg",
+      "price": 205,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Omelette",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "egg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "reco-snacks",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Special Mughlai Gravy",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Murgh Musllam [Full]",
+      "description": "",
+      "media": null,
+      "price": 620,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Murgh Musllam [Half]",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Masala",
+      "description": "Dish made with chicken, spices, herbs, onions and tomatoes.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b74/626028d2e654e3618170f27f5ae04b74.jpg",
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kadai",
+      "description": "",
+      "media": null,
+      "price": 245,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Chicken Afghani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d38/4870e9d3a518aa380ee88a54aaf8fd38.jpg",
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Chicken Russian Roasted",
+      "description": "",
+      "media": null,
+      "price": 289,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lazeez",
+      "description": "",
+      "media": null,
+      "price": 239,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Leg Masala",
+      "description": "Chicken leg fried and cooked in tomato - onion and garlic and ginger-based and various spices that is simmered until smooth.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7cf/d9543d07d2df54d677eed179f05217cf.jpg",
+      "price": 245,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lucknowi",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tawa Masala Boneless",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b74/626028d2e654e3618170f27f5ae04b74.jpg",
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Gavthi",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chatpata",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Bhuna Boneless",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Mughlai Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli Bon Black [250 g]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Chef Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken Bon",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chef Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Chicken Tikka",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Chef Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Rozali Tikka",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Chef Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Nawabi",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Chef Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Maratha",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Chef Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kofta",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Chef Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malai Kofta",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Chef Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Plain Tandoori Roti",
+      "description": "",
+      "media": null,
+      "price": 24,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Butter Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e86/742073de585631c57907af65b43ade86.jpg",
+      "price": 27,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Tandoori Naan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7c6/43da00c59839342a9c540cc89cf0e7c6.jpg",
+      "price": 62,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "restaurant-recommended",
+        "bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "restaurant-recommended",
+        "bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Butter Naan",
+      "description": "",
+      "media": null,
+      "price": 42,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Paratha",
+      "description": "",
+      "media": null,
+      "price": 62,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paratha",
+      "description": "",
+      "media": null,
+      "price": 42,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Lachha Paratha",
+      "description": "",
+      "media": null,
+      "price": 47,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Lachha Paratha",
+      "description": "",
+      "media": null,
+      "price": 52,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Kulcha",
+      "description": "",
+      "media": null,
+      "price": 47,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Kulcha",
+      "description": "Flat bread recipe prepared mainly with all purpose flour and flavoured with black sesame seeds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/60a/a814a3b0f85917c8c13b57d53699660a.jpg",
+      "price": 52,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 52,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 57,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Cheese Naan",
+      "description": "",
+      "media": null,
+      "price": 67,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Cheese Naan",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Cheese Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 92,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Cheese Garlic Naan",
+      "description": "Flatbread made of a mix of wheat flour and all-purpose flour (maida) layered with butter garlic paste.",
+      "media": null,
+      "price": 92,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9c/819490ee9d87fc94ff3af97d773c5b9c.jpeg",
+      "price": 135,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Made by cooking basmati rice with ghee, cumin & other fragrant spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f76/b0ec5a042020ce7fdbebd255f91ccf76.jpeg",
+      "price": 145,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Pulao",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bed/3b5a8879419fa74a32c6726470ab9bed.jpeg",
+      "price": 110,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "non-veg",
+        "reco-rice",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-rice",
+        "home-style-meal",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Pulao",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Pulao",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Biryani",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Biryani",
+      "description": "Deliciously decadent flavored dum rice layered with spicy chicken tikka and Indian whole spices cooked in a.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f88/11ce5b226ed12e5c2eaa77db82383f88.jpeg",
+      "price": 260,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Biryani",
+      "description": "A delightful preparation of richly flavored aromatic rice layered with marinated chicken pieces in a delicate blend of whole spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/309/021d9e3c65e7b96771ddd8233392e309.jpeg",
+      "price": 180,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": "Wholesome stir-fried rice topped with juicy chicken chunks and grated vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8ee/0c9a3ba255860848c447e2ae16b2f8ee.jpeg",
+      "price": 230,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Fried Rice",
+      "description": "Mildly spicy, hot and delicious chicken fried rice with soft and tender chicken chunks.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9c7/0cd63cc54d4c92eee0eec13b060499c7.jpeg",
+      "price": 240,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/acd/22efcebb1cddb45728839df4aee9eacd.jpeg",
+      "price": 230,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hong Kong Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4eb/9e1fd3b61632b59e33687b3b1492f4eb.jpeg",
+      "price": 240,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Triple Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 315,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hot Pot Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 315,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": "Simple, aromatic, and healthy meal of scrambled eggs stir fried with rice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/47e/457fa26075ee6191e2769d6caf63b47e.jpeg",
+      "price": 220,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Schezwan Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9c7/0cd63cc54d4c92eee0eec13b060499c7.jpeg",
+      "price": 230,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Combination Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 305,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pizza Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 315,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lollipop Khabsa Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Khabsa Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Special Kasmiri Noodles",
+      "description": "[Chef's Special]",
+      "media": null,
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Noodles",
+      "description": "Delectable noodles tossed along with assorted fresh veggies, chicken, schezwan sauce and spices perfect to satisfy your hunger.",
+      "media": null,
+      "price": 240,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Noodles",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hong Kong Noodles",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Non Veg Chilli Garlic Noodles",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

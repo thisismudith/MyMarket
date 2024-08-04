@@ -1,0 +1,487 @@
+{
+  "basicInfo": {
+    "name": "Mahesh Bhandari Chicken Center",
+    "cuisine_string": "North Indian",
+    "canonicalUrl": "https://www.zomato.com/surat/mahesh-bhandari-chicken-center-1-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.0",
+      "reviewCount": "8",
+      "reviewTextSmall": "8 Reviews",
+      "subtext": "8 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.6",
+      "reviewCount": "894",
+      "reviewTextSmall": "894 Reviews",
+      "subtext": "894 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.6",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1902448031",
+    "longitude": "72.7960267290",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1902448031,72.7960267290&maptype=zomato&markers=21.1902448031,72.7960267290,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "17-A, Near Prem Khaman House, Adajan Char Rasta, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919558699288"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Akhani",
+      "description": "two small size bowl Quantity for One Or Two Persons.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0be/5966ce36c100918c5612088fcf2370be.jpg",
+      "price": 77,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Green Chicken",
+      "description": "Green chicken is a delicious Indian dish made by simmering chicken in green paste and spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3ed/f28a2bb8dfee59fd4b5f60d09e8263ed.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "starter",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "starter",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kaleji",
+      "description": "Kaleji masala or chicken liver masala is a semi-dry preparation and is a simple dish made with onion & tomato gravy with some simple dry spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1d1/8d6d4b5e07b4bc08b030d2e47bbe11d1.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cheese Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b1f/1da4bb7cf5348398268efb6ad62c6b1f.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "signature",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "signature",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Fry",
+      "description": "Mutton fry is a crispy and spicy fusion of perfectly cooked meat with salt, turmeric powder and ginger garlic paste in a pressure cooker.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a32/7dc64cdf657caf0cf399b1fce08c5a32.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "bestseller-dinner",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-dinner",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Mamna Fry",
+      "description": "Mutton mamna fry is a crispy and spicy fusion of perfectly cooked meat with salt, turmeric powder and ginger garlic paste in a pressure cooker.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e91/40f69a69bdf50a7a70db37b826b05e91.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Roasted Chicken [4 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Fry [12 Pieces, Serves 1]",
+      "description": "Marinated with chutney.",
+      "media": null,
+      "price": 172,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Masala",
+      "description": "Chicken masala is a simple Indian dish made with chicken, spices, herbs, onions and tomatoes.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4db/426f2c1fe36ac636a8486df0126774db.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kaleji",
+      "description": "Kaleji masala or chicken liver masala is a semi-dry preparation and is a simple dish made with onion & tomato gravy with some simple dry spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1d1/8d6d4b5e07b4bc08b030d2e47bbe11d1.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Masala",
+      "description": "Delicious, soft tender chunks of lamb meat in Indian style spiced onion tomato gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9a8/bc8e53558faad6ea1d1e46bff32369a8.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "pair-with-bread",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Bheja Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/038/5883b5b5c9f7b85aced33b1c0d8df038.jpg",
+      "price": 253,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken",
+      "description": "Bonless chicken pieces with pujabi style gravy having mixed butter",
+      "media": null,
+      "price": 249,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Keema Gravy [Serves 1]",
+      "description": "Crushed gravy mutton.",
+      "media": null,
+      "price": 173,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Plain Rice",
+      "description": "Quantity for one person",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Quantity for one person",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Rice",
+      "description": "Quantity for one person",
+      "media": "https://b.zmtcdn.com/data/dish_photos/187/a4b48ab87ba856a52250d1286b934187.jpg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Keema Rice",
+      "description": "Quantity for one person",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c81/77e434a4550e9d1025ae030fc7868c81.jpg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "rice",
+        "signature",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "rice",
+        "signature",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Long Bread (1 pieces)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f2f/36a879258a2d991a5a5b877f83f97f2f.jpg",
+      "price": 6,
+      "menuName": "Breads And Roti",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roti",
+      "description": "Ghau roti (chapati)",
+      "media": null,
+      "price": 14,
+      "menuName": "Breads And Roti",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Water(200ml)",
+      "description": "",
+      "media": null,
+      "price": 13,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Cold Drinks",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

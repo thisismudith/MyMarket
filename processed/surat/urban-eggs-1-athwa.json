@@ -1,0 +1,5458 @@
+{
+  "basicInfo": {
+    "name": "Urban Eggs",
+    "cuisine_string": "Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/urban-eggs-1-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "12",
+      "reviewTextSmall": "12 Reviews",
+      "subtext": "12 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "2,196",
+      "reviewTextSmall": "2,196 Reviews",
+      "subtext": "2,196 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395001",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1752830000",
+    "longitude": "72.8058900000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1752830000,72.8058900000&maptype=zomato&markers=21.1752830000,72.8058900000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 3, CS 2012, Rangila Park Char Rasta, Ghod Dod Road, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917434826745"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Butter Chicken Bolless",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken [Boneless]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a1f/f0f116e318acc44640bbe90e4d09ea1f.jpeg",
+      "price": 440,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken [Bone]",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cheese Angoori",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Angara",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Gauty",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hariyali Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/090/62abaa8653504a3e1266dc6900c5f090.jpeg",
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hydrabadi",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kadhai Masala",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Keema",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kolhapuri",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Rogan Josh",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tawa Masala",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef1/05cb9f853502b1e985def81843d8def1.jpeg",
+      "price": 400,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "A comforting and delicious preparation made with mixed dal cooked and tempered with onions, chillies and more in pure ghee.",
+      "media": null,
+      "price": 200,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Palak",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "Delicious lentil curry enriched with a tempering of spices and cumin seeds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/396/ca333af64704ecf9201c77a496d99396.jpeg",
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Sizzling Chicken Masala",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jeera Aloo",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Chicken Masala",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mix Veg",
+      "description": "Mix veg curry is made by cooking a mixture of vegetables together in a traditional Indian onion tomato gravy.",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Keema",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Masala",
+      "description": "Mushroom prepared in creamy, mildly tangy gravy of tomato, onion and spices.",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Paneer",
+      "description": "An earthy spinach based gravy recipe that uses mild spices mixed together with Indian cottage cheese pieces topped with cream.",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Angara",
+      "description": "Indian cottage cheese simmered in a spicy onion and tomato gravy.",
+      "media": null,
+      "price": 360,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhurji",
+      "description": "Hand crushed cottage cheese tempered with onions, tomatos and green chillies with spices.",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "A wholesome food served along with a creamy paneer butter masala perfect to satiate your cravings.",
+      "media": null,
+      "price": 320,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kadhai Masala",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lawabdar",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pasanda",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "description": "A creamy dish with soft paneer chunks cooked in a rich tomato gravy seasoned with spices and butter.",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Toofani",
+      "description": "Indian cottage cheese simmered in a spicy onion and tomato gravy.",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Diwan-E-Handi",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kadai",
+      "description": "A flavorful preparation with paneer cooked in onion tomato gravy. It must have for veg lovers.",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Keema Masala",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kheema Masala",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kolhapuri",
+      "description": "Veg kolhapuri is Indian curry consisting of mixed vegetables in thick spiced gravy.",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Lajwab",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Lasooni Palak",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b5/21337414c80e2e40135e67f07ec975b5.jpeg",
+      "price": 300,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Noodles",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Noodles",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Schezwan Noodles",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Singapuri Noodles",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "description": "Delectable stands of soft noodles tossed with assorted chopped veggies and hakka sauces, perfect entry to satiate your cravings.",
+      "media": null,
+      "price": 250,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Noodles",
+      "description": "The spicy schezwan sauce and hakka noodles is made with soy sauce along with veggies.",
+      "media": null,
+      "price": 250,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Singapuri Noodles",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4fc/a9d2f6b7dbbb57b3fb3b8c633c8ef4fc.jpeg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchurian",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pahadi Tikka",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka",
+      "description": "Chicken tikka is a chicken based dish which originated in south asia.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e5c/cf244e22d3b9111a20b0b529170e2e5c.jpeg",
+      "price": 400,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Malai Chicken Tikka",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilli",
+      "description": "Delectable mushrooms cooked in a spicy and tasty chilli sauce - perfect dish to satisfy your cravings.",
+      "media": null,
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Gravy",
+      "description": "Paneer based Chinese dish, cooked in spices of garlic and ginger with chilly. It is one of our bestsellers.",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Peri-Peri Tikka",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka",
+      "description": "Paneer marinated in lemon juice, dahi, Kashmiri lal mirch, salt, garam masala and ginger garlic paste, placed in tandoor for smoky flavour, garnished with chat masala and tandoori masala.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e02/d71c173e5356c407c56ca6843d888e02.jpeg",
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Potato",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Mushroom Tikka",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Crispy",
+      "description": "The mix vegetables is fried in such a way that the skin is extremely crunchy, but inside vegetables are soft and juicy. Cooked with schezwan sauce and bell peppers.",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Dry",
+      "description": "Indo Chinese dish, deep fried vegetable balls tossed in Chinese sauces.",
+      "media": null,
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Gravy",
+      "description": "Veg Manchurian gravy recipe has a sauce or gravy in which the fried veggies balls are tossed and dunked.",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Manchurian",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Rice",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Special Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5e6/53eac2e545b6a3a8344ba753311675e6.jpeg",
+      "price": 380,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": "A slightly spicy dish made by tossing eggs and rice in a flavorful sauce.",
+      "media": null,
+      "price": 250,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pepper Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Schezwan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Singapuri Rice",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "A deliciously aromatic and flavorful dish made from stir fried mixed vegetables and aromatic rice.",
+      "media": null,
+      "price": 250,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Fried Rice",
+      "description": "A flavor packed dish with aromatic rice tossed along with veggies and schezwan sauce perfect to accompany any side dish.",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Singapuri Rice",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Triple Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Urban Special Rice",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Chinese Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Chapati Roti",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Rotis",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Chapati Roti",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Rotis",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Apple Delight Mocktail",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscoff Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/76f/01fff8c191f9b49af38cdff18513076f.jpeg",
+      "price": 270,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cranberry Mojito",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ferrero Rocher Shake",
+      "description": "A unique taste experience of contrasting layers, a whole crunchy hazelnut in the heart, a delicious creamy hazelnut filling, a crisp wafer shell covered with chocolate and gently roasted pieces.",
+      "media": null,
+      "price": 310,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh Fruit Punch Mocktail",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Apple Mojito",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cf0/fcfb1bcf1e3e84d3f9c35a9fed968cf0.jpeg",
+      "price": 230,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kitkat Shake",
+      "description": "A crunchy and creamy milkshake made by blending wholesome milk with delectable kitkat and refreshing ice cream serves for 1.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7e7/211e36359a06de5f72edb9e415ca37e7.png",
+      "price": 260,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kiwi Fresh Punch Mocktail",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kiwi Lemonade",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mint Mojito",
+      "description": "A refreshing burst of mint and lime, perfect for a light and flavorful meal.",
+      "media": null,
+      "price": 230,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Shake",
+      "description": "Everyone all time favourite a classic blend of nutella and milk.",
+      "media": null,
+      "price": 270,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oreo Shake",
+      "description": "A refreshing milkshake prepared with chocolate, oreo crumbs and wholesome milk - perfect to satisfy your cravings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/41b/0e02e52ff27b103ad8a887b25811141b.jpeg",
+      "price": 230,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salty Classic Lemonade",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5bf/6101c4eec9b881489565d09a2fc875bf.jpeg",
+      "price": 130,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Snickers Shake",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Desire Mocktail",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Lemonade",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Classic Lemonade",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5bf/6101c4eec9b881489565d09a2fc875bf.jpeg",
+      "price": 130,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Watermelon Mojito",
+      "description": "A refreshing and fruity beverage perfect for any summer occasion.",
+      "media": null,
+      "price": 230,
+      "menuName": "Drinks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Cheese",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fry Papad",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Papad",
+      "description": "A crispy, flavorful vegetarian bite with a tantalizing mix of spices.",
+      "media": null,
+      "price": 80,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "Crispy and flavorful Indian appetizer with a smokey roasted taste.",
+      "media": null,
+      "price": 50,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Broccoli Soup",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Hot & Soure",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Khow Suey Soup",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lemon Coriender",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Manchow Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Lemon Coriander Soup",
+      "description": "A refreshing soup bursting with zesty lemon and fragrant coriander flavors.",
+      "media": null,
+      "price": 170,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Chilli Beans Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Basil Soup",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Broccoli Almond Soup",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hot & Soure",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Khow Suey Soup",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "description": "A comforting Chinese style thick soup filled with boiled vegetables.",
+      "media": null,
+      "price": 170,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Burnt Rice",
+      "description": "",
+      "media": null,
+      "price": 335,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": "A slightly spicy dish made by tossing eggs and rice in a flavorful sauce.",
+      "media": null,
+      "price": 300,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Hakka Noodle",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8d3/6416a2020bf461821acd9413326298d3.jpg",
+      "price": 300,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Mushroom Rice",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pepper Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Singapore Noodles",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sinrapore Rice",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sizwan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sizwan Noodle",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Spinach Rice",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tripal Sizwan Rice",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Urban Sp Rice",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Mexican Rice",
+      "description": "Mexican rice is a one pot dish, lightly spiced and has corn, tomato, garlic, onion and jalapeno.",
+      "media": null,
+      "price": 350,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Burnt Garlic Rice",
+      "description": "",
+      "media": null,
+      "price": 375,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mushroom Rice",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Spinach Rice",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sauteed Veggie Rice",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Rice",
+      "description": "Aromatic and flavorful rice dish with a hint of exotic Singaporean spices.",
+      "media": null,
+      "price": 290,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sizwan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tripal Sizwan Rice",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Urban Sp Rice",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "A deliciously aromatic and flavorful dish made from stir fried mixed vegetables and aromatic rice.",
+      "media": null,
+      "price": 270,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hakka Noodale",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Singapore Noodle",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sizwan Noodle",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Rice & Noodles Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salt & Pepper Boiled Eggs (4 Pcs)",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Boiled Eggs",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/021/30f77de95d432952a45c73f21e8c9021.jpeg",
+      "price": 200,
+      "menuName": "Indian Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steam Rice",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Indian Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Kulcha",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paratha",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Naan",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Naan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/06c/a360ebb3439dba0b7e7d1b5614d8706c.jpeg",
+      "price": 120,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Laccha Paratha",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Kulcha",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Naan",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Paratha",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roti Butter",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roti Plain",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Naan",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Paratha",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Indian Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Garlic Bread",
+      "description": "Crusty garlic baguette baked with cheese, everyones favorite a must try.",
+      "media": null,
+      "price": 280,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Chilli Toast",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Club Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Grild Sandwich",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Spinach Cheese Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Paneer Spinach Cheese Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Chilli Toast",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Club Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Club Sandwich",
+      "description": "Fresh bread stuffed with crunchy vegetables ,butter and chutney.",
+      "media": null,
+      "price": 200,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "Soft and fluffy rotis topped with a generous serving of butter.",
+      "media": null,
+      "price": 30,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Egg Masala Papad",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Masala Papad",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Extra Cheese",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fry Papad",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Papad",
+      "description": "A crispy, flavorful vegetarian bite with a tantalizing mix of spices.",
+      "media": null,
+      "price": 80,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pav (2 Pcs)",
+      "description": "2 Extra peices of pav to go along with your pav bhaji order.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2a2/434ba47221fc702bd7ca95874783f2a2.jpg",
+      "price": 20,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Roti",
+      "description": "A variety of Indian flat bread, made from wheat flour on tawa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7e2/9c3064ffad994a3e30024f7d1339e7e2.jpeg",
+      "price": 20,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "Crispy and flavorful Indian appetizer with a smokey roasted taste.",
+      "media": null,
+      "price": 50,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Anda Bhurji (2 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Curry Green Ghotala (3 Eggs)(4pav)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3af/0252c041632b5cfdf6088853d4f2b3af.jpg",
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Curry (2 Eggs)(4pav)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3af/0252c041632b5cfdf6088853d4f2b3af.jpg",
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Goti Green Ghotala (3 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Green Half Fry (2 Eggs)(4pav)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8ab/29f147c47a59535c4a50673a89db48ab.jpg",
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Green Keema (3 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Green Khima(4 PAV)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Kachu Paku (2 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Katki Keema (2 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Lachka Urban Special (3 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Lahori Urban Special (3 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Red Half Fry (2 Eggs)(4pav)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e98/cb4135b475e7006dcad23ede0e0ffe98.jpg",
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Red Keema (3 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Sada Half Fry (2 Eggs)(4pav)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d81/a42abe6ef4c72e0801b11befd7d79d81.jpg",
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Sada Green Ghotala (3 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Urban Special Egg Kofta (3 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Keema Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Spinach Cottage Cheese Omelette (2 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 305,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Veg Stuffed Omelette (2 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 265,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Baby Omelette (2 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boil Egg Fry (3 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boil Omelette (2 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boiled Egg Salad (4 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Cheese Boil Egg Starter (3 Eggs)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/376/fba2f31f0e6ef83c63096642b8951376.jpg",
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Boil (3 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Omelette (2 Eggs)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6dd/19bc3eada67bd8260d49465938dad6dd.jpeg",
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cutlets (2 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sandwich (2 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Spring Roll (3 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Nimbu Mari Omelette (3 Eggs)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d13/35a5a482202be1b9e5c89fffdf7b1d13.jpg",
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Pepper Omelette (3 Eggs)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f29/278cae021c1d82f2f155a9604c9aff29.jpg",
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Punjabi Omelette (3 Eggs)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f29/278cae021c1d82f2f155a9604c9aff29.jpg",
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Sada Half Fry (2 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Alfredo Pasta",
+      "description": "",
+      "media": null,
+      "price": 375,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Arraibata Pasta",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pesto Pasta",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pink Sauce Pasta",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Veg Alfredo Pasta",
+      "description": "",
+      "media": null,
+      "price": 335,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Arraibata Pasta",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pesto Pasta",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pink Sauce Pasta",
+      "description": "",
+      "media": null,
+      "price": 375,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Exotic Pizza",
+      "description": "9 Inches",
+      "media": null,
+      "price": 460,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "egg"
+      ]
+    },
+    {
+      "name": "Farm Fresh Veggie Pizza",
+      "description": "9 Inches",
+      "media": null,
+      "price": 240,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Supreme Pizza",
+      "description": "9 Inches",
+      "media": null,
+      "price": 380,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "All time favourite margherita pizza is typical neopolitan pizza full of cheese and sauce.",
+      "media": null,
+      "price": 305,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Bhurji Rice (2 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Biryani (4 Eggs)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8f8/3288fc5024918eee150789f521ee38f8.jpeg",
+      "price": 0,
+      "menuName": "Rice Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Biryani(4 Egg) With Gravy(2 Egg)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pahadi Rice (6 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pulav (3 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rabdi Rice (4 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Russian Rice (5 Eggs)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/39a/15ba00f895587bcba7f9b42c1f95239a.jpg",
+      "price": 0,
+      "menuName": "Rice Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Singapuri Rice (4 Eggs)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Veg Biryani",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Balck Pepper Mushroom Salad",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Grilled Salad",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Exotic Sauteed Veggie Salad",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1e6/60aedfbd24f99b02218fd66177a3f1e6.jpg",
+      "price": 275,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Black Pepper Mushroom Salad",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Grilled Salad",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spinach Cottage Cheese Salad",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Cheese Balls",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "Potato fingers deep fried until golden brown and crisp. Topped with salt and served with ketchup.",
+      "media": null,
+      "price": 160,
+      "menuName": "Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato Veggies",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Fry Egg (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Australian Fry (4 Eggs)(6pav)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cef/dbea30691bff99244e7e033f8ba33cef.jpg",
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boiled Egg Tikka Masala (3 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Curried Egg Dosa (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Dhamaka Egg (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg 555 (4 Eggs)(6pav)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/897/3bb615c5f2fa1ca5d25392c46d527897.jpg",
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bahubali Green (4 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhool Bhulaiya (4 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cutlet Green Curry (5 Eggs)(6pav)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b64/37f3a972e133333def2e83bcec8aeb64.jpg",
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cutlet Red Curry (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dosa (4 Eggs)(4pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Hum Tum (4 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kabab (6 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lajawab (7 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Laziz (4 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rabdi (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rajwada (8 Eggs)(8pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rajwadi Green (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rajwadi Red (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Ravaiya Green (4 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rrr (12 Eggs)(12pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Special Lahori (6 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Special Tadka (8 Eggs)(8pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tikhari (6 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tiranga Fry (6 Eggs)(6pav)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/668/098755b92fa5d77eebe993e932e02668.jpg",
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "One Two Ka Four (8 Eggs)(8pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Punjabi Egg Oneton Green (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Punjabi Egg Oneton Red (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Red Egg Pamphlet (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Royal Fry Egg (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Russian Egg (5 Eggs)(6pav)",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Urban Egg Special Surti",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Mushroom Basil Wrap",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Peri Peri Wrap",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Wrap",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Mexican Wrap",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mushroom Basil Wrap",
+      "description": "",
+      "media": null,
+      "price": 335,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Peri Peri Wrap",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spinach Cottage Cheese Wrap",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Veggie Wrap",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Frappe",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazlenut Frappe",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Irish Frappe",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Frappe",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Urban Special Coffee",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kiwi Lemonade",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Lemonade",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salty Classic Lemonade",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5bf/6101c4eec9b881489565d09a2fc875bf.jpeg",
+      "price": 130,
+      "menuName": "Lemonade",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Lemonade",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Lemonade",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Classic Lemonade",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5bf/6101c4eec9b881489565d09a2fc875bf.jpeg",
+      "price": 130,
+      "menuName": "Lemonade",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscoff Shake",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ferrero Rocher Shake",
+      "description": "A unique taste experience of contrasting layers, a whole crunchy hazelnut in the heart, a delicious creamy hazelnut filling, a crisp wafer shell covered with chocolate and gently roasted pieces.",
+      "media": null,
+      "price": 310,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kitkat Shake",
+      "description": "A crunchy and creamy milkshake made by blending wholesome milk with delectable kitkat and refreshing ice cream serves for 1.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7e7/211e36359a06de5f72edb9e415ca37e7.png",
+      "price": 280,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Shake",
+      "description": "Everyone all time favourite a classic blend of nutella and milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/70e/eaf846ffb3971340746a106cdf2ea70e.jpeg",
+      "price": 300,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oreo Shake",
+      "description": "A refreshing milkshake prepared with chocolate, oreo crumbs and wholesome milk - perfect to satisfy your cravings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/81d/2f17954a0487dd7cb7ebfa1509f1181d.jpeg",
+      "price": 250,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Snickers Shake",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blueberry Smoothie",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Smoothie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cranberry Smoothie",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Smoothie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Smoothie",
+      "description": "Smoothie made with fresh mango and added flavors, very soothing in summers.",
+      "media": null,
+      "price": 300,
+      "menuName": "Smoothie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mulberry Smoothie",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Smoothie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Raspberry Smoothie",
+      "description": "A refreshing blend of fruity goodness to brighten your day.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4b6/794c1a662203d2e7296514f7597364b6.jpeg",
+      "price": 320,
+      "menuName": "Smoothie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Smoothie",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Smoothie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Apple Delight",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Mocktails",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cranberry Mojito",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Mocktails",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fruit Fresh Punch",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Mocktails",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Apple Mojito",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cf0/fcfb1bcf1e3e84d3f9c35a9fed968cf0.jpeg",
+      "price": 280,
+      "menuName": "Mocktails",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kiwi Fresh Punch",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Mocktails",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mint Mojito",
+      "description": "A refreshing burst of mint and lime, perfect for a light and flavorful meal.",
+      "media": null,
+      "price": 250,
+      "menuName": "Mocktails",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Desire",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Mocktails",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thunder Storm",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Mocktails",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Watermelon Mojito",
+      "description": "A refreshing and fruity beverage perfect for any summer occasion.",
+      "media": null,
+      "price": 280,
+      "menuName": "Mocktails",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

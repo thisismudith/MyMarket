@@ -1,0 +1,867 @@
+{
+  "basicInfo": {
+    "name": "Chicken Hut",
+    "cuisine_string": "North Indian, Chinese, Mughlai, Kebab, Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/chicken-hut-nanpura/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "415",
+      "reviewTextSmall": "415 Reviews",
+      "subtext": "415 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "2,905",
+      "reviewTextSmall": "2,905 Reviews",
+      "subtext": "2,905 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Nanpura, Surat",
+    "latitude": "21.1924496007",
+    "longitude": "72.8167253360",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1924496007,72.8167253360&maptype=zomato&markers=21.1924496007,72.8167253360,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Dutch Garden Road, Nanpura, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+912612463700, +918460319252"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Butter Chicken Gravy [200 ml] + Roti-3",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Meal for 1",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Mughlai [200 ml] + Roti-3",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Meal for 1",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "White Chicken Tikka",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Red Chicken Tikka",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Popcorn [8 Pieces]",
+      "description": "[Chefs' special]",
+      "media": null,
+      "price": 270,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Garlic Tikka",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Banjara Tikka",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Leg Piece",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d3c/0a6b37a70fcd822da2d1ae53adb51d3c.jpg",
+      "price": 190,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Malai Leg Piece",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fried Chicken [2 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-snacks",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malai Tikka",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6b7/ffdf39acc76fe93e74a9431dce4916b7.jpg",
+      "price": 350,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Bhuna",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Mughlai",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/df9/3f129bc566896d67351f2f214875ddf9.jpg",
+      "price": 350,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "Indian lentil recipe that is made with toor dal, onions, tomatoes and spices.",
+      "media": null,
+      "price": 170,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "Yellow lentils tempered with cumin seeds, garlic & asafoetida in clarified butter",
+      "media": null,
+      "price": 180,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pair-with-bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhurji",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Biryani",
+      "description": "Tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice and dry fruits, delicately flavoured with authentic herbs, spices and saffron.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/df7/4d3db34423bdbc434764d999c0a39df7.jpg",
+      "price": 180,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hydrabadi Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/54d/bcce14a14c1b01cacef749198230854d.jpg",
+      "price": 260,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69b/88034473e9e5a08e229d19ce094ef69b.jpg",
+      "price": 260,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e6d/f0386c7fc835fa77ccd1d3e8f59dce6d.jpg",
+      "price": 25,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Tandoori",
+      "slugs": [
+        "veg",
+        "bread",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bread",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Pizza",
+      "description": "",
+      "media": null,
+      "price": 235,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Pizza",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchurian Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Pizza",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Sandwich",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Toast",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Chicken-Hut Special Menu",
+      "categoryName": "Sandwich",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lollipop",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chinese",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli Dry",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chinese",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Dry",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chinese",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kurkure",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chinese",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hong kong Chilli",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Chinese",
+      "categoryName": "Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": "Tasty and wholesome Chinese rice dish to satisfy your taste buds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/649/7840a67a74897f8cd32446bf4e02a649.jpg",
+      "price": 190,
+      "menuName": "Chinese",
+      "categoryName": "Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Chinese",
+      "categoryName": "Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hunan Rice",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Chinese",
+      "categoryName": "Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chinese Bhel",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Chinese",
+      "categoryName": "Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli Gravy",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Gravy",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Sheek Kabab [4 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9df/165770214e8433ba597cdd211dc919df.jpg",
+      "price": 390,
+      "menuName": "Sheek Kabab",
+      "categoryName": "Chicken Sheek Kabab",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Seekh Kabab [Half, 2 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Sheek Kabab",
+      "categoryName": "Chicken Sheek Kabab",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Bombay Mutton Biryani",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Mutton Biryani",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

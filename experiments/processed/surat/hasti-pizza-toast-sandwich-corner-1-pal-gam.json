@@ -1,0 +1,570 @@
+{
+  "basicInfo": {
+    "name": "Hasti Pizza Toast Sandwich Corner",
+    "cuisine_string": "Sandwich, Street Food",
+    "canonicalUrl": "https://www.zomato.com/surat/hasti-pizza-toast-sandwich-corner-1-pal-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "3",
+      "reviewTextSmall": "3 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.1",
+      "reviewCount": "808",
+      "reviewTextSmall": "808 Reviews",
+      "subtext": "808 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "394510",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Pal Gam, Surat",
+    "latitude": "21.1903417111",
+    "longitude": "72.7785595134",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1903417111,72.7785595134&maptype=zomato&markers=21.1903417111,72.7785595134,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop G-5, Building A, Siddhchakra Residency, Near Galaxy Circle, Pal Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918866932720"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Aloo Chaat",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/07b/ed98dc2ed5f92f3c715380679782107b.jpg",
+      "price": 140,
+      "menuName": "Hasti Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pizza Toast Sandwich",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/151/95e3b88800905c2ba77d1bc23da93151.jpeg",
+      "price": 145,
+      "menuName": "Hasti Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Toast Sandwich",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/541/93c5b106476fdb878f0f04bb7a8f5541.jpeg",
+      "price": 145,
+      "menuName": "Hasti Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Chutney Cheese Toast",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/089/a0f872db5e6bb75460fb18d5959e6089.jpg",
+      "price": 145,
+      "menuName": "Hasti Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Pizza Toast",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/28d/728c5955b1624039a0a52dd36b7d628d.jpeg",
+      "price": 155,
+      "menuName": "Hasti Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cocktail Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e5d/696b5dd1766ec8fc89f02e1361602e5d.jpeg",
+      "price": 155,
+      "menuName": "Hasti Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Pizza Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d6d/e8b53fd0dd674301c2c5af4660ccbd6d.jpeg",
+      "price": 155,
+      "menuName": "Hasti Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Matar Cheese Toast",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6d9/4049de0e950798576a79af3ef4d176d9.jpeg",
+      "price": 160,
+      "menuName": "Hasti Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/deb/80fa3177f2920689ac0b50503ae1fdeb.jpeg",
+      "price": 240,
+      "menuName": "Hasti Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "Fresh bread stuffed with crunchy vegetables and served with chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/332/71e4c3415dd52e38309bf9cb54656332.jpeg",
+      "price": 95,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jam Cheese Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/406/68b5cd75c922887eac1e897fc1dff406.jpg",
+      "price": 100,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "A delightfully flavorsome preparation of a delectable veg sandwich stuffed with cheese ,tomatoes, cucumber and other veggies; served along with chutney. Serves 1",
+      "media": "https://b.zmtcdn.com/data/dish_photos/952/b098ac54993557208a71691b4f5b4952.jpeg",
+      "price": 135,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Single Slice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ba/953c8adb8c4ce296655f761e15b6b1ba.jpeg",
+      "price": 38,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter [3 Slices]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cbe/3e5b0001df3406e4f8d6da56768e9cbe.jpeg",
+      "price": 95,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Chutney",
+      "description": "Wheat bread enriched by added quantities of butter served with a flavour of chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b96/feb0c84d0c27d4b5c32b825feb916b96.jpeg",
+      "price": 95,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Jam",
+      "description": "Bread slice with butter & jam generously served over it.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/700/41aede67d48852586a79b8527d6a7700.jpeg",
+      "price": 95,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Aloo",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f1b/b7c03811ae7f25fb5b22001da9821f1b.jpeg",
+      "price": 95,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Chutney Aloo",
+      "description": "Wheat bread enriched by added quantities of butter with stuffed potato served with a flavour of chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/974/7d3fbfb131cf02c51ee7a0181ae17974.jpeg",
+      "price": 95,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Cheese",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/532/e03013fa71ac4cd4791f1a2d40b49532.jpeg",
+      "price": 135,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Jam Cheese",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f3e/435f21a9db8ae3b41f628945790a0f3e.jpeg",
+      "price": 135,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Chutney Cheese",
+      "description": "Wheat bread enriched by added quantities of cheese served with a flavour of chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/47c/5752da44873923e4535504eeb8be447c.jpeg",
+      "price": 135,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Aloo Cheese",
+      "description": "Wheat bread with stuffed potato served with generous slice of cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/21d/8dcbbaeb5cb062841f73e94eb341121d.jpeg",
+      "price": 135,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Chutney Aloo Cheese",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/148/18d90f6b7fcad595b7dd99392551c148.jpeg",
+      "price": 135,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Aloo Cheese Toast",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/295/65976e48712e76012fcf8b1e6c838295.jpeg",
+      "price": 140,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Chutney Aloo Cheese Toast",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ced/cc7dba779b6af7ba5575ffac37467ced.jpeg",
+      "price": 140,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Cheese Toast",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a23/76cd8b971637379b2ce22bfcc5290a23.jpeg",
+      "price": 145,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

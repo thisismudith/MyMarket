@@ -1,0 +1,794 @@
+{
+  "basicInfo": {
+    "name": "Chicken Box",
+    "cuisine_string": "Burger, Pizza, Wraps, Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/chicken-box-rander/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.3",
+      "reviewCount": "5",
+      "reviewTextSmall": "5 Reviews",
+      "subtext": "5 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.3",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "777",
+      "reviewTextSmall": "777 Reviews",
+      "subtext": "777 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395005",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Rander, Surat",
+    "latitude": "21.2189808660",
+    "longitude": "72.7961182594",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2189808660,72.7961182594&maptype=zomato&markers=21.2189808660,72.7961182594,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 3, Alif Apartment, Near Bus Stop, Rander, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918140204060"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Veg Calssic Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/36b/27d425ade66dea89c807370423c3436b.jpg",
+      "price": 70,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Chicken Burger",
+      "description": "Crispy chicken spiced up with garlic sauce,garlic mayo and lettuce between classic soft buns. Crisp up your life, satisfy your craving and never look back",
+      "media": "https://b.zmtcdn.com/data/dish_photos/667/9319b9bfd7fed63838cde4ebbbc9e667.jpg",
+      "price": 140,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Fillet Burger",
+      "description": "A Basa Fish Filet Breaded And Fried To Perfection Served With Your Choice Of Taste With Cheese Slice On A Bun.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/125/11a05d98b3104334c507f4730ed40125.png",
+      "price": 290,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Big Daddy Burger",
+      "description": "Burger with double layer crispy chicken with delicious sauces",
+      "media": "https://b.zmtcdn.com/data/dish_photos/12e/e91c8e8897e2557d5bc4b51fa834112e.jpg",
+      "price": 390,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cheese Classic Chicken Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2ae/7024b62a6ead884e4c35d8fe678322ae.jpg",
+      "price": 180,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Zinger Burger",
+      "description": "Premium zinger with crunchy zinger fillet,cheese,lettuce,sauce in sesame bun !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b3/71c4b47f01f62c97f1ad5280561ba1b3.jpg",
+      "price": 250,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Maharaja Double Tikki Cheese Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/946/d282d71598b02c2cfdd6fcd297af4946.jpg",
+      "price": 180,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza (Cheese Pizza)",
+      "description": "Pizza For Cheese Lovers !!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a17/2ae62e97f37f235a7dfec13980d15a17.jpg",
+      "price": 250,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Corn Pizza",
+      "description": "Pizza For Sweet Corn and Cheese Lovers !!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b9/4a90e144633cf78ed24a3335907bf9b9.jpg",
+      "price": 190,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Afghani Olive Chicken Pizza",
+      "description": "(Medium 7')",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1f6/80a37d4fca0f2e3cf42d1d999fefb1f6.jpeg",
+      "price": 340,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Chicken Pizza",
+      "description": "(Medium 7')",
+      "media": "https://b.zmtcdn.com/data/dish_photos/210/4bc4dec6f27d7a67f5b4b02d07449210.jpeg",
+      "price": 340,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Delight Pizza (7 Inches)",
+      "description": "Tandoori falvaoured chicken pizza",
+      "media": "https://b.zmtcdn.com/data/dish_photos/848/e87e322d5303a49603b335f759b88848.jpg",
+      "price": 280,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Alfredo Creamy Chicken Pizza (7 Inches)",
+      "description": "Only for Rich creamy and cheesy pizza lovers",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5f8/fdbc32690dbbd75c38be0a6fa31c55f8.jpeg",
+      "price": 290,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Popcorn Pizza",
+      "description": "Crunchy chicken popcorn pizza with onion and mozzarella cheese",
+      "media": "https://b.zmtcdn.com/data/dish_photos/270/541d0801b9892cc3895b5566409a9270.jpg",
+      "price": 320,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Pizza",
+      "description": "The goodness of exotic veggies with olives, jalapeno, sweet corn, onion, tomato and mozzarella cheese",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fc8/faab1bb2be3ef8e41a4bd53e5541efc8.jpg",
+      "price": 210,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Box Pizza (7 Inches)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/88d/d9761baed087b97a4030375f1447b88d.jpg",
+      "price": 250,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Popcorn",
+      "description": "Signature bite-sized boneless chicken, with special spices",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9c2/7f78b89856047ab6146ce8de263fa9c2.jpeg",
+      "price": 0,
+      "menuName": "Fried Chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Popcorn (10 Pieces)",
+      "description": "Signature crunchy bite-sized boneless chicken, with special spices",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3b6/bf8a7f8cc23bd3451a765f1097ba53b6.jpg",
+      "price": 240,
+      "menuName": "Fried Chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Strips (5 Pieces)",
+      "description": "Crunchy finger sized boneless chicken with special spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/21e/8ad50372b909c2ef1add2505dd3f321e.jpg",
+      "price": 250,
+      "menuName": "Fried Chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Nuggets (6 Pieces)",
+      "description": "Crunchy square-sized boneless chicken, with special spices",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae4/6ee88719159aafaae320b6d93b08aae4.jpg",
+      "price": 270,
+      "menuName": "Fried Chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Popcorn",
+      "description": "Fish popcorn for fish lovers",
+      "media": "https://b.zmtcdn.com/data/dish_photos/49a/270600ecc913da8437d78e1af987349a.jpeg",
+      "price": 0,
+      "menuName": "Fried Chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Nuggets (12 Pieces)",
+      "description": "Crunchy square-sized boneless chicken, with special spices",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2cf/aed5aaa68458a07011b7744c48c372cf.jpg",
+      "price": 430,
+      "menuName": "Fried Chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lolipop (4 Pieces)",
+      "description": "Signature crunchy and juicy lollipop chicken, with special spices",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d9e/01989fed8440bd34cc9ecd14fc9d2d9e.jpg",
+      "price": 350,
+      "menuName": "Fried Chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Strip",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/21e/8ad50372b909c2ef1add2505dd3f321e.jpeg",
+      "price": 0,
+      "menuName": "Fried Chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Popcorn",
+      "description": "King size crispy prawns for sea food lovers",
+      "media": "https://b.zmtcdn.com/data/dish_photos/72b/a9401a6219f651376e61f9dae8f4c72b.jpeg",
+      "price": 0,
+      "menuName": "Fried Chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Zinger Wrap",
+      "description": "Wrap loaded with crispy chicken fried chicken with fresh veggies and sauces",
+      "media": "https://b.zmtcdn.com/data/dish_photos/849/cabc2cb91c785e2083f6a8e403e80849.jpeg",
+      "price": 250,
+      "menuName": "Wrap",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Wrap",
+      "description": "Our crispy veg patty, topped with salad mix, our signature sauce wrapped in a tortilla wrap",
+      "media": "https://b.zmtcdn.com/data/dish_photos/731/341ad7fbda0d64d8e9ca0f1334662731.jpg",
+      "price": 150,
+      "menuName": "Wrap",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Wrap",
+      "description": "Special chicken wrap loaded with crispy fried chicken, fresh veggies, sauces and topping like olives and jalapeno",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d74/2e57d127e50205453064d820793a3d74.jpg",
+      "price": 280,
+      "menuName": "Wrap",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Sandwich",
+      "description": "Tandoori flavored chicken sandwich with fresh veggies, cheese and mayonnaise.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cee/2ca842ed76f03de397eade787fe96cee.jpg",
+      "price": 210,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Box Sandwich",
+      "description": "Tandoori flavored chicken sandwich with fresh veggies, cheese and mayonnaise.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fcf/1b08a7fbc19d2187c167798fd48d1fcf.jpg",
+      "price": 250,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Fries",
+      "description": "French fries with cheese creamy sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0b3/6cfa0fff76bbc265317d86f4ad6ce0b3.jpg",
+      "price": 170,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken dynamite fries",
+      "description": "French fries with zinger chicken, lettuce and sauces",
+      "media": "https://b.zmtcdn.com/data/dish_photos/917/2ec949faf4ef17991cb830604c98e917.jpg",
+      "price": 350,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Masala Fries",
+      "description": "French fries with peri peri flavored spices",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8ea/3c88cab58123e085f54b844d3bedb8ea.jpg",
+      "price": 150,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted Fries",
+      "description": "French fries, crispy golden, fried to perfection and lightly salted. Also known as happiness.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d50/673cc5f21941eb99831ceaa7fc1ded50.jpg",
+      "price": 100,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp Box Fries",
+      "description": "Cheesy fries with olives, jalapeno and mozzarella cheese",
+      "media": "https://b.zmtcdn.com/data/dish_photos/86b/3964b35dcbe31a0941fe73f854ef686b.jpg",
+      "price": 160,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Cheese Sauce",
+      "description": "[Chef's Special]",
+      "media": null,
+      "price": 30,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo Meal",
+      "description": "Cheesy Chicken Burger Popcorn Chicken French Fries Cold drink Garlic dip",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ec/ca4b07f7b9b8adea65ad0d40f66e81ec.jpeg",
+      "price": 500,
+      "menuName": "Combo Meal",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "meal",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pizza Combo Meal",
+      "description": "Chicken Tandoori Delight Pizza Popcorn Chicken  French Fries Cold drink x 2 Garlic Dip & Green chilli dip",
+      "media": "https://b.zmtcdn.com/data/dish_photos/054/98039e304524c5cf23601cd43e288054.jpeg",
+      "price": 700,
+      "menuName": "Combo Meal",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "meal",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Wrap Combo Meal",
+      "description": "Sp.Zinger Chicken Wrap Popcorn Chicken French Fries Cold drink Garlic dip",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d7b/ab0c9a6aefc39a36bbfbeb9e816a9d7b.jpeg",
+      "price": 600,
+      "menuName": "Combo Meal",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "meal",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

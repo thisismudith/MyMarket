@@ -1,0 +1,316 @@
+{
+  "basicInfo": {
+    "name": "Bhandari Shawarma",
+    "cuisine_string": "Shawarma",
+    "canonicalUrl": "https://www.zomato.com/surat/bhandari-shawarma-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.0",
+      "reviewCount": "53",
+      "reviewTextSmall": "53 Reviews",
+      "subtext": "53 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.4",
+      "reviewCount": "164",
+      "reviewTextSmall": "164 Reviews",
+      "subtext": "164 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.4",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1867097115",
+    "longitude": "72.7917970293",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1867097115,72.7917970293&maptype=zomato&markers=21.1867097115,72.7917970293,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Adajan Road, Near Star Bazar, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918160205740"
+    },
+    "res_chain_text": "See all 2 Bhandari Shawarma outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/bhandari-shawarma",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Regular Paneer Shawarma Roll",
+      "description": "",
+      "media": null,
+      "price": 119,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Paneer Shawarma Roll",
+      "description": "Malai paneer marinated with Indian seasoning and roasted to a light crispiness topped with homemade mayonnaise, tomato ketchup, crispy noodles, cabbage & onions wrapped into pita bread.",
+      "media": null,
+      "price": 129,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilly Garlic Paneer Shawarma Roll",
+      "description": "",
+      "media": null,
+      "price": 139,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Shawarma Roll",
+      "description": "Malai paneer marinated with Indian seasoning and roasted to a light crispiness topped with homemade mayonnaise, tomato ketchup, schezwan sauce, crispy noodles, cabbage & onions wrapped into pita bread.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/167/a3e50c1543165d8ac70e22d42e2bd167.jpg",
+      "price": 139,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Achari Paneer Shawarma Roll",
+      "description": "",
+      "media": null,
+      "price": 139,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chipotle Paneer Shawarma Roll",
+      "description": "Malai paneer marinated with Indian seasoning and roasted to a light crispiness topped with homemade mayonnaise, tomato ketchup, chipotle sauce, crispy noodles, cabbage & onions wrapped into pita bread.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7ef/7a92e3a41019103f247675de98d107ef.jpg",
+      "price": 149,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Paneer Shawarma Roll",
+      "description": "Malai paneer marinated with Indian seasoning and roasted to a light crispiness topped with homemade mayonnaise, tomato ketchup, combination of schezwan & Mexican sauce, crispy noodles, cabbage & onions wrapped into pita bread..",
+      "media": "https://b.zmtcdn.com/data/dish_photos/66e/9ae749fcfb21e9577183cf098498566e.jpg",
+      "price": 149,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Haryali Paneer Shawarma Roll",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Shawarma Roll",
+      "description": "Malai paneer marinated with Indian seasoning and roasted to a light crispiness topped with homemade mayonnaise, tomato ketchup, tandoori sauce, crispy noodles, cabbage & onions wrapped into pita bread.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/76e/72b17b7e5a61bcfa87c6a70425de976e.jpg",
+      "price": 149,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Honey mustard Paneer Shawarma Roll",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thousand Island Paneer Shawarma Roll",
+      "description": "Malai paneer marinated with Indian seasoning and roasted to a light crispiness topped with homemade mayonnaise, tomato ketchup, thousand island sauce, crispy noodles, cabbage & onion wrapped into pita bread.",
+      "media": null,
+      "price": 159,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Paneer Shawarma Roll",
+      "description": "Malai paneer marinated with Indian seasoning and roasted to a light crispiness topped with homemade mayonnaise, tomato ketchup, peri peri sauce, peri peri masala, crispy noodles, cabbage & onions wrapped into pita bread.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b3/a99e648fe4a7d3e1c200b1ea713128b3.jpg",
+      "price": 159,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

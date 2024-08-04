@@ -1,0 +1,1980 @@
+{
+  "basicInfo": {
+    "name": "Punjabi Rasoi",
+    "cuisine_string": "North Indian",
+    "canonicalUrl": "https://www.zomato.com/surat/punjabi-rasoi-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.7",
+      "reviewCount": "12",
+      "reviewTextSmall": "12 Reviews",
+      "subtext": "12 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.7",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.4",
+      "reviewCount": "966",
+      "reviewTextSmall": "966 Reviews",
+      "subtext": "966 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.4",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395009",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.2102916290",
+    "longitude": "72.7997918534",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2102916290,72.7997918534&maptype=zomato&markers=21.2102916290,72.7997918534,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "1003, Swastik Apartment, Asopalav Society, Causeway, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919662640952, +919033461476"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Aloo Sabji with 3 Poori [Big]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "main-course",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "main-course",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Platter",
+      "description": "1 Aloo Cheese Paratha+1 Paneer Cheese Paratha+1 Gobhi Cheese Paratha+1 Mixed Cheese Paratha+2 Lassi+Salad+Achar",
+      "media": null,
+      "price": 780,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Party Platter",
+      "description": "2 Aloo Pyaz Paratha+2 Paneer Pyaz Paratha+2 Paneer Cheese+2 Chole+4 Bhature+Achar+Salad",
+      "media": null,
+      "price": 1000,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "meal",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "party-combo",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "meal",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "party-combo",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Paratha",
+      "description": "Served with curd.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eba/2b8d4884ed010cd088bdd158c8cc2eba.jpg",
+      "price": 130,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Cheese Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 175,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobi Paratha",
+      "description": "Served with curd.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/724/d91cd6b4f2ec64cf4788f8d378131724.jpg",
+      "price": 140,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobi Cheese Paratha",
+      "description": "Served with curd.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f2e/83dca0713ff7729b67e997fb0eff6f2e.jpg",
+      "price": 185,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pyaz Paratha",
+      "description": "Served with curd.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/625/124008d96be8deac0bf2fa9b7cff3625.jpg",
+      "price": 140,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pyaz Cheese Paratha",
+      "description": "Served with curd.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c6b/9eef66ffcd9a947d431b27cdebcb8c6b.jpg",
+      "price": 185,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paratha",
+      "description": "Served with curd.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/46f/f09e212b5a0b21d592ee7f2af51c246f.jpg",
+      "price": 170,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Paratha",
+      "description": "Served with curd.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/65e/c040c23170be47f6411d3f99fa37c65e.jpg",
+      "price": 215,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Cheese Paratha",
+      "description": "Served with curd.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ae/99a9ac0adeca5303d819900589cbb4ae.jpg",
+      "price": 215,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 210,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Cheese Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 250,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Pyaz Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 150,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Pyaz Cheese Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 205,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Gobi Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 150,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Gobi Cheese Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 205,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Paneer Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 170,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Paneer Cheese Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 215,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobi Pyaz Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 170,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobi Pyaz Cheese Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 215,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pyaz Paneer Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 160,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pyaz Paneer Cheese Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 215,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mooli Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 130,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "seasonal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "seasonal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheeni ka Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 120,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Make Your Own Paratha",
+      "description": "Served with curd.",
+      "media": null,
+      "price": 200,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/140/b03a1d7845fd1a743e894f1b87eac140.jpg",
+      "price": 15,
+      "menuName": "Breads",
+      "categoryName": "Extras",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "",
+      "media": null,
+      "price": 25,
+      "menuName": "Breads",
+      "categoryName": "Extras",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paratha",
+      "description": "",
+      "media": null,
+      "price": 35,
+      "menuName": "Breads",
+      "categoryName": "Extras",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paratha",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Breads",
+      "categoryName": "Extras",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Poori",
+      "description": "",
+      "media": null,
+      "price": 35,
+      "menuName": "Breads",
+      "categoryName": "Extras",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lachha Paratha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/750/7de72ade2b181197cebcbd8bff0b5750.jpg",
+      "price": 0,
+      "menuName": "Breads",
+      "categoryName": "Extras",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bhatura",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3dc/d98a4a3278240386a6c9fba0254983dc.jpg",
+      "price": 45,
+      "menuName": "Breads",
+      "categoryName": "Extras",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhatura",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Breads",
+      "categoryName": "Extras",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole Bhature with 1 Chaas",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chole Bhature with 1 Chaas",
+      "description": "Paneer stuffed bhature [2 pieces].",
+      "media": null,
+      "price": 320,
+      "menuName": "Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chole Bhature with 1 Chaas",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Chole Bhature with 1 Chaas",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole Bhature with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chole Bhature with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chole Bhature with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Chole Bhature with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 400,
+      "menuName": "Combos",
+      "categoryName": "Special Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Aloo Paratha with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Combos",
+      "categoryName": "Paratha Combo",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Paneer Paratha with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Combos",
+      "categoryName": "Paratha Combo",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Gobi Paratha with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Combos",
+      "categoryName": "Paratha Combo",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Aloo Paneer Cheese Paratha with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Combos",
+      "categoryName": "Paratha Combo",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Mixed Cheese Paratha and 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Combos",
+      "categoryName": "Paratha Combo",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Aloo Pyaaz Cheese Paratha with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Combos",
+      "categoryName": "Paratha Combo",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Pyaaz Paneer Cheese Paratha with 1 Lassi",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Combos",
+      "categoryName": "Paratha Combo",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "1 Aloo Paratha with Chole [100 grams, Serves 1]",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Meals [Serves 1]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "category-north-indian",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "category-north-indian",
+        "veg"
+      ]
+    },
+    {
+      "name": "1 Paneer Paratha with Chole [100 grams, Serves 1]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Meals [Serves 1]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "1 Gobi Paratha with Chole [100 grams, Serves 1]",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Meals [Serves 1]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Sabji with 3 Poori [Big]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Summer Specials",
+      "categoryName": "Meals",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "main-course",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "main-course",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole Bhature [2 Bhature]",
+      "description": "[Non Jain]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b0e/9d4d693fdbab5ac131285c0abce9bb0e.jpg",
+      "price": 215,
+      "menuName": "Punjabi Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chole Bhature [2 Bhature]",
+      "description": "Paneer stuffed bhatura.",
+      "media": null,
+      "price": 300,
+      "menuName": "Punjabi Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chole Bhature",
+      "description": "Cheesy layer on chole with bhature [2 pieces].",
+      "media": null,
+      "price": 320,
+      "menuName": "Punjabi Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Chole Bhature",
+      "description": "Paneer stuffed bhature [2 Pieces] with cheesy chole.",
+      "media": null,
+      "price": 350,
+      "menuName": "Punjabi Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Couple Paratha Platter",
+      "description": "1 Aloo Paratha+1 Paneer Paratha+1 Gobhi Paratha+1 Mixed Paratha+Veg Pulao+Boondi Raita+Papad [2 Pieces]+Salad+Achar",
+      "media": null,
+      "price": 740,
+      "menuName": "Platters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "meal",
+        "restaurant-recommended",
+        "main-course",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "meal",
+        "restaurant-recommended",
+        "main-course",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Platter",
+      "description": "1 Aloo Cheese Paratha+1 Paneer Cheese Paratha+1 Gobhi Cheese Paratha+1 Mixed Cheese Paratha+2 Lassi+Salad+Achar",
+      "media": null,
+      "price": 780,
+      "menuName": "Platters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Party Platter",
+      "description": "2 Aloo Pyaz Paratha+2 Paneer Pyaz Paratha+2 Paneer Cheese+2 Chole+4 Bhature+Achar+Salad",
+      "media": null,
+      "price": 1000,
+      "menuName": "Platters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "meal",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "party-combo",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "meal",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "services",
+        "party-combo",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Paneer Platter",
+      "description": "1 Paneer Paratha+1 Paneer Cheese Paratha+1 Paneer Chole+2 Bhature+Achar+Salad",
+      "media": null,
+      "price": 580,
+      "menuName": "Platters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sabji with 2 Paratha",
+      "description": "Every day different sabji.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/33d/5d55b4a4b5b4ded3e8996ca790abe33d.jpg",
+      "price": 190,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paneer with 2 Paratha",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/438/9dac35830b38163b128aa4795bb1a438.jpg",
+      "price": 270,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadhai Paneer with 2 Paratha",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Paneer with 2 Paratha",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole with 2 Paratha",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rajma with 2 Paratha",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8c7/25cf13f451f3f37ec29d000dd1ff18c7.jpg",
+      "price": 200,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadhi Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/350/198358f63957dd1d450329c958b22350.jpg",
+      "price": 200,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rajma Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9c2/1c1c043092a0663341a5bb365b6b19c2.jpg",
+      "price": 220,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Rice",
+      "description": "Every day different dal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c4f/3e59d30c10337443a1541f25d8469c4f.jpg",
+      "price": 200,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Regular Thali",
+      "description": "1 Veg Sabzi+Dal+Rice+4 Roti+Achar+Salad+Papad+Chaas",
+      "media": null,
+      "price": 250,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Deluxe Thali",
+      "description": "Veg Sabzi+Paneer Sabzi+Dal+4 Roti+Chawal+Salad+Achar+Papad+Chaas",
+      "media": null,
+      "price": 280,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Thali",
+      "description": "Paneer Sabzi+Dal+Rice+4 Roti+Salad+Chutney+Papad+Chaas [Subject to Availability]",
+      "media": null,
+      "price": 270,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rajma",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d40/b8773378f9ebdbbed375d7ff35d01d40.jpg",
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chana Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/554/18870a9e42dc2c1962f1561c8f346554.jpg",
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Matar",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b8c/17660e90d095233cff33bf7a27c0ab8c.jpg",
+      "price": 190,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Baingan",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Aloo",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Methi",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhurji",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paneer Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f72/aea8f5a38da854560e74177b6f934f72.jpg",
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Paneer Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/04e/0be94370eb98bf5bd6ef7e33fa89704e.jpg",
+      "price": 400,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadhai Paneer",
+      "description": "",
+      "media": null,
+      "price": 400,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Seasoned boiled basmati rice tossed in butter and cumin seeds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5c5/fb5478aadf90c856d1ccbc809d9825c5.jpg",
+      "price": 160,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/203/a35b70e1727b1bfa3fdb45203d824203.jpg",
+      "price": 130,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pulao",
+      "description": "Served with dahi.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cb8/8d546873193e6eeab308a8ae8057dcb8.jpg",
+      "price": 220,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eb4/4d3b54df5cbf880c96208b84461ebeb4.jpg",
+      "price": 45,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Raita",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7a6/be076f65002cafe69f5e5034977c57a6.jpg",
+      "price": 110,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papad Fried",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/649/f142495a2ee3278d73c270ae8b3ef649.jpg",
+      "price": 25,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Chutney",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ccb/022edbff8c96af0c15d85cf8d36b0ccb.jpg",
+      "price": 10,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 25,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Atta ka Halwa",
+      "description": "Made in desi ghee.",
+      "media": null,
+      "price": 0,
+      "menuName": "Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chaas",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7ad/4233c3926c73f809151f5fe4ae24f7ad.jpg",
+      "price": 45,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lassi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/65e/b513d7952a4d979764e5ea35f356765e.jpg",
+      "price": 60,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Salad",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a93/9c8093fa41cd64e650c9b1d71f5b5a93.jpg",
+      "price": 10,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

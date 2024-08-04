@@ -1,0 +1,1370 @@
+{
+  "basicInfo": {
+    "name": "K'tea'ly",
+    "cuisine_string": "Street Food, Beverages, Sandwich",
+    "canonicalUrl": "https://www.zomato.com/surat/ktealy-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.4",
+      "reviewCount": "221",
+      "reviewTextSmall": "221 Reviews",
+      "subtext": "221 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.4",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.9",
+      "reviewCount": "97",
+      "reviewTextSmall": "97 Reviews",
+      "subtext": "97 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.9",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1903939164",
+    "longitude": "72.7857505158",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1903939164,72.7857505158&maptype=zomato&markers=21.1903939164,72.7857505158,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 2, Western Arena, Near Madhuvan Circle, LP Savani Road, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919586796363, +917069997826"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Pink Sauce Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/98f/27ae56dc72c43a0303d00b89e33c498f.png",
+      "price": 200,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "White Sauce Pasta",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Sauce Pasta",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Schezwan Sandwich grilled",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Club Sandwich grilled",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maharaja Sandwich grilled",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Sandwich",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Jam Sandwich",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich non grill",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich non grill",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Sandwich non grill",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Mayo Sandwich non grill",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Mixed Herbs Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "chilli Cheese Toast Sandwich",
+      "description": "A gustatory adventure that embarks on a sensory journey, inviting the curious epicurean to explore a medley of intriguing elements that ignite the imagination.",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paprika Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Wrap",
+      "description": "Stuffed with grilled paneer and fresh veggies.",
+      "media": null,
+      "price": 200,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Wrap",
+      "description": "Stuffed with grilled paneer with spicy Mexican sauce.",
+      "media": null,
+      "price": 200,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Land Maggi",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cup Maggi",
+      "description": "Multi layered, creamy, served in a cup.",
+      "media": null,
+      "price": 160,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Meri Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Maggi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Maggi",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nachos Maggi",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Corn Maggi",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "No description required.",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Nachos",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo Pav",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Saucy French Fries",
+      "description": "Fries with a mix of delicious cheese and mayo.",
+      "media": null,
+      "price": 200,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "starter",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "starter",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Cheese Ball",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscuit Pie",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blue Curacao Mojito",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mint Mojito",
+      "description": "Classic mint flavoured with lemon squeezed.",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Mojito",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Apple Mojito",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paan Cake Shake",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blackcurrant Shake",
+      "description": "Milk shake that drag you to your favourite flavour.",
+      "media": null,
+      "price": 200,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Chips Shake",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butterscotch Shake",
+      "description": "Vanilla milk shake mixed with butterscotch.",
+      "media": null,
+      "price": 200,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Frappe Shake",
+      "description": "Best of both worlds chocolate and coffee",
+      "media": null,
+      "price": 200,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Zaffran Shake",
+      "description": "Milk with a taste of saffron and nuts.",
+      "media": null,
+      "price": 200,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rose Love Shake",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Love Shake",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Love Shake",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oreo Love Shake",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "KitKat Love Shake",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Iced Tea Cooler",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peach Iced Tea Cooler",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Premium Hot Chocolate",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mint Hot Chocolate",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Hot Chocolate",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Hot Chocolate",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Coffee",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Chocolate",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bournvita Milk",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Milk",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coffee",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Beverages [350 ml]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Adrak Tea",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Adrak Elaichi Tea",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Tea",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pudina Tea",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Zaffran Tea",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Tea",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Masala Tea",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Zaffran Tea",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Burst Garlic Bread",
+      "description": "Classic garlic bread with loads of melted cheese.",
+      "media": null,
+      "price": 200,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Cheese Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "basicInfo": {
+    "name": "Sai Fast Food",
+    "cuisine_string": "Pizza",
+    "canonicalUrl": "https://www.zomato.com/surat/sai-fast-food-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.5",
+      "reviewCount": "17",
+      "reviewTextSmall": "17 Reviews",
+      "subtext": "17 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.5",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.3",
+      "reviewCount": "1,138",
+      "reviewTextSmall": "1,138 Reviews",
+      "subtext": "1,138 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.3",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1751857785",
+    "longitude": "72.8014434502",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1751857785,72.8014434502&maptype=zomato&markers=21.1751857785,72.8014434502,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop U-4, Tribhuvan Complex, Ghod Dod Road, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917433095276"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Garma Garam Farali Sabudana Khichdi",
+      "description": "Delicious combination of spices and tapioca pearl/sago [sabudana] use fresh potato and pure sendha namak for upwas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/29f/106d7701ba58124a37db4a8b4f48e29f.jpg",
+      "price": 79,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Sabudana Vada [4 Pieces, Serves 1]",
+      "description": "Fry in pure and fresh oil it made a delicious combination of spices and tapioca pearl/sago [sabudana] use fresh potato and pure sendha namak for upwas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b93/cbae7841da70ccf6784115b664aaeb93.jpg",
+      "price": 79,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Farali French Fries [Serves 1]",
+      "description": "Fry in fresh oil, use fresh potato and pure sendha namak for upwas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f2b/09cd03276286b961384ccd94c16eff2b.png",
+      "price": 120,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garma Garam Farali Sabudana Khichdi",
+      "description": "Delicious combination of spices and tapioca pearl/sago [sabudana] use fresh potato and pure sendha namak for upwas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/29f/106d7701ba58124a37db4a8b4f48e29f.jpg",
+      "price": 79,
+      "menuName": "Upwas Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Sabudana Vada [4 Pieces, Serves 1]",
+      "description": "Fry in pure and fresh oil it made a delicious combination of spices and tapioca pearl/sago [sabudana] use fresh potato and pure sendha namak for upwas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b93/cbae7841da70ccf6784115b664aaeb93.jpg",
+      "price": 79,
+      "menuName": "Upwas Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Farali French Fries [Serves 1]",
+      "description": "Fry in fresh oil, use fresh potato and pure sendha namak for upwas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f2b/09cd03276286b961384ccd94c16eff2b.png",
+      "price": 120,
+      "menuName": "Upwas Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "seasonal",
+        "chef-special",
+        "exclusive-offer",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sudh Ghee Ni Farali Sabudana Khichdi",
+      "description": "Prepare in sudh ghee.\n0% Oil 100% ghee.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b0/608d1f7967d17bac71fd00317133f9b0.jpg",
+      "price": 150,
+      "menuName": "Upwas Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "new",
+        "navratri-special",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "new",
+        "navratri-special",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falahari Chivda [100 grams]",
+      "description": "A delectable blend of traditional and contemporary, this delectable snack is a delightful combination of sweet and savory flavors. The mouthwatering blend of chickpeas, peanuts",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ea/25f56278578985d4aa5bb2cdf73c64ea.png",
+      "price": 52,
+      "menuName": "Upwas Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Sabudana Khichdi with Plain Lassi",
+      "description": "A wholesome and filling vegetarian meal, Farali Khichadi with Plain lassi is a flavourful and aromatic dish made with sago and spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/42d/d052d51e6e651ee5efb7e4293e9e442d.png",
+      "price": 160,
+      "menuName": "Upwas Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Pasta",
+      "description": "A rich and creamy pasta dish made with a generous helping of cheese and fresh vegetables in a light and flavorful tomato sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/246/6112605858c1e6296e61034b13668246.png",
+      "price": 420,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arrabiata Pasta",
+      "description": "A delectable Italian dish with a twist, Arrabbiata Pasta is an aromatic blend of tomato sauce with hints of chilli and spices that will leave you",
+      "media": "https://b.zmtcdn.com/data/dish_photos/388/7d028ba5eff1a5d987ecc5f3da6a5388.png",
+      "price": 420,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Pasta",
+      "description": "A delicious and flavourful combination of italian pasta, tossed in a rich tomato sauce and served with a side of fresh vegetables. Perfect for a hearty meal",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d9/5ba345aec66eeae47be3a07d305189d9.png",
+      "price": 420,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ravioli Pasta",
+      "description": "Vegetable filling sealed between two layers of pasta.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ce5/c05a33cbd4430a486f1297ef288f1ce5.png",
+      "price": 520,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Spaghetti Aglio Olio",
+      "description": "Toasted Spaghetti, Garlic, Parsley, Garlic Olive Oil",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b52/5ca0d2a7f3b1e5c398fc6673d042cb52.png",
+      "price": 500,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Pasta",
+      "description": "Creamy pesto, basil leaves, garlic and pine nuts.",
+      "media": null,
+      "price": 470,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "Cooked rice stir fried in a wok with vegetables along with seasoning and sauces, garnished with spring onion, served with crispy fried noodles and salad [Subject to Availability].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c31/93a45cba619a64fc2098f6f6898b6c31.jpg",
+      "price": 225,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "description": "A spicy, savory rice dish made with a medley of vegetables, spices, and sauce, schezwan fried rice is a flavorful.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1dd/f60768100be0a85444e6a44deb8011dd.jpg",
+      "price": 235,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Fried Rice",
+      "description": "A flavorful and crispy fried rice dish that is a perfect accompaniment to a variety of curries and noodles.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/80f/2907d086863dbc7641057dcac924480f.jpg",
+      "price": 235,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Corn Fried Rice",
+      "description": "A delightful blend of aromatic rice, assorted vegetables and sweet corn resulting a satisfying Indo Chinese dish, served with crispy fried noodles and salad [Subject to Availability].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/800/d01bb94e89d8070398c493d6c168f800.jpg",
+      "price": 235,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Fried Rice",
+      "description": "Dish combines fried rice with stir fried noodles, typically seasoned with a mixed of spices, soy sauce and chilli paste, offering a mixed of textures and flavours, served with crispy fried noodles and salad [Subject to Availability].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/829/aa2b312a118aafe9df186b5813f55829.png",
+      "price": 245,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodles",
+      "description": "Stir fried Indo Chinese noodles tossed with capsicum, onion and cabbage, delivering a delicious blend of flavours, perfect to satisfy your cravings, served with crispy fried noodles and salad [Subject to Availability].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ddd/690741b3a81139ca185553d39b4eeddd.jpg",
+      "price": 225,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodles",
+      "description": "A Chinese noodles dish with a spicy and flavorful schezwan sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/228/c2268ffa6966ad6dbb407cd915f95228.jpg",
+      "price": 245,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Noodles",
+      "description": "A bowl full of flavourful noodles with a hint of spice, perfect for a light meal. A bowl of delicious noodles made with a blend of spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/05f/14cd89d457e3d2e6e5ceb4f24587905f.jpg",
+      "price": 245,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry",
+      "description": "A perfect Indo Chinese starter consisting deep fried vegetable balls tossed in Chinese sauce garnished with chopped spring onion and garlic creating a crispy and savory delight, served with crispy fried noodles and salad [Subject to Availability].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/483/9edffea62a78f713ea0fb2cc63e8d483.png",
+      "price": 215,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Gravy",
+      "description": "A spicy and flavorful gravy made with tender Manchurian vegetables and a hint of Asian spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/481/5945311c5ed605b6504fc01645393481.png",
+      "price": 215,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian",
+      "description": "A delectable blend of crispy fried manchurian balls and schezwan sauce, garnished with green herbs and a drizzle of sweet chilli sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/098/4ba1085ca65d5ff4084b544bef698098.png",
+      "price": 225,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Rice [750 ml] and Pure Amul Cheese Garlic Curry [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 399,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Rice [750 ml] and Pure Amul Cheese Garlic Curry [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 399,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lebanese Rice [750 ml] and Special Amul Cheese Curry [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

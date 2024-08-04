@@ -1,0 +1,254 @@
+{
+  "basicInfo": {
+    "name": "Ajay's",
+    "cuisine_string": "Burger",
+    "canonicalUrl": "https://www.zomato.com/surat/ajays-udhna-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.5",
+      "reviewCount": "35",
+      "reviewTextSmall": "35 Reviews",
+      "subtext": "35 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.5",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.1",
+      "reviewCount": "1,017",
+      "reviewTextSmall": "1,017 Reviews",
+      "subtext": "1,017 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Udhna Gam, Surat",
+    "latitude": "21.1668809318",
+    "longitude": "72.8403978422",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1668809318,72.8403978422&maptype=zomato&markers=21.1668809318,72.8403978422,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Udhna Khadi, Udhna Bus Depo, Near Jayesh Medical, Udhna Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+916356017017"
+    },
+    "res_chain_text": "See all 21 Ajay's outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/ajays",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Peri Peri Cheesy Delight",
+      "description": "Enjoy our delicious peri peri cheese burger with liquid cheeses in it.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d40/08c526999282b4c11440a3394900ed40.jpg",
+      "price": 75,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d7/7b4c532756988a2258dc9433e089c9d7.jpg",
+      "price": 60,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Cheesy Delight Burger",
+      "description": "Spicy, sharp and savory.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a05/ec4122b317f58e7cbdfc7402ae5d7a05.png",
+      "price": 75,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Burger",
+      "description": "Juicy schezwan burger with a veg patty.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bd2/efea0f0051ed9b9ea8ee20c128761bd2.png",
+      "price": 60,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Cheese Delight Burger",
+      "description": "Juicy burger with a tandoori vegetable patty with layer of cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2d5/e347c40d5621a4fb84ed912ec4e312d5.jpg",
+      "price": 75,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Burger",
+      "description": "Tandoori burger.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d7/7b4c532756988a2258dc9433e089c9d7.jpg",
+      "price": 60,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Apna Burger",
+      "description": "Apna burger.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d7/7b4c532756988a2258dc9433e089c9d7.jpg",
+      "price": 50,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "BBQ Cheesy Delight Burger",
+      "description": "Smoky flavoured burger with liquid cheese.",
+      "media": null,
+      "price": 75,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "BBQ Burger",
+      "description": "[Veg preparation]",
+      "media": null,
+      "price": 60,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Apna Cheesy Delight",
+      "description": "Simplest offering is a crispy golden brown patty nicely sandwiched between the burger bun with loads of tom mayo spread, onion and cheese mayo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a2e/8fbe30ab9b3163058cdb730ff07eda2e.jpeg",
+      "price": 65,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

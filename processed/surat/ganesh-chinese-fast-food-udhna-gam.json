@@ -1,0 +1,561 @@
+{
+  "basicInfo": {
+    "name": "Ganesh Chinese & Fast Food",
+    "cuisine_string": "Chinese, Fast Food, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/ganesh-chinese-fast-food-udhna-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.7",
+      "reviewCount": "79",
+      "reviewTextSmall": "79 Reviews",
+      "subtext": "79 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.7",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "3,118",
+      "reviewTextSmall": "3,118 Reviews",
+      "subtext": "3,118 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Udhna Gam, Surat",
+    "latitude": "21.1731317300",
+    "longitude": "72.8382346407",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1731317300,72.8382346407&maptype=zomato&markers=21.1731317300,72.8382346407,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 24, Ground Floor, New Ashirwad Complex, B/H Jivan Jyot Cinema, Udhna Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919081003969"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Manchurian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5ee/8c0fda98e6adbad4ab33c98a0a8fb5ee.jpg",
+      "price": 95,
+      "menuName": "Manchurian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Dry",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Manchurian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Singapuri",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Manchurian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Ginger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d35/11848d61f6a00d4af326808c4e22bd35.jpg",
+      "price": 95,
+      "menuName": "Manchurian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Manchurian",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Manchurian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian 65",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/21c/cff059fbe2914438837834b57da5521c.jpg",
+      "price": 105,
+      "menuName": "Manchurian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cfd/f70e8198da229a8794829335e85eecfd.jpg",
+      "price": 95,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Noodles",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodles",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Noodles",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Noodles Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c3c/862389cb284fb99798bcc76b00e49c3c.jpg",
+      "price": 95,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4a4/ced9b0231d25ae0ec235b07b7196d4a4.jpg",
+      "price": 95,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Rice",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "bestseller-dinner",
+        "rice",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "bestseller-dinner",
+        "rice",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Rice",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Rice",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Noodles Rice",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Rice",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 178,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "bestseller-evening",
+        "rice",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "bestseller-evening",
+        "rice",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Bhel",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Bhel",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhel",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

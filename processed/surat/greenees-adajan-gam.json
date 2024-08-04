@@ -1,0 +1,1852 @@
+{
+  "basicInfo": {
+    "name": "Greenees",
+    "cuisine_string": "South Indian, Fast Food, Beverages, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/greenees-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.1",
+      "reviewCount": "8",
+      "reviewTextSmall": "8 Reviews",
+      "subtext": "8 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.1",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.7",
+      "reviewCount": "885",
+      "reviewTextSmall": "885 Reviews",
+      "subtext": "885 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.7",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1955130674",
+    "longitude": "72.7855312452",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1955130674,72.7855312452&maptype=zomato&markers=21.1955130674,72.7855312452,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 2, Varday Residency, Near Jalaram Temple, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919099118809, +917984357064"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Greenees Special Grilled Sandwich Combo [Serves 2]",
+      "description": "Save ₹60 on this combo\nGreenees Special Grilled Sandwich+Greenees Special Open Toast Sandwich",
+      "media": null,
+      "price": 325,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "hac-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "hac-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Ulta Pizza and Tandoori Paneer Pizza [6 inches] [Serves 2]",
+      "description": "Save 11% on this combo\nCheese Ulta Pizza+Tandoori Paneer Pizza [6 Inches]",
+      "media": null,
+      "price": 369,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "hac-item",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "hac-item",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Grilled Sandwich Combo [Serves 2]",
+      "description": "Save ₹60 on this combo\nTandoori Paneer Grilled Sandwich+Cheese Garlic Bread [4 Pieces]",
+      "media": null,
+      "price": 399,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "hac-item",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "hac-item",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Idli",
+      "description": "",
+      "media": null,
+      "price": 68,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Steamed Idli",
+      "description": "",
+      "media": null,
+      "price": 88,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Steamed Idli",
+      "description": "",
+      "media": null,
+      "price": 122,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Customized Idli",
+      "description": "",
+      "media": null,
+      "price": 108,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Idli",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Steamed Idli",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Peri Peri Steamed Idli",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Idli",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chocolate Idli",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Steamed Idli",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Schezwan Steamed Idli",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Steamed Idli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Pizza [6 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/930/74bee19842047cbe471e8b6dbaa23930.jpeg",
+      "price": 162,
+      "menuName": "Pizza",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Cheese Margherita Pizza [6 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6b4/ff0f68c28a10e9799476f56c31b426b4.jpeg",
+      "price": 162,
+      "menuName": "Pizza",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Pizza [6 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c8f/a537e8851d5f3a5e024b7953ea98bc8f.jpeg",
+      "price": 203,
+      "menuName": "Pizza",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italiano Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 203,
+      "menuName": "Pizza",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 203,
+      "menuName": "Pizza",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maggi Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 203,
+      "menuName": "Pizza",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Paneer Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 189,
+      "menuName": "Pizza",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Makhani Pizza [6 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/485/18ba8be9ffa5d646669de930b3594485.jpeg",
+      "price": 203,
+      "menuName": "Pizza",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Ulta Pizza [6 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bdf/e89dc9384438b93aefae587f8136cbdf.jpeg",
+      "price": 176,
+      "menuName": "Pizza",
+      "categoryName": "Ulta Pizza [6 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cocktail Ulta Pizza [6 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/237/c807b4c069d7c75f5f23e44f5437b237.jpeg",
+      "price": 203,
+      "menuName": "Pizza",
+      "categoryName": "Ulta Pizza [6 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italiano Ulta Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 203,
+      "menuName": "Pizza",
+      "categoryName": "Ulta Pizza [6 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Ulta Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 215,
+      "menuName": "Pizza",
+      "categoryName": "Ulta Pizza [6 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fcd/3792b036c2266d8dd476e6045fc63fcd.jpeg",
+      "price": 189,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Greenees Special Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4a0/e56012f034fc185187619780a7bcc4a0.jpeg",
+      "price": 216,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 203,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayonnaise Veg Cheese Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1d3/fd659e0c469343165d78bed38db881d3.jpeg",
+      "price": 203,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Mayo Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/977/79d93671955008b470e49132b915a977.jpeg",
+      "price": 203,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/540/f8ee85cf41fafb7721f905438a184540.jpeg",
+      "price": 230,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maharaja Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ac9/c19923ceb1f6924c55b37730edf38ac9.jpeg",
+      "price": 270,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Open Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8a0/8c6923b0e378b473dbf8952c2c6f78a0.jpg",
+      "price": 108,
+      "menuName": "Sandwiches",
+      "categoryName": "Open Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Open Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8bd/3b89fcfcca777eef97a3d819c85078bd.jpg",
+      "price": 122,
+      "menuName": "Sandwiches",
+      "categoryName": "Open Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maggi Open Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/17b/2ef8a60b924494eba6c4a5f3a328a17b.jpg",
+      "price": 122,
+      "menuName": "Sandwiches",
+      "categoryName": "Open Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Greenees Special Open Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/795/3c69a4c542520b1a6c9fd6a2863a3795.jpg",
+      "price": 122,
+      "menuName": "Sandwiches",
+      "categoryName": "Open Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Open Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9c5/9d0c72f7e414911185563ad7d685a9c5.jpg",
+      "price": 135,
+      "menuName": "Sandwiches",
+      "categoryName": "Open Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Open Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 122,
+      "menuName": "Sandwiches",
+      "categoryName": "Open Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0b3/71dbdc2282ea7e5f61c3d33e97cf20b3.jpg",
+      "price": 54,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Cheese Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edc/7a44adc1f35c628b1e094ee35b823edc.jpeg",
+      "price": 81,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7f0/709a4ac236f3c8b0a57de23c2b85a7f0.jpg",
+      "price": 108,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Masala Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f99/0849095d2c820a60dd828e7aaaef6f99.jpg",
+      "price": 108,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chocolate Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 122,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pizza Toast Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6cb/8e01a46fccdde991f50f67086a23d6cb.jpeg",
+      "price": 108,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maggi Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 108,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Toast Sandwich",
+      "description": "Well toasted bread layered with chillies and cheese.",
+      "media": null,
+      "price": 108,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Toast Sandwich",
+      "description": "Well toasted bread stuffed with wholesome veggies.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/84d/49823d7090b3e790be5744c62ebd684d.jpg",
+      "price": 81,
+      "menuName": "Sandwiches",
+      "categoryName": "Toast Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/45a/2bd9b4d766b03c082834d10df773a45a.jpg",
+      "price": 34,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Cheese Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/783/d8770b191542e7d9a151129a44b3d783.jpg",
+      "price": 68,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Chutney Sandwich",
+      "description": "",
+      "media": null,
+      "price": 47,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ebd/1e728a2abc0e8c4792b82e0818434ebd.jpeg",
+      "price": 68,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/20e/17b9b73cd95102810f97e861e861420e.jpeg",
+      "price": 95,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Jam Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/61a/2995deb440fad067537753454084161a.jpeg",
+      "price": 47,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chocolate Sandwich",
+      "description": "",
+      "media": null,
+      "price": 108,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayonnaise Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 81,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayonnaise Veg Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 108,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Frankie",
+      "description": "Soft rumali rotis stuffed with a delicious veg masala.",
+      "media": null,
+      "price": 54,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Frankie",
+      "description": "Soft rumali rotis layered with cheese and stuffed with a delicious veg masala.",
+      "media": null,
+      "price": 68,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Frankie",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo Frankie",
+      "description": "",
+      "media": null,
+      "price": 81,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo Schezwan Frankie",
+      "description": "",
+      "media": null,
+      "price": 88,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Maggi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/972/ab9dd42b79f1112e59f9715077422972.jpeg",
+      "price": 68,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Maggi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bd9/d355d0ac3b82a695c0d9d6e6b32cabd9.jpeg",
+      "price": 68,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Maggi",
+      "description": "",
+      "media": null,
+      "price": 81,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Maggi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dff/b99bd4f281e655f273fb576d64250dff.jpeg",
+      "price": 81,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Cheese Maggi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e95/2253db056c166d26230848c886cd8e95.jpeg",
+      "price": 95,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 108,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Maggi",
+      "description": "",
+      "media": null,
+      "price": 81,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Maggi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8a2/d3bbdd5f13951d60bd12e53a166bc8a2.jpeg",
+      "price": 81,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crunchy Bites [6 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Snacks Greenees Special",
+      "categoryName": "Special Menu",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Kulcha",
+      "description": "",
+      "media": null,
+      "price": 162,
+      "menuName": "Snacks Greenees Special",
+      "categoryName": "Special Menu",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread [4 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Snacks Greenees Special",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Bread [4 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Snacks Greenees Special",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Schezwan Garlic Bread [4 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 203,
+      "menuName": "Snacks Greenees Special",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Schezwan Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Snacks Greenees Special",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Chocolate",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Hot Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Adrak Masala Tea",
+      "description": "",
+      "media": null,
+      "price": 27,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Hot Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Leaf Pudina Tea",
+      "description": "",
+      "media": null,
+      "price": 27,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Hot Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Coffee",
+      "description": "",
+      "media": null,
+      "price": 25,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Hot Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Hot Tea",
+      "description": "",
+      "media": null,
+      "price": 41,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Hot Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "description": "Water.",
+      "media": null,
+      "price": 68,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Cold Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sprite Lemon Iced Tea",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Cold Beverages",
+      "slugs": [
+        "veg",
+        "sprite",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "sprite",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coffee",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 95,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Cold Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maska Bun",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Maska Bun",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maska Bun Jam",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Maska Bun",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted French Fries",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala French Fries",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    }
+  ]
+}

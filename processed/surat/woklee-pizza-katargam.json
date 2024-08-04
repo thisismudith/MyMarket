@@ -1,0 +1,803 @@
+{
+  "basicInfo": {
+    "name": "Woklee Pizza",
+    "cuisine_string": "Pizza, Fast Food, Desserts",
+    "canonicalUrl": "https://www.zomato.com/surat/woklee-pizza-katargam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "0",
+      "reviewTextSmall": "0 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "9",
+      "reviewTextSmall": "9 Reviews",
+      "subtext": "9 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395012",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Katargam, Surat",
+    "latitude": "21.2249020000",
+    "longitude": "72.8071156000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2249020000,72.8071156000&maptype=zomato&markers=21.2249020000,72.8071156000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 59, 60, Silver Stone Arcade, Singanpore, Katargam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919737639900"
+    },
+    "res_chain_text": "See all 7 Woklee Pizza outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/woklee-pizza",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Double Cheese Margherita Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese and liquid spread cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Double Cheesy Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese and Corn Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, liquid spread cheese and golden corn.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/924/49b8ab9d85c8d09cfeb6c67b02628924.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Double Cheesy Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farm Fresh Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, capsicum, black olives, green jalapeno and baby corn.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e9e/d454e08c6324fb19e2a08d8bb3224e9e.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Veg Treat Pizza",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Veggie Delight Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, golden corn, red bell pepper and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e54/bc2e5d2802f656ca5495cd86f25cfe54.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Veg Treat Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Deluxe Super Veggie Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, green jalapeno, tomato, red bell pepper and black olives.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Veg Treat Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Super Mexican Delight Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, green jalapeno, baby corn, mushroom and black olives.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Veg Treat Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Fresh Veggie Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, onion, tomato, capsicum, baby corn and green jalapeno.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Veg Treat Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh Country Special Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, capsicum, tomato, golden corn, onion and red paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Veg Treat Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "All Veggie Madness Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, black olives, green jalapeno, golden corn, capsicum, onion and tomato.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Veg Treat Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fiesta Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, golden corn, red paprika and capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Veg Treat Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Peri Peri Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, paneer cube, tomato, capsicum, red paprika and peri sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/823/0d604356dff44af1c44978e99e993823.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Paneer Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Paneer Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, paneer cube, capsicum, onion, golden corn and mushroom.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Paneer Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Paneer Exotica Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, paneer cube, red bell pepper, onion and golden corn.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Paneer Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Five Famous Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, paneer cube, green jalapeno, black olives, golden corn and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Paneer Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Overloaded Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, paneer cube, spicy jalapeno, onion and tomato.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Paneer Special Pizza",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Paneer Paprika Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, red paprika and paneer cube.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Paneer Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Chilli Garlic Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, red chilli garlic sauce, red paprika, red bell pepper and paneer cube.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Flavored Twist Pizza",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Masala Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, red bell pepper, onion, paneer cube and red paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Flavored Twist Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Makhani Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, makhani sauce, paneer tikka, green capsicum and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Flavored Twist Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garden Fresh Pizza",
+      "description": "Contains 100% real mozzarella cheese. Pizza pasta sauce, jalapeno, black olives, red bell pepper and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Flavored Twist Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh Basil Pesto Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, baby corn, green capsicum, green jalapeno and basil pesto sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Flavored Twist Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Salsa Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, Mexican salsa sauce, capsicum, jalapeno, onion, mushroom and red paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Flavored Twist Pizza",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Paradise Pizza",
+      "description": "Contains 100% real mozzarella cheese. Mozzarella cheese, pizza sauce, red paprika, capsicum, tomato and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b9/73ff3f06ffce4992fb96fe0c25b0f5b9.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Flavored Twist Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Pizza [Regular, 6 inches]",
+      "description": "Served with garlic oil & green chilli oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ba6/1acabb038b505dfa85101f2a2363aba6.jpg",
+      "price": 119,
+      "menuName": "Pizza",
+      "categoryName": "Single Topping Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Pizza [Regular, 6 inches]",
+      "description": "Served with garlic oil & green chilli oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/244/83de7f36e03765a3b141a2da8cf7f244.jpg",
+      "price": 129,
+      "menuName": "Pizza",
+      "categoryName": "Single Topping Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Golden Corn Pizza [Regular, 6 inches]",
+      "description": "Served with garlic oil & green chilli oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/26b/fda97f7d74f890746c8ee5aca81b426b.png",
+      "price": 139,
+      "menuName": "Pizza",
+      "categoryName": "Single Topping Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicum Pizza [Regular, 6 inches]",
+      "description": "Served with garlic oil & green chilli oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd0/4e444a31fd9bf87770071076ffe0dcd0.png",
+      "price": 139,
+      "menuName": "Pizza",
+      "categoryName": "Single Topping Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Pizza [Regular, 6 inches]",
+      "description": "Served with garlic oil & green chilli oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bb2/5e43836c80e0d78085b770711f5d8bb2.png",
+      "price": 149,
+      "menuName": "Pizza",
+      "categoryName": "Single Topping Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion and Capsicum Pizza [Regular, 6 inches]",
+      "description": "Served with garlic oil & green chilli oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c9a/b1e080031351fd7425276bfb542f5c9a.jpg",
+      "price": 159,
+      "menuName": "Pizza",
+      "categoryName": "Single Topping Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer and Onion Pizza [Regular, 6 inches]",
+      "description": "Paneer cube and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f6/7264c4c043ff8f916fbb7149b57189f6.jpg",
+      "price": 169,
+      "menuName": "Pizza",
+      "categoryName": "Single Topping Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Loaded Veg Pizza [Regular, 6 inches]",
+      "description": "Onion, tomato and capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8f7/e4d263b2be533a4efa33809a6c96c8f7.jpg",
+      "price": 179,
+      "menuName": "Pizza",
+      "categoryName": "Single Topping Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Bread Sticks with Cheese Dip",
+      "description": "Freshly baked to perfection, your perfect pizza partner.",
+      "media": null,
+      "price": 99,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread [3 Pieces]",
+      "description": "Tang of garlic and seasonings with cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/382/7c4884b9b9b4ebc08da28f457f4e3382.jpg",
+      "price": 99,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Garlic Bread [3 Pieces]",
+      "description": "Tang of garlic and seasonings with cheese and paneer cube.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/80d/d99e66e3c75ce8267a9a0438e30ad80d.png",
+      "price": 129,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Capsicum Garlic Bread [3 Pieces]",
+      "description": "Tang of garlic and seasonings with cheese and chopped onion and capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1c3/98a802cd9e18a4d0719043dbd9ec31c3.jpg",
+      "price": 129,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Parcel [2 Pieces]",
+      "description": "Pizza roll with creamy sauce and paneer cube.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4de/117a7493fa0a40ba9a8e8a46153b44de.jpg",
+      "price": 129,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Stuffed Garlic Bread",
+      "description": "Cheese, sweet corn and green jalapeno.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cbb/1b2c0fdd69a984cff3bef6734bb0bcbb.jpg",
+      "price": 159,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Stuffed Garlic Bread",
+      "description": "Cheese, onion, paneer with tikka fillings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/270/77dea9637d0e357dc5780cb38b40f270.jpg",
+      "price": 169,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Lava Cake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/737/37709b6b1f77aa0d1117baabf5aac737.jpg",
+      "price": 89,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Dessert",
+      "slugs": [
+        "veg",
+        "dessert",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "goods",
+        "veg"
+      ]
+    }
+  ]
+}

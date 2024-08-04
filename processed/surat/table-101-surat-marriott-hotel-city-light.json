@@ -1,0 +1,2306 @@
+{
+  "basicInfo": {
+    "name": "Table 101 - Surat Marriott Hotel",
+    "cuisine_string": "Continental",
+    "canonicalUrl": "https://www.zomato.com/surat/table-101-surat-marriott-hotel-city-light/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.5",
+      "reviewCount": "133",
+      "reviewTextSmall": "133 Reviews",
+      "subtext": "133 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.5",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "800"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.2",
+      "reviewCount": "202",
+      "reviewTextSmall": "202 Reviews",
+      "subtext": "202 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "City Light, Surat",
+    "latitude": "21.1765773000",
+    "longitude": "72.7892450000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1765773000,72.7892450000&maptype=zomato&markers=21.1765773000,72.7892450000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Ambika Niketan, Athwa Lines, City Light, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+912617117000, +919304672816"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Veg Kebab Platter",
+      "description": "Assortment of veg kebabs.",
+      "media": null,
+      "price": 1445,
+      "menuName": "Platters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Non Veg Kebab Platter",
+      "description": "Assortment of non veg kebabs.",
+      "media": null,
+      "price": 1675,
+      "menuName": "Platters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Healthy Quinoa and Arugula Salad",
+      "description": "Red quinoa, young tomatoes, orange, walnut, goat cheese, Kalamata olives, saffron mayo and citrus dressing.",
+      "media": null,
+      "price": 765,
+      "menuName": "Soups and Salads",
+      "categoryName": "Salads",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "description": "Gems, shaved Parmesan, croutons, caesar dressing, silver skin anchovies and grilled local cajun spiced.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bdf/cd3bb31a0f8491a9984cfa7361b73bdf.jpg",
+      "price": 745,
+      "menuName": "Soups and Salads",
+      "categoryName": "Salads",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Caesar Salad",
+      "description": "Gems, shaved Parmesan, croutons, caesar dressing, silver skin anchovies, garlic saute.",
+      "media": null,
+      "price": 795,
+      "menuName": "Soups and Salads",
+      "categoryName": "Salads",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Caesar Salad",
+      "description": "Gems, shaved Parmesan, croutons, caesar dressing, silver skin anchovies and grilled vegetable broth.",
+      "media": null,
+      "price": 725,
+      "menuName": "Soups and Salads",
+      "categoryName": "Salads",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Guntur Chilli Paneer Tikka",
+      "description": "Cottage cheese, hung curd, guntur chilli and home ground.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7c1/64124293e1fe5adc68ebff38568c77c1.jpg",
+      "price": 975,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "gluten-free",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "gluten-free",
+        "goods",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Matar Pasanda Kebab",
+      "description": "Plant base.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/664/19ee6ce71d35842cf92c1339ea644664.jpg",
+      "price": 775,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Khoya Subz ki Seekh",
+      "description": "Hariyali khoya, nuts and veg.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/17b/b4ac0182bf0c78f885c0a2df6540e17b.jpg",
+      "price": 975,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Mushroom",
+      "description": "Plant base.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d4f/dd31a8c41b59576e240a3ce6d5512d4f.jpg",
+      "price": 775,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "gluten-free",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "gluten-free",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sarson Mahi Tikka",
+      "description": "Bekti, mustard and green chilli.",
+      "media": null,
+      "price": 1195,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Crispy Vegetable Konjeenaro",
+      "description": "Crispy fried assorted vegetables and garlic.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0b8/d7e49f4ef796fd52793f392f3d2340b8.png",
+      "price": 975,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasooni Murgh Tikka",
+      "description": "Boneless chicken, garlic, cardamom, chilli flakes and kebab masala.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c3/ac78ff2e8caf3390ca86b12238f3d2c3.jpg",
+      "price": 995,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kalmi Kebab",
+      "description": "Boneless chicken and hung curd.",
+      "media": null,
+      "price": 995,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Khubani ka Murgh Tikka",
+      "description": "Boneless chicken thighs, hung curd and cheese.",
+      "media": null,
+      "price": 995,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tangra Chilli Chicken",
+      "description": "Deep fried chicken legs, garlic, peppers, onions and dry red chillies.",
+      "media": null,
+      "price": 995,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Gilafi Seekh Kebab",
+      "description": "Minced lamb skewers coated with bell pepper and onion finished in clay oven.",
+      "media": null,
+      "price": 1095,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lamb Galouti Kebab",
+      "description": "Mouth melting lamb mince kebab from Lucknow.",
+      "media": null,
+      "price": 1095,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cilantro Chilli Fish",
+      "description": "Crispy fish, cilantro, chilli paste, light soya and scallion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/638/f48dbe788d00e2a1340a6fbec9364638.png",
+      "price": 1175,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Jhinga",
+      "description": "Tiger prawns, red chilli, kebab masala, lime and coriander roots.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b2e/ff6f5b8fb9d5004f68ba59260abf7b2e.jpg",
+      "price": 1645,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Paneer in Your Way",
+      "description": "Cottage cheese, tomatoes, onions, capsicum, crushed coriander seeds, dried chilli and ginger.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/475/248d747d33976c12c36fb36fd920a475.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasooni Palak",
+      "description": "Spinach pure, garlic and cream.",
+      "media": null,
+      "price": 895,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Adraki Aloo Gobi",
+      "description": "Plant base. Home style cauliflower with potatoes and ginger.",
+      "media": null,
+      "price": 865,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mili Juli Tarkari",
+      "description": "Plant base. Tossed beans, baby corn, carrots, bell pepper, onions, tomatoes and brown cashew nuts.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/89a/f8b32a67bb4e32668c061825f54d589a.jpg",
+      "price": 895,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pindi Chole",
+      "description": "Chickpea, onions, tomatoes and amchoor powder.",
+      "media": null,
+      "price": 795,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Makhani",
+      "description": "Black lentils, tomatoes, home churned butter and cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a62/1ca874d448fb850f5af9040d286cba62.jpg",
+      "price": 795,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "Yellow lentils, garlic, green chilli, coriander leaves and cumin seeds.",
+      "media": null,
+      "price": 775,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Home Style Chicken Curry",
+      "description": "Stewed chicken.",
+      "media": null,
+      "price": 1025,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Purani Dilli ka Butter Chicken",
+      "description": "Tandoori chicken in tomato gravy, fenugreek, fresh cream, cashew nuts and butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d2a/28a6cf225852e8e4a2dcaa57dba40d2a.jpg",
+      "price": 1045,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Laal Maas",
+      "description": "Traditional Rajasthani lamb curry with mathania red chilies",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ead/4aa0d880ae6f8b56d6c82af70f728ead.jpg",
+      "price": 1125,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Bhuna Gosht",
+      "description": "Bhuna gosht.",
+      "media": null,
+      "price": 1125,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Goan Fish Curry",
+      "description": "Arabian pomfret, fresh coconut and home ground spices.",
+      "media": null,
+      "price": 1045,
+      "menuName": "Main Course",
+      "categoryName": "Indian Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sichuan Hot Pepper",
+      "description": "Braised tofu/cottage cheese.",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Asian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-spicy",
+        "sf-vegan",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-spicy",
+        "sf-vegan",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shitake Mushroom, Bok Choy, Water chestnut in Hot Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 895,
+      "menuName": "Main Course",
+      "categoryName": "Asian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Prawns Thai Curry",
+      "description": "Prawns, basil, kafir lime and lemon grass. Served with jasmine rice [1 portion].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e20/860e6359ca7286c7fd5924b5a02fce20.png",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Asian Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lamb Rendang",
+      "description": "Slow cooked lamb.",
+      "media": null,
+      "price": 1275,
+      "menuName": "Main Course",
+      "categoryName": "Asian Main Course",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "goods",
+        "category-chinese",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "goods",
+        "category-chinese",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Thai Curry with Jasmine Rice [1 Portion]",
+      "description": "Chick, basil, kafir lime and lemon grass.",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Asian Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Thai Curry",
+      "description": "vegetabale, kafir lime and lemon grass. Served with, jasmine rice [1 portion].",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Asian Main Course",
+      "slugs": [
+        "veg",
+        "goods",
+        "category-chinese",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "category-chinese",
+        "veg"
+      ]
+    },
+    {
+      "name": "Signature Chicken Krapow",
+      "description": "Spiced chicken mince with hot basil.",
+      "media": null,
+      "price": 1075,
+      "menuName": "Main Course",
+      "categoryName": "Asian Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns in Spicy XO Sauce",
+      "description": "Prawns in spicy xo sauce.",
+      "media": null,
+      "price": 1275,
+      "menuName": "Main Course",
+      "categoryName": "Asian Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Wok tossed Fish in Dark Schezwan Sauce",
+      "description": "Scallion.",
+      "media": null,
+      "price": 1145,
+      "menuName": "Main Course",
+      "categoryName": "Asian Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "goods",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "goods",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cajun Grilled Chicken",
+      "description": "Mashed potato, garlic sauteed veggies and mushroom sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0b5/e6c7b61612eca7ab5c613be88a9ab0b5.jpg",
+      "price": 1165,
+      "menuName": "Main Course",
+      "categoryName": "Western Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish and Chips",
+      "description": "Crumb fried locally sourced sea bass, tartar sauce.",
+      "media": null,
+      "price": 1165,
+      "menuName": "Main Course",
+      "categoryName": "Western Main Course",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Chicken Thighs",
+      "description": "Peri peri chicken thighs.",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "From the Grill",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Zaatar Spiced Cottage Cheese Steak",
+      "description": "Served with sauteed vegetables and French fries.",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "From the Grill",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Basil and Lime Rubbed Salmon",
+      "description": "Served with sauteed vegetables and French fries.",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "From the Grill",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "New Zeland Lamb Chops",
+      "description": "Served with sauteed vegetable and fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b5c/f590e0e2609a6b236f744d85eda11b5c.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "From the Grill",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Naan",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Roti",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Kulcha",
+      "description": "",
+      "media": null,
+      "price": 265,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lachha Paratha",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "4 Phulka",
+      "description": "From the griddle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b5/d3e7c7aa84889145d6624d1fec5d61b5.jpg",
+      "price": 265,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Tawa Paratha",
+      "description": "From the griddle.",
+      "media": null,
+      "price": 265,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Matar Pulao",
+      "description": "",
+      "media": null,
+      "price": 635,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4a5/3a139fafa90844ad20de5947a15d04a5.jpg",
+      "price": 445,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Hyderabadi Dum Biryani",
+      "description": "Flavored basmati rice, salan and burhani raita.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/613/32040c31d6eb256cda9549fe08a5b613.jpg",
+      "price": 945,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Hyderabadi Dum Biryani",
+      "description": "Flavored basmati rice, salan and burhani raita.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92c/b04a93e18ded2e88e94ccaddd4fdb92c.jpg",
+      "price": 1045,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lamb Hyderabadi Dum Biryani",
+      "description": "Flavored basmati rice, salan and burhani raita.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/21c/1a7d9d0bee52d7cdd1395f2b9939d21c.png",
+      "price": 1125,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Wok Tossed Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/77d/1c6b3426bb3cf41cefe58aa56fb4377d.jpg",
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Wok Tossed Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "egg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "goods",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Wok Tossed Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Wok Tossed Hakka Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e4c/5969efbc9dda484b1ff4f9b592275e4c.jpg",
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Wok Tossed Schezwan Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/035/a5d98e816d785834306405a92b6a8035.jpg",
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Wok Tossed Burnt Garlic Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fa9/64bd3179f84b7ff15cb2e7ea9277ffa9.jpg",
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Wok Tossed Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "egg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "goods",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Wok Tossed Schezwan Noodles",
+      "description": "",
+      "media": null,
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "egg",
+        "goods",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "goods",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Wok Tossed Burnt Garlic Noodles",
+      "description": "",
+      "media": null,
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "egg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "goods",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Wok Tossed Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Wok Tossed Schezwan Noodles",
+      "description": "",
+      "media": null,
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Wok Tossed Burnt Garlic Noodles",
+      "description": "",
+      "media": null,
+      "price": 595,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [10 inches]",
+      "description": "The classic combination of tomatoes, mozzarella and fresh basil.",
+      "media": null,
+      "price": 825,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Verdure Pizza [10 inches]",
+      "description": "Bell pepper, onion, tomato, broccoli and olives.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/16c/6c7ca84259840addb4a2fe8e5710516c.jpg",
+      "price": 825,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Pizza [10 inches]",
+      "description": "Vegetable.",
+      "media": null,
+      "price": 825,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadhai Veg Pizza [10 inches]",
+      "description": "Vegetables, onion and tomato.",
+      "media": null,
+      "price": 825,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burani Tikka Pizza [10 inches]",
+      "description": "Chicken tikka.",
+      "media": null,
+      "price": 925,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Meat Lovers Pizza [10 inches]",
+      "description": "Peri peri chicken, chicken sausages, chicken salami and mozzarella",
+      "media": null,
+      "price": 925,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pollo di Arrosto Pizza [10 inches]",
+      "description": "Roasted chicken.",
+      "media": null,
+      "price": 925,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Rustica Pizza [10 inches]",
+      "description": "Roasted chicken, mushroom, buffalo mozzarella and truffle oil.",
+      "media": null,
+      "price": 925,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Seekh Korma Pizza [10 inches]",
+      "description": "Korma, lamb seekh, brown onion and coriander.",
+      "media": null,
+      "price": 925,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pepperoni Pizza [10 inches]",
+      "description": "Spiced pepperoni, tomato sauce and buff.",
+      "media": null,
+      "price": 925,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Thin Crust Pizza",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tortellini Ricotta Spinaci Novelli",
+      "description": "Baby spinach, ricotta and grana padano.",
+      "media": null,
+      "price": 915,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato and Garlic Risotto",
+      "description": "Arborio, roasted garlic, young tomato, thyme and Parmesan cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e8d/2150fc48499a6387f4d9a22cb1dc7e8d.png",
+      "price": 915,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pomodoro Pasta",
+      "description": "Basil, garlic, parmesan, pinenut, olive oil, cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/88d/cf9fcf46e8ca8b43ee4ad561979ac88d.jpg",
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arrabiata Pasta",
+      "description": "Basil, garlic, parmesan, pinenut, olive oil, cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e97/23db2932251ccc87aee324059772ae97.png",
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Pasta",
+      "description": "Basil, garlic, parmesan, pinenut, olive oil, cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be8/744da6a851713c38f6364cc7fa067be8.jpg",
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Cream Pasta",
+      "description": "Basil, garlic, Parmesan, pinenut, olive oil, cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/35e/5a79dc606ca9220cc171edd59ce2c35e.png",
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mornay Cream Pasta",
+      "description": "Béchamel sauce, garlic, Parmesan, peanut, olive oil and cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/35e/5a79dc606ca9220cc171edd59ce2c35e.png",
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken and Mushroom Risotto",
+      "description": "Arborio, button mushroom, porcini, chicken and Parmesan cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7d1/c7023f8b2b32a5a847f0209c668d37d1.jpg",
+      "price": 995,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pomodoro Pasta",
+      "description": "Basil, garlic, parmesan, pinenut, olive oil, cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/88d/cf9fcf46e8ca8b43ee4ad561979ac88d.jpg",
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Arrabiata Pasta",
+      "description": "Basil, garlic, Parmesan, pinenut, olive oil, cream.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Alfredo Pasta",
+      "description": "Basil, garlic, Parmesan, pinenut, olive oil, cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be8/744da6a851713c38f6364cc7fa067be8.jpg",
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pesto Cream Pasta",
+      "description": "Basil, garlic, Parmesan, pinenut, olive oil, cream.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Seafood Marinara Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/88d/cf9fcf46e8ca8b43ee4ad561979ac88d.jpg",
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lamb Bolognese Pasta",
+      "description": "Basil, garlic, Parmesan, pinenut, olive oil, cream.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Carbonara Pasta",
+      "description": "Basil, bacon, garlic, parmesan, peanut, olive oil and cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be8/744da6a851713c38f6364cc7fa067be8.jpg",
+      "price": 0,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta and Risotto",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Surat Marriott Hotel Burger",
+      "description": "Cilantro, tomato, caramelized onion and lettuce.",
+      "media": null,
+      "price": 975,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Surat Marriott Hotel Special Chicken Burger",
+      "description": "Crumb fried chicken patty, tomato caramelized onion.",
+      "media": null,
+      "price": 0,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Club Sandwich",
+      "description": "Charred bell pepper, grilled zucchini, tomatoes, iceberg lettuce and cheese.",
+      "media": null,
+      "price": 0,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caprese Panini",
+      "description": "Grilled farmers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/801/96d0833d3a816de90f7be4ccd4fd5801.png",
+      "price": 925,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Focaccia Grilled Sandwich",
+      "description": "Paneer tikka, chop onions, chillies, cilantro and olive focaccia.",
+      "media": null,
+      "price": 975,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Focaccia Grilled Sandwich",
+      "description": "Chicken tikka, chop onions, chillies, cilantro and olive focaccia.",
+      "media": null,
+      "price": 975,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Non Veg Club Sandwich",
+      "description": "Roasted chicken breast, fried egg, bacon, tomatoes, iceberg lettuce, toasted bread.",
+      "media": null,
+      "price": 0,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Paneer Paratha Wrap",
+      "description": "Onion, pepper, tomato, mint dip and chilli. Choice of refined flour/whole wheat.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/05c/e9836405422f2926005eb486b669305c.jpg",
+      "price": 0,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Paratha Wrap",
+      "description": "Onion, pepper, tomato, mint dip and chilli. Choice of refined flour/whole wheat.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ca1/b8212dc6d18a629b156d862b411b7ca1.jpg",
+      "price": 0,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "goods",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Paratha Wrap",
+      "description": "Onion, pepper, tomato, mint dip and chilli. Choice of refined flour/whole wheat.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4e9/0998b90da8cc284e859c6fdd7a8604e9.jpg",
+      "price": 0,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Choco Brownie",
+      "description": "",
+      "media": null,
+      "price": 545,
+      "menuName": "Kids Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Grilled Sandwich",
+      "description": "Sliced milk bread, cheese slices and fries.",
+      "media": null,
+      "price": 545,
+      "menuName": "Kids Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Vegetable Burger",
+      "description": "Mini sesame bun, fried patty, grilled tomato, grilled onion, cheese and fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bb3/8fe1b1a58c927a513ba707a9a59febb3.jpg",
+      "price": 545,
+      "menuName": "Kids Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Wok Fried Noodles",
+      "description": "",
+      "media": null,
+      "price": 545,
+      "menuName": "Kids Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Maggi",
+      "description": "",
+      "media": null,
+      "price": 545,
+      "menuName": "Kids Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Maggi",
+      "description": "",
+      "media": null,
+      "price": 545,
+      "menuName": "Kids Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Chicken Burger",
+      "description": "Mini sesame bun, fried patty, grilled tomato, grilled onion, cheese and fries.",
+      "media": null,
+      "price": 545,
+      "menuName": "Kids Specials",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Wok Fried Noodles",
+      "description": "",
+      "media": null,
+      "price": 545,
+      "menuName": "Kids Specials",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Fingers",
+      "description": "Served with tartar sauce.",
+      "media": null,
+      "price": 545,
+      "menuName": "Kids Specials",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "goods",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mint Raita",
+      "description": "",
+      "media": null,
+      "price": 445,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Boondi Raita",
+      "description": "",
+      "media": null,
+      "price": 445,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato Raita",
+      "description": "",
+      "media": null,
+      "price": 445,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cucumber Raita",
+      "description": "",
+      "media": null,
+      "price": 445,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Raita",
+      "description": "",
+      "media": null,
+      "price": 445,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Raita",
+      "description": "",
+      "media": null,
+      "price": 445,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gulab Jamun [2 Pieces]",
+      "description": "[Dessert] [Pre Prepared] Fried cottage cheese dumplings in saffron infused sugar syrup.",
+      "media": null,
+      "price": 425,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Elaichi Kesar Shrikhand",
+      "description": "[Dessert] [Pre Prepared] Traditional Gujarati dessert.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8ae/c02b793867643c03e106c70f2326a8ae.jpg",
+      "price": 375,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesari Rasmalai [2 Pieces]",
+      "description": "[Dessert] [Pre Prepared] Poached cottage cheese dumplings with saffron scented reduce milk.",
+      "media": null,
+      "price": 425,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh Seasonal Fruits",
+      "description": "[Dessert] [Seasonal]",
+      "media": null,
+      "price": 395,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    }
+  ]
+}

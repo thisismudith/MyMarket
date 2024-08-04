@@ -1,0 +1,3392 @@
+{
+  "basicInfo": {
+    "name": "Indian Zaiqa",
+    "cuisine_string": "North Indian, Chinese, Seafood, Biryani, Pizza, Salad, Sandwich",
+    "canonicalUrl": "https://www.zomato.com/surat/indian-zaiqa-new-textile-market/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "5",
+      "reviewTextSmall": "5 Reviews",
+      "subtext": "5 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "2.1",
+      "reviewCount": "7",
+      "reviewTextSmall": "7 Reviews",
+      "subtext": "7 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "2.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "orange",
+        "tint": "300"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395008",
+    "is_dark_kitchen": false,
+    "locality_verbose": "New Textile Market, Surat",
+    "latitude": "21.2058801047",
+    "longitude": "72.8392442460",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2058801047,72.8392442460&maptype=zomato&markers=21.2058801047,72.8392442460,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "7A / 278/A-1, Paiki, Third Floor, Station Square, Doriwala Square, Opposite Surat Railway Station, New Textile Market, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919724396711"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Bread Butter Jam (293 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Breakfast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Omellete (356 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Breakfast",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Vegetable Sweet Corn Soup",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Clear (31 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hot N Sour Soup",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Sweet Corn Soup",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tom Yum Soup",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cream Of Broccoli Soup",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup & Shorba (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Of Mushroom Soup",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup & Shorba (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Of Tomato Soup",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup & Shorba (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mulligatawny Soup",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup & Shorba (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Lung Fung Soup",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Soup & Shorba",
+      "categoryName": "Soup & Shorba (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fresh Garden Salad",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Salads",
+      "categoryName": "Veg Salad",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fruit Salad",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Salads",
+      "categoryName": "Veg Salad",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kachumber Salad",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Salads",
+      "categoryName": "Veg Salad",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Russian Salad",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Salads",
+      "categoryName": "Veg Salad",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sprout Salad",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Salads",
+      "categoryName": "Veg Salad",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tossed Salad",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Salads",
+      "categoryName": "Veg Salad",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Lebanese Salad",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Salads",
+      "categoryName": "Salad [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pasta Salad",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Salads",
+      "categoryName": "Salad [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Salad",
+      "description": "A flavorful blend of tender grilled chicken and crisp vegetables, tossed in a tangy dressing, creating a delightful non-veg salad.",
+      "media": null,
+      "price": 180,
+      "menuName": "Salads",
+      "categoryName": "Salad [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cocktail Chicken Salad",
+      "description": "[Non Alcoholic]",
+      "media": null,
+      "price": 190,
+      "menuName": "Salads",
+      "categoryName": "Salad [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Mayo Salad",
+      "description": "(571 Kcal) per 222 gm serving",
+      "media": null,
+      "price": 160,
+      "menuName": "Salads",
+      "categoryName": "Salad [Non-Veg]",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Tuna Fish Salad",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Salads",
+      "categoryName": "Salad [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Healthy Egg Salad",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Salads",
+      "categoryName": "Salad [Non-Veg]",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Baby Corn Salt & Pepper (26 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Vegetables (147 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Honey Chilly Potato (580 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilly Dry (263 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilly Dry (237.37 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato 65",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Dry",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian (254 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Garlic Prawns",
+      "description": "",
+      "media": null,
+      "price": 460,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken 65",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilly Dry (124 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Crispy Chicken",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Crispy Chicken (210 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kung Pao Fish",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Schezwan Chicken Dry (310 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Chinese Starters Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Corn Cheese Ball",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Indian Veg Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hara Bhara Kebab",
+      "description": "A flavorful and savory delight filled with a burst of vibrant greens, perfect for starting a satisfying meal.",
+      "media": null,
+      "price": 240,
+      "menuName": "Starters",
+      "categoryName": "Indian Veg Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Haryali Cheese Tikki (136 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Indian Veg Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lehsuni Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Indian Veg Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pahadi Paneer Tikka (121 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Starters",
+      "categoryName": "Indian Veg Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Indian Veg Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spinach Cheese Roll",
+      "description": "Crispy on the outside, soft on the inside; these delectable bites are bursting with the perfect blend of flavors and textures.",
+      "media": null,
+      "price": 220,
+      "menuName": "Starters",
+      "categoryName": "Indian Veg Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Tandoori Mushroom",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Indian Veg Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Mushroom (27 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Indian Veg Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Afghani Tikka (148 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Baniara Tikka (156 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Cheese Seekh Kebab (234 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lehsuni Tikka",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Reshmi Tikka",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Murg Kalimirch Kebab (253 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pahadi Murgh Tikka",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Surmai Tawa Fry",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Chicken Full (915 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 740,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Chicken Half",
+      "description": "",
+      "media": null,
+      "price": 440,
+      "menuName": "Starters",
+      "categoryName": "Indian Starters [Non-Veg]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chole Chawal Meal",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Bukhara Meal",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Dal Tadka Meal",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iz Oriental Thali",
+      "description": "Veg manchuria,paneer chilli gravy,shezwan rice /noosles , salad",
+      "media": null,
+      "price": 260,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iz Royal Thali",
+      "description": "1 Veg subji,1 paneer sabji, 4 chapati,1dal fry1jeera rice,salad & papad",
+      "media": null,
+      "price": 220,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iz Singapuri",
+      "description": "Vegetable Singapuri noodles with Veg Manchurian Gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a53/9e832c3f2a8052ee73974c4347c56a53.jpeg",
+      "price": 249,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iz Special Thali",
+      "description": "1 Veg sabji,1 paneer sabji,4 chapati, veg biryani,raita, salad, padad ,1 sweet",
+      "media": null,
+      "price": 280,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iz Thai Fried Rice Combo",
+      "description": "Vegetables fried rice with paneer Chilli gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b33/2489e100f691965454a722c5d0d14b33.jpeg",
+      "price": 249,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iz Thai Noodles Combo",
+      "description": "Veg Thai noodles with Exotic Vegetables in hot garlic sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d1/9d0b6066d28857219bd990eeedd489d1.jpeg",
+      "price": 249,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iz Veg Fried Rice Combo",
+      "description": "Vegetable Fried Rice With Exotic Vegetables in hot garlic sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ed2/ab8879458e9ade4b3d09bf813854fed2.jpeg",
+      "price": 249,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iz Vegetable Fried Rice Combo",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f8e/e8d60639ab2a4deb258b89718840cf8e.jpeg",
+      "price": 249,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Makhani Meal",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rajma Chawal Meal",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Dal Makhani Meal",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Dum Biryani Meal",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Afghani Chicken Meal",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken Rice Meal",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli & Hakka Noodles Meal",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli & Schezwan Fried Rice Meal",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Dum Biryani Meal",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchurian & Hakka Noodles Meal",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Mexican Hot Pot Meal",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Executive Non Veg Thali",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Home Style Chicken Meal",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hot Garlic Schezwan Fish & Hakka Noodles Meal",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Nonveg Punjabi Express Meal",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Kebab Meal",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Tikka Meal",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Combos & Meals",
+      "categoryName": "Combo Meals (Non Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Aloo Gobi Adraki",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Babycorn Chilly Gravy (260 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bhindi Masala",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole Masala",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Aloo (172 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadai Paneer",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Do Pyaza",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilly Gravy (263 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Masala (267 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Matar Paneer",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Paneer (97 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhurjee (115 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chatpata (56 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilly Gravy (245 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Handi (255 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Hara Pyaz",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Khurchan (449 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lababdar",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Makhanwala (100 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rahra Paneer (23 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rajma Masala",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Chilli Billi",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Diwani Handi (256 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kadhai (150 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kolhapuri (224 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Gravy (254 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable In Schezwan Sauce (44 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Jalfrezi",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetables In Hot Garlic Sauce (142 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "Veg Maincourse",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry (101 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Main Course",
+      "categoryName": "Lentil",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Makhani",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Lentil",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Palak (145Kcal)",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Main Course",
+      "categoryName": "Lentil",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Punchratni (206 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "Lentil",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka (170 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "Lentil",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Main Course",
+      "categoryName": "Non-Veg Maincourse",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chettinad",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Non-Veg Maincourse",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dum Murgh Kali Mirch",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "Non-Veg Maincourse",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Sukka",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Non-Veg Maincourse",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "description": "A tantalizing and flavorful Indian specialty that combines tender chicken pieces in a rich and aromatic tomato-based sauce.",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Non-Veg Maincourse",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kadai Chicken",
+      "description": "A flavorful and aromatic chicken delicacy cooked to perfection, offering a satisfying main course experience.",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Non-Veg Maincourse",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Murgh Lababdar",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Non-Veg Maincourse",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dal Khichadi (203 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kalyani Kofta Biryani",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Rice",
+      "description": "A tangy and refreshing rice dish with a burst of lemony flavors that will brighten up your mealtime.",
+      "media": null,
+      "price": 130,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Biryani",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Pulao (289 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Biryani",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steam Rice",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Biryani With Raita (559 Kcal)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetable Pulao",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Veg)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Pulao",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Zafrani Egg Biryani",
+      "description": "A flavorful and aromatic rice dish layered with succulent pieces of tender meat and delicately boiled eggs.",
+      "media": null,
+      "price": 290,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Tikka Biryani",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hyderabadi Chicken Biryani",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Chicken Biryani",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice & Biryani (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Rice & Noodles",
+      "categoryName": "Veg Rice & Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Rice & Noodles",
+      "categoryName": "Rice & Noodles (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Rice & Noodles",
+      "categoryName": "Rice & Noodles (Non-Veg)",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Triple Chicken Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Rice & Noodles",
+      "categoryName": "Rice & Noodles (Non-Veg)",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chapati",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paratha",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Chapati",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pudina Lachha Paratha",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Mix Vegetable Kulcha",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tawa Lachha Paratha",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tawa Roti With Butter",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cocktail Vegetable Pizza [Regular]",
+      "description": "[Non Alcoholic]",
+      "media": null,
+      "price": 260,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Greek Pita Sandwich",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Pakora",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pakora",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Paratha",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetable Paratha",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paratha",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Veg",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Burger",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Sandwich",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Popcorn",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Stuffed Paratha",
+      "description": "Delicious, flavorful chicken stuffed in soft paratha, making it an all-time favorite dish.",
+      "media": null,
+      "price": 240,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Sandwich",
+      "description": "An irresistible all-time favorite sandwich packed with succulent chicken tikka.",
+      "media": null,
+      "price": 240,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cocktail Chicken Pizza [Regular]",
+      "description": "[Non Alcoholic]",
+      "media": null,
+      "price": 240,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Mayo Sandwich",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Fish Koliwada",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pita Bread Pockets With Various Fillings",
+      "description": "Chicken",
+      "media": null,
+      "price": 270,
+      "menuName": "All Time Favourite",
+      "categoryName": "All Time Favourite Non-Veg",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Gulab Jamun",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Moong Dal Halwa",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shahi Phirni",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sweets",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "7Up Can [250 Ml]",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Buttermilk",
+      "description": "",
+      "media": null,
+      "price": 35,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coke Can [250 Ml]",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "coke",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "coke",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Lassi",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sprite Can [250 Ml]",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "sprite",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "sprite",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thums Up Can [250 Ml]",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "thums-up",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "thums-up",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1418 @@
+{
+  "basicInfo": {
+    "name": "Dosa Charcoal",
+    "cuisine_string": "South Indian, Mexican, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/dosa-charcoal-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "0",
+      "reviewTextSmall": "0 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "20",
+      "reviewTextSmall": "20 Reviews",
+      "subtext": "20 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1894238000",
+    "longitude": "72.7891995000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1894238000,72.7891995000&maptype=zomato&markers=21.1894238000,72.7891995000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop No. M-13, M-14, M-29, 2nd Floor, Vivanta Icone Terrace, Near Madhuvan Circle, LP Savani Road, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919898853000"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Mexican Cheese Balls Full Plate",
+      "description": "Crispy and delicious mexican balls stuffed with cheese and flavourful fillings and deep fried. Served with sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c93/8e67f92ab7f5c79b702141437ec89c93.jpeg",
+      "price": 320,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Cheese Ball Half Plate",
+      "description": "Crispy and delicious mexican balls stuffed with cheese and flavourful fillings and deep fried. Served with sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b83/ef293e97c3746bd7165d936ba6886b83.jpeg",
+      "price": 170,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Gotalo",
+      "description": "Cheese gotala dosa is a famous street food of city surat, prepared with fermented rice dosa batter, thin crispy dosa. Served with mild spicy cheese and paneer gotala bhaji.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/38d/ae5be6fbbfec4401f73338050080e38d.jpeg",
+      "price": 350,
+      "menuName": "Regular Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mysore",
+      "description": "Thin dosa prepared from fermented batter topped with spicy red chutney and topped with cheese. Served with chutney and sambar.",
+      "media": null,
+      "price": 230,
+      "menuName": "Regular Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gotalo",
+      "description": "Gotala dosa is a famous street food of city surat, prepared with fermented rice dosa batter, thin crispy dosa. Served with mild spicy gotala bhaji.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c8e/6660b8a9c686c807ea11a856ed890c8e.jpeg",
+      "price": 320,
+      "menuName": "Regular Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Green Gotalo",
+      "description": "Crispy and delicious dosa, served with special green puree gatola bhaji infused with burst of flavours.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5cd/7e637f890b45d26cb92a48f2ca0fd5cd.jpeg",
+      "price": 390,
+      "menuName": "Regular Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Mysore",
+      "description": "Thin crispy dosa prepared from fermented batter infused in green palak flavour and topped with spicy red chutney. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/76b/03ff67b55ed151967203ee186730a76b.jpeg",
+      "price": 230,
+      "menuName": "Regular Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Mysore",
+      "description": "Delicious thin crispy dosa prepared from fermented batter topped with spicy red chutney and butter. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0c0/7ec80abbb7741e85a98f8e575d9c70c0.jpeg",
+      "price": 200,
+      "menuName": "Regular Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dosa Charcoal Mysore",
+      "description": "Dosa charcoal's special mysore dosa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0e7/b563aefcb2ef794a4bdb415757e4e0e7.jpeg",
+      "price": 390,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Galary",
+      "description": "A special evergreen dosa prepared with thin crispy dosa folded with curry leaves and red chilli tadka, paper stuff pieces, spinach, garlic, ginger, chilli, onion, capsicum, paneer and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b13/50680f0fd57d873492d1514229223b13.jpeg",
+      "price": 390,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Mysore",
+      "description": "A Italian dosa is basically combination of 2 cuisines ! Where thin crispy dosa is topped with chopped veggies, corn, sauce and generous amount of cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/126/dd27afb59661a6b846bc60998ee8c126.jpeg",
+      "price": 390,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Mysore",
+      "description": "A thin crispy open dosa topped with ginger, garlic, chilli, onion, capsicum, cheese and kaju.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3a4/22c5073841303d84984411f3302263a4.jpeg",
+      "price": 390,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mastani Mysore",
+      "description": "Delightfully crisp, golden-coloured pancakes, folded with spicy red chutney with veggies mixed in special masala and spices. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e4/5f70f2451c27cccf9efbe086c6bee8e4.jpeg",
+      "price": 390,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Mysore",
+      "description": "Crispy thin dosa folded with paneer chilly pieces and sauce with red spicy chutney. Served with sambar and chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b5/1eb616ef397acbaf2d21c2ca9cd831b5.jpeg",
+      "price": 390,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Patiala Mysore",
+      "description": "Our special patiyala mysore dosa prepared thin crispy dosa filled with ginger, garlic, chilli, onion, capsicum, paneer, cheese and turmeric.",
+      "media": null,
+      "price": 390,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Patra Mysore",
+      "description": "A semi-spicy and crispy and delicious dosa, folded with spicy red chutney with gujarati special dish patra. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/837/fa158c9d5511e23310edf64d27db6837.jpeg",
+      "price": 390,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rajwadi Mysore",
+      "description": "Our classic special rajwadi mysore dosa prepared with a thin crispy open dosa filled with ginger, garlic, chilli, onion, capsicum, paneer, cheese, baby corn and schezwan chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5d1/f3d82470438aa869beb2aef2ce1465d1.jpeg",
+      "price": 400,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Two Twenty (tadka)",
+      "description": "Our special two- twenty mysore dosa prepared with red chilli and curry leaves tadka along with ginger, garlic, chilli, onion, capsicum, paneer and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/570/d9564335941c4fe4b8154e5f6d198570.jpeg",
+      "price": 390,
+      "menuName": "Signature Mysore",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paper Kadak",
+      "description": "A thin crispy hard dosa with topped with cheese. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/365/8289cb1426b178172c82898dd5297365.jpeg",
+      "price": 170,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paper Medium",
+      "description": "A thin paper dosa topped with loads of cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f4/ee36da5a3238586423565cbf09a459f4.jpeg",
+      "price": 170,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paper Naram",
+      "description": "A thin paper dosa topped with loads of cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4b3/e36bd10c48b76eda1e1ba11c055d54b3.jpeg",
+      "price": 170,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Cheese Paper Kadak",
+      "description": "A soft fluffy delicious dosa with topped with chilli sauce, garlic chutney and cheese. Served with chutney and sambar.",
+      "media": null,
+      "price": 195,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Cheese Paper Medium",
+      "description": "A soft fluffy dosa with our special lassan chutney spread topped with cheese. Served with chutney and sambar.",
+      "media": null,
+      "price": 195,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Cheese Paper Naram",
+      "description": "A soft fluffy dosa with our special lassan chutney spread topped with cheese. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/40b/2ff67ec690f1fb50938ee11242b1a40b.jpeg",
+      "price": 195,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Paper Kadak",
+      "description": "A crispy hard dosa with our special lassan chutney spread. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5e7/1f042e0796f0cfa4847044f2369195e7.jpeg",
+      "price": 125,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Paper Medium",
+      "description": "A thin crispy hard dosa with our special lassan chutney spread. Served with chutney and sambar.",
+      "media": null,
+      "price": 125,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Paper Naram",
+      "description": "A soft fluffy dosa with our special lassan chutney spread. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9e2/d2be829eb90b17eea23e981e2576a9e2.jpeg",
+      "price": 125,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paper Kadak",
+      "description": "A crispy hard paper dosa. Served with chutney and sambar.",
+      "media": null,
+      "price": 140,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paper Naram",
+      "description": "A soft thin Butter paper dosa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/026/b8575db21f5c3c57922f37e470622026.jpeg",
+      "price": 100,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paper Medium",
+      "description": "A cripsy thin Butter Paper Dosa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/73b/c3fcb13e7af69cbc44d595653532773b.jpeg",
+      "price": 100,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paper Kadak",
+      "description": "A crispy hard Butter paper dosa. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ec/8d9d7383284e593e87bebdbfc53c64ec.jpeg",
+      "price": 100,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Paper Naram",
+      "description": "A soft thin paper dosa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/98d/19576e5625b2beccdd2366a9d3e2f98d.jpeg",
+      "price": 110,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Paper Medium",
+      "description": "A cripsy thin paper dosa.",
+      "media": null,
+      "price": 110,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Paper Kadak",
+      "description": "A crispy hard Butter paper dosa. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/695/9d83d615ff5d132fde9ea9f3e38ab695.jpeg",
+      "price": 110,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nylon Paper",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/778/98d2fe18f13d401411645b2825c4f778.jpeg",
+      "price": 115,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paper Naram",
+      "description": "A healthy, tasty and Soft dosa infused with paneer stuffing. Served with chutney and sambar.",
+      "media": null,
+      "price": 140,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paper Medium",
+      "description": "A thin hard dosa topped with chutney and paneer cubes. Served with chutney and sambar.",
+      "media": null,
+      "price": 140,
+      "menuName": "Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscuit Paper",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Fancy Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Silencer Paper Kadak",
+      "description": "A thin crispy dosa topped with butter, cheese, green and red chillies",
+      "media": null,
+      "price": 210,
+      "menuName": "Fancy Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chocalate Paper",
+      "description": "A humble dosa transform into a rich and westernized treat ! Coated with nutella spread and cheese.",
+      "media": null,
+      "price": 180,
+      "menuName": "Fancy Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chocalet Paper",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Fancy Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chocolate Dosa",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Fancy Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Cheese Chilli Paper Kadak",
+      "description": "A soft fluffy delicious dosa with topped with chilli sauce, garlic chutney and cheese. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8f8/dd4d8759559a465488f4bbb858ff68f8.jpeg",
+      "price": 195,
+      "menuName": "Fancy Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Limbu Mari Paper",
+      "description": "A crispy open dosa topped with butter, lemon and mari powder.",
+      "media": null,
+      "price": 140,
+      "menuName": "Fancy Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mukhwas Paper",
+      "description": "A thin crispy open dosa topped with butter, tal, good and honey",
+      "media": "https://b.zmtcdn.com/data/dish_photos/111/467614fa045c78f18e1c8a73e16d2111.jpeg",
+      "price": 155,
+      "menuName": "Fancy Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Paper",
+      "description": "A thin crispy delicious dosa with topped with chocolate sauce. Served with chutney and sambar.",
+      "media": null,
+      "price": 140,
+      "menuName": "Fancy Paper",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Dosa",
+      "description": "Crispy and delicious dosa, folded in with potato masala, cheese and served with coconut chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bbb/c5cb6843a858e20604d11738b77cfbbb.jpeg",
+      "price": 240,
+      "menuName": "Regular Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Palak Dosa",
+      "description": "A classic breakfast dosa prepared with spinach puree and rice. Folded with loads of cheese. Served with sambar and chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b09/7ffe6968b831471add5fbf570ccf5b09.jpeg",
+      "price": 265,
+      "menuName": "Regular Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Palak Paneer Dosa",
+      "description": "A delicious breakfast dosa prepared with spinach puree and rice. Folded with loads of cheese and palak paneer. Served with sambar and chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/db3/74d033fd99a2f138ab650966e3432db3.jpeg",
+      "price": 265,
+      "menuName": "Regular Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gini Roll Dosa",
+      "description": "A thin crispy dosa folded with butter, cheese, onion, capsicum, carrots, beetroot and 2 types of sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/afa/e80c1c82da0c05639905291c7e6f2afa.jpeg",
+      "price": 265,
+      "menuName": "Regular Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "Crispy and delicious dosa, folded in with potato masala and served with coconut chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f91/9a6d6b4f0513ee117d22f242cfaf1f91.jpeg",
+      "price": 195,
+      "menuName": "Regular Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Paneer Dosa",
+      "description": "A healthy and thin crispy dosa infused with palak flavours with paneer. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/34a/fb548671ac7ab58a944d5004b157e34a.jpeg",
+      "price": 250,
+      "menuName": "Regular Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Masala Dosa",
+      "description": "Thin pancake prepared from fermented batter stuffed with masala paneer bhaji. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3b9/9189dc53c10692bc42701c6b6217d3b9.jpeg",
+      "price": 225,
+      "menuName": "Regular Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Cheese Dosa",
+      "description": "A thin crispy dosa folded with veggies like onion, capsicum, carrot, beetroot, babycorn, cheese and masala in butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/86a/52bc09b97e2bfc69e62d8ae59064286a.jpeg",
+      "price": 265,
+      "menuName": "Regular Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Paneer Dosa",
+      "description": "Thin pancake prepared from fermented batter folded with paneer cubes, sweet corn and spices. Served with chutney and sambar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/38c/0fcac56990ef331079d684947eae638c.jpeg",
+      "price": 250,
+      "menuName": "Regular Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Franky Dosa",
+      "description": "A frankie style dosa prepared with thin crispy dosa folded with schezwan sauce, mashed aloo, onion, cabbage and spring onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f6c/956292651309dc2c4a05699ccd079f6c.jpeg",
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chocolate Dosa",
+      "description": "A humble dosa transform into a rich and westernized treat ! Coated with nutella spread and cheese.",
+      "media": null,
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Children Dosa",
+      "description": "A special children open dosa prepared with crispy rice dosa topped with butter onion, potato, capsicum, tomato, paneer, tutti futti, ketchup and cheese.",
+      "media": null,
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Classic Tandoor Dosa",
+      "description": "A special tandoori dosa prepared with thin crispy dosa folded with butter, capsicum, onion, tomato, paneer, carrots, sauce and cheese.",
+      "media": null,
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Dosa Charcoal Dosa",
+      "description": "Made with chef's special recipe.",
+      "media": null,
+      "price": 395,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special French Dosa",
+      "description": "A classic thin crispy dosa folded with butter, onion, capsicum, cabbage, carrots, tomato, schezwan sauce, ketchup and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b39/d3437ceb2c4e11300ae82bb0fee06b39.jpeg",
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Mayo Dosa",
+      "description": "A thin crispy dosa folded with butter, onion, capsicum, pasta, cheese and 3 types of sauce.",
+      "media": null,
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza Dosa",
+      "description": "A Italian pizza dosa is made with thin crispy dosa is topped with chopped veggies, corn, pizza sauce and generous amount of cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef7/74b18ff2fb69c11ba5b211a9fec62ef7.jpeg",
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lovely Dosa",
+      "description": "Our special thin crispy dosa folded with butter, onion, capsicum, paneer, carrots, tomato, baby corn, ketchup and cheese.",
+      "media": null,
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Bombay Mayo Frankie",
+      "description": "A bombay style mayo frankie dosa prepared with thin crispy dosa folded with mayo, mashed aloo, onion, cabbage and spring onion.",
+      "media": null,
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer 65 Dosa",
+      "description": "A unique thin crispy dosa folded with butter, onion, capsicum, paneer, schezwan sauce, tomato, curd and ketchup.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e41/abe76405d59bd38359dd5bb076a77e41.jpeg",
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Dosa",
+      "description": "Crispy thin dosa folded with paneer chilly pieces and sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ccb/ac5dd3858e3aa684442a8395cf8eaccb.jpeg",
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pizza Paper Dosa",
+      "description": "A unique fusion dosa made with dosa batter topped pizza toppings, herbs, cheese and pizza sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/688/3764223b417fb05f2798824d92021688.jpeg",
+      "price": 280,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Raja Rani Dosa",
+      "description": "Our special thin crispy dosa folded with butter, onion, capsicum, carrot, beetroot, paneer, pineapple pieces, tutti futty, kaju, raisins and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/86a/19876a19a3a1c23abf6c5a98017df86a.jpeg",
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Sandwich Dosa",
+      "description": "A classic Mexican flavour dosa prepared with a thin crispy dosa folded with butter, onion, capsicum, carrots, beetroot, cucumber, tomato, potato and ketchup.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0dc/85667272f4e7a9dde47548f48acdd0dc.jpeg",
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Solid Mayo Masti Dosa",
+      "description": "A classic delightful dosa prepared with a thin crispy dosa folded with butter, onions, capsicum, solid masti kurkure, ketchup and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/240/2d13be12c9475ae9a5c9b0cbad110240.jpeg",
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Stardeep Dosa",
+      "description": "A special thin crispy dosa folded with butter, onion, capsicum, cream n onion wafer, 3 types of sauces and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3d8/7d1d3cb06f6836b4cbba0684358163d8.jpeg",
+      "price": 365,
+      "menuName": "Signature Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "basicInfo": {
+    "name": "Mysore Cafe",
+    "cuisine_string": "South Indian, Street Food, Sandwich",
+    "canonicalUrl": "https://www.zomato.com/surat/mysore-cafe-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.2",
+      "reviewCount": "783",
+      "reviewTextSmall": "783 Reviews",
+      "subtext": "783 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.2",
+      "reviewCount": "8,503",
+      "reviewTextSmall": "8,503 Reviews",
+      "subtext": "8,503 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395001",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1850751382",
+    "longitude": "72.8083746135",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1850751382,72.8083746135&maptype=zomato&markers=21.1850751382,72.8083746135,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "House 13/4, Daruwala Building, Surat Dumas Road, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+912612463767"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Idli [2 Pieces]",
+      "description": "Served with Sambhar, Coconut Chutney\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50a/e04c3fdbab6704c9259743670e97850a.jpg",
+      "price": 85,
+      "menuName": "Idli Vada and Upma",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vada [2 Pieces]",
+      "description": "Served with sambhar and coconut chutney. Jain not available.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/090/5adc148610f43dfe80d2a60a45ad0090.jpg",
+      "price": 95,
+      "menuName": "Idli Vada and Upma",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idli [1 Piece] with Vada [1 Piece]",
+      "description": "Served with sambhar and coconut chutney. Jain not available.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/aaa/d31c83134bb4abd197627d009114daaa.jpg",
+      "price": 95,
+      "menuName": "Idli Vada and Upma",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Idli",
+      "description": "Idli and dahi are served separately in packaging.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/74b/746453e3589512f361fd289935d0674b.jpg",
+      "price": 125,
+      "menuName": "Idli Vada and Upma",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Dosa",
+      "description": "Served with sambhar and coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edf/f8a66219c1a7ff27980ddec1e7cf1edf.jpg",
+      "price": 95,
+      "menuName": "Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "Served with Sambhar, Coconut Chutney (Masala served inside Dosa)\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bdf/af8735bfc7b2c9ac7a8eb02eaa605bdf.jpg",
+      "price": 105,
+      "menuName": "Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rawa Sada Dosa",
+      "description": "Served with sambhar and coconut chutney.",
+      "media": null,
+      "price": 105,
+      "menuName": "Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rawa Masala Dosa",
+      "description": "Served with Sambhar, Coconut Chutney (Masala served inside Dosa)\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/028/7f3dbfd11b8badc9b4048754b6ac5028.jpg",
+      "price": 115,
+      "menuName": "Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Rawa Sada Dosa",
+      "description": "Served with Sambhar, Coconut Chutney\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ac4/95177483d68b26a54e1ac12a7ab9aac4.jpg",
+      "price": 115,
+      "menuName": "Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Rawa Masala Dosa",
+      "description": "Served with Sambhar, Coconut Chutney (Masala served inside Dosa)\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b68/adc94ceaa786881163a5d78a9ba20b68.jpg",
+      "price": 133,
+      "menuName": "Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Sada Dosa with Green Chutney",
+      "description": "Served with Sambhar, Coconut Chutney\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f4b/802d1fa0197507979c053739be036f4b.jpg",
+      "price": 105,
+      "menuName": "Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Masala Dosa with Green Chutney",
+      "description": "Served with Sambhar, Coconut Chutney (Masala served inside Dosa)\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2a5/a6c2b1555e647c50887941f8703d52a5.jpg",
+      "price": 115,
+      "menuName": "Dosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Uttapam",
+      "description": "Served with sambhar and coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/60b/627ffbdce604be58d45187d78e05160b.jpg",
+      "price": 95,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Uttapam",
+      "description": "Served with sambhar and coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/60b/627ffbdce604be58d45187d78e05160b.jpg",
+      "price": 135,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Uttapam",
+      "description": "Served with Sambhar, Coconut Chutney\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9cb/57275da256b12597684a84236d6789cb.jpg",
+      "price": 115,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Onion Uttapam",
+      "description": "Served with sambhar and coconut chutney. [Jain not available].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9cb/57275da256b12597684a84236d6789cb.jpg",
+      "price": 155,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Uttapam",
+      "description": "Served with sambhar and coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/102/b32bd89ccf3ebe4f192dbfd29f78d102.jpg",
+      "price": 125,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Tomato Uttapam",
+      "description": "Served with sambhar and coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/102/b32bd89ccf3ebe4f192dbfd29f78d102.jpg",
+      "price": 165,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Tomato Uttapam",
+      "description": "Served with Sambhar, Coconut Chutney\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/548/fe594daf0a14eaaa07d15255b7133548.jpg",
+      "price": 130,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Onion Tomato Uttapam",
+      "description": "Served with sambhar and coconut chutney. [Jain not available].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/548/fe594daf0a14eaaa07d15255b7133548.jpg",
+      "price": 170,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/01c/baaf406ce959973bf295c685578c501c.jpg",
+      "price": 75,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chutney Sandwich",
+      "description": "[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d52/349b4c1df3311abf2efc365d96a3ed52.jpg",
+      "price": 85,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "Jain not available.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef7/9146137b3a7b0e9b53768adc41f02ef7.jpg",
+      "price": 85,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sandwich",
+      "description": "Jain not available.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a46/e3dc14ba09ac54b160907f808918ea46.jpg",
+      "price": 95,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "Jain not available.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5d1/39c090569f66250a1b1e6f66279615d1.jpg",
+      "price": 105,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Samosa [2 Pieces]",
+      "description": "Served with Coconut Chutney\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a98/d8ca9768d5c75816c752f7967e602a98.jpg",
+      "price": 80,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Samosa [1 Piece] with Cutlet [1 Piece]",
+      "description": "Served with Coconut Chutney\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/005/949804ae1e28fdb50d6b7d76c8f1a005.jpg",
+      "price": 80,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cutlet [2 Pieces]",
+      "description": "Served with Coconut Chutney\n[Jain Not Available]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d95/535e15f7227be44aef3bdbeef361cd95.jpg",
+      "price": 80,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Vada",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/827/a0070670584244bf8dadfaee51f0c827.jpg",
+      "price": 110,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Bundi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/825/5ef935563e47e9ed0f46f67cd31c5825.jpg",
+      "price": 110,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesari Bath",
+      "description": "Special sheera made with pure ghee, cashew, raisin and saffron.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/975/d310b1380529f0e843d7d7c5baadc975.jpg",
+      "price": 105,
+      "menuName": "Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

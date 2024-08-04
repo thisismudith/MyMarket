@@ -1,0 +1,157 @@
+{
+  "basicInfo": {
+    "name": "Joshi Snacks",
+    "cuisine_string": "Street Food, Desserts",
+    "canonicalUrl": "https://www.zomato.com/surat/joshi-snacks-pal-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "1",
+      "reviewTextSmall": "1 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "",
+      "reviewCount": "2",
+      "reviewTextSmall": "2 Reviews",
+      "subtext": "New on Delivery",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDelivery": true
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395009",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Pal Gam, Surat",
+    "latitude": "21.2009996845",
+    "longitude": "72.7726505957",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2009996845,72.7726505957&maptype=zomato&markers=21.2009996845,72.7726505957,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop G-46, Ground Floor, Raj Corner, Opposite Vasu-Pujya Residency, Pal Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919081307770"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 31.5,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 38.5,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ulta Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 45.5,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Ulta Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 64.5,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

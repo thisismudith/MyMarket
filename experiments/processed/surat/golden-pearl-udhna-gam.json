@@ -1,0 +1,1340 @@
+{
+  "basicInfo": {
+    "name": "Golden Pearl",
+    "cuisine_string": "Fast Food, Sandwich, Pizza",
+    "canonicalUrl": "https://www.zomato.com/surat/golden-pearl-udhna-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "7",
+      "reviewTextSmall": "7 Reviews",
+      "subtext": "7 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.2",
+      "reviewCount": "293",
+      "reviewTextSmall": "293 Reviews",
+      "subtext": "293 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Udhna Gam, Surat",
+    "latitude": "21.1692355250",
+    "longitude": "72.8374393657",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1692355250,72.8374393657&maptype=zomato&markers=21.1692355250,72.8374393657,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 4, South Zone Office Road, Opposite Jhansi Ki Rani Garden, Udhna Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918980457679"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "3 Veg Burger Combo",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "3 Veg Cheese Burger Combo",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Corn Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/51f/fd711af9d7bdecf9f9c80b230909e51f.jpg",
+      "price": 180,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/831/22575d1c7b64aad456ac6545ad9c5831.jpg",
+      "price": 210,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corny Spicy Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b2/e6b0ab7050f5cf671f0081b2ebb7e9b2.png",
+      "price": 210,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/48c/a50919300ff2acd547cc0c55a695648c.jpg",
+      "price": 200,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot and Spicy Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Three Cheese Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/009/19681b8839e34575e25110efcf1eb009.jpg",
+      "price": 230,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Peri Peri Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/24a/149c4c164d6b85c77f774e2cbb6d424a.jpg",
+      "price": 230,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Chataka Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ec2/5d2d9491501b7d26da75af0fd9294ec2.png",
+      "price": 230,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Paprika Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a09/a3daa395064a22103bef7de2799b1a09.jpg",
+      "price": 230,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Paneer Corn Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1d3/58a6c517cc103f937f06a778348081d3.jpg",
+      "price": 230,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9dd/2d353ca52f6505713fd432cde6e9d9dd.jpg",
+      "price": 230,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Pizza [8 Inches]",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Topping Pizza [8 inches]",
+      "description": "8 Inch Pizza",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f27/6d25ce444550d4d4a128353fba6daf27.jpg",
+      "price": 150,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Processed Cheese Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Hot Dog Sandwich",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Long Bread Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Cheese Long Bread Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b17/5cc90912c129792ae7301c2be148cb17.png",
+      "price": 160,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Long Bread Sandwiches",
+      "slugs": [
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fiery Paneer Cheese Long Bread Sandwich",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Long Bread Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Firangi Bread Sandwich",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Long Bread Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d91/6f6653c7e3893081e83e57b57c245d91.jpg",
+      "price": 70,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Double Tikki Cheese Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1fe/0552195627de2356633284c8ab6d01fe.jpg",
+      "price": 90,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Peri Peri Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Tandoori Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Chataka Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/66a/ee787165c4cd7c9e2a6ca28ac8a3766a.jpg",
+      "price": 110,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lazeez Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Chutney Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae1/7b562119c234de35f80c6e8a67b58ae1.jpg",
+      "price": 40,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Chutney Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jam Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/318/0d87a83a0b836bc5bdbafe1076609318.jpg",
+      "price": 50,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jam Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Decker Cheese Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/23a/f1bb00b6570d4b78b5b88dc8248c223a.jpg",
+      "price": 90,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Cheese Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c9b/3461420021ea27b11f2272aa669dfc9b.jpg",
+      "price": 170,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Barbeque Delight Grilled Sandwich",
+      "description": "A yummy combination of vegetables with smokey flavoured sauce topped with loads of cheese. Accompanied with a complementary dip.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e7e/693daca314c3a1c46bce56df9b1a5e7e.jpg",
+      "price": 210,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Yummy Corny Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tongue Twister Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo Masala Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Mushroom Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Mexican Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Exotica Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mexican Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mexican Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Corn Capsicum Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/02b/86d364e88e0f81912edefb6f2fe8a02b.jpg",
+      "price": 170,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo Masala Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crunchy Mayo Pav",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/56e/dbbd766a9babe2d30b78b50571ec456e.jpg",
+      "price": 40,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Mayo Pav",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Mayo Pav",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Mayo Pav",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Cream Onion Mayo Pav",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7a0/8496dd77f32e57779d11fabdb83b57a0.jpg",
+      "price": 50,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Mayo Pav",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Mayo Pav",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/501/8a56fa3ead1c7662500d7e54d465c501.jpg",
+      "price": 50,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Mayo Pav",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "1000 Cheese Mayo Pav",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Mayo Pav",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Cheese Mayo Pav",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Mayo Pav",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Cheese Mayo Pav",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Mayo Pav",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasooni Cheese Mayo Pav",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Mayo Pav",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6fe/cd41eab8eaa18f7f357952faf4d4f6fe.jpg",
+      "price": 80,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c1/dd5ef924323cb563c16c2a3231ca22c1.jpg",
+      "price": 80,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese French Fries",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Mayo Pav & French Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1462 @@
+{
+  "basicInfo": {
+    "name": "London Yard Pizza",
+    "cuisine_string": "Pizza, Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/london-yard-pizza-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "1",
+      "reviewTextSmall": "1 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.2",
+      "reviewCount": "258",
+      "reviewTextSmall": "258 Reviews",
+      "subtext": "258 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "394510",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1896888753",
+    "longitude": "72.7791159082",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1896888753,72.7791159082&maptype=zomato&markers=21.1896888753,72.7791159082,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop G/26, Ground Floor, La-victoria Building, Galaxy Circle, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918488877769"
+    },
+    "res_chain_text": "See all 3 London Yard Pizza outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/london-yard-pizza",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Capsicum & Paneer Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 215,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicum Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 89,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicum, Paneer & Red Peprika",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 225,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jalapeno, Sweet Corn & Paneer Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 225,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jalapenos & Olives Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 215,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion & Capsicum Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion & Paneer Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 215,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion & Tomato Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 79,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 89,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Pizza",
+      "description": "(7 Inch)",
+      "media": null,
+      "price": 79,
+      "menuName": "Pizza Bash 7''",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese & Corn Pizza",
+      "description": "Sweet & Juicy Golden Corn With 100% Real Mozzarella Cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6f3/3c3d81ae6bdeb620447d8ca2d8bd66f3.jpeg",
+      "price": 0,
+      "menuName": "Classic Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Veggie Pizza",
+      "description": "Onion, Tomato, Capsicum",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c6/afe5a6c7e5cbb042c5af6d7b0e8002c6.jpeg",
+      "price": 0,
+      "menuName": "Classic Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Margherita Pizza",
+      "description": "A Classic Delight With 100% Real Mozzarella Cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8f3/2173c216f44b450838ae976a9fa718f3.jpeg",
+      "price": 0,
+      "menuName": "Classic Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "A Classic Delight With 100% Real Mozzarella Cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4d4/cd8681e21db291ae13aa0ba8ade384d4.jpeg",
+      "price": 0,
+      "menuName": "Classic Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Country Feast Pizza",
+      "description": "Onion, Capsicum, American Corn, Olives & Mushroom.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/78f/f94f3b123eb122016fc02f1b0b9db78f.jpeg",
+      "price": 0,
+      "menuName": "Premium Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Supreme Veg Pizza",
+      "description": "Onion, Tomato, Capsicum, Mushroom, Olives",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8d7/81710c5e005643dcbbc4d0d1a4c988d7.jpeg",
+      "price": 0,
+      "menuName": "Premium Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Tango Pizza",
+      "description": "Jalapeno, Olives, Red Paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/404/be41c1461c1f5c9037d1d866a8fb8404.jpeg",
+      "price": 0,
+      "menuName": "Premium Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Delight Pizza",
+      "description": "Onion, Tomato, Capsicum, Paneer",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3a5/664a5e150ef266bf30ed7d189dcb83a5.jpeg",
+      "price": 0,
+      "menuName": "Premium Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bhut Jolokia Pizza",
+      "description": "Capsicum, Red Bell Pepper, Yellow Bell Pepper, Jalapeno & Red Paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3ab/b5f87fe1dbd4c8c6b5dd613c97b093ab.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dragon On Fire Pizza",
+      "description": "Olives, Onion, Jalapeno, Capsicum, Baby Corn, Red Paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4c4/61c3337a2054649a6b4e8704670784c4.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farm Fresh Pizza",
+      "description": "Onion, Fresh Tomato, Capsicum, Olives, Jalapenos, Babycorn & Broccoli.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/af7/716f2f8dd137d970329aa1409e4bbaf7.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "description": "Pineapple, Jalapeno, Cherry Tomato & Capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/22a/f108f3ab8d01002f365173788fa2f22a.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "London Retreat Pizza",
+      "description": "Olives, Redpaprika, Tomatoes, Paneer, Capsicum",
+      "media": "https://b.zmtcdn.com/data/dish_photos/13d/cffb5e17658d5e48797ac6eda01e613d.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mac & Cheese Pizza",
+      "description": "Creamy Macaroni, Babycorn, Capsicum & Onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/37e/d238ed2a3b7d069c40ebca174686437e.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mac & Spicy Pizza",
+      "description": "Spicy Macaroni, Capsicum, Onion, Olives",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5bd/d534f8b411f2d9d8d8c84dc30de8e5bd.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexicano Pizza",
+      "description": "Onion, Bell Pepper, American Corn & Baby Corn Topped With Mexican Seasoning.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6bd/46353beb3dce76115ef7f422f457a6bd.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Tikka Pizza",
+      "description": "Tandoori Mushroom With Onion & Capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6cb/11d881d26fa6cbcbdbeb55d8bbdc36cb.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala Pizza",
+      "description": "Spicy Makhni Sauce Topped With Paneer, Onion, Capsicum, Red & Yellow Bell Pepper.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d96/30e88382e6e52d9378875efd94ce0d96.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Korma Pizza",
+      "description": "Kadhai Masala Tossed Paneer, Onion, Capsicum Red Paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c6e/ec9c0a48bfa88a6d8fdd2839ec462c6e.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Pizza",
+      "description": "Tandoori Paneer With Onion & Capsicum Topped With Mint Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/604/82fadc80638a96d12d3f4cb4b1805604.png",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pasta Pizza",
+      "description": "Penne in Arrabiata Sauce, Olives",
+      "media": null,
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Piri Piri Paneer Pizza",
+      "description": "Onion, Capsicum, Olives, Paneer With Piri Piri Seasoning.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6db/beb2698b8430d8be0a2cdd7d8cea36db.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Queen Cheese Pizza",
+      "description": "White Mozzarella, Cheddar, Monterey Jack, Colby, Orange Cream, Orange Cheddar & Cream White Cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c7/e03e27d2c82b12887e2e4153180f52c7.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Signature All In One Pizza",
+      "description": "Capsicum, Yellow Bell Pepper, Red Bell Pepper, Mushroom, Olives, Jalapeno, Sundried Tomato, Baby Corn.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/68f/346e468a82e6cf16c4375126aaf1f68f.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tabasco Pizza",
+      "description": "Onion, Sundried Tomatoes, Jalapeno",
+      "media": null,
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Talk Of The Town Pizza",
+      "description": "Capsicum, Onion, Yellow Pepper, Red Pepper, Red Paprika, Mushroom.",
+      "media": null,
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Paradise Pizza",
+      "description": "Onion, Capsicum, Olives, Babycorn, Jalapeno & Red Paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/996/26b711d4cfdaf946bc2d8349d3d58996.jpeg",
+      "price": 0,
+      "menuName": "Royal Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom, Corn & Onion Tacos",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f7d/6b34a17195a6d3a0756f46629ecf9f7d.jpeg",
+      "price": 165,
+      "menuName": "Tacos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer & Corn Tacos",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/667/fe604eae4185dada80eb40a631de8667.jpeg",
+      "price": 165,
+      "menuName": "Tacos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala & Red Peprika Tacos",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/71f/19a08503898d4bbf13a892729cec771f.jpeg",
+      "price": 165,
+      "menuName": "Tacos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Cheese Sauce Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/83b/1d570e12745254e3f75eaf16d420583b.jpeg",
+      "price": 190,
+      "menuName": "Pasta (Penne)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arrabiata Sauce Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ca1/46f00f9af2c33c707e5d1bf43fd40ca1.jpeg",
+      "price": 190,
+      "menuName": "Pasta (Penne)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pink Sauce Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d97/cb978e88a22a15fe5fdc28a31c410d97.jpeg",
+      "price": 190,
+      "menuName": "Pasta (Penne)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Smoked Paprika",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Pasta (Penne)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Four Cheese Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 189,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Bread Sticks",
+      "description": "",
+      "media": null,
+      "price": 119,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e39/d171906992a51529fc1a27cb202d9e39.jpeg",
+      "price": 189,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Queen Cheese Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f7/b742423d023c04b5bdf23bd0053453f7.jpeg",
+      "price": 189,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/719/bb78816386882c2e47bd35da6dee6719.jpeg",
+      "price": 169,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Cheese Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/05a/07c8d1039680502b14609f667b7c905a.jpeg",
+      "price": 400,
+      "menuName": "Cream Cheese Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Piri Piri Cream Cheese Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ca4/ea3d3e3668e5d0d9478f22718df69ca4.jpeg",
+      "price": 420,
+      "menuName": "Cream Cheese Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chipotle",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Piri Piri",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Lava",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/78c/479c6154a6f18bf1c2e5f8592372578c.png",
+      "price": 119,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Velvet Lava",
+      "description": "",
+      "media": null,
+      "price": 129,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "7UP (750ml)",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Diet Pepsi",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "diet-pepsi",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "diet-pepsi",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mirinda (750ml)",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mountain Dew (750ml)",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pepsi (750ml)",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "pepsi",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pepsi",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "1 Reg Pizza Meal",
+      "description": "",
+      "media": null,
+      "price": 299,
+      "menuName": "Meal For 1",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "1 Reg Pizza(7' Pizza Royal Category ) + 1 Tacos + 1 Beverage",
+      "description": "",
+      "media": null,
+      "price": 399,
+      "menuName": "Meal For 1",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "1 Medium Pizza Meal For 2",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/473/46ab2e06b9fbeb894aa40b8007ade473.jpeg",
+      "price": 799,
+      "menuName": "Meal For 2",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "1 Medium Pizza Meal",
+      "description": "",
+      "media": null,
+      "price": 799,
+      "menuName": "Meal For 2",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Medium Pizza Meal",
+      "description": "",
+      "media": null,
+      "price": 1299,
+      "menuName": "Meal For 4",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "3 Medium Pizza Meal",
+      "description": "",
+      "media": null,
+      "price": 1299,
+      "menuName": "Meal For 4",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Part Pack",
+      "description": "(Onion & Tomato, Onion & Capsicum",
+      "media": null,
+      "price": 499,
+      "menuName": "Value Combo Of 4",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Single Party Pack",
+      "description": "Onion, Tomato, Capsicum, Sweet Corn",
+      "media": null,
+      "price": 369,
+      "menuName": "Value Combo Of 4",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

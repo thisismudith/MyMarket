@@ -1,0 +1,383 @@
+{
+  "basicInfo": {
+    "name": "Neha Tiffin Service",
+    "cuisine_string": "Sandwich, Fast Food, Street Food, Pizza",
+    "canonicalUrl": "https://www.zomato.com/surat/neha-tiffin-service-new-textile-market/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "10",
+      "reviewTextSmall": "10 Reviews",
+      "subtext": "10 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.6",
+      "reviewCount": "55",
+      "reviewTextSmall": "55 Reviews",
+      "subtext": "55 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.6",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "New Textile Market, Surat",
+    "latitude": "21.1853605577",
+    "longitude": "72.8199349344",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1853605577,72.8199349344&maptype=zomato&markers=21.1853605577,72.8199349344,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop S-10, Shankeshwar Complex, Majura Gate, Near Girish Group of Hospital, New Textile Market, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917405559004"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Tea",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Tea and Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coffee",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Tea and Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Milk",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Tea and Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Haldi Wala Milk",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Tea and Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bournvita Milk",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Tea and Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tea with Khakhra",
+      "description": "Khakhara 2 pcs",
+      "media": null,
+      "price": 80,
+      "menuName": "Tea and Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Tea and Bread Butter",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Tea and Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tea with Maska Pav",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Tea and Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tea with Maska Bun",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Tea and Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Only Cheesy Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Garden Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Onion Tomato Capsicum Pizza [6 inches]",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pav Bhaji with 2 Pav",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Pav Bhaji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

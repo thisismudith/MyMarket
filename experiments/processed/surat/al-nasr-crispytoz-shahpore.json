@@ -1,0 +1,462 @@
+{
+  "basicInfo": {
+    "name": "Al Nasr Crispytoz",
+    "cuisine_string": "Fast Food, Burger, Sandwich, Pizza",
+    "canonicalUrl": "https://www.zomato.com/surat/al-nasr-crispytoz-shahpore/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "1",
+      "reviewTextSmall": "1 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.9",
+      "reviewCount": "19",
+      "reviewTextSmall": "19 Reviews",
+      "subtext": "19 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.9",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395003",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Shahpore, Surat",
+    "latitude": "21.1990963434",
+    "longitude": "72.8227449548",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1990963434,72.8227449548&maptype=zomato&markers=21.1990963434,72.8227449548,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "11/1327, Nanavat Main Road, Shahpore, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919313724824"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Corn Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 159,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Veg Crispytoz Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Crispytoz Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Cheese Burst Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 87,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Veg Double Decker Burger",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Zinger Burger",
+      "description": "",
+      "media": null,
+      "price": 174,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Crispytoz Burger",
+      "description": "",
+      "media": null,
+      "price": 218,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Crispy Chicken Burger",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Crispytoz Veg Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Crispytoz Sandwich",
+      "description": "",
+      "media": null,
+      "price": 259,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Wrap",
+      "description": "",
+      "media": null,
+      "price": 162,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Veg Wrap",
+      "description": "",
+      "media": null,
+      "price": 162,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Chicken Wrap",
+      "description": "",
+      "media": null,
+      "price": 135,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Zinger Chicken Wrap",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Crispy Wrap",
+      "description": "",
+      "media": null,
+      "price": 218,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Popcorn",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Fried chicken",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jumbo Fried Fish",
+      "description": "",
+      "media": null,
+      "price": 499,
+      "menuName": "Fish",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

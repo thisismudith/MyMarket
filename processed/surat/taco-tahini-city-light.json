@@ -1,0 +1,1268 @@
+{
+  "basicInfo": {
+    "name": "Taco Tahini",
+    "cuisine_string": "Mexican, Italian, Lebanese",
+    "canonicalUrl": "https://www.zomato.com/surat/taco-tahini-city-light/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "69",
+      "reviewTextSmall": "69 Reviews",
+      "subtext": "69 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "298",
+      "reviewTextSmall": "298 Reviews",
+      "subtext": "298 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "City Light, Surat",
+    "latitude": "21.1739019000",
+    "longitude": "72.7824685000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1739019000,72.7824685000&maptype=zomato&markers=21.1739019000,72.7824685000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "GR FL, 2/128, Navo Deviyawad, Umra, City Light, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919925082111"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Mexican Rice with Paneer Skillet Pot",
+      "description": "Basmati Rice coked in Mexican style along with Rajma, White beans, Corn, served with Spicy paneer red gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/421/dc72a7fc49595f404ff0e05d6fa51421.jpg",
+      "price": 339,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Combos",
+      "slugs": [
+        "veg",
+        "spicy",
+        "wheat-free",
+        "restaurant-recommended",
+        "main-course",
+        "medium-spicy",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "wheat-free",
+        "restaurant-recommended",
+        "main-course",
+        "medium-spicy",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Rice with Garden Skillet Pot",
+      "description": "Basmati Rice coked in Mexican style along with Rajma, White beans, Corn, served with Spicy red gravy along with exotic vegetable",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8a4/58e09fa60fa0e3543eafba9ae9b8d8a4.jpg",
+      "price": 315,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Combos",
+      "slugs": [
+        "veg",
+        "wheat-free",
+        "restaurant-recommended",
+        "rice",
+        "medium-spicy",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "wheat-free",
+        "restaurant-recommended",
+        "rice",
+        "medium-spicy",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Cilantro Rice with Paneer Pot",
+      "description": "Basmati Rice cooked in Coriander and Palak Paste along with Rajma, White beans, Corn, served with Spicy paneer red gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d10/5785411b46ccec468e3df7c6d7088d10.jpg",
+      "price": 339,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Combos",
+      "slugs": [
+        "veg",
+        "wheat-free",
+        "restaurant-recommended",
+        "rice",
+        "medium-spicy",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "wheat-free",
+        "restaurant-recommended",
+        "rice",
+        "medium-spicy",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Cilantro Rice with Garden Pot",
+      "description": "Basmati Rice cooked in Coriander and Palak Paste along with Rajma, White beans, Corn, served with Spicy red gravy exotic vegetables",
+      "media": null,
+      "price": 315,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Combos",
+      "slugs": [
+        "veg",
+        "wheat-free",
+        "restaurant-recommended",
+        "rice",
+        "medium-spicy",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "wheat-free",
+        "restaurant-recommended",
+        "rice",
+        "medium-spicy",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lunch Combo",
+      "description": "Any Rice+Gravy+Qesadilla+cold drink(200ml)",
+      "media": null,
+      "price": 289,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Combos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rice Combo with French Fries and Cold drink 200ml",
+      "description": "Mexican Rice+Garden Skillet Pot+french fries+Thums up [200 ML]",
+      "media": null,
+      "price": 389,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Meals",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Sizzler with Garlic Bread and Cold drink 200ml",
+      "description": "",
+      "media": null,
+      "price": 550,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Meals",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falafel with Garlic Bread and Cold drink200ml",
+      "description": "",
+      "media": null,
+      "price": 399,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Meals",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pink Pasta With Garlic Bread and cold drink 200ml",
+      "description": "250 Ml plastic bottle",
+      "media": null,
+      "price": 359,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Meals",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Sizzler",
+      "description": "Mexican Rice+Exotic veggies+Cheese Corn Ball+Nachos+Gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/03f/ea8139d218440b89b44850f44bdfb03f.jpg",
+      "price": 479,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Sizzlers",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hungarian Bruschetta Sizzler",
+      "description": "Hungarian rice+ exotic veggies +  french fries+ gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/275/40635bfbac653b7193e1617c6407d275.jpg",
+      "price": 420,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Sizzlers",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggies Sizzler",
+      "description": "Cilantro Rice+Exotic Veggies +French Fries+gravy",
+      "media": null,
+      "price": 420,
+      "menuName": "Combos, Meals and Sizzlers",
+      "categoryName": "Sizzlers",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cottage Cheese Burrito",
+      "description": "One dish meal made from layers of Mexican rice, Veggies, paneer, cheese cubes, lettuce, nachos,topped with salsa and coleslaw and olives",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f5a/f9ac8165b70b4c0e64e4f1f836fdaf5a.jpg",
+      "price": 359,
+      "menuName": "Burrito Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Burrito",
+      "description": "One dish meal made from layers of Mexican rice, Exotic Veggies, lettuce, nachos,topped with salsa and Sour Cream and olives",
+      "media": "https://b.zmtcdn.com/data/dish_photos/56e/74b12f085e55d0330fd89b590c4e256e.jpg",
+      "price": 335,
+      "menuName": "Burrito Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grilled Paneer Salad",
+      "description": "Paneer grilled along with exotic vegetables like broccoli, zucchini, babycorn, onion, and red & white cabbage tossed in olive oil.",
+      "media": null,
+      "price": 239,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Paneer Salad",
+      "description": "",
+      "media": null,
+      "price": 229,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Veggie Salad",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salad of Your Choice",
+      "description": "Healthy salad with Exotic vegges of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d55/8baa95dc24a7f2147d7549f5b36c8d55.jpg",
+      "price": 249,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margarita Pizza",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Gun Fried Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indian Style Pizza",
+      "description": "",
+      "media": null,
+      "price": 309,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Gun Fried Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Hot Pizza",
+      "description": "",
+      "media": null,
+      "price": 299,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Gun Fried Pizza",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chefs Special Pizza",
+      "description": "Thin crush home made base,pizza\nLoaded with Paneer and Exotic Vegetable",
+      "media": "https://b.zmtcdn.com/data/dish_photos/534/1cacba90083d93c3bdbff16a3d481534.jpg",
+      "price": 339,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Gun Fried Pizza",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Con Pomodoro Pasta",
+      "description": "",
+      "media": null,
+      "price": 222,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Alfredo Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ab5/06172b2e84f7d349004e7a5cb2bdbab5.jpg",
+      "price": 285,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pink Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fc2/150f11ce98149ac93e3882b24c3d2fc2.jpg",
+      "price": 249,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Shawarma Wrap",
+      "description": "Tortilla wrapped in marinated paneer and mayonnaise, hummus served with hot garlic sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/70d/64a0d453d121894a4d63536baec4470d.jpg",
+      "price": 305,
+      "menuName": "Lebanese Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Executive Veg Shawarma",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/08f/1e01268dc9fc573cc3dcfeea3386e08f.jpg",
+      "price": 265,
+      "menuName": "Lebanese Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "BBQ Paneer Shawarma",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/21b/7575955d5b03668e324db0dd070dd21b.jpg",
+      "price": 295,
+      "menuName": "Lebanese Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grilled Cottage Cheese Burrito Wrap",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a5f/c771ccd6eb58251853e32ac9ef1bda5f.jpg",
+      "price": 269,
+      "menuName": "Burrito Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Executive Veg Burrito Wrap",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b0/cd7380a5fd4e6daed4822657c37435b0.jpg",
+      "price": 229,
+      "menuName": "Burrito Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Bean Burrito Wrap",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6d5/84e4592ff9ba8c7f3bc3654cf77766d5.jpg",
+      "price": 269,
+      "menuName": "Burrito Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falafel Bite",
+      "description": "",
+      "media": null,
+      "price": 135,
+      "menuName": "Falafel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Original Falafel",
+      "description": "Pita bread loaded with salads and bullets and served with fresh hummus & hot garlic dip",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a90/b265afc492eecec7cf18aab231a6ba90.jpg",
+      "price": 269,
+      "menuName": "Falafel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indian Falafel",
+      "description": "Pita bread loaded with indian salads and bullets and served with fresh hummus & hot garlic dip",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b6/af68615099a925778921844e3979e9b6.jpg",
+      "price": 269,
+      "menuName": "Falafel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Viva Falafel",
+      "description": "Pitta bread served with veggie along with hummus and hot garlic dip",
+      "media": null,
+      "price": 249,
+      "menuName": "Falafel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pita Braed and Hummus",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Falafel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Bean Quesadilla",
+      "description": "A combination of beans and vegetables stuffed in soft tortilla served with salsa dip.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/22e/6f267d54e0db3ebc6b5480853eccb22e.jpg",
+      "price": 275,
+      "menuName": "Quesadillas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Quesadilla",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fe2/fae86be7fdd474bafb592c9413b64fe2.jpg",
+      "price": 239,
+      "menuName": "Quesadillas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cottage Cheese Quesadilla",
+      "description": "Grilled paneer, capsicum, bell pepper stuffed in soft tortillas, served with salsa dip.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c19/ac43032a4171e3cf6a1ca44e34910c19.jpg",
+      "price": 287,
+      "menuName": "Quesadillas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hummus Dip",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Hummus Dip",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salsa Dip",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Garlic Dip",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Guacamole Dip",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nachos with Cheese",
+      "description": "",
+      "media": null,
+      "price": 229,
+      "menuName": "Nachos & Tacos",
+      "categoryName": "Nachos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nachos with Bell Pepper",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f2/04348bae7dc194e26fe134d788dea9f2.jpg",
+      "price": 239,
+      "menuName": "Nachos & Tacos",
+      "categoryName": "Nachos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nachos with Beans",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Nachos & Tacos",
+      "categoryName": "Nachos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nachos Supreme",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea2/92152fa7ccaf7a0852d6bab6c8851ea2.jpg",
+      "price": 285,
+      "menuName": "Nachos & Tacos",
+      "categoryName": "Nachos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tacos with Beans",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b2c/7605c9e3f039784773ed81f3279bdb2c.jpg",
+      "price": 229,
+      "menuName": "Nachos & Tacos",
+      "categoryName": "Tacos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tacos with Paneer",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a9/1c98e26c578a820c7e83f2af37b9f5a9.jpg",
+      "price": 239,
+      "menuName": "Nachos & Tacos",
+      "categoryName": "Tacos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tacos with Veg and Cold Mayo",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/039/3cb135fb6b5e3998f599f9d41d37d039.jpg",
+      "price": 229,
+      "menuName": "Nachos & Tacos",
+      "categoryName": "Tacos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maggi",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Evening Snacks",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscuit Pie",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/455/1d42868990cc107874ba316bf477b455.jpg",
+      "price": 109,
+      "menuName": "Evening Snacks",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Evening Snacks",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Tart",
+      "description": "A tasty starter filed with veggies & topped with cheese & baked",
+      "media": null,
+      "price": 150,
+      "menuName": "Evening Snacks",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "mild",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "mild",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Starters",
+      "categoryName": "Evening Snacks",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chili Toast",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Starters",
+      "categoryName": "Evening Snacks",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Lasagna",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bb2/3e1a623c475345be8be033dc292efbb2.jpg",
+      "price": 359,
+      "menuName": "Baked Dish",
+      "categoryName": "Baked",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

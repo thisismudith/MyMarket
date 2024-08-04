@@ -1,0 +1,2504 @@
+{
+  "basicInfo": {
+    "name": "Foodies Junction",
+    "cuisine_string": "Chinese, Pizza, Burger, Sandwich",
+    "canonicalUrl": "https://www.zomato.com/surat/foodies-junction-salabatpura/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "2.7",
+      "reviewCount": "6",
+      "reviewTextSmall": "6 Reviews",
+      "subtext": "6 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "2.7",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "yellow",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.7",
+      "reviewCount": "453",
+      "reviewTextSmall": "453 Reviews",
+      "subtext": "453 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.7",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395003",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Salabatpura, Surat",
+    "latitude": "21.1950976275",
+    "longitude": "72.8333567083",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1950976275,72.8333567083&maptype=zomato&markers=21.1950976275,72.8333567083,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "12, Super Yarn Market, Near Hajuri Chambers, Salabatpura, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919898795253"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Veg Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e4/0e3954b723abfdb9788f954b0cecf8e4.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/884/d4e2b5c1a90e7aa64d491580f1278884.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Manchurian [Full]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli [Full]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Regular Seekh",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3a7/9db9cc20a79af76f089277edc64b23a7.jpg",
+      "price": 35,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchurian",
+      "description": "Delicious fried chicken in slightly sweet, hot & sour manchurian sauce. Chicken manchurian is an Indo Chinese food that is much popular in the Indian subcontinent.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/025/bd1021d5451d5514d7a9f758bb54c025.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dragon Chicken",
+      "description": "Dragon chicken made restaurant style in which chicken is fried till crispy and tossed in spicy sauce with dry red chilly.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b0b/212ae2f024bf135d67f172f3fd4b2b0b.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kurkure [Full]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/10d/f5308f4412269096d08044142a6e610d.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Tikka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3e0/608ef07497c31bd5a43ed9265da993e0.png",
+      "price": 199,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Honey Chilli Chicken [Full]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/263/cad8505849710819f268b7ade434a263.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Popcorn [Large] with Dip",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/94e/7b9d83e789491a29ccaa0ac75f78894e.jpg",
+      "price": 249,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malai Kurkure [Full]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d42/8254b4012c8d15c53d8de09046691d42.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malai Tikka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6db/213a98fed386025093f0d5dbe31ae6db.png",
+      "price": 249,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/025/bd1021d5451d5514d7a9f758bb54c025.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Strips [6 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/af6/162ca59d3470321b572934adcf40caf6.png",
+      "price": 299,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fusion Popcorn",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7b0/2a5e7d3555481c83bc2cca6b439db7b0.png",
+      "price": 299,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lollipop [Full]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c99/5c5aed79a7902212f386a54af19f5c99.jpg",
+      "price": 299,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Drums Of Heaven [Full]",
+      "description": "A slight twist to your ordinary chicken lollipop, this chicken wings fried and tossed in schezwan sauce is a famous appetizer. The sauce make the chicken more succulent.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c99/5c5aed79a7902212f386a54af19f5c99.jpg",
+      "price": 349,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Seekh Kebab [1 Piece]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/520/957894a587efb9a3d212640764ddf520.png",
+      "price": 49,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Mamna [1 Piece]",
+      "description": "",
+      "media": null,
+      "price": 79,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Leg",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pathani Leg",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cheese Leg",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Tikka [8 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Malai Leg",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pathani Tikka [8 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Zaffrani Tikka [8 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Afghani Tikka [8 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malai Tikka [8 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 299,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/25b/aed8dd5b0e93a5e12f65b5d5a560425b.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc2/6bbe40fc0baf3313322b795bbfd78cc2.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Singapuri Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ced/64abfdd1b317cc17bb97c1389ea8cced.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0b7/1917a895a9e140908fc6958b6b5110b7.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ec4/679bc6753e0c1e829f8991f53f642ec4.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Rice",
+      "description": "Singapore fried rice is a Chinese fried rice variation made with rice, vegetables, soya sauce, curry powder, spices like ginger, garlic and chilli.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bdf/57832c142dfa15bbbfddbb805ebd5bdf.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Triple Rice With Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Triple Rice With Gravy",
+      "description": "Chicken Singapuri triple fried rice is a favourite Mumbai's street stalls sought after dish. The bright yellow colored rice and noodles, topped with fried noodles and yellowish chicken gravy are something that one cannot resist to taste.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a24/b859f33de97ea7b1a59185687d4eba24.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Combination Rice With Gravy[Full]",
+      "description": "",
+      "media": null,
+      "price": 299,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pizza Rice With Gravy[Full]",
+      "description": "",
+      "media": null,
+      "price": 299,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Chowmin Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Singapuri Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "description": "Chicken hakka noodles is a Chinese dish of cooked noodles tossed with boiled and shredded chicken and vegetables in Chinese sauces.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1cb/2e605842f236c45c43b7ba0d54d2a1cb.jpg",
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chowmein Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Charcoal Chicken Shawarma",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c8d/b79646f0af91b1069d9af98699130c8d.jpg",
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lebanese Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Schezwan Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hot & Spicy Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chilli Chataka Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Barbeque Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Foodies Junction Special Chicken Shawarma",
+      "description": "[Chef's Special]",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cheese Blast Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Double Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Crispy Chicken Shawarma",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Shawarma",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Regular Naan Chaap",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Naan Chaap",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Egg Naan Chaap",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Naan Chaap",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Nalli Naan Chaap",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Naan Chaap",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Foodies Junction Special Naan Chaap",
+      "description": "The mutton naan chaap which is the naan sandwich which is made over maida bread cut into two and a mixture of mutton roasted all over the tawa is filled in the centre.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b9/5965a8c95751cb55db41b3615d80d2b9.jpg",
+      "price": 199,
+      "menuName": "Naan Chaap",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tawa Fry Leg",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Mughlai Gravies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Macchi Masala Leg",
+      "description": "",
+      "media": null,
+      "price": 229,
+      "menuName": "Mughlai Gravies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Masala",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Mughlai Gravies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Angara",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Mughlai Gravies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Butter Chicken",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Mughlai Gravies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Chicken Kolhapur",
+      "description": "",
+      "media": null,
+      "price": 299,
+      "menuName": "Mughlai Gravies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Patiala",
+      "description": "",
+      "media": null,
+      "price": 329,
+      "menuName": "Mughlai Gravies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Chicken Special Bhuna",
+      "description": "",
+      "media": null,
+      "price": 379,
+      "menuName": "Mughlai Gravies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Special Aslam Butter Chicken",
+      "description": "",
+      "media": null,
+      "price": 599,
+      "menuName": "Mughlai Gravies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1c1/9c9769bef28ff1c5fd8a6ddf1f9361c1.jpg",
+      "price": 129,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Fries",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Chinese Bhel",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy French Fries",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Bhel",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4fc/922dc7317b60117056aa69fffc99d4fc.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chinese Bhel",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fusion French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c64/fe863429bfe6e7cac65adf14d9414c64.jpg",
+      "price": 249,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Bombay Bhel [Full]",
+      "description": "Bombay bhel is a classic Bombay street side snack. It is made with puffed rice, tangy, sweet and spicy bhel chutney and fresh veggies.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/869/fd726a7480ce1d3a5834c0ee9bb42869.jpg",
+      "price": 249,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Double Egg Roll",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Kathi Rolls",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Chicken Roll",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Kathi Rolls",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Double Egg Double Chicken Roll",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Kathi Rolls",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Tandoori Tikka Roll",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Kathi Rolls",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Malai Tikka Roll",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Kathi Rolls",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Foodies Junction Special Roll",
+      "description": "",
+      "media": null,
+      "price": 279,
+      "menuName": "Kathi Rolls",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kolkata Kaathi Rolls",
+      "description": "",
+      "media": null,
+      "price": 139,
+      "menuName": "Kathi Rolls",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Wrap",
+      "description": "",
+      "media": null,
+      "price": 129,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Wrap",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheesy Wrap",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Paneer Tikka Wrap",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Wrap",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Wrap",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Cheesy Wrap",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Tikka Wrap",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Special Barbeque Wrap",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Special Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/55c/0d7bd3c4f5c598babda9f2a00616a55c.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f21/3a70c19e29fc8b1cba204f077b047f21.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Classic Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/932/326d9a6ab9d4d7aa3a78579a896e0932.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Arabian Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/613/2dbbdbd37c455b8ea6df06d688b7e613.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Barbeque Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "OMG Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/368/1951555e599eaac640f004f383d3f368.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Peri Peri Burger",
+      "description": "",
+      "media": null,
+      "price": 129,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Burger",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Burger",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Arabic Burger",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Peri Peri Burger",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Foodies Junction Special Burger",
+      "description": "[Chef's Special]",
+      "media": null,
+      "price": 220,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Crispy Burger",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Crispy Barbeque Burger",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Double Chicken Crispy Burger",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Oh My God Burger",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Mix Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 179,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Non Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Non Veg Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Non Veg Tandoori Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Non Veg Arabian Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 229,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Non Veg Mix Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Hot And Sour Soup",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sweet Corn Soup",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Non Veg Hot And Sour Soup",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Non Veg Manchow Soup",
+      "description": "Chicken manchow is a dark brown Chinese soup. Chicken, carrots and other veggies simmered in mild flavors.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cb2/9fd29cec652740d40e7c655b7037ccb2.jpg",
+      "price": 0,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Roti",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Tandoori Roti",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Naan",
+      "description": "",
+      "media": null,
+      "price": 49,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Laccha Paratha",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,956 @@
+{
+  "basicInfo": {
+    "name": "4M Kitchen by Jalaram Khichdi",
+    "cuisine_string": "Gujarati, North Indian",
+    "canonicalUrl": "https://www.zomato.com/surat/4m-kitchen-by-jalaram-khichdi-adajan-patiya/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.5",
+      "reviewCount": "13",
+      "reviewTextSmall": "13 Reviews",
+      "subtext": "13 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.5",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.1",
+      "reviewCount": "247",
+      "reviewTextSmall": "247 Reviews",
+      "subtext": "247 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395009",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Patiya, Surat",
+    "latitude": "21.1947923000",
+    "longitude": "72.8017074000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1947923000,72.8017074000&maptype=zomato&markers=21.1947923000,72.8017074000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop-G/26, Muktanand Society, Near Gujarat Gas Circle, Adajan Patiya, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+916354399174, +919227953334"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "4m Special Punjabi Thali",
+      "description": "One paneer sabzi.one veg sabji.dal fry.jeera rice. two layer roti 3no.roasted papad.plain butter milk.gulab jamun one.salad(NON JAIN)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/afc/a56670f78c21e117206541a0e9c49afc.jpeg",
+      "price": 325,
+      "menuName": "Punjabi Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kathiyawadi Thali",
+      "description": "Sev Tomato.lasaniya bataka.sadi khichdi.1no thepa+two layer ghee roti 2no.butter milk.roasted papad.salad (NON JAIN)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/960/1749206837c6e22d081b0aca74442960.jpeg",
+      "price": 315,
+      "menuName": "Punjabi Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Chana Masala Combo (rice)",
+      "description": "(Chana Masala 200 Gm, Plain Rice Butter 150 Gm, Salad, Butter Milk, Roasted Papad)NON JAIN",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9c/a5f0d917bf5d29b31a0829f738534b9c.jpeg",
+      "price": 0,
+      "menuName": "Combo",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Dal Fry Combo",
+      "description": "(Dal Fry 200 Gm, Jira Rice Butter 150 Gm, Salad, Butter Milk, Roasted Papad)NON JAIN",
+      "media": "https://b.zmtcdn.com/data/dish_photos/43d/81d428a1227a81e86e2e63d511f8f43d.jpeg",
+      "price": 0,
+      "menuName": "Combo",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Lasaniya Bataka Combo",
+      "description": "(Lasaniya Bataka 200 Gm, 2Layer Tava Roti Butter 2 Nos, Salad, Butter Milk, Rosted Papad) NON JAIN",
+      "media": "https://b.zmtcdn.com/data/dish_photos/960/3e9153a75d88fc2b1175dcecbeda3960.jpeg",
+      "price": 215,
+      "menuName": "Combo",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Mix Veg Combo",
+      "description": "(Mix Veg 200 Gm, 2Layer Tava Roti Butter 2 Nos, Salad, Butter Milk, Rosted Papad)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50f/6d6171d4d59748f4eb54be657057250f.jpeg",
+      "price": 215,
+      "menuName": "Combo",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Paneer Sabi Combo",
+      "description": "(Paneer Sabji 200 Gm, 2 Layer Tava Roti Butter 2 Nos, Salad, Butter Milk, Roasted Papad)NON JAIN",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ee0/62e6720da8182c144d066552d0bc7ee0.jpeg",
+      "price": 280,
+      "menuName": "Combo",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Punjabi Chana Masala Combo-(roti)",
+      "description": "(Chana Masala 200 Gm, 2 Layer Tava Roti Butter 2 Nos, Salad, Butter Milk, Roasted Papad) NON JAIN",
+      "media": "https://b.zmtcdn.com/data/dish_photos/22d/4c82e03f79b247b149c9cd13bd81322d.jpeg",
+      "price": 0,
+      "menuName": "Combo",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sadi Khichdi Combo",
+      "description": "(Sadi khichdi 300GM.KADHI 200GM..ONE BUTTER MILK.ONE ROASTED PAPAD..SALAD",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c65/cfe3a80c9b258a0687c718b0c8569c65.jpeg",
+      "price": 245,
+      "menuName": "Combo",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Veg Sabzi Combo",
+      "description": "(Panjabi Veg Sabji 200 Gm, 2 Layer Tava Roti Butter 2 Nos, Salad, Butter Milk, Roasted Papad)NON JAIN",
+      "media": "https://b.zmtcdn.com/data/dish_photos/56e/818bbe85443702bcd282996e84bee56e.jpeg",
+      "price": 0,
+      "menuName": "Combo",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4M Bhakhari Pizza",
+      "description": "Experience the best of both worlds with our Bhakri Pizza – a delightful fusion that brings together traditional and modern flavors! A rustic Bhakri base, handcrafted with care, forms the foundation for a medley of vibrant toppings. Each bite is a celebration of texture and taste, where the earthy richness of Bhakri harmonizes with the zest of pizza perfection. Transport your palate to a unique culinary crossroads with our Bhakri Pizza, where tradition meets innovation",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3ef/80af2ea74d7350e5ff28d8a01841b3ef.jpeg",
+      "price": 279,
+      "menuName": "Wrap & Rolls & Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "4M Desi Aloo Wrap Rolls",
+      "description": "Indulge in exotic desi flavours of our DESI ALOO WRAP ROLLS ,  a handheld delight features aromatic Indian spices, boiled potatoes and crispy vegies wraped in our desi wheat flatbread all perfectly rolled into a portable package. Savor the essence of Indian street food with every flavorful bite, making it a satisfying and convenient treat for your on-the-go cravings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bf1/f61c0712f5924dffe41ba5346bc39bf1.jpeg",
+      "price": 142,
+      "menuName": "Wrap & Rolls & Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "4M Desi Green Cheese Wrap Rolls",
+      "description": "Elevate your taste buds with our Green Chutney Cheese Wrap Rolls – a harmonious blend of bold flavors in a convenient package! Picture a desi wheat flatbread  enveloping a generous layer of creamy cheese, perfectly complemented by the zesty kick of our signature green chutney. This wrap is a delightful marriage of cool, melty goodness and the vibrant freshness of aromatic herbs.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5e5/0a8ea6f83886cf290742ebd4681085e5.jpeg",
+      "price": 210,
+      "menuName": "Wrap & Rolls & Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4M Desi Paneer Tikka Wrap Rolls",
+      "description": "Savor the essence of Indian flavors with our Paneer Tikka Wrap Rolls– a culinary masterpiece in a handheld delight! Tender chunks of marinated paneer, grilled to perfection, are nestled in a soft wrap alongside crisp veggies and a tantalizing blend of aromatic spices. Unwrap a burst of authentic Indian goodness in every bite, making this portable sensation a must-try for those seeking a quick and delicious journey into the heart of Indian cuisine.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/371/01f5875ff4a15fc7d00d15a3cd142371.jpeg",
+      "price": 250,
+      "menuName": "Wrap & Rolls & Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4M Desi Pizza Wrap Rolls",
+      "description": "Introducing our Pizza Wrap Rolls – a fusion of desi comfort and on-the-go convenience! Picture a medley of gooey mozzarella, zesty pizza sauce  and all time favorite pizza toppings, all snugly wrapped in a desi wheat flatbread. This handheld sensation brings the essence of a pizzeria straight to your fingertips.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/99e/66d859ae7aec4b726176260a5591399e.jpeg",
+      "price": 245,
+      "menuName": "Wrap & Rolls & Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "4M Fulka Sandwich",
+      "description": "Elevate your sandwich game with our Fulka Sandwich – a culinary delight that merges simplicity with bold flavors! Soft and wholesome fulka bread cradles a delectable filling of spiced mashed potatoes, creating a harmonious union of textures and tastes. Each bite unveils the comforting warmth of fulka combined with the savory kick of seasoned aloo. Indulge in a quick and flavorful journey with our Fulka Sandwich, a delightful treat that proves that sometimes,less is truely more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cae/41f2f10d0b65f35c6c62386001099cae.jpeg",
+      "price": 250,
+      "menuName": "Wrap & Rolls & Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Bhakhri Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bb9/9746e186056fd8328a8360f1b7e71bb9.jpeg",
+      "price": 345,
+      "menuName": "Wrap & Rolls & Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Kaju Gathiya",
+      "description": "NON JAIN gujarati savoury dish prepared with kaju and gathiya",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bfe/2d92fd4ca0bea8510822cf0723a3abfe.jpeg",
+      "price": 300,
+      "menuName": "Gujarati Kathyawadi Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Lasaniya Bataka (non Jain)",
+      "description": "NON JAIN kathiyawadi rasawala bataka withlasaniya tadka",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e35/da559062b1d6b2505045fbb6d7754e35.jpeg",
+      "price": 245,
+      "menuName": "Gujarati Kathyawadi Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4M Sev Tameta",
+      "description": "NON JAIN kathiyawaditameta sabziwiththe crunchof sev",
+      "media": "https://b.zmtcdn.com/data/dish_photos/445/d1004748433a40b0919dfc57afb9f445.jpeg",
+      "price": 205,
+      "menuName": "Gujarati Kathyawadi Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Vatana Bataka Tameta",
+      "description": "NON JAIN home style gujarati vatana bataka tameta",
+      "media": "https://b.zmtcdn.com/data/dish_photos/214/bb2bfeaf8bbb6616665369b86b8f9214.jpeg",
+      "price": 205,
+      "menuName": "Gujarati Kathyawadi Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Green Cheese Tadka",
+      "description": "NON JAIN  cubes of cheese cooked with masala palak gravy with garlic gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c25/550125814002b7b34b65850c85342c25.jpeg",
+      "price": 395,
+      "menuName": "Paneer Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Palak Paneer",
+      "description": "NON JAIN  cubes of paneer cooked in earthen flavours of green palak gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b7d/47d573bcf57fffd834be09d5943beb7d.jpeg",
+      "price": 350,
+      "menuName": "Paneer Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Paneer Bhurji",
+      "description": "NON JAIN sredded paneer cooked in semi thick gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a02/05af7a2b33edc8e086590ce88422da02.jpeg",
+      "price": 395,
+      "menuName": "Paneer Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Paneer Butter Masala",
+      "description": "NON JAIN paneer pieces cooked in buttery masala gravy of tomato and onion",
+      "media": "https://b.zmtcdn.com/data/dish_photos/26e/3107058b09fff0b0d09c042ad2f0d26e.jpeg",
+      "price": 405,
+      "menuName": "Paneer Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Paneer Lababdar",
+      "description": "NON JAIN NON paneer pieces cookedJAIN",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2e8/6a71a6cfab8cb632e0789ff1afab52e8.jpeg",
+      "price": 380,
+      "menuName": "Paneer Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Paneer Lasasniya",
+      "description": "NON JAIN cubes paneer cooked in spicy red gravy with lasanya tadka",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2db/98df131c2d302c0bc71fa40dafcaa2db.jpeg",
+      "price": 385,
+      "menuName": "Paneer Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sahi Paneer(ONLY JAIN)",
+      "description": "Only jain",
+      "media": "https://b.zmtcdn.com/data/dish_photos/59d/423bc06896657a47f1514eb7bd90059d.jpeg",
+      "price": 385,
+      "menuName": "Paneer Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Aloo Sukha Masala",
+      "description": "NON JAIN homa style sukha aloo sabzi with jeera tadka",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6da/220a27ddbcd37212ec1e516890ec86da.jpeg",
+      "price": 215,
+      "menuName": "Veg Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Chana Masala",
+      "description": "NON JAIN chickpeas cooked in onion tomato gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a54/1ac04bfb406be2cd4e9b7c0e1af59a54.jpeg",
+      "price": 265,
+      "menuName": "Veg Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Dahi Aloo",
+      "description": "NON JAIN home style aloo sabzi with curd",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b4/924887a9f80358beece3e8eff2ff71b4.jpeg",
+      "price": 265,
+      "menuName": "Veg Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Dal Fry",
+      "description": "NON JAIN dal cooked in buttery north indian spices",
+      "media": "https://b.zmtcdn.com/data/dish_photos/757/54ed4a6455deb8bfefc0fff3c8515757.jpeg",
+      "price": 195,
+      "menuName": "Veg Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Dal Tadka",
+      "description": "NON JAIN dal fry with additional spicy tadka",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6e5/efc2764dc6e4a6a5667387730545b6e5.jpeg",
+      "price": 230,
+      "menuName": "Veg Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Mix Veg Dhaba Style",
+      "description": "NON JAIN vegetable cooked in dhaba style  semi thick curry",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b43/09f8b36ed23699e1915182fe14355b43.jpeg",
+      "price": 345,
+      "menuName": "Veg Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Sabji Diwani Handi",
+      "description": "NON JAIN sabzi cooked in royal creamy gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/46d/d948df1d3e07eec52b8a8df6250f246d.jpeg",
+      "price": 370,
+      "menuName": "Veg Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Veg Kolhapuri",
+      "description": "NON JAIN vege table cooked in spicy red onion tomato gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/558/5ec2ecdd38d8b32634d037abeafb5558.jpeg",
+      "price": 345,
+      "menuName": "Veg Sabji",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Dal Khichdi",
+      "description": "NON JAIN a combination of lots of dal and rice cooked with indian masala topped",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c32/e86a6f0146fde1ad34a8a3f706f30c32.jpeg",
+      "price": 270,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Jeera Rice",
+      "description": "Rice tossed in butter and jeera",
+      "media": "https://b.zmtcdn.com/data/dish_photos/294/75494d140188d23d28bc903714361294.jpeg",
+      "price": 205,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Palak Khiichdi",
+      "description": "NON JAIN rice cooked in a buttery palak gravy topped with lot of cheese served",
+      "media": "https://b.zmtcdn.com/data/dish_photos/67d/2121fb46484282d0cd487b82b42cb67d.jpeg",
+      "price": 325,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Plain Rice",
+      "description": "Rice tossed in butter",
+      "media": "https://b.zmtcdn.com/data/dish_photos/12d/7550c64b8192f8ffba773e067381712d.jpeg",
+      "price": 155,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Rajwadi Khichdi",
+      "description": "NON JAIN home style vegetable khichdi cooked with indian spices and served",
+      "media": "https://b.zmtcdn.com/data/dish_photos/299/4352bb09eaeda44fc89f15e42469b299.jpeg",
+      "price": 290,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sadi Khichdi Kadhi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bd1/ea307332c31ba6af77d5fa47ea694bd1.jpeg",
+      "price": 265,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "4m Veg Biryani",
+      "description": "NON JAIN rice layered with vegetable thick tangy gravy and caramelized onion anad toped with pudina  and caramelized onion and served",
+      "media": "https://b.zmtcdn.com/data/dish_photos/322/bb1f01c12ff0dd5170ee5d8cb952b322.jpeg",
+      "price": 350,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Layer Tava Roti Butter",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8ec/be2954f023e7f4d8d63ddb836d0028ec.jpeg",
+      "price": 50,
+      "menuName": "Extra Menu",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Milk - Plain",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/79b/42b14a5e998910e3d833dfafe55df79b.jpeg",
+      "price": 55,
+      "menuName": "Extra Menu",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7aa/ab044d4d10cffa6813fa5752a6aa87aa.jpeg",
+      "price": 45,
+      "menuName": "Extra Menu",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Undhiyu(1kg)",
+      "description": "",
+      "media": null,
+      "price": 690,
+      "menuName": "Undhiyu",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Undhiyu(500gm)",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Undhiyu",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

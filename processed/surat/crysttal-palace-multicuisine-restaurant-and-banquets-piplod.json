@@ -1,0 +1,2581 @@
+{
+  "basicInfo": {
+    "name": "Crysttal Palace Multicuisine Restaurant And Banquets",
+    "cuisine_string": "Chinese, Continental, Italian, North Indian, Ice Cream, Desserts, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/crysttal-palace-multicuisine-restaurant-and-banquets-piplod/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.1",
+      "reviewCount": "42",
+      "reviewTextSmall": "42 Reviews",
+      "subtext": "42 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.1",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.2",
+      "reviewCount": "104",
+      "reviewTextSmall": "104 Reviews",
+      "subtext": "104 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Piplod, Surat",
+    "latitude": "21.1640623116",
+    "longitude": "72.7781156078",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1640623116,72.7781156078&maptype=zomato&markers=21.1640623116,72.7781156078,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "48/1, 48/2, 50, 50/1, Paikee 1-2-3, Upper Basement, Swastik House, Dumas Road, Piplod, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917575093930"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Veg Thali",
+      "description": "One Veg Sabji,One Panner Sabbji,One Raita,2 Nos Tandouri/4 Nos Chapati,Papad,Salad,Dal,Rice",
+      "media": null,
+      "price": 280,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caesar Salad",
+      "description": "Fresh Leaves And Herbs Croutons House Made Caesar Dressing Parmisan Shaving",
+      "media": null,
+      "price": 380,
+      "menuName": "Salad Bar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cut Fruit Salad",
+      "description": "Five Variety Fruit",
+      "media": null,
+      "price": 380,
+      "menuName": "Salad Bar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Greek Salad",
+      "description": "American-Style Greek Salad, Lettuce & Tomatoes",
+      "media": null,
+      "price": 290,
+      "menuName": "Salad Bar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kale Quinoa Salad",
+      "description": "Kale Leaves Quinoa Developsavocado Walnuts Honey Mastered Dressing",
+      "media": null,
+      "price": 350,
+      "menuName": "Salad Bar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Russian Salad",
+      "description": "Beans Pineapple Carrot Potato Apples Dressing Mayonnaise Sauce",
+      "media": null,
+      "price": 350,
+      "menuName": "Salad Bar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sprout Beans Salad",
+      "description": "Chick Peas, Sprouts Mug , Roman Lettuce,Salt And Pepper Vinegar Dressing",
+      "media": null,
+      "price": 380,
+      "menuName": "Salad Bar",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Cheese Ball",
+      "description": "Processed Cheese Fresh Corn Basil Herbs Deep Fried",
+      "media": null,
+      "price": 390,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Spinch Balls",
+      "description": "Mix Potato Spinch Cheese Green Chilli Ginger Dip Fried",
+      "media": null,
+      "price": 390,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Onion Ring",
+      "description": "Butter Fry Onion Served With Our Special Dipping Sauce",
+      "media": null,
+      "price": 290,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fungi Casalinga",
+      "description": "Mushroom Tossed In Chilli And Cheese Sauce",
+      "media": null,
+      "price": 350,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hummus Pita Bread",
+      "description": "Falafel Crispy Pita 3 Way Hummus With Salad",
+      "media": null,
+      "price": 450,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jalapeno Popper",
+      "description": "Deep Fried Balls Stuffed With Jalapeno Cheese Bell Pepper Italian Seasoning With Cocktail Deep",
+      "media": null,
+      "price": 350,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jalapino Cheese Pouch",
+      "description": "Jalapino And Cheese Bel Pepper And Dip Fried",
+      "media": null,
+      "price": 410,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Loaded Nachos",
+      "description": "Crispy Chips, Loaded Cheese ,Refinedbecans",
+      "media": null,
+      "price": 390,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mr. Bruschetta",
+      "description": "Italian Bread Topping With Capsicum Tomato Olives And Italianherbs And Cheese",
+      "media": null,
+      "price": 370,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Orly",
+      "description": "Crumb Fried Veg. Dumpling With Cheese, Cottage Cheese And Herbs With Thousand Island Sauce",
+      "media": null,
+      "price": 410,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Quesadilla",
+      "description": "Exotic Cheesy Vegetable Served With Salsas And Guacamole",
+      "media": null,
+      "price": 380,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Tacos",
+      "description": "Veggie Filling Into Sprinkle On Chopped Cilantro And Crumbled Cottage Cheese",
+      "media": null,
+      "price": 370,
+      "menuName": "All Time Favourites [6 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilligarlic Bread",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Garlic Bread [4 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Garlic Bread [4 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Garlic Bread [4 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Garlic Bread [4 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Paneer",
+      "description": "Coated Paneer In Chinese Style",
+      "media": null,
+      "price": 370,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Vegetables",
+      "description": "Dice Cut Veg Medium Spicy Dry With Ginger Garlic Sauce",
+      "media": null,
+      "price": 330,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Honey Chiily Vegetables",
+      "description": "Assorted Vegetable Toasted Honey Chilly Sauce And Sesame",
+      "media": null,
+      "price": 320,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jade Mushroom",
+      "description": "Chinese And Button Mushroom In Green Herb Sauce",
+      "media": null,
+      "price": 390,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry",
+      "description": "Chopped Veggies Mixed With Corn Flour Spring Onion Dry With Onion Garlic And Ginger",
+      "media": "https://b.zmtcdn.com/data/dish_photos/385/a5f0677ecd13b1a9c229f880283c4385.jpg",
+      "price": 310,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Gravy",
+      "description": "Chopped Veggies Mixed With Corn Flour Spring Onion Dry With Onion Garlic And Ginger",
+      "media": null,
+      "price": 320,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilli Dry",
+      "description": "Coated Cubes Of Mushroom\t Sauteed With Garlic Onion Capsicum And Green Chilli Soy",
+      "media": null,
+      "price": 380,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Red Cook",
+      "description": "Cube Cuts Of Paneer Tossed In Honey Bell Pepper With Schezwan",
+      "media": null,
+      "price": 390,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Shanghai",
+      "description": "Cube Cut Paneer With Cabbage Onion Ginger Honey Flavour",
+      "media": null,
+      "price": 390,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sambal Paneer",
+      "description": "Tampura Fried Paneer Sambal And Schezwan With Peppers",
+      "media": null,
+      "price": 520,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Lollipop",
+      "description": "Vegetable Lollipop In Hot Garlic Sauce",
+      "media": null,
+      "price": 350,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable 65",
+      "description": "Veg Mixed Corn Flour Red Base Dip Fried Dry With Hot Garlic Sauce",
+      "media": null,
+      "price": 330,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Spring Roll",
+      "description": "Veggies Saut?d With Spring Onion",
+      "media": null,
+      "price": 320,
+      "menuName": "Chinese Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Tandoori Aloo",
+      "description": "Baby Potato, Tomato, Onion Cooked Charcoal Oven",
+      "media": null,
+      "price": 330,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bbq Khajana Platter",
+      "description": "A Combination Vareties Of Veg Oppetizers Serve In One Platter (Time 35 Minute)",
+      "media": null,
+      "price": 800,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hadippa Paneer Tikka",
+      "description": "Cottage Cheese With Chilli Tomato Garlic Muka Pyaz And Cherry Tomato",
+      "media": null,
+      "price": 390,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hara Bhara Kabab",
+      "description": "Chopped Vegetable Mashed Potato Deep Fried With Green Chutney",
+      "media": null,
+      "price": 360,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Afghani Tikka",
+      "description": "Cottage Cheese Marinated In Afghani Spicy Grilled In Tandoor",
+      "media": null,
+      "price": 380,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Banjara Tikka",
+      "description": "Dice Cut Capsicum Onion Chopped Garlic And Yogurt Sauce Saffron Flavour",
+      "media": null,
+      "price": 390,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Hyderabadi Tikka",
+      "description": "Diced Cut Paneer Tomato Onion Marinated Ni Mint Yogurt Sauce",
+      "media": null,
+      "price": 360,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kalimir Tikka",
+      "description": "Diced Cut Paneer Tomato Onion Marinated With Yogurt Salt And Pepper Taste",
+      "media": null,
+      "price": 380,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Peri Peritikka",
+      "description": "Cottage Cheese Marinated In Peri Peri And Grilled In Tandoor",
+      "media": null,
+      "price": 380,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pesto Tikka",
+      "description": "Cottage Cheese Marinated In Pesto Sauce",
+      "media": null,
+      "price": 410,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Panner Achari Tikka",
+      "description": "Diced Cut Paneer Capsicum Tomato Onion Yogurt Sauce Mixed With Pickle Cooked In Charcoal Oven",
+      "media": null,
+      "price": 380,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sabji Seekh",
+      "description": "Chopped Veg Boiled Potato Paneer Cooked In Charcoal Oven",
+      "media": null,
+      "price": 360,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shami Tikki",
+      "description": "Mashed Potato Paneer Chopped Veg Cashew Nut Powder Deep Fried",
+      "media": null,
+      "price": 350,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Chap",
+      "description": "Diced Cut Chap Tomato Onion Marinated In Yogurt Sauce Cooked In Charcoal Oven",
+      "media": null,
+      "price": 380,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Malai Chap",
+      "description": "Yogurt Sauce Diced Cut Of Chap Tomato Capsicum Onion Malaiflavour",
+      "media": null,
+      "price": 380,
+      "menuName": "Tandoor Ki Bahar [8 Pcs]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc9/23d147390631da41b99d044385c4dcc9.jpg",
+      "price": 280,
+      "menuName": "Sandwich & Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Sandwich & Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0ad/7accff34f3f93f3696c80b4128c430ad.jpg",
+      "price": 280,
+      "menuName": "Sandwich & Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Sandwich & Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Burger",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Sandwich & Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Pasta",
+      "description": "Bechamel With Mushrooms",
+      "media": null,
+      "price": 480,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arrabiata Sauce Pasta",
+      "description": "Pasta Cooked With Tomatoes And Special Spices",
+      "media": null,
+      "price": 480,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Ravioli",
+      "description": "Spinach Corn Fillng Creamy Cheese Sauce",
+      "media": null,
+      "price": 510,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pasta In Mix Sauce",
+      "description": "Pasta In Mix Of White And Tomato Sauce Flavoured With Parmesan And Oregano",
+      "media": null,
+      "price": 570,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Pasta",
+      "description": "Penne Pasta Tossed With A Coarse Sauce Made Of Basil Nut Parnesan Cheese Garlic And Olive Oil Served Regular Cream",
+      "media": null,
+      "price": 450,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spaghett Aglio-Olio",
+      "description": "Assorted Vegetables With Olives And Capers",
+      "media": null,
+      "price": 490,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Style",
+      "description": "Baked Beans Jalapino Chilli Flakes Onion Cheese",
+      "media": null,
+      "price": 360,
+      "menuName": "Pizza [9 Inch]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Desi Dhamaka Pizza",
+      "description": "Paneer Tikka Green Chilli Capsicum And Tomatoe",
+      "media": null,
+      "price": 380,
+      "menuName": "Pizza [9 Inch]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italiyan Pizza",
+      "description": "Authentic Italiyan Pizza Loaded With Onion & Capsicum",
+      "media": null,
+      "price": 390,
+      "menuName": "Pizza [9 Inch]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margarita Pizza",
+      "description": "Tomato Sauce Mozzarella And Fresh Basil",
+      "media": null,
+      "price": 300,
+      "menuName": "Pizza [9 Inch]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Pizza",
+      "description": "Refried Beans Jalapino Corn Red Bell Pepper Tomatoes",
+      "media": null,
+      "price": 370,
+      "menuName": "Pizza [9 Inch]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Paneer Pizza",
+      "description": "Chunky Paneer Crispy Onion With Peri Peri Sauce",
+      "media": null,
+      "price": 370,
+      "menuName": "Pizza [9 Inch]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tree Cheese Pizza",
+      "description": "Tree Tipy Cheese Cheeder Cheese Majrrolla & Parmisan Cheese",
+      "media": null,
+      "price": 430,
+      "menuName": "Pizza [9 Inch]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brown Garlic Fried Rice",
+      "description": "Chopped Veg. With Rice Topped W/Brown Sauce",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "Crispy Noodles Rice With Manchurian Pieces Schezwan Sauce",
+      "media": null,
+      "price": 390,
+      "menuName": "Main Course Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Thai Curry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/93e/81affd751464d841bbc4e58c1f07c93e.jpg",
+      "price": 400,
+      "menuName": "Main Course Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Thai Curry",
+      "description": "",
+      "media": null,
+      "price": 400,
+      "menuName": "Main Course Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "Cube Cut Veg Rice Chinese Sauce",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "description": "Julienne Cut Veg Boiled Noodles With Chinese Sauce",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Noodles",
+      "description": "Julienne Cut Veg With Hot Schezwan Sauce",
+      "media": null,
+      "price": 420,
+      "menuName": "Main Course Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Singapore Noodles",
+      "description": "Julienne Cut Veg Garlic Ginger Green Chilli Yellow Based",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Masala",
+      "description": "Cubes Of Cheese Simmered In Thick Onion Tomato Cashew Gravy Cream And Butter Taste",
+      "media": null,
+      "price": 480,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Angara",
+      "description": "Fried Kaju With Real Indian Spicy In Red Gravy",
+      "media": null,
+      "price": 550,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Curry",
+      "description": "Kajutukda Fry Indian Masala Cashew Nut Gravy",
+      "media": null,
+      "price": 510,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Masala",
+      "description": "Fried Kaju With Rich Tomato Gravy",
+      "media": null,
+      "price": 530,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Mutter Paneer Masala",
+      "description": "Fried Cashew Nut Green Peas Cube Cut Paneer Red Tomato Based Gravy",
+      "media": null,
+      "price": 520,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kepcho Paneer Tawa Masala",
+      "description": "Sizzling Paneer Spicy Choppedmasala With Onion Tomato Gravy",
+      "media": null,
+      "price": 510,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhurji",
+      "description": "Grated Paneer Chopped Tadka Masala Yellow Onion Gravy",
+      "media": null,
+      "price": 460,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "Cube Of Paneer Simmered In Thick Onion And Tomato Gravy",
+      "media": null,
+      "price": 510,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Roll Masala",
+      "description": "Stuffed Paneer With Cheese And Cashew Served In Red Gravy Mild Taste",
+      "media": null,
+      "price": 510,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Do Pyaze",
+      "description": "Dice Cut Of Paneer Onion Tomato Served With Brown Gravy",
+      "media": null,
+      "price": 470,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kadhai",
+      "description": "Paneer Julienne Cut Veg Capsicum Onion Tomato",
+      "media": null,
+      "price": 490,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lababdar",
+      "description": "Cubes Of Cheese In Aromatic Onion Capsicum Based Gravy Added Richly With Butter And Cream",
+      "media": null,
+      "price": 490,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pahadi Tawa Masala",
+      "description": "Dice Cottage Cheese Tomato Onion Mild Spicy Brawn Gravy",
+      "media": null,
+      "price": 470,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "description": "Roasted Paneer Tikka Tomato Capsicum With Indian Gravy",
+      "media": null,
+      "price": 480,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneerbalti",
+      "description": "Roastedpaneer Capsicum Tomato Onion Indian \tMasala Red Gravy With Fresh Cream",
+      "media": null,
+      "price": 510,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tawa Paneer Masala",
+      "description": "Diced Cut Paneer Veg Onion Tomato Brown Gravy",
+      "media": null,
+      "price": 520,
+      "menuName": "Indian Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Methi Mutter",
+      "description": "Dry In Rich Onion Gravy",
+      "media": null,
+      "price": 350,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Methi Mutter Malai",
+      "description": "Green Peas Methi Khoya Kaju Cream Gravy",
+      "media": null,
+      "price": 350,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mr Sabz Handi",
+      "description": "Mini Veg Kofta Diced Veg Cheese And Creamflavour",
+      "media": null,
+      "price": 390,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Hara Pyaz Masala",
+      "description": "Mushroom With Spring Onion And Sauce",
+      "media": null,
+      "price": 390,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesawari Chole",
+      "description": "Spicy White Chick Peas Curry Made In Pesawari Style",
+      "media": null,
+      "price": 380,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Bhuna Masala",
+      "description": "Finger Cut Of Vegetable Saut?ed With Butter Served In Brown Gravy",
+      "media": null,
+      "price": 390,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kheema Masala",
+      "description": "Chopped Veg Onion And Cashew Gravy Yellow Based",
+      "media": null,
+      "price": 390,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Hydrabadi",
+      "description": "Dice Cut Veg Julienne Cabbage Capsicum Green Chatni",
+      "media": null,
+      "price": 360,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Jalfrezi",
+      "description": "Dice Cut Veg Onion Capsicum Tomato Sweet And Sour Taste",
+      "media": null,
+      "price": 390,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Kolhapuri",
+      "description": "Dice Cut Mix Veg Onion Tomato Mix Gravy",
+      "media": null,
+      "price": 380,
+      "menuName": "Swad E Sabzi Ka Tarana",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kofta Angoori",
+      "description": "Paneer Potato Cheese Mawa",
+      "media": null,
+      "price": 490,
+      "menuName": "Mr Kofta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kofta Birbali",
+      "description": "Chopped Mix Veg Pineapple",
+      "media": null,
+      "price": 450,
+      "menuName": "Mr Kofta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malai Kofta",
+      "description": "Potato Paneer Dry Cashew Nut Served In Cream Gravy",
+      "media": null,
+      "price": 450,
+      "menuName": "Mr Kofta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mr Jafreni Kofta",
+      "description": "Mawa Paneer Cheese Cashew Nut With Saffron Flavour Yellow Based",
+      "media": null,
+      "price": 450,
+      "menuName": "Mr Kofta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Khichdi",
+      "description": "Yellow Dal Cooked In Desi Ghee With Red Chilli Tadka",
+      "media": null,
+      "price": 380,
+      "menuName": "Basmati Ka Kamal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hydrabadi Dum Biryani",
+      "description": "Mix Veg With Rice Green Based Spicy Dum In Charcoal Oven",
+      "media": null,
+      "price": 430,
+      "menuName": "Basmati Ka Kamal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Basmati Ka Kamal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Dal Khichdi",
+      "description": "Yellow Dal Rice Palak Paste Cooked In Desi Ghee",
+      "media": null,
+      "price": 390,
+      "menuName": "Basmati Ka Kamal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Panner Tikka Biryani",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Basmati Ka Kamal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetble Dum Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/10e/321eb29556cd58ac38464fa361ff410e.jpg",
+      "price": 390,
+      "menuName": "Basmati Ka Kamal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "Yellow Dal Flavoured With Finely Chopped Onion Tomato",
+      "media": null,
+      "price": 270,
+      "menuName": "Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Makhni",
+      "description": "Black Dal And Kidney Beans Cooked In Cream Butter",
+      "media": null,
+      "price": 320,
+      "menuName": "Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "Yellow Dal Tempered With Cumin Seeds And Red Chilli",
+      "media": "https://b.zmtcdn.com/data/dish_photos/122/e3ac210202824cace986f5f62b59b122.jpg",
+      "price": 280,
+      "menuName": "Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Paratha",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Kulcha",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulcha",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lachha Paratha Butter",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lachha Paratha",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Missi Roti",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mr Restro Basket",
+      "description": "Roti ,Paratha,Naan,Kulcha,Stuffed Paratha,Missi Roti ,Khasta Roti",
+      "media": null,
+      "price": 550,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Naan",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paratha",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pudina Paratha",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roti",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rumali Khakhra Masala",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rumali Khakhra Plan",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rumali Roti Butter",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rumali Roti Plan",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Paratha",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Indian Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1766 @@
+{
+  "basicInfo": {
+    "name": "The Leaf Cafe",
+    "cuisine_string": "Cafe, Coffee, Beverages, Pizza, Italian, Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/the-leaf-cafe-2-city-light/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.1",
+      "reviewCount": "15",
+      "reviewTextSmall": "15 Reviews",
+      "subtext": "15 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.1",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "76",
+      "reviewTextSmall": "76 Reviews",
+      "subtext": "76 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "City Light, Surat",
+    "latitude": "21.1521994438",
+    "longitude": "72.7978184447",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1521994438,72.7978184447&maptype=zomato&markers=21.1521994438,72.7978184447,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "01/02, 1 Floor, Sunrise Enclave, City Light, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917878766444"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Espresso Hot",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/713/ec8ffbba7d125af218e76e2151c7a713.png",
+      "price": 150,
+      "menuName": "Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Americano Hot",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/01b/aba6180511454940a4d334a867c7e01b.png",
+      "price": 180,
+      "menuName": "Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dee/fedab0a7673f084e75e29077d9f1cdee.png",
+      "price": 200,
+      "menuName": "Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Latte Hot",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9cc/0393c7a73d14627035f9d73a083299cc.jpeg",
+      "price": 200,
+      "menuName": "Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flat White Hot",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/481/7e1890ad58e59d3d2a5117f979ec5481.jpeg",
+      "price": 200,
+      "menuName": "Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Mocha",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Espresso",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/026/74cc9865e89ecbd77736a0923fcf6026.png",
+      "price": 180,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Americano",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombon",
+      "description": "(Espresso Shot With Milkmaid/Condensed Milk)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/350/a88a0724de21fe28c880630dfd7bb350.jpeg",
+      "price": 200,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vietnamese",
+      "description": "(Batch Brew With Milkmaid/Condensed Milk)",
+      "media": null,
+      "price": 200,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Latte",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/03e/7dbe6ae03cc51fb57c459b7dd805b03e.jpeg",
+      "price": 200,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Mocha",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Tonic",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f1c/7b6645a46aa86c736271a0d3ba949f1c.jpeg",
+      "price": 250,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Redbull",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "V60 Pour Over (Hot)",
+      "description": "(Manually Brewed Coffee With Hot Water)",
+      "media": null,
+      "price": 180,
+      "menuName": "Manual Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "V60 Pour Over (Iced)",
+      "description": "(Manually Brewed Coffee With Ice)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e0d/8793e89334a4eb42e2b64b488d2fbe0d.jpeg",
+      "price": 180,
+      "menuName": "Manual Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aero Press (Hot)",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Manual Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aero Press (Iced)",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Manual Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Cofee",
+      "description": "45 ml Coffee Shot, 2 Scoop Ice Cream, 200 ml Milk , and iced",
+      "media": null,
+      "price": 220,
+      "menuName": "Frappes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Frappe",
+      "description": "(Espresso Shot ,Ice, Frappe Powder & Milk )",
+      "media": null,
+      "price": 200,
+      "menuName": "Frappes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mocha Frappe",
+      "description": "(Espresso Shot ,Ice, Frappe Powder,Chocolate Syrup & Milk )",
+      "media": "https://b.zmtcdn.com/data/dish_photos/322/a06ea7d7bdcec4202d7791078acd0322.jpeg",
+      "price": 220,
+      "menuName": "Frappes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Frappe",
+      "description": "(Espresso Shot ,Ice, Frappe Powder,Caramel Syrup & Milk )",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4da/4a992977e32661c060163195b9a334da.jpeg",
+      "price": 220,
+      "menuName": "Frappes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Frappe",
+      "description": "(Espresso Shot ,Ice, Frappe Powder, Hazelnut Syrup& Milk )",
+      "media": null,
+      "price": 240,
+      "menuName": "Frappes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Chip Frappe",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Frappes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Irish Frappe",
+      "description": "(Espresso Shot ,Ice, Frappe Powder, Irish Syrup& Milk )",
+      "media": null,
+      "price": 240,
+      "menuName": "Frappes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Frappe",
+      "description": "(Espresso Shot ,Ice, Frappe Powder,Nutella Spread& Milk )",
+      "media": null,
+      "price": 260,
+      "menuName": "Frappes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscoff Frappe",
+      "description": "(Espresso Shot ,Ice, Frappe Powder,Biscoff Spread & Milk )",
+      "media": null,
+      "price": 260,
+      "menuName": "Frappes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew Tonic",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a09/bdbef90189cd021f30b8c08731a15a09.jpeg",
+      "price": 240,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Orange Cold Brew",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eaf/1135943fa6ad46a639a4a33dff4a4eaf.jpeg",
+      "price": 300,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cranberry Cold Brew",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc6/4991a21671ec92fade00be382bbc6cc6.jpeg",
+      "price": 300,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Barrel Aged Cold Brew",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Barrel Aged Cold Brew Tonic",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Ice Tea",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/867/f2973838f26299151c8fed7df848b867.jpeg",
+      "price": 180,
+      "menuName": "Teas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peach Ice Tea",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Teas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Tea",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Teas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oreo Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69f/8522dbc89f2da57921cab8b07afd569f.jpeg",
+      "price": 220,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kitkat Shake",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Shake",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brownie Crumble Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/39c/235c0ce79c457e3ed8890499bfd5139c.jpeg",
+      "price": 250,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscoff Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e98/4dc30b6b12f08f35a6c002aa9544ce98.jpeg",
+      "price": 250,
+      "menuName": "Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mint Mojito",
+      "description": "A Zesty beverage mixed with fresh lime, mint leaves, soda and sprite",
+      "media": null,
+      "price": 180,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blue Lagoon",
+      "description": "Tropical blend of blue curacao syrup, fresh lime, salt, soda and sprite",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b54/d09090a67f11754737f69de9f85d1b54.jpeg",
+      "price": 180,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Guava Mary",
+      "description": "A refreshing mocktail with guava goodness, pinch of black salt and chili powder",
+      "media": null,
+      "price": 180,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Berry Blast",
+      "description": "Blueberry breeze crushed with ice cream and milk",
+      "media": null,
+      "price": 200,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Rush",
+      "description": "Berry bliss muddled with rose syrup, ice cream and milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d2/3b1f06c94db4e88fc1ac93496b6919d2.jpeg",
+      "price": 200,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Summer Dream",
+      "description": "Luscious litchi crush blend with rose syrup, ice cream and milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2f3/810270b0f83a863d5d4a3413bbc3b2f3.jpeg",
+      "price": 200,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pina Colada",
+      "description": "A creamy blend of pineapple crush, vanilla, coconut syrup, milk and ice cream",
+      "media": null,
+      "price": 220,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "Crispy Salted Fries Served with Mayo dip.",
+      "media": null,
+      "price": 180,
+      "menuName": "Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Fries",
+      "description": "Crispy  Fries Seasoned Peri Peri Spice.",
+      "media": null,
+      "price": 200,
+      "menuName": "Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "Delectable Fusion  Of Flavor With Melted Cheese",
+      "media": null,
+      "price": 200,
+      "menuName": "Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Loaded Nachos",
+      "description": "A Falvorful Feista with Crispy Nachos, Melted Cheese, Salsa  and Fresh  Toppings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0e8/782e95eaf325f6980ae829bf4796c0e8.jpeg",
+      "price": 200,
+      "menuName": "Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Maggi",
+      "description": "A Taste Bud Adventure that is Both Satisfying and Guaranteed to put a Smile on Your Face.",
+      "media": null,
+      "price": 250,
+      "menuName": "Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "description": "Spicy & Savory Indo-Chinese Rice Stir -Fried With Fiery Schezwan Sauce and Veggies.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6b5/59ad7921b028894cf3ede52da40386b5.jpeg",
+      "price": 300,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Garlic Rice",
+      "description": "Rice Stir Fried With Rich Taste Of Smoky Garlic.",
+      "media": null,
+      "price": 300,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Rice",
+      "description": "Fusion Of Rice, Beans , Exotic Veggies With Sprinkle Of Italian Herbs",
+      "media": null,
+      "price": 300,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Basil Croissant",
+      "description": "Zesty Tomato and Basil Filled Croissant.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f58/2758f0e5662bff189f010ba822b8ef58.jpeg",
+      "price": 300,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Avocado Cheese Crossiant",
+      "description": "Rich Avacado and Creamy cheese in a Flakey  Croissant",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d4b/dc3dc16c15a5a79e96cdfe703112ed4b.jpeg",
+      "price": 300,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grill Cheese Sandwich",
+      "description": "Golden Grilled Cheese Sandwich with a Crispy Crust.",
+      "media": null,
+      "price": 200,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Smoked Paneer Sandwich",
+      "description": "Savory Smoked Paneer in a Satisfying Grilled  Cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fbc/996e0cc3c9d108255ad6e11e01525fbc.png",
+      "price": 250,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Sandwich",
+      "description": "Symphony of Sauteed Mushroom  Busting with Flavours on Toasted Bread.",
+      "media": null,
+      "price": 250,
+      "menuName": "Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Newyork Cheesecake",
+      "description": "New york style is a classic cheesecake and our bestseller as well, its made with very simple ingredients ( cream cheese, vanilla, fresh cream and castor sugar) the base is made of plain biscuits and melted butter. Everything is baked and cooled to perfection to give you an everlasting creamy taste in every bites.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b6/62923832fcc7d203530134d3951011b6.jpeg",
+      "price": 220,
+      "menuName": "Cheesecake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blueberry Cheesecake",
+      "description": "Blueberry compote spread on top of nyc classic cheesecake.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5d7/adae8ec700665f4c791307976de8a5d7.jpeg",
+      "price": 250,
+      "menuName": "Cheesecake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Cheesecake",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eb8/c79c93371311855a068a8f63787ddeb8.jpeg",
+      "price": 250,
+      "menuName": "Cheesecake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscoff Cheesecake",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f6e/1adbb2aa92fa4d5c3e3e17cbdfc29f6e.jpeg",
+      "price": 280,
+      "menuName": "Cheesecake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ferrero Rocher Cheesecake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/741/9c1cccb8000daefd28e84aeb4d72d741.jpeg",
+      "price": 320,
+      "menuName": "Cheesecake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian",
+      "description": "Crispy Fried balls Tossed in a Spicy, Sweet and Tangy Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/621/611c53c78329e0eb4250c8b8a4ebf621.png",
+      "price": 220,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noddles",
+      "description": "Noodles Sauteed with Vegetables Tossed in Aromatic Chinese Spice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/19d/c2e57c433e83c1c54c2dca5c4896619d.jpeg",
+      "price": 250,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Soba Noddles",
+      "description": "Hot Buckwheat Noodles Ready to Warm Your Saul with Every Slurp.",
+      "media": null,
+      "price": 300,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ramen Noodles",
+      "description": "A Steaming bowl with Tender Noodles with Rich And Satisfying Vegetable Broth.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7e8/a30af808ea499f9edc5f77d207baa7e8.jpeg",
+      "price": 300,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aglio Olio",
+      "description": "Fresh Garlic and Olive Oil Toasted with Pasta",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a92/f02108f3dbf3478cddb543ccc467da92.png",
+      "price": 300,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Pasta",
+      "description": "Vibrant Basil Pesto Pasta Bursting with Flavours.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b5d/d67a3ac88267c55f5349b2ec4575ab5d.jpeg",
+      "price": 350,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Pasta",
+      "description": "Classic Creamy and cheesy White Sauce Pasta Filled With Exotic Veggies .",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ae/8a054ee18e9570090549fffe950da1ae.jpeg",
+      "price": 350,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arrabbiata Pasta",
+      "description": "Spicy kick of Red Chilli Flakes Igniting Your Taste Buds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a95/35f916b8caf2e0633044a71d1f178a95.png",
+      "price": 350,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pink Sauce Pasta",
+      "description": "A Perfect Combination of Red and White Sauce Served with Toasted Bread with Punch of Garlic.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/28b/a1e4153f6b433653207341a82299c28b.jpeg",
+      "price": 350,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hummus & Pita Bread",
+      "description": "Delightful Fusion Of Creamy Hummus And Soft Pita.",
+      "media": null,
+      "price": 350,
+      "menuName": "Leaf Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Veg Lasagna",
+      "description": "Layers of Pasta ,Veggies And Marinara Sauce Baked to Perfection.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a7c/8bd03663c3e83ea64fe93df7bd437a7c.jpeg",
+      "price": 350,
+      "menuName": "Leaf Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Saute Vegetables",
+      "description": "Crispy Colourful Veggies Tossed together with Herbs and Spices.",
+      "media": null,
+      "price": 250,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chef Special Salad",
+      "description": "Vibrant Mix Of Exotic Veggies & Creamy Hummus on A Bed Of Fresh Greens.",
+      "media": null,
+      "price": 300,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita",
+      "description": "Classic Crust Gooey Cheese and Fragrant Basil Simply Divine.",
+      "media": null,
+      "price": 450,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Verdure Pizza",
+      "description": "Garlic-Buttered Crust with Spinach, Sweet Corn, Cheery Tomatoes and Bell Peppers,",
+      "media": null,
+      "price": 450,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farm Fresh Pizza",
+      "description": "Crunchy base Topped With Onions , Tomatoes , Bell Peppers and Olives.",
+      "media": null,
+      "price": 450,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Truffle Pizza",
+      "description": "Garlic Mushroom ,Onions, Jalapenos ,Bell Peppers, Basil with a Drizzle of Truffle Oil on a Savory Crust.",
+      "media": null,
+      "price": 500,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilly Paneer Pizza",
+      "description": "Crispy Crust Topped With Marinated Paneer , Green Chilli , Capsicum, Onion, Spring Onion, Coriander And Spicy Red Chilli Sauce.",
+      "media": null,
+      "price": 500,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Walnut Brownie",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/37a/a42890612e3cb3f5727c6525602c737a.jpeg",
+      "price": 150,
+      "menuName": "Brownie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Brownie",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9a9/1b6c358d384cb0de49caeb48d0ddc9a9.jpeg",
+      "price": 180,
+      "menuName": "Brownie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "rakhi-special",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscoff Brownie",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/785/439ab0c52d9bfd2b1f1e0751587ce785.jpeg",
+      "price": 180,
+      "menuName": "Brownie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brownie With Icecream",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f3e/03e74cba2647a29a39a188ccc885af3e.jpeg",
+      "price": 220,
+      "menuName": "Brownie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "value-meal",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "value-meal",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Mousse Croissant",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Croissant",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tiramisu",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e53/d6c05cc5527bcece2d97aafa88295e53.jpeg",
+      "price": 300,
+      "menuName": "Tiramisu",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    }
+  ]
+}

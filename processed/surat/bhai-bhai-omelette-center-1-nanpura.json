@@ -1,0 +1,1779 @@
+{
+  "basicInfo": {
+    "name": "Bhai Bhai Omelette Center",
+    "cuisine_string": "North Indian, Fast Food, Street Food",
+    "canonicalUrl": "https://www.zomato.com/surat/bhai-bhai-omelette-center-1-nanpura/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.2",
+      "reviewCount": "4",
+      "reviewTextSmall": "4 Reviews",
+      "subtext": "4 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "1,272",
+      "reviewTextSmall": "1,272 Reviews",
+      "subtext": "1,272 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395017",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Nanpura, Surat",
+    "latitude": "21.1877815000",
+    "longitude": "72.8153532000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1877815000,72.8153532000&maptype=zomato&markers=21.1877815000,72.8153532000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "1/1449 Paiki, Shop 5 & 6, Triveni Appaetment, Timaliyawad, Nanpura, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919879748740"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Pav Bhaji Combo",
+      "description": "4 Pav+Bhaji+Papad+1 Buttermilk",
+      "media": null,
+      "price": 190,
+      "menuName": "Special Veg",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Biryani Combo",
+      "description": "Vegetable Biryani+Papad [1 Piece]+1 Buttermilk",
+      "media": null,
+      "price": 190,
+      "menuName": "Special Veg",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Omelette [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f7/e8e9f018f75f4b803e0db81ec658d3f7.jpg",
+      "price": 130,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Mixed Omelette [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 145,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Masala Omelette",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/391/cbbc0ce90792f6480529906c0a9af391.jpg",
+      "price": 130,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dry Roll Omelette",
+      "description": "",
+      "media": null,
+      "price": 145,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Dosa Omelette",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhai Bhai Special [5 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d7b/6bd1d9f5e2ca5facefcea9eaee03ed7b.png",
+      "price": 570,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lahori [2 Eggs]",
+      "description": "2 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/77d/1e01a1384ab475c95820c6c096e3877d.jpg",
+      "price": 195,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Keema Lahori [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/77d/1e01a1384ab475c95820c6c096e3877d.jpg",
+      "price": 195,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kachi Lahori",
+      "description": "3 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bc9/5f4057bf6ae16718025aa17d8f0b4bc9.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Fry Lahori",
+      "description": "3 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/191/f78bcb18383ccaa2c560eed55081b191.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Kofta",
+      "description": "2 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fb5/c4b07e135fdc3389ef386dc152c9efb5.jpg",
+      "price": 220,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rajwadi Kofta",
+      "description": "2 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9cc/50fd65afd84495738696c5b60153c9cc.jpg",
+      "price": 250,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Nargisi Kofta",
+      "description": "3 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3e5/c6d32e95b3e486694c29083c1fdd43e5.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Shahi Kofta",
+      "description": "3 Egg",
+      "media": null,
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Fry Kofta",
+      "description": "3 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/adc/8c126ab423745f8ccdde97aabcd86adc.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Australian Fry",
+      "description": "3 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b77/d34102568806103a17ed34381d2b4b77.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lazeez",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69d/a4f793a29172e0e8c94b73c78fd2369d.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Curry Tadka",
+      "description": "4 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b41/932ea764e868cc58b8fb876aa5ebbb41.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Locha Curry",
+      "description": "3 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/47f/d47845d57914dc3cb326b891d72f547f.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Mini Angur Rabdi",
+      "description": "4 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/712/3adec1cecc2b6b267aa2ba4e1bdb9712.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Angur Rabdi",
+      "description": "7 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c9e/3dd6eb330665dd0a88ba63a7ad0fdc9e.jpg",
+      "price": 390,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Curry Cutlets [3 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0f5/118613a6fc59f96965546b30f55a60f5.jpg",
+      "price": 285,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Paplet [4 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/692/57c539b75bd74b7946a453317db59692.jpg",
+      "price": 315,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Tikhari",
+      "description": "5 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7cf/463526ce38b76c1c657138f68a65a7cf.jpg",
+      "price": 570,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Gravy Dosa [4 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/614/df04473539c4fddd383f08d36ec67614.jpg",
+      "price": 310,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Oli Egg Green [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green with Cheese [2 Eggs]",
+      "description": "2 Boiled eggs mixed with coriander and garlic with cheese topping semi gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/113/7254cccae078361d071fdbe022a1b113.jpg",
+      "price": 210,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dry Manma [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dry Manma Cheese [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dry Cheese Kofta [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cee/77e126d91bbcad5dc320b74d7a0fdcee.jpg",
+      "price": 185,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Fry Special",
+      "description": "4 Egg",
+      "media": null,
+      "price": 390,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Italian Fry",
+      "description": "4 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e0a/24f39b504945622925ab7cfc461b6e0a.jpg",
+      "price": 390,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tadka [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e0a/9095166bb87fb852e2f3ffdec7c0de0a.jpg",
+      "price": 160,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tadka with Cheese [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7d0/6b5ecbeff1976f51bfead562eaaf37d0.jpg",
+      "price": 210,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Malai Kofta [6 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e8e/754c53a107c2db8df1b341d1c7684e8e.jpg",
+      "price": 625,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Oil Egg Garlic Keema [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tomato Keema [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d47/c80f32ea64e07672c4f53c082354cd47.jpg",
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Mongolian Keema [2 Eggs]",
+      "description": "2 Egg",
+      "media": null,
+      "price": 150,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Masala Keema [2 Eggs]",
+      "description": "2 Egg",
+      "media": null,
+      "price": 160,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Mixed Keema [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d0c/a86cbee76aa04d0bce68e4ac7511ed0c.jpg",
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Ghotala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/782/d12576a278e95ce0f549e88bfcc2d782.jpg",
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sabji [2 Eggs]",
+      "description": "2 Egg",
+      "media": null,
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Masala Sabji",
+      "description": "2 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e67/31def8b86cd7b740083859146e60ae67.jpg",
+      "price": 160,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Chinese Sabji [2 Eggs]",
+      "description": "2 Egg",
+      "media": null,
+      "price": 185,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhurji [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0a1/7f34ecfa66a171109dc2dd7727c970a1.jpg",
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Garlic Chutney",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Dal Fry [1 Egg]",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Curry Tomato [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Curry Garlic [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Shahi Curry",
+      "description": "3 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1eb/c8b06db20c6b6ee450306ddc9e7c21eb.jpg",
+      "price": 325,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Shahi Korma",
+      "description": "3 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1e3/ca7f95b73fb9637fa8ecd70b1031f1e3.jpg",
+      "price": 325,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kachu",
+      "description": "2 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6a1/625654f95c5a2de57e72e707908b06a1.jpg",
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Shahi Vilas",
+      "description": "3 Eggs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cb2/ec7bd103eca41878c9c57e3f36faccb2.jpg",
+      "price": 325,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tadka Kachu [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/28c/c467a76a65c110741ec06e7ef123228c.jpg",
+      "price": 195,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Masala Lachko",
+      "description": "4 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/415/b81db024e0a3f6e7b49f2a7482381415.jpg",
+      "price": 325,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg 235",
+      "description": "5 Eggs in red & green curry with sadi fry topping.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e3c/ecfd56f2c5050d96b383402c4524be3c.jpg",
+      "price": 400,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kachi Lahori Special",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Mughlai [5 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg German [3 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Chapati [5 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 570,
+      "menuName": "Bread",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "White rice with an aromatic tempering of ghee and roasted cumin seeds",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e75/4f0a3efe3a965124cd3074d3049d0e75.jpg",
+      "price": 120,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Keema Pulao [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/305/5a5318017eaafa032557b0a63f3d9305.jpg",
+      "price": 170,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pulao [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/305/5a5318017eaafa032557b0a63f3d9305.jpg",
+      "price": 145,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kadhi Pulao",
+      "description": "2 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/481/0c48d2ee01df54dfa58c9242f8a98481.jpg",
+      "price": 195,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lazeez Pulao [1 Egg]",
+      "description": "Coriander boiled egg fried rice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a24/d944db95f29199db5ba33911ab691a24.jpg",
+      "price": 190,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhurji Pulao [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Locha Pulao",
+      "description": "2 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7e3/6a09ce2102fa96ab77ba80c8304507e3.jpg",
+      "price": 250,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dum Pulao",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Peri Peri Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f50/faa62074cfee6236747ffe563f741f50.jpg",
+      "price": 420,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Lemon Mari Omelette",
+      "description": "2 Egg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f7/e8e9f018f75f4b803e0db81ec658d3f7.jpg",
+      "price": 120,
+      "menuName": "Kids Special",
+      "categoryName": "Kids Specail",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sandwich [2 Eggs]",
+      "description": "2 Egg",
+      "media": null,
+      "price": 130,
+      "menuName": "Kids Special",
+      "categoryName": "Kids Specail",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Sandwich",
+      "description": "2 Egg",
+      "media": null,
+      "price": 185,
+      "menuName": "Kids Special",
+      "categoryName": "Kids Specail",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Salt and Pepper Fry",
+      "description": "2 Egg",
+      "media": null,
+      "price": 115,
+      "menuName": "Kids Special",
+      "categoryName": "Kids Specail",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Salt and Pepper Boiled Fry",
+      "description": "2 Egg",
+      "media": null,
+      "price": 185,
+      "menuName": "Kids Special",
+      "categoryName": "Kids Specail",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "egg"
+      ]
+    },
+    {
+      "name": "Scrambled Egg [2 Eggs]",
+      "description": "2 Egg",
+      "media": null,
+      "price": 155,
+      "menuName": "Kids Special",
+      "categoryName": "Kids Specail",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-kid-friendly",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cutlet [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cutlet Cheese [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Samosa [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/767/418ad5f9c180f23dbe6be69e30443767.jpg",
+      "price": 185,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Boiled [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Fried Cheese Boiled Fry [4 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sadi Half Fry [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c37/520617780d05921b312bb26e9ecfbc37.jpg",
+      "price": 130,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Masala Half Fry [2 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/711/c85a2f2b40127d5d2e94390e7021f711.jpg",
+      "price": 185,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Oil Egg Garlic Half Fry [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tomato Half Fry [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kaleji Half Fry",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Golmal Half Fry",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tomato Chinese Half Fry",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Garlic Chinese Half Fry",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg 303 [5 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/60e/30e1e89d65b8b3708ee688fcde75d60e.png",
+      "price": 570,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Boiled [5 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg One Two ka Four",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef7/34e5e58c07965fb223fdfb0627cc0ef7.jpg",
+      "price": 415,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg 20 20 [5 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/645/2eae2170589595d9a28b0b6957d2a645.jpg",
+      "price": 570,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rasawala Roll",
+      "description": "3 Egg",
+      "media": null,
+      "price": 220,
+      "menuName": "Roll",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Australian Fry with Egg Garlic Curry [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 500,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "combo-item",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Australian Fry [3 Eggs] with 4 Pav and Egg Masala Fry",
+      "description": "",
+      "media": null,
+      "price": 465,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "combo-item",
+        "services",
+        "egg"
+      ]
+    }
+  ]
+}

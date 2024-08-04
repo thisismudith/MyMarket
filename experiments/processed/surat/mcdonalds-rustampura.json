@@ -1,0 +1,4367 @@
+{
+  "basicInfo": {
+    "name": "McDonald's",
+    "cuisine_string": "Burger, Fast Food, Beverages, Tea, Coffee",
+    "canonicalUrl": "https://www.zomato.com/surat/mcdonalds-rustampura/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.1",
+      "reviewCount": "346",
+      "reviewTextSmall": "346 Reviews",
+      "subtext": "346 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.1",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.7",
+      "reviewCount": "16.7K",
+      "reviewTextSmall": "16.7K Reviews",
+      "subtext": "16.7K Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.7",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Rustampura, Surat",
+    "latitude": "21.1822759347",
+    "longitude": "72.8310818598",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1822759347,72.8310818598&maptype=zomato&markers=21.1822759347,72.8310818598,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Reliance Mega Mall, Udhana Darwaja, Opposite Passport Office, Ring Road, Rustampura, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917875464835, +918928304337"
+    },
+    "res_chain_text": "See all 13 McDonald's outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/mcdonalds",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Chicken Surprise Burger + Fries (M).",
+      "description": "Enjoy the newly launched Chicken Surprise Burger with the iconic Fries (M)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/de9/c715cf27c41c95d36b7f142935e22de9.png",
+      "price": 160.95,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Surprise Burger + McChicken Burger.",
+      "description": "Enjoy the newly launched Chicken Surprise Burger with the iconic McChicken Burger",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ed7/3d7f48e338fb45ec9cf666ba92a2bed7.png",
+      "price": 199.05,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Surprise Burger + 4 Pc Chicken McNuggets + Coke-",
+      "description": "Enjoy the newly launched Chicken Surprise Burger with 4 Pc Chicken McNuggets and Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/969/ecb3e2a0b0cfc24c3a1e63ec4bfc7969.png",
+      "price": 237.15,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Surprise Burger Combo.",
+      "description": "Chicken Surprise Burger Combo + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/180/97517a395e6d0922bcf9f4dd71ee8180.png",
+      "price": 237.14,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Iced Coffee with Cinammon Spice.",
+      "description": "An ideal choice for those who enjoy a flavorful, refreshing cinammon twist to their iced coffee, providing a satisfying and refreshing pick-me-up.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea4/b93aa35f0f18e3905d75dcb619999ea4.png",
+      "price": 219.05,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Surprise Burger",
+      "description": "Introducing the new Chicken Surprise Burger which has the perfect balance of a crispy fried chicken patty, the crunch of onions and the richness of creamy sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9c/f313cdbde3a194022ddc09258ef94b9c.png",
+      "price": 75.24,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Classic Coffee Regular with Cinammon Spice.",
+      "description": "Refreshing beverage that combines the invigorating taste of iced coffee with the warm, aromatic notes of cinnamon",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b2/cad32d1bfa601fce87b414573acea8b2.png",
+      "price": 235.24,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino Small with Cinammon Spice",
+      "description": "A warm and aromatic coffee beverage that combines the bold flavor of espresso with the comforting spice of cinnamon",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e21/bfc141ea4ccfc2726ead1525e36d1e21.png",
+      "price": 183.81,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Coffee with French Vanilla.",
+      "description": "An ideal choice for those who enjoy a smooth, creamy vanilla twist to their iced coffee, providing a satisfying and refreshing pick-me-up",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9eb/5506459f1b04ebd9f86136ccaec0b9eb.png",
+      "price": 219.05,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Coffee with Hazelnut.",
+      "description": "An ideal choice for those who enjoy a flavorful, nutty twist to their iced coffee, providing a satisfying and refreshing pick-me-up.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dbf/325fc8b0346fd2a6963867f3a00c4dbf.png",
+      "price": 219.05,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flavours of India McAloo Tikki Burger Meal ( M ).",
+      "description": "Enjoy the new Flavours of India McAloo Tikki Burger with Fries(M)+ Beverage of your choice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/21f/67d1be04a46a70461a3d3b29e28f321f.png",
+      "price": 195.25,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flavours of India McChicken Burger Combo.",
+      "description": "Enjoy the new Flavours of India McChicken Burger with Fries(M)+ Beverage of your choice (M)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd1/b13c028228a3f1daaf8c84744eb99cd1.png",
+      "price": 309.52,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Flavours of India McVeggie Burger Combo.",
+      "description": "Enjoy the new Flavours of India McVeggie Burger with Fries(M)+ Beverage of your choice (M)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6de/dfe4d4c1237592de80f0248065ade6de.png",
+      "price": 284.76,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flavours of India McChicken Burger.",
+      "description": "Introducing your favourite McChicken Burger with the new Flavours of India sauce, made with chillies sourced from across different parts of India.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/44e/478de313a39a50e31d0f38418e95c44e.png",
+      "price": 147.36,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Flavours of India McVeggie Burger.",
+      "description": "Introducing your favourite McVeggie Burger with the new Flavours of India sauce, made with chillies sourced from across different parts of India.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/47e/3243c6eb4ef984c3df69a597efd1d47e.png",
+      "price": 153.9,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flavours of India McAloo Tikki Burger",
+      "description": "Introducing your favourite McAloo Tikki Burger with the new Flavours of India sauce, made with chillies sourced from across different parts of India.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd7/5f21268a23ccf66295dbcec8038d2cd7.png",
+      "price": 74.39,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Coffee Regular with French Vanilla.",
+      "description": "A delightful and refreshing beverage that blends into the smooth, creamy essence of vanilla with the invigorating taste of chilled coffee.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ab9/46e6f3d562d14380af62aee0391ebab9.png",
+      "price": 235.24,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Coffee Regular with Hazelnut",
+      "description": "Refreshing and delicious beverage that combines the rich, nutty taste of hazelnut with the cool, invigorating essence of cold coffee",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6e9/28d903262c44a8c0b9ac49f196dde6e9.png",
+      "price": 235.24,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino Small with French Vanilla.",
+      "description": "A popular coffee beverage that combines the smooth, creamy flavor of vanilla with the robust taste of espresso",
+      "media": "https://b.zmtcdn.com/data/dish_photos/944/5975d1e7bd617d6c8866cb336524b944.png",
+      "price": 183.81,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino Small with Hazelnut.",
+      "description": "A delightful and aromatic coffee beverage that combines the robust flavor of espresso with the rich, nutty essence of hazelnut.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/653/3fa7a67d324219cba8a0325087dfa653.png",
+      "price": 183.81,
+      "menuName": "Newly Launched",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McChicken Burger",
+      "description": "Save big on your favourite sharing combo - 2 McChicken Burger + Fries (L) + 2 Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a06/b0b4da1fc24c9b512a3414d728970a06.png",
+      "price": 426.67,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McVeggie + McAloo Tikki with Pizza McPuff",
+      "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - McVeggie Burger + 2 Fries (M) + McAloo Tikki Burger + Veg Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d0f/1f5facaed9273f50290c8345effbed0f.png",
+      "price": 391.43,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McSpicy Chicken + McChicken",
+      "description": "Flat 15% Off on McSpicy Chicken Burger + McChicken Burger + Fries (M)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c29/21f144278f04585ff129a4b14aba6c29.png",
+      "price": 437.14,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McSpicy Deluxe Paneer Burger",
+      "description": "Save upto 24% off on your favorite sharing combo of 2 McSpicy Deluxe Paneer Burger + Fries (L) + 2 Coke (Serves 2)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/963/2849fe222c29e5f26679887411721963.png",
+      "price": 549.53,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McSpicy Deluxe Chicken Burger",
+      "description": "Save upto 24% off on your favorite sharing combo of 2 McSpicy Deluxe Chicken Burger + Fries (L) + 2 Coke (Serves 2)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b27/6d848ad7b89655877339c5e26fcc5b27.png",
+      "price": 499.01,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McCheese Burger Veg",
+      "description": "Save big on your favourite sharing combo - 2 McCheese Burger Veg  + Fries (L) + 2 Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fc0/857b57ae6a17e12e61174a3a45fe8fc0.png",
+      "price": 619.05,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McCheese Burger Chicken",
+      "description": "Save big on your favourite sharing combo - 2 McCheese Burger Veg + Fries (L) + 2 Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c97/f042ac70799fce046cd9f8e69e67fc97.png",
+      "price": 648.58,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: Corn & Cheese Burger",
+      "description": "Save big on your favourite sharing combo - 2 Corn and Cheese Burger + Fries (L) + 2 Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a4e/847b562672e71c2352d92b797c0b0a4e.png",
+      "price": 419.05,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: Grilled Chicken & Cheese",
+      "description": "Save big on your favourite sharing combo - 2 Grilled Chicken and Cheese Burger + Fries (L) + 2 Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8dd/1166a8baa3066342affb829ef0c428dd.png",
+      "price": 469.53,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McSpicy Chicken Burger",
+      "description": "Save big on your favourite sharing combo - 2 McSpicy Chicken Burger + Fries (L) + 2 Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c13/98afaf26d81b15bec74cc356fe60cc13.jpeg",
+      "price": 490.48,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McVeggie Burger",
+      "description": "Save big on your favourite sharing combo - 2 McVeggie Burger + Fries (L) + 2 Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6c6/09b3cb6130cfae15d486223c313fb6c6.png",
+      "price": 388.58,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: Corn & Cheese + McVeggie",
+      "description": "Flat 15% Off on Corn & Cheese Burger +McVeggie Burger+Fries (M)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/145/4bbfff7381a8945b38e71299e8e8a145.png",
+      "price": 391.43,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McSpicy Chicken Burger with Pizza McPuff",
+      "description": "Save big on your favourite sharing combo- 2 McSpicy Chicken Burger + 2 Fries (M) + Veg Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1e5/e62aea3ba1cd5585a76004f59cd991e5.png",
+      "price": 491.43,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McChicken Burger with Pizza McPuff",
+      "description": "Save big on your favourite sharing combo - 2 McChicken Burger + 2 Fries (M) + Veg Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e4b/b57153898abed2127d7217c2ee3e9e4b.png",
+      "price": 388.57,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McSpicy Paneer + McAloo Tikki with Coke",
+      "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - McSpicy Paneer Burger + Fries (L) + 2 Coke + McAloo Tikki Burger",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6a1/642ae100416c13ce1c4c2d61c44026a1.png",
+      "price": 388.58,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McVeggie + McAloo Tikki with Coke",
+      "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - McVeggie Burger + Fries (L) + 2 Coke + McAloo Tikki Burger",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2cc/d2381b84780fb273c2e7b868410a22cc.png",
+      "price": 337.15,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McVeggie Burger with Pizza McPuff",
+      "description": "Save big on your favourite sharing combo - 2 McVeggie Burger + 2 Fries (M) + Veg Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/27a/1ff73fc5aa656a10da5801469da3327a.png",
+      "price": 459.05,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Chicken Maharaja Mac Burger + 2 Coke + Fries (L) + McFlurry Oreo (M)",
+      "description": "Enjoy 2 of the tallest burgers innovated by us. Created with chunky juicy grilled chicken patty paired along with fresh ingredients like jalapeno, onion, slice of cheese, tomatoes & crunchy lettuce dressed with the classical Habanero sauce. Served with Coke, Large Fries and a medium McFlurry Oreo",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d1d/65c9c9b82c4d1f77a05dc4d89c9ead1d.png",
+      "price": 610.48,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McAloo Tikki",
+      "description": "Stay home, stay safe and share a combo- 2 McAloo Tikki Burgers + 2 Fries (L)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3bf/ea7ba594c7d77cb752de9a730fbcb3bf.png",
+      "price": 327.93,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo for 2: McSpicy Paneer + McAloo Tikki with Pizza McPuff",
+      "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - McSpicy Paneer Burger  + 2 Fries (M) + McAloo Tikki Burger + Veg Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3e8/0ea8a2fddbbc17bc6239a9104963a3e8.png",
+      "price": 387.62,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "6 Pc Chicken Nuggets + McChicken Burger + Coke",
+      "description": "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite. Served with 6 Pc Nuggets and Coke.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/415/934194567f9c231dc46dccf2d4e6d415.png",
+      "price": 358.1,
+      "menuName": "Group Sharing Combos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Surprise Burger + Chocolate Shake",
+      "description": "Enjoy the newly launched Chicken Surprise Burger with a refreshing Chocolate Shake",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a82/6d5bd9523ae58424e3a84f012f78da82.png",
+      "price": 208.57,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "New McSaver Chicken Nuggets (4 Pc)",
+      "description": "Enjoy New McSaver Chicken Nuggets (4 Pc)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9eb/7bf83367ed61708817caefbc79a3c9eb.png",
+      "price": 103.81,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "New McSaver Mexican McAloo Tikki",
+      "description": "Enjoy New McSaver Mexican McAloo Tikki",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f81/5897849bed9b0298559968c3e5f4af81.png",
+      "price": 103.81,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "New McSaver Small Fries",
+      "description": "Enjoy New McSaver Small Fries",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2e0/70771ada9c14923d9535e84d1d2fc2e0.png",
+      "price": 103.81,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "New McSaver Masala McEgg",
+      "description": "Enjoy New McSaver Masala McEgg",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d6c/8f0cbf7d50d3f8dad87b971fb11f8d6c.png",
+      "price": 103.81,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "New McSaver Pizza McPuff",
+      "description": "Enjoy New McSaver Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bb3/45fa406e76418771de26c37e8863fbb3.png",
+      "price": 103.81,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McChicken Burger + Fries (M)",
+      "description": "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite. Served with Medium Fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ad1/f1e1255cbfc345dbe251626f91021ad1.png",
+      "price": 223.81,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "New McSaver McAloo Tikki",
+      "description": "Enjoy New McSaver McAloo Tikki",
+      "media": "https://b.zmtcdn.com/data/dish_photos/93e/ab4c47366f0e51ac0071f705b0f2d93e.png",
+      "price": 103.81,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McAloo Tikki Burger + Veg Pizza McPuff + Fries (R)",
+      "description": "Flat 15% Off on McAloo Tikki + Veg Pizza McPuff + Fries (R)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fd8/bb4cbbf595374d1b0d136da59369bfd8.png",
+      "price": 200.95,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McAloo Tikki + Fries (R)",
+      "description": "Aloo Tikki+ Fries (R)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8d4/64237545937077b0c360be8faa0e18d4.png",
+      "price": 106.67,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 McVeggie Burger",
+      "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted sesame buns makes our iconic McVeggie.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ed0/28aeef97a7ecf3e13d3bb9e1bf785ed0.png",
+      "price": 249.52,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "New McSaver Chicken Surprise",
+      "description": "Enjoy a delicious combo of the new Chicken Surprise Burger with a beverage, now in a delivery friendly reusable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eec/3a437ba06ef546d56e850d06ae73beec.png",
+      "price": 103.81,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Corn & Cheese Burger + Coke + Fries (M) + Veg Pizza McPuff",
+      "description": "Enjoy Corn and Cheese Burger + Coke + Fries (M) + Veg Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4f8/8d4a82d50f6e79d95fcc324b161374f8.png",
+      "price": 354.29,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn & Cheese Burger + Fries (R)",
+      "description": "A delicious Corn & Cheese Burger + a side of crispy, golden, world famous fries ??",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b0/495bcb831b35c29883707b9458fd55b0.png",
+      "price": 186.67,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grilled Chicken & Cheese Burger + Coke",
+      "description": "Flat 15% Off on Grilled Chicken & Cheese Burger + Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/46c/2cba651060dfc0c03ed7d55a14aee46c.png",
+      "price": 215.24,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Corn & Cheese Burger + Coke",
+      "description": "Flat 15% Off on Corn & Cheese Burger + Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f8f/05d5820a8983942fd29e46da5e4a1f8f.png",
+      "price": 225.72,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grilled Chicken & Cheese Burger + Veg Pizza McPuff",
+      "description": "A delicious Grilled Chicken & Cheese Burger + a crispy brown, delicious Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/853/b9f02abd64c74307339cbd3421e7f853.png",
+      "price": 189.52,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Corn & Cheese Burger + Veg Pizza McPuff",
+      "description": "A delicious Corn & Cheese Burger + a crispy brown, delicious Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/94d/f847f39d3b81367ecd2aa14bd2dca94d.png",
+      "price": 176.19,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "McChicken Burger + Fries (L)",
+      "description": "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite. Served with Large Fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fac/a4148348225f693c23b73eda06934fac.png",
+      "price": 226.67,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Paneer Burger + Fries (M) + Piri Piri Spice Mix",
+      "description": "Rich and filling cottage cheese patty coated in spicy, crispy batter topped with a creamy sauce and crispy shredded lettuce will have you craving for more. Served with the spicy piri piri mix and medium fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8d1/87ce9779f986dcb21ab1fcfe794938d1.png",
+      "price": 258.1,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger + Veg Pizza McPuff + Fries (L)",
+      "description": "Flat 15% Off on McVeggie Burger + Veg Pizza McPuff + Fries (L)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/aa9/8514c5923cc1abe71d3dce94d52e5aa9.png",
+      "price": 264.76,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Shake + Fries (M)",
+      "description": "Can't decide what to eat? We've got you covered. Get this snacking combo with Medium Fries and Strawberry Shake.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f53/74603316fc90ea3cd2b193ab491fbf53.png",
+      "price": 195.24,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican McAloo Tikki Burger + Fries (R)",
+      "description": "A fusion of international taste combined with your favourite aloo tikki patty, layered with shredded onion, and delicious Chipotle sauce. Served with Regular Fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2f7/7274d82212a758e597550e8c246fb2f7.png",
+      "price": 115.24,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "McChicken Burger + Fries (R)",
+      "description": "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite. Served with regular Fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cbc/fee8ad670ba06e0f2b3f6fd8305adcbc.png",
+      "price": 175.24,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger + Veg Pizza McPuff",
+      "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted sesame buns. Served with Veg Pizza McPuff.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bec/8cb2f75ca6a51061c69280daf1b63bec.png",
+      "price": 170.48,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "6 Pc Chicken Nuggets + Fries (M) + Piri Piri Spice Mix",
+      "description": "The best Non veg sides combo curated for you! Get 6 pc Chicken McNuggets + Fries M. Top it up with Piri Piri mix.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3c4/8cba0938b4401e5c8cb2ccf3741b93c4.jpeg",
+      "price": 245.72,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chocolate Flavoured Shake+ Fries (M)",
+      "description": "Can't decide what to eat? We've got you covered. Get this snacking combo with Medium Fries and Chocolate Flavoured Shake.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/154/46781c13d587e5f951ac1bbb39e57154.png",
+      "price": 195.24,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Chicken Burger + Mexican Cheese Fries",
+      "description": "Tender and juicy chicken patty coated in spicy, crispy batter topped with a creamy sauce and crispy shredded lettuce will have you craving for more. Served with Mexican Cheese Fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/800/40259e78ad0e89966755805a7c1ad800.png",
+      "price": 272.38,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Chicken Burger + Fries (M) + Piri Piri Spice Mix",
+      "description": "Tender and juicy chicken patty coated in spicy, crispy batter topped with a creamy sauce and crispy shredded lettuce will have you craving for more. Served with the spicy piri piri mix and medium fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b8/e10982204687e18ee6541684365039b8.png",
+      "price": 272.38,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Paneer + Classic Cheese Fries",
+      "description": "Rich and filling cottage cheese patty coated in spicy, crispy batter topped with a creamy sauce and crispy shredded lettuce will have you craving for more. Served with Mexican Cheese Fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bd5/fcc2fb1635f8e14c69b57126014f0bd5.png",
+      "price": 258.1,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pizza McPuff + McSpicy Chicken Burger",
+      "description": "Tender and juicy chicken patty coated in spicy, crispy batter topped with a creamy sauce and crispy shredded lettuce will have you craving for more. Served with Veg Pizza McPuff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/491/fb4b9d4775505e82d05d6734ef3e2491.png",
+      "price": 238.1,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McAloo Tikki Burger + Veg Pizza McPuff + Piri Piri Spice Mix",
+      "description": "Get India's favourite burger - McAloo Tikki along with Veg Pizza McPuff and spice it up with a Piri Piri Mix",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8a6/46bcb1e486cbe6dcdb0487b063af58a6.png",
+      "price": 126.67,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger + Fries (M)",
+      "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted sesame buns. Served with Medium Fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/941/d14cc495747a172686ebe43e675bc941.png",
+      "price": 189.52,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican McAloo Tikki Burger + Fries (L)",
+      "description": "A fusion of international taste combined with your favourite aloo tikki patty, layered with shredded onion, and delicious Chipotle sauce. Served with Large Fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/71e/f4be6e877d2567a0b585d4b16e53871e.png",
+      "price": 173.33,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger + Fries (M) + Piri Piri Mix",
+      "description": "Flat 15% Off on McVeggie Burger + Fries (M) + Piri Piri Mix",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d51/0205cbd8b77f841e19e25ce727993d51.png",
+      "price": 231.43,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger + Fries (R)",
+      "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted sesame buns. Served with Regular fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8c2/52a347eab543d461b1a15b609779b8c2.png",
+      "price": 175.24,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger + Fries (L)",
+      "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted sesame buns. Served with Large fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6f8/f16eeec3e5d19f8627971620ed2da6f8.png",
+      "price": 221.9,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McChicken Burger + McSpicy Chicken Burger",
+      "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/41c/006d51070b0ab9c839a293b87412541c.png",
+      "price": 289.52,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger + McAloo Tikki Burger",
+      "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, makes our iconic McVeggie and combo with our top selling McAloo Tikki Burger.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/da7/1f4d583548597d41086df0c723560da7.png",
+      "price": 189.52,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McAloo Tikki Burger + Veg Pizza McPuff + Coke",
+      "description": "The ultimate veg combo made just for you. Get the top selling McAloo Tikki served with Veg Pizza McPuff and Coke.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/26d/9f0269a2d28f4918a3b07f63a487f26d.png",
+      "price": 160.96,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McChicken Burger + Veg Pizza McPuff",
+      "description": "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite. Served with Veg Pizza McPuff.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ded/9a66b8ef66d780b9f83a0fc7cd434ded.png",
+      "price": 170.48,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "2 McFlurry Oreo (S)",
+      "description": "Delicious soft serve meets crumbled oreo cookies, a match made in dessert heaven. Make it double with this combo!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fed/65f3574f53112e9d263dfa924b1f8fed.png",
+      "price": 155.24,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Iced Coffee",
+      "description": "Enjoy 2 Iced Coffee",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ba2/3d368f80f3952ae692f6775854cabba2.png",
+      "price": 237.14,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Coke",
+      "description": "The perfect companion to your burger, fries and everything nice. Double it up with this combo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2dd/2d7540e92ac04c0c0823e9f4f029e2dd.png",
+      "price": 162.86,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Fries (R)",
+      "description": "World Famous Fries, crispy, golden, lightly salted and fried to perfection! Double your happiness with this fries combo",
+      "media": "https://b.zmtcdn.com/data/dish_photos/476/4a170da5ecae92e11410a8fbb44c8476.png",
+      "price": 111.43,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Soft Serve Hot Fudge (M)",
+      "description": "A sinful delight, soft serve topped with delicious, gooey hot chocolate fudge. So good you won't be able to stop at one!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5d9/f1238db9da73d8ec7a999792f35865d9.png",
+      "price": 155.24,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Cappuccino",
+      "description": "2 Cappuccino (S)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/311/06eee6eecb6006443538d3c054f81311.png",
+      "price": 237.14,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Black Forest Mcflurry (M) BOGO",
+      "description": "Get 2 Black Forest McFlurry for the price of one!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/885/972a2b3aca8059ba25a04875ec091885.png",
+      "price": 115.24,
+      "menuName": "McSaver Combos (2 Pc Meals)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Surprise Burger + 4 Pc Chicken McNuggets + Coke",
+      "description": "Enjoy the newly launched Chicken Surprise Burger with 4 Pc Chicken McNuggets and Coke",
+      "media": "https://b.zmtcdn.com/data/dish_photos/969/ecb3e2a0b0cfc24c3a1e63ec4bfc7969.png",
+      "price": 237.15,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mexican McAloo Tikki Double Patty Burger Combo",
+      "description": "Enjoy the Mexican McAloo Tikki burger with double patty + Fries (M) + Coke (M)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1c2/6bfe589298fbd3dc6d5fcebf35cad1c2.png",
+      "price": 242.86,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McAloo Tikki Double Patty Burger Combo",
+      "description": "Enjoy a delicious combo of McAloo Tikki Double patty Burger + Fries (M) + Beverage of your choice in a new, delivery friendly, reusable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0e0/1bcd9724fca70871a0e1fdc298c1f0e0.png",
+      "price": 225.71,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican McAloo Tikki Burger Combo",
+      "description": "Enjoy a delicious combo of Mexican McAloo Tikki Burger + Fries (M) + Beverage of your choice in a new, delivery friendly, reusable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c20/0140c49c7274cdb6af08053af1e6cc20.png",
+      "price": 189.52,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McAloo Tikki Burger Combo",
+      "description": "Enjoy a delicious combo of McAloo Tikki Burger + Fries (M) + Beverage of your choice in a new, delivery friendly, reusable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ed9/b03a3ad7212fca0da40e90eed372ced9.png",
+      "price": 189.52,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Deluxe Chicken Double Patty Burger Combo",
+      "description": "McSpicy Deluxe Chicken double patty Burger + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8c0/6581baefa0ab6c6a7f4b99e67e1c38c0.png",
+      "price": 427.62,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Chicken Double Patty Burger combo",
+      "description": "Your favorite McSpicy Chicken double patty Burger + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b1/91ed96b67df6e630a6830fc2e857b5b1.png",
+      "price": 408.57,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McChicken Double Patty Burger Combo",
+      "description": "Your favorite McChicken Burger double pattu burger + Fries (M) + Drink of your choice in a new, delivery friendly, resuable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eac/e8a8f43ee29a3b97d2fac37e89648eac.png",
+      "price": 342.86,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McVeggie Double Patty Burger Combo",
+      "description": "Enjoy a combo of McVeggie double patty burer + Fries (M) + Drink of your Choice in a new, delivery friendly, resuable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69c/b13dfa207df1045eae030442555fb69c.png",
+      "price": 319.05,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Deluxe Paneer Burger Combo",
+      "description": "McSpicy Deluxe paneer Burger + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c1a/20039ad8692bfb25ba309e7de66cfc1a.png",
+      "price": 360.95,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Deluxe Chicken Burger Combo",
+      "description": "McSpicy Deluxe Chicken Burger + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7ee/a879a13055a4ab2d6470a9ea6e1297ee.png",
+      "price": 370.48,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McCheese Burger Chicken Combo",
+      "description": "Enjoy a deliciously filling meal of McCheese Chicken Burger + Fries (M) + Beverage of your Choice in a delivery friendly, reusable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/76f/80029c80c3c65afe61074dbfbdeec76f.png",
+      "price": 384.76,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McCheese Burger Veg Combo",
+      "description": "Enjoy a deliciously filling meal of McCheese Veg Burger + Fries (M) + Beverage of your Choice in a delivery friendly, reusable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/627/3b353f0bf53f344fe7ecd51e8aade627.png",
+      "price": 384.76,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn & cheese Burger Combo",
+      "description": "Enjoy a combo of Corn & Cheese Burger + Fries (M) + Coke . Order now to experience a customizable, delicious meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/12f/c3f577dfaf1ab7b61607b7a56fd4312f.png",
+      "price": 299.05,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grilled Cheese and Chicken Burger Combo",
+      "description": "Enjoy a combo of Grilled Chicken & Cheese Burger + Fries (M) + Coke . Order now to experience a customizable, delicious meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ad9/5887913220acbc60428754e7ce53fad9.png",
+      "price": 303.81,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger Combo",
+      "description": "Enjoy a combo of McVeggie + Fries (M) + Drink of your Choice in a new, delivery friendly, resuable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7f4/a35d06a5b87de3c3f6be263999a227f4.png",
+      "price": 279.05,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McChicken Burger Combo",
+      "description": "Your favorite McChicken Burger + Fries (M) + Drink of your choice in a new, delivery friendly, resuable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/491/a4aa073b5e22a14d7c54f654fb8fd491.png",
+      "price": 304.76,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Chicken Burger Combo",
+      "description": "Your favorite McSpicy Chicken Burger + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0be/0f40ec90b240c1d4e7b50e241c2560be.png",
+      "price": 351.43,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Paneer Burger Combo",
+      "description": "Enjoy your favourite McSpicy Paneer Burger + Fries (M) + Drink of your Choice . Order now to experience a customizable, delicious combo",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e65/6591d38201b81584b7bcc252ca877e65.png",
+      "price": 341.91,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Premium Burger Chicken Combo",
+      "description": "A deliciously filling meal of McSpicy Premium Chicken Burger + Fries (M) + Drink of your choice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/397/c08e415907f1da1dc8818f6ae0f3a397.png",
+      "price": 384.76,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Premium Burger Veg Combo",
+      "description": "A deliciously filling meal of McSpicy Premium Veg Burger + Fries (M) + Drink of your choice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/707/a05073a2dca17dd42e1d0284a21e5707.png",
+      "price": 384.76,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Maharaja Mac Burger Combo",
+      "description": "Enjoy a double decker Veg Maharaja Mac+ Fries (M) + Drink of your Choice . Order now to experience a customizable, delicious meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/066/6df2a8068339d17205606171715f6066.png",
+      "price": 384.76,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Maharaja Mac Burger Combo",
+      "description": "Enjoy a double decker Chicken Maharaja Mac + Fries (M) + Drink of your Choice . Order now to experience a customizable, delicious meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6ad/a5b917e1a660b67bd9616d4e0648c6ad.png",
+      "price": 384.76,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Big Spicy Paneer Wrap Combo",
+      "description": "Your favorite Big Spicy Paneer Wrap + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f20/320a432acda42a06d4f7dd7aaa202f20.png",
+      "price": 360.95,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Big Spicy Chicken Wrap Combo",
+      "description": "Your favorite Big Spicy Chicken Wrap + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/256/42fc3cac14eb256b61fd95b3e074f256.png",
+      "price": 370.48,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Masala McEgg Burger Combo",
+      "description": "Enjoy a combo of Masala McEgg + Fries (M) + Drink of your Choice . Order now to experience a customizable, delicious meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4d8/4f474c833930fa31d08ad2feed3414d8.png",
+      "price": 224.76,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "9 Pc Chicken Nuggets Combo",
+      "description": "Enjoy your favorite Chicken McNuggets + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e12/4c56f086e500afe6b2025f9c46846e12.png",
+      "price": 386.91,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken McNuggets 6 Pcs Combo",
+      "description": "Enjoy your favorite Chicken McNuggets + Fries (M) + Drink of your choice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4e9/6e7f9411ed67fe8d8873734af1e8d4e9.png",
+      "price": 346.67,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger Happy Meal",
+      "description": "Enjoy a combo of McVeggie Burger + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4a1/533133a7d9a174427fea7e4212ae14a1.png",
+      "price": 305.72,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McChicken Burger Happy Meal",
+      "description": "Enjoy a combo of McChicken Burger + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fbb/95373dcbbf19ee93fe461e7aa1113fbb.png",
+      "price": 326.67,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "4 Pc Chicken Nuggets Happy Meal",
+      "description": "Enjoy a combo of  4 Pc Chicken Nuggets + Sweet Corn+ B Natural Mixed Fruit Beverage + Book",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92b/1d704654e26ca50fdc92cbb8e642292b.png",
+      "price": 267.62,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McAloo Tikki Burger Happy Meal",
+      "description": "Enjoy a combo of McAloo Tikki Burger + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4d0/6461d21fac22a331f67c12ed23a434d0.png",
+      "price": 211.43,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McEgg Burger Happy Meal",
+      "description": "Enjoy a combo of McEgg Burger  + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69c/5bc21352897bae4b64006325f871a69c.png",
+      "price": 237.14,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "2 Pc Chicken Nuggets Happy Meal",
+      "description": "Enjoy a combo of  2 Pc Chicken Nuggets + Sweet Corn+ B Natural Mixed Fruit Beverage + Book",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7fa/4fb34ea445d7bc17ccb22e8675e307fa.png",
+      "price": 220,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Birthday Party Package - McVeggie",
+      "description": "5 McVeggie Burger + 5 Sweet Corn + 5 B Natural Mixed Fruit Beverage + 5 Soft Serve (M) + Book",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3d5/567411605ac9c72680aa742e17fb83d5.png",
+      "price": 2197.15,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Birthday Party Package - McChicken",
+      "description": "5 McChicken Burger + 5 Sweet Corn + 5 B Natural Mixed Fruit Beverage + 5 Soft Serve (M) + Book",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1da/31da1776bf9e74beea809aadc61cf1da.png",
+      "price": 2197.15,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jain Meal - McCheese Burger Veg Combo",
+      "description": "Enjoy a combo of the Jain friendly, McCheese Burger Veg, Classic corn, Cheese Dip, McFlurry Oreo (Small) with a beverage of your choice in a delivery friendly, resuable bottle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd3/49e13df87ab3602afa703792ee63fcd3.png",
+      "price": 416.79,
+      "menuName": "Burger Combos ( 3 Pc Meals )",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Surprise Burger-",
+      "description": "Introducing the new Chicken Surprise Burger which has the perfect balance of a crispy fried chicken patty, the crunch of onions and the richness of creamy sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9c/f313cdbde3a194022ddc09258ef94b9c.png",
+      "price": 75.24,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Flavours of India McAloo Tikki Burger-",
+      "description": "Introducing your favourite McAloo Tikki Burger with the new Flavours of India sauce, made with chillies sourced from across different parts of India.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd7/5f21268a23ccf66295dbcec8038d2cd7.png",
+      "price": 74.39,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican McAloo Tikki Double Patty Burger",
+      "description": "A fusion of International taste combined with your favourite aloo tikki now with two patties",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6de/cda0e2d51420a95fad28ad728914b6de.png",
+      "price": 93.33,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Deluxe Chicken Double Patty Burger",
+      "description": "Indulge in a burger made with two spicy and crispy Chicken Patty, Chipotle Sauce, Tomatos, Lettuce & Jalapenos.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/347/8540bab49c99e3b9f0d625c7b17a1347.png",
+      "price": 290.48,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Chicken Double Patty Burger",
+      "description": "Indulge in our signature tender double chicken patty, coated in spicy, crispy batter, topped with creamy sauce, and crispy lettuce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/913/314b5b5786f73746de4880602723a913.png",
+      "price": 271.43,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McChicken Double Patty Burger",
+      "description": "Enjoy the classic, tender double chicken patty with creamy mayonnaise and lettuce in every bite",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b00/af88f46a82ef5e6a0feece86c349bb00.png",
+      "price": 172.38,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McVeggie Double Patty Burger",
+      "description": "Savour your favorite spiced double veggie patty, lettuce, mayo, between toasted sesame buns in every bite",
+      "media": "https://b.zmtcdn.com/data/dish_photos/85a/2d5062832f4d36c90e7dfe61ef48e85a.png",
+      "price": 187.62,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "McAloo Tikki Double Patty Burger",
+      "description": "The World's favourite Indian burger! A crispy double Aloo patty, tomato mayo sauce & onions",
+      "media": "https://b.zmtcdn.com/data/dish_photos/229/ef569f74786e6344883a1decdd193229.png",
+      "price": 88.57,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Deluxe Paneer Burger",
+      "description": "Indulge in a burger made with a spicy and crispy Paneer Patty, Chipotle Sauce, Tomatos, Lettuce & Cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9a8/66cfda78c471eb37341b47b9a3c829a8.png",
+      "price": 233.34,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Deluxe Chicken Burger",
+      "description": "Indulge in a burger made with a spicy and crispy Chicken Patty, Chipotle Sauce, Tomatos, Lettuce & Jalapenos.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3c4/fde71875e1358201924b8fb8e6bc93c4.png",
+      "price": 233.34,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McCheese Burger Chicken",
+      "description": "Double the indulgence with a sinfully oozing cheesy patty & flame-grilled chicken patty, along with chipotle sauce, shredded onion, jalapenos & lettuce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d29/882f2d4dbff1b6c0bc7d924498325d29.png",
+      "price": 280.95,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Grilled Chicken & Cheese Burger",
+      "description": "A grilled chicken patty, topped with sliced cheese, spicy Habanero sauce, with some heat from jalapenos & crunch from onions",
+      "media": "https://b.zmtcdn.com/data/dish_photos/073/272b1df4554fb89bd6b23c1072259073.png",
+      "price": 163.81,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Corn & Cheese Burger",
+      "description": "A juicy corn and cheese patty, topped with extra cheese, Cocktail sauce, with some heat from jalapenos & crunch from onions",
+      "media": "https://b.zmtcdn.com/data/dish_photos/146/6dfd1390e76ebf6a66ff5f4861d46146.png",
+      "price": 151.84,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Premium Chicken Burger",
+      "description": "A wholesome Spicy Chicken patty, Lettuce topped with Jalapenos and Cheese slice, Spicy Cocktail sauce & Cheese sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7c4/2f426ba523a99abbdf4f42b95f1ea7c4.png",
+      "price": 260,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Premium Veg Burger",
+      "description": "A wholesome Spicy Paneer patty, Lettuce topped with Jalapenos and Cheese slice, Spicy Cocktail sauce & Cheese sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc6/c04a96d75b0554e31e7e1a64a54a9cc6.png",
+      "price": 248.57,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "McAloo Tikki Burger",
+      "description": "The World's favourite Indian burger! A crispy Aloo patty, tomato mayo sauce & onions",
+      "media": "https://b.zmtcdn.com/data/dish_photos/87f/b13811eeee71e578bc6ca89eca0ec87f.png",
+      "price": 69.52,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McChicken Burger",
+      "description": "Enjoy the classic, tender chicken patty with creamy mayonnaise and lettuce in every bite",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e5/506eeb1990223cafcf3598bac632c8e5.png",
+      "price": 141.65,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McVeggie Burger",
+      "description": "Savour your favorite spiced veggie patty, lettuce, mayo, between toasted sesame buns in every bite",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ff/e01c65e4618de13151057bb7a56ba1ff.png",
+      "price": 149.14,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Maharaja Mac Burger",
+      "description": "Savor our filling 11 layer burger! Double the indulgence with 2 juicy grilled chicken patties, along with jalapeños, onion, cheese, tomatoes, lettuce, and zesty Habanero sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/adf/96071cdd17b87736578eece52366fadf.png",
+      "price": 258.1,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Maharaja Mac Burger",
+      "description": "Savor our filling 11 layer burger! Double the indulgence with 2 corn & cheese patties, along with jalapeños, onion, cheese, tomatoes, lettuce, and spicy Cocktail sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/392/8972dbfdd5f3f192dce3e06d1ad56392.png",
+      "price": 224.19,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican McAloo Tikki Burger",
+      "description": "Your favourite McAloo Tikki with a fusion spin with a Chipotle sauce & onions",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b4/167aeccf27bab14940fa646c8328b1b4.png",
+      "price": 74.29,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala McEgg Burger",
+      "description": "A steamed egg, spicy Habanero sauce, & onions on toasted buns, a protein packed delight!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/611/265c57f68b1a52f1cc4b63acf082d611.png",
+      "price": 68.57,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "McSpicy Paneer Burger",
+      "description": "Indulge in rich & filling spicy paneer patty served with creamy sauce, and crispy lettuce—irresistibly satisfying!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ae/e48b3e3982e57e85968fadec054fb4ae.png",
+      "price": 214.71,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "McSpicy Chicken Burger",
+      "description": "Indulge in our signature tender chicken patty, coated in spicy, crispy batter, topped with creamy sauce, and crispy lettuce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/90f/048312842ce70109867884cc67e7690f.png",
+      "price": 214.71,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Big Spicy Chicken Wrap",
+      "description": "Savour a delicious wrap made with a spicy, crispy chicken patty, roasted chipotle sauce, lettuce, onions, & cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/48a/018fdd484b49b1d8ca330032f8d1a48a.png",
+      "price": 248.57,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Big Spicy Paneer Wrap",
+      "description": "Experience indulgence in every bite with a wrap made of crispy, spicy paneer patty, roasted chipotle sauce, lettuce, onions,   & cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cb2/4b6f879c1d564f67e0451d8ad5bebcb2.png",
+      "price": 229.52,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "McCheese Burger Veg",
+      "description": "Find pure indulgence in our Veg McCheese Burger, featuring a sinfully oozing cheesy veg patty, roasted chipotle sauce, jalapenos & lettuce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/66b/c3c7b1e6ec2b67c68923b1641985966b.png",
+      "price": 261.9,
+      "menuName": "Burgers & Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fries (M) + Piri Piri Mix",
+      "description": "Flat 15% Off on Fries (M) + Piri Piri Mix",
+      "media": "https://b.zmtcdn.com/data/dish_photos/068/ef05d3fa1f035015db4f690c17190068.png",
+      "price": 120,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "20 Pc Chicken Nuggets",
+      "description": "20 pieces of our iconic crispy, golden fried Chicken McNuggets!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9b/1ca7abb262e8880f5cb545d0d2f9bb9b.png",
+      "price": 421.92,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "9 Pc Chicken Nuggets",
+      "description": "9 pieces of our iconic crispy, golden fried Chicken McNuggets!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9b/1ca7abb262e8880f5cb545d0d2f9bb9b.png",
+      "price": 213.34,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "6 Pc Chicken Nuggets",
+      "description": "6 pieces of our iconic crispy, golden fried Chicken McNuggets!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8bd/44dc10c1099d7c366db9f5ce776878bd.png",
+      "price": 180,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Salsa Cheese Fries",
+      "description": "The world famous, crispy, golden Fries, served with rich cheese sauce and a tangy twist of salsa",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8a0/319bffa6b4a2045961e09585cd5988a0.png",
+      "price": 135.24,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fries (Large)",
+      "description": "World Famous Fries, crispy, golden, lightly salted and fried to perfection! Also known as happiness.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fb4/a4b3002d0ea35bde5e5983f40e4ebfb4.png",
+      "price": 139.05,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fries (Medium)",
+      "description": "World Famous Fries, crispy, golden, lightly salted and fried to perfection! Also known as happiness.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bb8/8a61e7fd97c454ea14d0750859fcebb8.png",
+      "price": 119.05,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fries (Regular)",
+      "description": "World Famous Fries, crispy, golden, lightly salted and fried to perfection! Also known as happiness.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5d9/5a18fbbff67076c9a4457a6b220a55d9.png",
+      "price": 78.1,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Cheese Fries",
+      "description": "The world famous, crispy golden Fries, served with delicious cheese sauce with a hint of spice. Contains cheese & mayonnaise",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d29/f13f7c1db7b7fda89c86e84e98dc1d29.png",
+      "price": 155.24,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4 Pcs Chicken Nuggets",
+      "description": "4 pieces of our iconic crispy, golden fried Chicken McNuggets!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8bd/44dc10c1099d7c366db9f5ce776878bd.png",
+      "price": 109.52,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Pizza McPuff",
+      "description": "Crispy brown crust with a generous filling of rich tomato sauce, mixed with carrots, bell peppers, beans, onions and mozzarella. Served HOT.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3e8/abe4b8cdf0f1bbfd1b9a7a05be3413e8.png",
+      "price": 60.95,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Corn Cup",
+      "description": "A delicious side of golden sweet kernels of corn in a cup",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dce/9d67eae020425c4413acaf5af2a29dce.png",
+      "price": 89.52,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mustard Sauce",
+      "description": "Looking for a sauce to complement your meal? Look no further.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c43/6c3aeffdbd544ea3ceae1e4b8ce3fc43.png",
+      "price": 19.05,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Barbeque Sauce",
+      "description": "Looking for a sauce to complement your meal? Look no further.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f54/ba0a188d45aecc3d4d187f340ea9df54.png",
+      "price": 19.05,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Sauce Sachet",
+      "description": "Looking for a sauce to complement your meal? Look no further.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1c9/f708dfc29c9624d8aef6e6ec30bde1c9.png",
+      "price": 1.9,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Piri Piri Spice Mix",
+      "description": "The perfect, taste bud tingling partner for our World Famous Fries. Shake Shake, and dive in!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/62a/df3edfc74f610edff535324cc53a362a.png",
+      "price": 23.81,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Ketchup Sachet",
+      "description": "Looking for a sauce to complement your meal? Look no further.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2bc/7db5533db29a4e9d2cc033f35c5572bc.png",
+      "price": 0.95,
+      "menuName": "Fries & Sides",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino Small with Cinammon Spice-",
+      "description": "A warm and aromatic coffee beverage that combines the bold flavor of espresso with the comforting spice of cinnamon",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e21/bfc141ea4ccfc2726ead1525e36d1e21.png",
+      "price": 183.81,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Fizz",
+      "description": "Enjoy Sprite with a twist of strawberry flavour. Refreshing and perfectly sweet! Contains no fruit. Contains added flavour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/71c/6ae2eb16f1422ceb0b1dea5f8d12271c.png",
+      "price": 102.86,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lotus Biscoff Frappe",
+      "description": "A tall glass of creamy indulgence with the unique taste and texture of Lotus Biscoff",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea8/191057619f827740cd3b46b75d510ea8.png",
+      "price": 291.43,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Apple Lemon Fizz",
+      "description": "Try Sprite with green apple and lemon flavour. It’s zesty, and refreshingly bold! Contains no fruit. Contains added flavour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/094/0f4cbb3734a0cde30fd891dd6d260094.png",
+      "price": 102.86,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Coffee Regular with Hazelnut-",
+      "description": "Refreshing and delicious beverage that combines the rich, nutty taste of hazelnut with the cool, invigorating essence of cold coffee",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6e9/28d903262c44a8c0b9ac49f196dde6e9.png",
+      "price": 235.24,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino Coffee (S)",
+      "description": "A refreshing espresso shot of 100% Arabica beans, topped with steamed milk froth. 236ml",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2f9/9011dc0eacb751ef41c68b3590c502f9.png",
+      "price": 164.76,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino Coffee (R)",
+      "description": "A refreshing espresso shot of 100% Arabica beans, topped with steamed milk froth. 473ml",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2f9/9011dc0eacb751ef41c68b3590c502f9.png",
+      "price": 200,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Chocolate (S)",
+      "description": "Sinfully creamy chocolate whisked with silky streamed milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2d8/6682654a562004833281bb36c4c1e2d8.png",
+      "price": 183.81,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Chocolate (R)",
+      "description": "Sinfully creamy chocolate whisked with silky streamed milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2d8/6682654a562004833281bb36c4c1e2d8.png",
+      "price": 216.19,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Latte Coffee (S)",
+      "description": "A classic combination of the signature McCafe espresso, smooth milk, steamed and froth",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e8c/cee1ec0e10e25018572adcaf3a3c9e8c.png",
+      "price": 169.52,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Latte Coffee (R)",
+      "description": "A classic combination of the signature McCafe espresso, smooth milk, steamed and frothed",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e8c/cee1ec0e10e25018572adcaf3a3c9e8c.png",
+      "price": 200,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mocha Coffee (S)",
+      "description": "A delight of ground Arabica espresso, chocolate syrup and steamed milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/743/71df07eb87d96824e2122f3412c8f743.jpeg",
+      "price": 210.48,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mocha Coffee (R)",
+      "description": "A delight of ground Arabica espresso, chocolate syrup and steamed milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/702/04a137420bf3febf861c4beed86d5702.png",
+      "price": 236.19,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Berry Lemonade Regular",
+      "description": "A refreshing drink, made with the delicious flavors of berries. 354 ml.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a4b/b9fed4f2bc0a315ab91b49015ca06a4b.png",
+      "price": 132.38,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Flavoured Shake",
+      "description": "The classic sinful Chocolate Flavoured Shake, a treat for anytime you need one. Now in new, convenient and delivery friendly packaging",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5dd/fea4c203a8516cfdcc5cf05649bed5dd.png",
+      "price": 175.24,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Shake",
+      "description": "An all time favourite treat bringing together the perfect blend of creamy vanilla soft serve and strawberry flavor.Now in new, convenient and delivery friendly packaging",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c71/59706370e21534bee6c6bb32d015ec71.png",
+      "price": 175.24,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Mud Pie Shake",
+      "description": "Creamy and rich with chocolate and blended with nutty brownie bits for that extra thick goodness",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7e5/17850ea3dcde91bc809748441c7477e5.png",
+      "price": 195.24,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Smoothie",
+      "description": "A delicious mix of mangoes, soft serve mix and blended ice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a7c/75f5656a421158d3238bd2ed29245a7c.png",
+      "price": 210.48,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Berry Smoothie",
+      "description": "A mix of mixed berries, blended together with our creamy soft serve",
+      "media": "https://b.zmtcdn.com/data/dish_photos/427/c8dedc0a39d2d122ca070110bf99a427.png",
+      "price": 210.48,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mocha Frappe",
+      "description": "The perfect mix of indulgence and bold flavours. Enjoy a delicious blend of coffee, chocolate sauce, and soft serve",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5ee/063e9cd747c621978ab4fddbb6d0a5ee.png",
+      "price": 278.1,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McCafe-Ice Coffee",
+      "description": "Classic coffee poured over ice with soft servefor a refreshing pick-me-up",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0b0/06cb5429b883a108cc5be508fb2780b0.png",
+      "price": 200,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ice Americano Coffee",
+      "description": "Signature Arabica espresso shot mixed with ice for an energizing experience",
+      "media": "https://b.zmtcdn.com/data/dish_photos/44f/7d89db9d67c537d666d838ddc1e0c44f.png",
+      "price": 180,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Frappe",
+      "description": "An induglent treat of chocolate sauce & Oreo cookies blended with soft serve, ice & topped with whipped cream",
+      "media": "https://b.zmtcdn.com/data/dish_photos/120/58e19527263a4bf3bbbac4befb924120.png",
+      "price": 278.1,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Americano Coffee (S)",
+      "description": "Refreshing cup of bold and robust espresso made with our signature 100% Arabica beans, combined with hot water",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ca2/3ff8b589f165d263355a9e3051346ca2.png",
+      "price": 169.52,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McCafe-Classic Coffee",
+      "description": "An irrestible blend of our signature espresso and soft serve with whipped cream on top, a timeless combination! Now in a new, convenient and delivery friendly packaging.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f2d/5f9bdb36689a11cadb601a27b6fdef2d.png",
+      "price": 215.24,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Americano Coffee (R)",
+      "description": "Refreshing cup of bold and robust espresso made with our signature 100% Arabica beans, combined with hot water",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ca2/3ff8b589f165d263355a9e3051346ca2.png",
+      "price": 190.48,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Moroccan Mint Green Tea (R )",
+      "description": "Freshly-brewed refreshing tea with hint of Moroccon Mint flavour",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b2e/2699c7c2130b4f50a09af3e294966b2e.jpeg",
+      "price": 190.48,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "English Breakfast Tea",
+      "description": "For when you want your time to enjoy long, slow sips of the wholesome English Breakfast tea",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b16/6333ac2ebe823a20cad586c0cd397b16.jpeg",
+      "price": 159.05,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flat White Coffee",
+      "description": "Our signature McCafe espresso made with 100% Arabica beans, blended with steamed milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c8a/562cb96c1de1c6f650daab676cf8dc8a.png",
+      "price": 173.33,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Green Tea (S)",
+      "description": "Freshly-brewed refreshing tea with fruity Strawbery flavour",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e5d/167dc0134bc1f4e8d7cb8e5c2a9dde5d.png",
+      "price": 153.33,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Shot",
+      "description": "Enjoy an  Espresso Shot",
+      "media": "https://b.zmtcdn.com/data/dish_photos/759/f0dddc82fd2b15f43c79f2a22f48a759.png",
+      "price": 115.24,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coke",
+      "description": "The perfect companion to your burger, fries and everything nice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1da/a1afed29afd8a2433b25cc47b83d01da.png",
+      "price": 102.86,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "coke",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "coke",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fanta",
+      "description": "Add a zest of refreshing orange to your meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f28/7d662c96bc13c4ac33cea70c691f7f28.png",
+      "price": 102.86,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "fanta",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "fanta",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sprite",
+      "description": "The perfect companion to your burger, fries and everything nice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6aa/46e03daf797857bfbce9f9fbb539a6aa.png",
+      "price": 102.86,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "sprite",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "sprite",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coke zero can",
+      "description": "The perfect diet companion to your burger, fries and everything nice. Regular serving size, 300 Ml.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/190/8d6a37c4fc69bceb66b6a66690097190.png",
+      "price": 66.67,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "coke",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "coke",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Fruit Beverage",
+      "description": "Made with puree, pulp & juice from 6 delicious fruits",
+      "media": "https://b.zmtcdn.com/data/dish_photos/933/8e455d39bbbd8e4107b2099da51f3933.png",
+      "price": 75.24,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vedica Zen Water Bottle",
+      "description": "Quench your thirst with the Vedica Zen Water Bottle",
+      "media": "https://b.zmtcdn.com/data/dish_photos/759/6da8fa6b64c806e89058c87c0a85e759.png",
+      "price": 47.62,
+      "menuName": "Coffee & Beverages (Hot and Cold)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Treat Combo",
+      "description": "Delight in the luxurious pairing of a  chocolate jar dessert with a classic cappuccino, combining rich, creamy indulgence with the bold, aromatic flavors of espresso.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8a8/9169c775dbe5c492a05e05d119e238a8.png",
+      "price": 170.48,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Refresh Combo",
+      "description": "Indulge in the perfect pairing of a brownie with a refreshing iced coffee, combining rich, chocolatey goodness with the cool, invigorating flavors of coffee.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/289/25fda65ce021e6faac8b3862367c5289.png",
+      "price": 170.48,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Take a break Combo",
+      "description": "Savor the harmonious pairing of a classic cappuccino with a cinnamon cookie, combining the bold, creamy flavors of coffee with the warm, spiced sweetness of a baked treat",
+      "media": "https://b.zmtcdn.com/data/dish_photos/15c/45ef81e95e85c3e9f4e3845681ef415c.png",
+      "price": 170.48,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indulge Combo",
+      "description": "Indulge in the perfect pairing of a classic cold coffee and a chocolate chip muffin, that balances the refreshing taste of chilled coffee with the sweet, comforting flavors of a freshly baked treat.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b6a/de27ea607d6b34e5677d4f00174deb6a.png",
+      "price": 170.48,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Coffee Combo",
+      "description": "In this combo choose any 1 hot coffee among- Cappuccino(s)/Latte(s)/Mocha(s)/Americano(s) and any 1 snacking item among- Choco crunch cookies/Oats Cookies/Choco Brownie/Blueberry muffin/ Signature croissant",
+      "media": "https://b.zmtcdn.com/data/dish_photos/020/9aba6528e9c4f780dda18b5068349020.png",
+      "price": 170.48,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coffee Combo",
+      "description": "In this combo choose any 1 coffee among- Cold Coffee ( R )/Iced Coffee ( R )/Iced Americano ( R ) and any 1 snacking item among- Choco crunch cookies/Oats Cookies/Choco Brownie/Blueberry muffin",
+      "media": "https://b.zmtcdn.com/data/dish_photos/372/cb24719daf96b58dd1be3bbf7b9fe372.png",
+      "price": 170.48,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cinnamon Raisin Cookie",
+      "description": "Enjoy the wholesome flavours of this chewy and satisfying cookie",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e94/fa5526832dfc6e236e6de7c322beae94.png",
+      "price": 94.29,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Chocolate Muffin",
+      "description": "Sweet, soft, and fluffy vanilla flavoured chocolate chip muffins are perfect accompaniment with hot coffee!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b83/56ecb9e43f657ee8f239cc22f7831b83.png",
+      "price": 128.57,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chocochip Muffin",
+      "description": "Enjoy a dense chocochip muffin, with melty chocolate chips for a choco-lover's delight",
+      "media": "https://b.zmtcdn.com/data/dish_photos/430/6c748c0b21f4a99593d1040021500430.png",
+      "price": 141.9,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Crunch Cookie",
+      "description": "Grab the choco crunch cookies packed with chocolate chips for the perfect crunch",
+      "media": "https://b.zmtcdn.com/data/dish_photos/09f/32ff88484a8607b6d740c1635b9ce09f.png",
+      "price": 94.29,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Brownie",
+      "description": "Delicious soft chocolate brownie, with the right balance of sweetness",
+      "media": "https://b.zmtcdn.com/data/dish_photos/827/c944d681ac7715e178c78e1300f66827.png",
+      "price": 94.29,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indulge Choco Jar Dessert",
+      "description": "Rich chocolate for pure indulgence to satify your sweet tooth.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e5f/c7165efd872543e1648c21c930dafe5f.png",
+      "price": 75.24,
+      "menuName": "Cakes Brownies and Cookies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango McFlurry with Lotus Biscoff Medium",
+      "description": "Level up your Lotus Biscoff McFlurry with a Mango flavoured twist!\r\nDoes not contain fruit. Contains natural colour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f09/12f8af8160a1c5243ade92f2bb4c1f09.png",
+      "price": 155.24,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango McFlurry with Lotus Biscoff Small",
+      "description": "Level up your Lotus Biscoff McFlurry with a Mango flavoured twist!\r\nDoes not contain fruit. Contains natural colour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a9e/aa245223b6930950fb82d8c90fff5a9e.png",
+      "price": 120,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango McFlurry with Oreo Medium",
+      "description": "Level up your Oreo McFlurry with a Mango flavoured twist!\r\nDoes not contain fruit. Contains natural colour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9da/3fe0f34ee44de3edaf258a9140a789da.png",
+      "price": 140,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango McFlurry with Oreo Small",
+      "description": "Level up your Oreo McFlurry with a Mango flavoured twist!\r\nDoes not contain fruit. Contains natural colour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9da/3fe0f34ee44de3edaf258a9140a789da.png",
+      "price": 110.48,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Sundae Medium",
+      "description": "Enjoy the refreshing combination of Mango Flavoured Soft Serve, for a creamy and indulgent dessert. Does not contain fruit. Contains natural colour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/65c/6d1eed623586af27a7e204201578665c.png",
+      "price": 79.05,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lotus Biscoff Regular McFlurry",
+      "description": "Try the trending indulgent Lotus Biscoff for a unique sweet end to your meal. Hurry before it's gone!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cf1/7b954f80af93e64482bcfb345479acf1.png",
+      "price": 103.81,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lotus Biscoff Medium McFlurry",
+      "description": "Try the trending indulgent Lotus Biscoff for a unique sweet end to your meal. Hurry before it's gone!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e6d/f77a08c689a7bee91519db3fcc97ae6d.png",
+      "price": 133.33,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Soft Serve Hot Fudge (M)",
+      "description": "A sinful delight, soft serve topped with delicious, gooey hot chocolate fudge. Always grab an extra spoon.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/34a/9c8958145495e8f2cf70470195f7834a.png",
+      "price": 64.76,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Black Forest McFlurry Medium",
+      "description": "A sweet treat to suit your every mood",
+      "media": "https://b.zmtcdn.com/data/dish_photos/561/f513cc8c35cadd098835fb5b23c03561.png",
+      "price": 115.24,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "McFlurry Oreo ( M )",
+      "description": "Delicious soft serve meets crumbled oreo cookies, a match made in dessert heaven. Share it, if you can.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4e4/f966500ed8b913a16cfdb25aab9244e4.png",
+      "price": 128.57,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Soft Serve Strawberry (M)",
+      "description": "The cool vanilla soft serve ice cream with twirls of strawberry syrup.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/06e/d7bd22aa47cffdcdde2d5b6223fde06e.png",
+      "price": 64.76,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brownie Hot Fudge (M)",
+      "description": "Luscious chocolate brownie and hot-chocolate fudge to sweeten your day",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e74/6e00a57c6d8ceff6812a765c80e9ce74.png",
+      "price": 138.1,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oreo Sundae ( M )",
+      "description": "Enjoy the classic McFlurry Oreo goodness with a drizzle of hot fudge sauce with the Oreo Sundae!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7ab/3696da86802f534ba9ca68bd8be717ab.png",
+      "price": 71.43,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mcflurry Oreo ( S )",
+      "description": "Delicious soft serve meets crumbled oreo cookies, a match made in dessert heaven. Perfect for one.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/38d/a28369e386195be4071d9cf5078a438d.png",
+      "price": 94.29,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

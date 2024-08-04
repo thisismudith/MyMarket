@@ -1,0 +1,2410 @@
+{
+  "basicInfo": {
+    "name": "Wok On Fire",
+    "cuisine_string": "Chinese, Asian, Momos, Desserts, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/wok-on-fire-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.0",
+      "reviewCount": "823",
+      "reviewTextSmall": "823 Reviews",
+      "subtext": "823 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.9",
+      "reviewCount": "4,400",
+      "reviewTextSmall": "4,400 Reviews",
+      "subtext": "4,400 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.9",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1865900747",
+    "longitude": "72.7939999849",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1865900747,72.7939999849&maptype=zomato&markers=21.1865900747,72.7939999849,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "G 6, Riddhi Shoppers, Pal Adajan Road, Opposite Star Bazaar, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917874922522, +919512922522"
+    },
+    "res_chain_text": "See all 3 Wok On Fire outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/wok-on-fire",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Full Hot 'N' Sour Soup",
+      "description": "Sour & Spicy - A Thick Spicy & Sour Soup Made From Juliennes Of Vegetables & Tofu With A Touch Of Soya.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a42/eb0d0c8b7e51d0b4cf088d05a357ea42.jpeg",
+      "price": 255,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Full Burnt Garlic Soup",
+      "description": "Medium Spicy - A Thick Soup Made From Diced Exotic Vegetables & Mushroom With Hint Of Burnt Garlic Flavour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3db/47f7f6af359cb91d09737640492993db.jpeg",
+      "price": 255,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Full Manchow Soup",
+      "description": "Medium Spicy - A Thick Soup Made From Finely Cut Vegetables, Tomatoes & Ginger Garlic With A Touch Of Soya.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c3c/d9a0a15d069849d4bbd8c6b9d9a10c3c.jpeg",
+      "price": 255,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Full Sweet Corn Soup",
+      "description": "Sweet - A Thick Soup Made From Cream Of Corn & Served With Finely Chopped Vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/29b/afdd150ab80873c3be02e9754045f29b.jpeg",
+      "price": 255,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Full Crispy Wonton Soup",
+      "description": "Medium Spicy - A Soup Made From Diced Exotic Vegetables, Mushroom & Tofu Topped With Fried Wonton.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e28/305b13605d69e300123a501915d91e28.jpeg",
+      "price": 255,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Full Burmy Soup",
+      "description": "Medium Spicy - A Coconut Milk Based Thick Soup Made With Vermicelli Noodles, Exotic Vegetables And Topped With Chili Flakes.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea0/69dbddb6d073ebcaa81808a093d92ea0.jpeg",
+      "price": 255,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Full Wok On Fire Soup",
+      "description": "Medium Spicy - A Flavor Some Soup Made Of Julienne Vegetables, Tofu And Flavored With Signature Spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b0b/09271fbce1ae5b2da898b07f7b311b0b.jpeg",
+      "price": 255,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Full Lemon Pepper Coriander Soup",
+      "description": "Sour & Medium Spicy - Soup Made From Minced Coriander,Black Pepper, Ginger And Lime Juice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/af1/d288ba0fa81a18ec0e4caad913026af1.jpeg",
+      "price": 255,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Full Tom Yum Soup",
+      "description": "Sour & Spicy - A Spicy Clear Soup With Tom Yum Paste And Chili Oil Topped With Diced Exotic Vegetables & Mushroom.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/921/522ad0f1f304045f3936eaa7bc52b921.jpeg",
+      "price": 255,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Cigar Roll",
+      "description": "Non Spicy - Deep Fried Rolls Stuffed With Cottage Cheese,Processed Cheese & Bell Pepper Served With Chilli Plum & Mayo Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d21/4fda3f13dba5cd40d6c8f8b622277d21.jpeg",
+      "price": 410,
+      "menuName": "Roll",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spring Roll - Classic",
+      "description": "Non Spicy - Deep Fried Rolls Stuffed With Mix Vegetables & Seasoning Served With Hot Garlic Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6bb/80b0d39506acf2c4ffe0fd0ac39396bb.jpeg",
+      "price": 370,
+      "menuName": "Roll",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Chilli Cheese Roll",
+      "description": "Spicy - Deep Fried Rolls Stuffed American Corn, Processed Cheese & Spring Onion Served With Chilli Plum Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9a2/c2bb8fe69dba002eb8a9e705226bf9a2.jpeg",
+      "price": 410,
+      "menuName": "Roll",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wok On Fire Roll",
+      "description": "Non Spicy - Mix Veg Crispy Roll With Signature Seasoning Served With Hot Garlic Dip.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/014/50d4fce356c64f28c1f61a06f76e1014.jpeg",
+      "price": 410,
+      "menuName": "Roll",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Mango Spring Roll",
+      "description": "Crisp Fried Rolls With Spicy Raw Mango Stuffing Served With Chilli Mayo Dip",
+      "media": null,
+      "price": 340,
+      "menuName": "Roll",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Open Bao",
+      "description": "Spicy - Schezwan Paneer & Iceberg Lettuce With Wasabi Mayo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/38e/3d3e7e180bbc1397fa95486f678d138e.jpeg",
+      "price": 370,
+      "menuName": "Open Bao - 2 Pcs",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Open Bao",
+      "description": "Medium Spicy - Paneer Chilli, Ice-Burg Lettuce And Pickled Vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/daf/0c238798da1c6758a29f4119df1a5daf.jpeg",
+      "price": 370,
+      "menuName": "Open Bao - 2 Pcs",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tempura Open Bao",
+      "description": "Non Spicy - Deep Fried Crispy Veg In Steamed Bao Drizzle With Sriracha Mayo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/284/81be5ffc6f71818862c3a247fcec1284.jpeg",
+      "price": 370,
+      "menuName": "Open Bao - 2 Pcs",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Retro Lollipop",
+      "description": "Medium Spicy - Combination Of Mash Potato & Cheese With Schezwan Flavour & Crispy Fried",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edf/510db41ac9ea8304de8f2b05c4a34edf.jpeg",
+      "price": 485,
+      "menuName": "Lollipop - 6 Pcs",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lollipop",
+      "description": "Spicy - Cripsy paneer Lollipop In Schezwan Sauce Coating.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edf/510db41ac9ea8304de8f2b05c4a34edf.jpeg",
+      "price": 485,
+      "menuName": "Lollipop - 6 Pcs",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wok On Fire Lollipop",
+      "description": "Non Spicy - Mix Veg. Cheese & Soy Base With Chinese Marination Dipped In Hot Garlic Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edf/510db41ac9ea8304de8f2b05c4a34edf.jpeg",
+      "price": 485,
+      "menuName": "Lollipop - 6 Pcs",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Salad",
+      "description": "Crispy Wonton, Bell Pepper Marinated With Chilli Dressing",
+      "media": "https://b.zmtcdn.com/data/dish_photos/02e/84ed4ebb42b6efe66167aaf34b8c602e.png",
+      "price": 360,
+      "menuName": "Salad",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thai Paneer & Leafy Salad",
+      "description": "Paneer & Mix Lettuce In Thai Style Spicy Tnagy Dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a3/e1277df6007299c641e98d97d08f25a3.jpeg",
+      "price": 405,
+      "menuName": "Salad",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gado Gado Salad",
+      "description": "Classic Mix Veg Indonesian Salad In Peanut Base Dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/327/d722d351dcbe943cca6fdf20498fc327.jpeg",
+      "price": 360,
+      "menuName": "Salad",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Som Tam Salad",
+      "description": "Spicy - Classic Thai Raw Papaya Salad In Sweet Spicy Tangy Dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/db1/ed4b5c4fdedce3c5b026733ad3430db1.jpeg",
+      "price": 360,
+      "menuName": "Salad",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tangy Mango Salad",
+      "description": "Fresh Riped Mango With Tomatoes , Lettuce Served With Hot & Sour Dressing",
+      "media": null,
+      "price": 270,
+      "menuName": "Salad",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetables With Cheese Steam Momo - 3 Pcs",
+      "description": "Momos Stuffed With Veg & Panner.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/454/078518f4e57d4f54887443199e53c454.png",
+      "price": 220,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Steam Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Vegetables Wok On Fire Steam Momo - 3 Pcs",
+      "description": "Momos Stuffed In Mix Veg Seasoned With Signature Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fe3/778476411b468f0153c583b3243e0fe3.png",
+      "price": 220,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Steam Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Spinach Steam Momo - 3 Pcs",
+      "description": "Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & Sesame Oil",
+      "media": "https://b.zmtcdn.com/data/dish_photos/68e/1ccad5c81c00dfbd48394039abadc68e.png",
+      "price": 220,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Steam Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Chilli With Cheese Steam Momo - 3 Pcs",
+      "description": "Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/031/319c7f005281167e6c2498b36b377031.png",
+      "price": 220,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Steam Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Chilli With Cheese Fried Momo - 3 Pcs",
+      "description": "Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8d7/3ba9fb56c776589eaff57ebae5ce58d7.jpeg",
+      "price": 235,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Fried Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetables With Cheese Fried Momo - 3 Pcs",
+      "description": "Momos Stuffed With Veg & Panner.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/936/27bf32fb7bce3ed277a59e208db35936.jpeg",
+      "price": 235,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Fried Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Vegetables Wok On Fire Fried Momo - 3 Pcs",
+      "description": "Momos Stuffed In Mix Veg Seasoned With Signature Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/936/27bf32fb7bce3ed277a59e208db35936.jpeg",
+      "price": 235,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Fried Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Spinach Fried Momo - 3 Pcs",
+      "description": "Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & Sesame Oil",
+      "media": "https://b.zmtcdn.com/data/dish_photos/936/27bf32fb7bce3ed277a59e208db35936.jpeg",
+      "price": 235,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Fried Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetables With Cheese Tossed Momo - 3 Pcs",
+      "description": "Momos Stuffed With Veg & Panner.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b4/4be0e9ddb448dac7ae907d1c817b95b4.jpeg",
+      "price": 250,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Tossed Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Chilli With Cheese Tossed Momo - 3 Pcs",
+      "description": "Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a27/aba96776c59ecd7d48ca05ba6fa42a27.jpeg",
+      "price": 250,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Tossed Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Spinach Tossed Momo - 3 Pcs",
+      "description": "Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & Sesame Oil",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b4/4be0e9ddb448dac7ae907d1c817b95b4.jpeg",
+      "price": 250,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Tossed Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Vegetables Wok On Fire Tossed Momo - 3 Pcs",
+      "description": "Momos Stuffed In Mix Veg Seasoned With Signature Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b4/4be0e9ddb448dac7ae907d1c817b95b4.jpeg",
+      "price": 250,
+      "menuName": "Dim Sum / Momo - 3 Pcs",
+      "categoryName": "Tossed Dim Sum / Momo - 3 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Spinach Steam Momo - 6 Pcs",
+      "description": "Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & Sesame Oil",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cfc/78a2a1ff92f074bdd77da88001f31cfc.png",
+      "price": 400,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Steam Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetables With Cheese Steam Momo - 6 Pcs",
+      "description": "Momos Stuffed With Veg & Panner.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/06a/26ca65ed42dd31d882546dfcaae2806a.png",
+      "price": 400,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Steam Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Chilli With Cheese Steam Momo - 6 Pcs",
+      "description": "Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/361/3a451da3db5383a65c8983f777115361.png",
+      "price": 400,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Steam Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Vegetables Wok On Fire Steam Momo - 6 Pcs",
+      "description": "Momos Stuffed In Mix Veg Seasoned With Signature Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d9a/7dc7cf51d2b20eb3dd036ec31909dd9a.png",
+      "price": 400,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Steam Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetables With Cheese Fried Momo - 6 Pcs",
+      "description": "Momos Stuffed With Veg & Panner.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ba6/9d812e221c198c27e5417b9751385ba6.jpeg",
+      "price": 425,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Fried Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Chilli With Cheese Fried Momo - 6 Pcs",
+      "description": "Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8d7/3ba9fb56c776589eaff57ebae5ce58d7.jpeg",
+      "price": 425,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Fried Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Spinach Fried Momo - 6 Pcs",
+      "description": "Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & Sesame Oil",
+      "media": "https://b.zmtcdn.com/data/dish_photos/63a/7feaa21a784aeeed5e12c1516db1f63a.jpeg",
+      "price": 425,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Fried Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Vegetables Wok On Fire Fried Momo - 6 Pcs",
+      "description": "Momos Stuffed In Mix Veg Seasoned With Signature Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ba6/9d812e221c198c27e5417b9751385ba6.jpeg",
+      "price": 425,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Fried Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Spinach Tossed Momo - 6 Pcs",
+      "description": "Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & Sesame Oil",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b4/4be0e9ddb448dac7ae907d1c817b95b4.jpeg",
+      "price": 450,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Tossed Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetables With Cheese Tossed Momo - 6 Pcs",
+      "description": "Momos Stuffed With Veg & Panner.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b4/4be0e9ddb448dac7ae907d1c817b95b4.jpeg",
+      "price": 450,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Tossed Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Chilli With Cheese Tossed Momo - 6 Pcs",
+      "description": "Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a27/aba96776c59ecd7d48ca05ba6fa42a27.jpeg",
+      "price": 450,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Tossed Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Vegetables Wok On Fire Tossed Momo - 6 Pcs",
+      "description": "Momos Stuffed In Mix Veg Seasoned With Signature Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b4/4be0e9ddb448dac7ae907d1c817b95b4.jpeg",
+      "price": 450,
+      "menuName": "Dim Sum / Momo - 6 Pcs",
+      "categoryName": "Tossed Dim Sum / Momo - 6 Pcs",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Starter Assembly",
+      "description": "Deep Fried Assorted Starter Of Four Variety - Veg & Cheese Lollipop, Spring Rolls, Crispy Wontons & Chilli Garlic Pom Pom Served With Hot Dip",
+      "media": "https://b.zmtcdn.com/data/dish_photos/04b/b389c47716ea7ac81b22e0c87821204b.jpeg",
+      "price": 899,
+      "menuName": "Platters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Momo Medley",
+      "description": "12 Pcs With Four Flavours - Mix Veg & Cheese, Paneer & Spinach, Corn Chilli Cheese & Exotic Veg Wok On Fire, Served With 2 Dips",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a86/90ee22efa20658081c9479c706636a86.jpeg",
+      "price": 649,
+      "menuName": "Platters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry With New Flavours",
+      "description": "Manchurian Balls Tossed In Choice Of Flavours.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/aaa/3d265e448d1acd8d241b6b6e6541faaa.jpeg",
+      "price": 340,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Manchurian Dry",
+      "description": "Spicy - Mix Veg Balls Tossed In Ginger, Garlic, Chilli & Soya.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/82b/108b54f0f0cfc1ddfff36f0efa9d182b.jpeg",
+      "price": 340,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Thread Paneer Dry",
+      "description": "Non Spicy - Cottage Cheese batons dipped with spicy sauce and covered with threaded noodles",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7d2/4e960b94c300c31463480cf05175f7d2.jpeg",
+      "price": 425,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wonton Dry - All Time Favorite",
+      "description": "Non Spicy - Fried Wonton With Stuffed Mix Vegetables Served With Hot Garlic Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/332/aadae7af6d5bde784fde2ec20a083332.png",
+      "price": 360,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chow Chow Potatoes Dry",
+      "description": "Medium Spicy - Crispy Fried Potatoes Tossed With Green Chilli, Scallion And Black Pepper.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/553/1f53d24bc6a887999e0f3072c7124553.jpeg",
+      "price": 440,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Corn Shanghai Dry",
+      "description": "Sweet & Spicy - Crispy Fried American Corn Tossed In Sweet & Spicy Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fb3/0b1c488452919b8fbc3b2b39ce6c6fb3.jpeg",
+      "price": 440,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dragon Pom Pom Dry",
+      "description": "Spicy - Spicy Bite Size Fried Potato With Green Coriander & Garnished With Burnt Garlic.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ece/db2ed318b0f205efcf1bd8dde3ab1ece.jpeg",
+      "price": 440,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Five Spice Vegetable Dry",
+      "description": "Crispy fried exotic vegetables tossed with special five spices. (Sweet & Spicy)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b9/b86ea04503130208bad5e9b65c9018b9.jpeg",
+      "price": 440,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Pepper Paneer Dry",
+      "description": "Spicy - Stir Fried Cottage Cheese Tossed With Black Pepper, Garlic & Chilli Falkes",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae7/7725371a85942ba795d36f24a5a71ae7.jpeg",
+      "price": 470,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Dry",
+      "description": "Spicy - Cubes Of Cottage Cheese, Bell Pepper Tossed With Chilli Garlic & Soya Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/645/fffa894ac95b38d2ce05643c6aca3645.jpeg",
+      "price": 470,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Chilli Garlic Potato Dry",
+      "description": "Spicy - Potato Fingers Tossed With Buttery Chilli Garlic.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/72a/fa0ab3c8a32df2739147f4d86d11e72a.jpeg",
+      "price": 440,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilli Dry",
+      "description": "Spicy - Stir Fried Mushroom Tossed With Chilli, Garlic, Diced Capsicum & Soya",
+      "media": "https://b.zmtcdn.com/data/dish_photos/85f/85e8bb61de6e8fae3a35da68d263085f.jpeg",
+      "price": 470,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kung Pao Paneer Dry",
+      "description": "Spicy - Paneer Tossed In Kung pao Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/170/f45d636b503f2484d2660248e109d170.jpeg",
+      "price": 470,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wok On Fire Paneer Dry",
+      "description": "Medium Spicy - Cottage cheese tossed in our secret sauce which is a combination of sweet and spicy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fcf/5a203fc1b76bf9a9c8df113bda0d5fcf.jpeg",
+      "price": 470,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Japanese Korokke Dry",
+      "description": "Flavored Mash Potato & Cottage Cheese Fried Rolls With Sweet Chilli & Mayo Dip",
+      "media": "https://b.zmtcdn.com/data/dish_photos/27e/57d5702a3fdbb5d1804e113bfb36627e.jpeg",
+      "price": 470,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Dry",
+      "description": "Spicy - Stir Fried Cottage Cheese Tossed In Schezwan Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/232/3a68ad07316ef1f1a3bf290c212e3232.jpeg",
+      "price": 470,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Lotus Stem In Chilli Plum Sauce Dry",
+      "description": "Crispy Fried Lotus Stem Tossed In Sweet Spicy Plum Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/682/a201be0b9af3a4c5525cca04be707682.png",
+      "price": 440,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Mix Stir Fry Dry",
+      "description": "Seasonal Greens Wok Tossed In Garlic & Signature Seasonings",
+      "media": null,
+      "price": 340,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Soya Chilli Chaap Dry",
+      "description": "Veg Soya Chaap Tossed In Our Traditional Chilli Sauce",
+      "media": null,
+      "price": 440,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brocolli Stir Fry Dry",
+      "description": "Butter Sauteed Cottage Cheese And Brocolli In Signature Seasonings",
+      "media": null,
+      "price": 475,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thai Red Curry",
+      "description": "Spicy - Coconut Milk Based Spicy Gravy Cooked With Exotic Vegetables With Thai Red Paste.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/42e/b1d9b759c66a137aef05b89d1158442e.jpeg",
+      "price": 505,
+      "menuName": "Curry",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thai Green Curry",
+      "description": "Medium Spicy - Coconut Milk Based Spicy Gravy Cooked With Exotic Vegetables With Thai Green Paste",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b4/23a47f5a4efc2c1ff2e48cfb539b62b4.jpeg",
+      "price": 505,
+      "menuName": "Curry",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Manchurian Gravy",
+      "description": "Spicy - Mix Veg Balls Prepared In Ginger, Garlic, Chilli & Soya Gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/006/4710ed7b3226a807d348ba5b316aa006.jpeg",
+      "price": 340,
+      "menuName": "Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Gravy",
+      "description": "Spicy - Cottage Cheese, Bell Pepper Prepared With Chilli Garlic & Soya Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c02/cfd281d1d1517ef59b6b57709f748c02.jpeg",
+      "price": 485,
+      "menuName": "Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wok On Fire Paneer Gravy",
+      "description": "Medium Spicy - Chef's Special",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c95/23f5de3a988f1a00bbe4b2c5333dec95.jpeg",
+      "price": 485,
+      "menuName": "Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dragon Chilli Paneer Gravy",
+      "description": "Spicy - Chilli Flakes | Red Chilli Paste | Tomato Ketchup | Bell Pepper | Ginger | Garlic | Soy Sauce | Green Onion | Seasoning",
+      "media": null,
+      "price": 485,
+      "menuName": "Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Veg & Paneer With Choice Of Sauces Gravy",
+      "description": "Exotic vegetables, mushrooms and Paneer are prepared in your choice of sauce (Soya, Schezwan, Hunan, Black Bean, Shanghai). (Medium Spicy)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d8b/482ba6639e55ad51b2b5b85f7b83fd8b.jpeg",
+      "price": 485,
+      "menuName": "Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Vegetables With Choice Of Sauces Gravy",
+      "description": "Mix Exotic Veg Tossed In A Choice Of Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d8b/482ba6639e55ad51b2b5b85f7b83fd8b.jpeg",
+      "price": 485,
+      "menuName": "Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer With Choice Of Sauces Gravy",
+      "description": "Fried Paneer Cubes Tossed In Choice Of Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd3/9a11b11938f0e5ac64e09ec09fb27dd3.jpeg",
+      "price": 485,
+      "menuName": "Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Rice - Everyone's Favorite",
+      "description": "Non Spicy - Rice Tossed With Finely Diced Vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/734/08687f119d36e2a5bcc778b11f0bc734.jpeg",
+      "price": 385,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Rice",
+      "description": "Spicy - Rice Tossed With Finely Diced Vegetables & Schezwan Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/139/ac244358440be1e43b8a33dd56d94139.jpeg",
+      "price": 420,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Garlic & Spinach Rice",
+      "description": "Non Spicy - Rice Tossed With Burnt Garlic & Spinach",
+      "media": "https://b.zmtcdn.com/data/dish_photos/da6/92e9c8c61a10be0ffef308834a3ceda6.jpeg",
+      "price": 420,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-no-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-no-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indo Chinese Paneer Rice",
+      "description": "Non Spicy - Rice Tossed With Bell Pepper And Cottage Cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e88/33057e49c8ba41b0ad9c84fa673fbe88.jpeg",
+      "price": 420,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thai Chilli Rice",
+      "description": "Spicy - Rice Tossed With Bell Pepper, Red Cabbage & Brocolli Prepared In Spicy Thai Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/af9/0505d7e8fb7537d4de5a21d54ba49af9.jpeg",
+      "price": 420,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Loaded Veggie Rice",
+      "description": "Medium Spicy - Fried Rice Loaded With Exotic Vegetables",
+      "media": "https://b.zmtcdn.com/data/dish_photos/507/ae7790859426eb31120e5e4d26204507.jpeg",
+      "price": 420,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Garlic Rice",
+      "description": "Spicy - Rice Tossed With Finely Diced Vegetables, Fresh Chilly & Garlic.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f2/e3d8c6926c7c6e1d59cdd535587369f2.jpeg",
+      "price": 420,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Korean Rice",
+      "description": "Spicy - Aromatic Rice Tossed With Star Anise, Cottage Cheese & Chilli Flakes.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f33/3e520f81a067f4c795f6bdf27544bf33.jpeg",
+      "price": 420,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Garlic Rice",
+      "description": "Non Spicy - Wok Tossed Fried Rice In Butter & Burnt Garlic",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ac3/3848477fcee72b449d7a244a3002cac3.jpeg",
+      "price": 430,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapore Rice",
+      "description": "Spicy - Rice Tossed In Spicy Singapore Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/962/aef5080cb301bc190b0baaca5c8df962.jpeg",
+      "price": 420,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shanghai Rice",
+      "description": "Fried Rice Wok Tossed In Shanghai Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e5f/efd68c2db9b8352ff15aea363c55ae5f.jpeg",
+      "price": 445,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wok On Fire Rice",
+      "description": "Medium Spicy - Rice Tossed With Exotic Vegetables,American Corn in Aromatic Flavour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e4c/ee87450eac85ea7f9e61842799df7e4c.jpeg",
+      "price": 470,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mingle",
+      "description": "Sweet & Spicy - A Medley Of Rice And Noodles Tossed With Mix Veg And Hot Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0dc/54c921fbf785323c50e353c2006dd0dc.jpeg",
+      "price": 470,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pot Rice With Paneer",
+      "description": "Non Spicy - Fragrant Rice Sauted & Topped With Exotic Vegetables, Mushroom And Cottage Cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ced/f262516098b03a0634f0d170f489dced.jpeg",
+      "price": 595,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodle - Non Spicy",
+      "description": "Noodles tossed in Julienne of vegetables, spring onions (Non Spicy)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/06d/1ffcee2c69b5cf8a344fe1b92299106d.jpeg",
+      "price": 440,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Twisted Hakka Noodle - Spicy",
+      "description": "Mix Veg Hakka Noodles Wok Tossed In Hot Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/06d/1ffcee2c69b5cf8a344fe1b92299106d.jpeg",
+      "price": 440,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Garlic Noodle",
+      "description": "Spicy - Noodles Tossed With Chilly Flakes, Garlic and Vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a84/556bff7cf4806b18f7a75725b37efa84.jpeg",
+      "price": 440,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodle",
+      "description": "Spicy - Noodles Tossed With Finely Diced Vegetables & Schezwan Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b18/598c15c31099f1ae393a85e77e9fab18.jpeg",
+      "price": 440,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shanghai Noodle",
+      "description": "Mix Veg Noodle Tossed In Shanghai Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/abc/a04444d926a7df468785d030645fbabc.jpeg",
+      "price": 440,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapore Noodle",
+      "description": "Spicy - Noodles Tossed In Spicy Singapore Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/80d/03c468ade683478aecf92ab7c511d80d.jpeg",
+      "price": 440,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chow Mein Noodle",
+      "description": "Spicy - Noodles Tossed With Indian Vegetables & Asian Spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bb1/53b209a443af117df475021625651bb1.jpeg",
+      "price": 460,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malaysian Noodle",
+      "description": "Spicy - Flat Noodle Tossed In Spicy Sauce With Exotic veg & Mushroom",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a4a/3223bc609cc8c737ff36c75f4f0cca4a.jpeg",
+      "price": 470,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pad Thai Noodle",
+      "description": "Spicy - Classic Rice Flat Noodles Tossed In Home Made Signature Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f6b/a4c2a9a3c241b77ff2e4586451184f6b.jpeg",
+      "price": 470,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wok On Fire Noodle",
+      "description": "Hakka Style Mix Veg Noodle Tossed In Home Made Signature Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ed2/125a36936e22bdce04bf900848243ed2.jpeg",
+      "price": 470,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Korean Noodle",
+      "description": "Spicy - Noodles With Paneer Tossed In Korean Seasoning & Star Anise Flavours",
+      "media": "https://b.zmtcdn.com/data/dish_photos/68f/067c6dd71d968332f733939c3406b68f.jpeg",
+      "price": 470,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pan Fried Noodles With Hunan Sauce",
+      "description": "Medium Spicy - Pan Fried Noodles Topped With Exotic Vegetables, Mushroom In Hunan Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50a/69672b034955e345b8358419ff35b50a.jpeg",
+      "price": 545,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pan Fried Noodles With Mongolian Sauce",
+      "description": "Medium Spicy - Pan Fried Noodles Topped With Exotic Vegetables, Mushroom In Mongolian Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50a/69672b034955e345b8358419ff35b50a.jpeg",
+      "price": 545,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Chopsuey Noodle",
+      "description": "Sweet & Sour - Sweet & Sour Gravy Poured Over Crispy Noodles",
+      "media": "https://b.zmtcdn.com/data/dish_photos/afe/3639f854928b7ce1cd01bdbb39399afe.jpeg",
+      "price": 470,
+      "menuName": "Noodle",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Lishi Rice Bowl",
+      "description": "Chilli Garlic Rice With Schezwan Sauce & Garnished With Fried Paneer.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/090/07023c3f5013ebfc4b50df509b768090.jpeg",
+      "price": 470,
+      "menuName": "Rice Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thai Rice Bowl",
+      "description": "Thai Chilli Rice Topped With Exotic veg In Basil Chilli Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2a1/3b284ea5d480e34b372a813a8d3fb2a1.jpeg",
+      "price": 470,
+      "menuName": "Rice Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wok On Fire Rice Bowl",
+      "description": "Rice & Gravy With Signature Seasoning Garnished With Fried Paneer.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f9/c6eb8dd2407a74a78df9a41b6412b3f9.jpeg",
+      "price": 470,
+      "menuName": "Rice Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mongolian Hot Pot Rice Bowl",
+      "description": "Sweet & Spicy - Riced Topped With Mongolian Vegetables & Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9ae/c8f8b950a2ef6ba50d772d9d096bd9ae.jpeg",
+      "price": 470,
+      "menuName": "Rice Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stir Fried Noodle Bowl",
+      "description": "Noodles Tossed With Stir Fried Vegetable",
+      "media": "https://b.zmtcdn.com/data/dish_photos/da0/ea60703e703b455b934d5fd9fe72cda0.jpeg",
+      "price": 470,
+      "menuName": "Noodle Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kung Pao Noodle Bowl",
+      "description": "Veg Hakka Noodle Topped With Kung Pao Paneer.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e51/09383fb4eedeafdc0a6910a44b16fe51.jpeg",
+      "price": 470,
+      "menuName": "Noodle Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Noodle Bowl",
+      "description": "Spicy Noodles Tossed With Cantonese Sauce & Spring Rolls.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/39f/30750b99ba90e46cfcb304d3f899539f.jpeg",
+      "price": 470,
+      "menuName": "Noodle Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Garlic Noodle Bowl",
+      "description": "Butter Garlic Noodle Topped With Mic Veg In Hot Garlic Sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0d0/a296e89192c75997e1fe1f6f6f5d40d0.jpeg",
+      "price": 470,
+      "menuName": "Noodle Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thukpa Healthy Bowl",
+      "description": "Spicy - Tibetian Broth With Noodle & Mix veg.",
+      "media": null,
+      "price": 470,
+      "menuName": "Healthy Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ready To Eat - Khowsuey Healthy Bowl",
+      "description": "Burmese Yellow Coconut Based Curry With Exotic Veg, Brown Onion, Peanuts, Fresh Coriander & Lemon.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fba/4f82527c2cc8f3570555e92aa4106fba.jpeg",
+      "price": 470,
+      "menuName": "Healthy Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Japanese Ramen Style Healthy Bowl",
+      "description": "Glass Noodles In Healthy Broth With Greens.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4e1/6d918574fc28e490c0a2bd89189a44e1.jpeg",
+      "price": 470,
+      "menuName": "Healthy Bowl - Serves One",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Lava Roll",
+      "description": "Dark Chocoalte Sticks In The Puff Roll Sheets",
+      "media": "https://b.zmtcdn.com/data/dish_photos/00c/bf64c8e68d6a2cbf8518d3796eb1000c.jpeg",
+      "price": 330,
+      "menuName": "Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

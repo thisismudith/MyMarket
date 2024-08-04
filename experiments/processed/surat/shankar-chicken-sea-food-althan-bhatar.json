@@ -1,0 +1,722 @@
+{
+  "basicInfo": {
+    "name": "Shankar Chicken & Sea Food",
+    "cuisine_string": "Roast Chicken, North Indian, Seafood",
+    "canonicalUrl": "https://www.zomato.com/surat/shankar-chicken-sea-food-althan-bhatar/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "57",
+      "reviewTextSmall": "57 Reviews",
+      "subtext": "57 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.3",
+      "reviewCount": "475",
+      "reviewTextSmall": "475 Reviews",
+      "subtext": "475 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.3",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395017",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Althan Bhatar, Surat",
+    "latitude": "21.1557562152",
+    "longitude": "72.8089197725",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1557562152,72.8089197725&maptype=zomato&markers=21.1557562152,72.8089197725,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Opposite Shree Ram Marble, Althan Bhatar, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918160823419"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Chicken Soup",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malai Tikka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/97d/0fefef5a44104734337848304b39597d.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Items",
+      "slugs": [
+        "non-veg",
+        "beverage",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "beverage",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/687/f23b87de97585262d933c80a5503d687.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Items",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Afghani Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/90f/b8a4ac233eb1a1f4121c1acb0639490f.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Items",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Nice Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Items",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d9/8b990c6295086ca683889f107d3999d9.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Items",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Nice Tikka",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Items",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Fry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Fry",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lollipop",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Fry",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Plain Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a9/a9d7ab76d87c5ededa69196539a9e5a9.jpg",
+      "price": 15,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lachha Paratha",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Naan",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-breads",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-breads",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5d1/e1aa2e0b86194fc042d434ff354f45d1.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kadai Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dahi Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kali Mirch Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tawa Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "pair-with-bread",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Handi Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/895/2cdc3c743b42a67c24c0f1e445d6e895.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Basa Fish Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dahi Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Laziz",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Plain Rice",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/373/22790ca56c25aa0e323abaca6db9d373.jpg",
+      "price": 240,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-rice",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/094/0f28c014af1de7db9fd144f4341d3094.jpg",
+      "price": 240,
+      "menuName": "Rice and Biryani",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "reco-rice",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chop soup",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Gym Food",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chop Rice",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Gym Food",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Roasted Chest",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Gym Food",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boiled Chest",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Gym Food",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chop Chicken",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Gym Food",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Kathi Roll",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c87/036622044db30b420801a4048baf4c87.jpg",
+      "price": 120,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Roll",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/753/2a40f3cc69612b84ba2fb203988bd753.jpg",
+      "price": 180,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cheese Chicken Kathi Roll",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9fd/8862056f63e5ecc1eaad2857b9f8d9fd.jpg",
+      "price": 220,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

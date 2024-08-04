@@ -1,0 +1,854 @@
+{
+  "basicInfo": {
+    "name": "Nishab's Kitchen",
+    "cuisine_string": "Burger, Wraps, Sandwich, Pizza, Pasta, Fast Food, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/nishabs-kitchen-salabatpura/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "8",
+      "reviewTextSmall": "8 Reviews",
+      "subtext": "8 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.7",
+      "reviewCount": "271",
+      "reviewTextSmall": "271 Reviews",
+      "subtext": "271 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.7",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "800"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395003",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Salabatpura, Surat",
+    "latitude": "21.1951851545",
+    "longitude": "72.8349667042",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1951851545,72.8349667042&maptype=zomato&markers=21.1951851545,72.8349667042,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop-6, Hajoori Chambers, Tar Office Begumeura, Salabatpura, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919726385852"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Chicken Wings",
+      "description": "Crunchy fried chicken wings, crispy outside and tender from inside. Tossed with wings spice seasoning.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69d/7fc725de3b0c4932ca692ba58f17f69d.jpg",
+      "price": 0,
+      "menuName": "Starter",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Regular Burger",
+      "description": "Bun, classic mayo, Nishab's special sauce, lettuce, onion, tomato and crispy veg patty.",
+      "media": null,
+      "price": 150,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "description": "Bun, classic mayo, cheese sauce, lettuce, onion, tomato, crispy veg patty and cheese slice.",
+      "media": null,
+      "price": 195,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Spicy Chilli Burger",
+      "description": "Bun, classic mayo, spicy chilli sauce, lettuce, onion, tomato, crispy veg patty and cheese slice.",
+      "media": null,
+      "price": 195,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Tandoori Burger",
+      "description": "Bun, classic mayo, tandoori mayo, lettuce, onion, tomato, crispy veg patty and cheese slice.",
+      "media": null,
+      "price": 180,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Barbeque Burger",
+      "description": "Bun, classic mayo, BBQ sauce, lettuce, onion, tomato, crispy veg patty and cheese slice.",
+      "media": null,
+      "price": 180,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Peri Peri Burger",
+      "description": "Bun, classic mayo, peri peri sauce, lettuce, onion, tomato, crispy veg patty and cheese slice.",
+      "media": null,
+      "price": 195,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Classic American Burger",
+      "description": "Bun, classic mayo, lettuce, onion, tomato and crispy veg patty.",
+      "media": null,
+      "price": 110,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Premium American Burger",
+      "description": "Bun, classic mayo, cheese sauce, lettuce, onion, tomato, crispy veg patty and cheese slice.",
+      "media": null,
+      "price": 140,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Burger",
+      "description": "Bun, classic mayo, schezwan sauce, lettuce, onion, tomato, crispy veg patty and cheese slice.",
+      "media": null,
+      "price": 180,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Burger",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Double Decker Burger",
+      "description": "Bun, classic mayo, Nishab's special sauce, lettuce, onion, tomato, crispy veg patty [2 pieces] and cheese [2 slices].",
+      "media": null,
+      "price": 195,
+      "menuName": "Burgers",
+      "categoryName": "Veg Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Burger Regular",
+      "description": "Bun, classic mayo, Nishabs special sauce, lettuce, onion, tomato and crispy zinger chicken.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8d3/62d8daec164f0567b5079aa3c7a7c8d3.jpg",
+      "price": 165,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Cheese Burger",
+      "description": "Bun, classic mayo, cheese sauce, lettuce, onion, tomato, crispy zinger chicken and cheese slice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a84/99dfcafbf4ffadb3d95315607d7c6a84.jpg",
+      "price": 240,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Spicy Chilli Burger",
+      "description": "Bun, classic mayo, spicy chilli sauce, lettuce, onion, tomato, crispy zinger chicken and cheese slice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/da3/bb30f3e15a4d37fc48d1f50f76c5fda3.jpg",
+      "price": 240,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Burger",
+      "description": "Bun, classic mayo, tandoori mayo, lettuce, onion, tomato, crispy zinger chicken and cheese slice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7c8/99bc7c903c2b1a8b24d0d7fedc95b7c8.jpg",
+      "price": 210,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Barbeque Burger",
+      "description": "Bun, classic mayo, BBQ sauce, lettuce, onion, tomato, crispy zinger chicken and cheese slice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef7/da2413261a72cec876c8a574978b1ef7.jpg",
+      "price": 210,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Peri Peri Burger",
+      "description": "Bun, classic mayo, peri peri sauce, lettuce, onion, tomato, crispy zinger chicken and cheese slice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/da3/bb30f3e15a4d37fc48d1f50f76c5fda3.jpg",
+      "price": 240,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Double Decker Burger",
+      "description": "Bun, classic mayo, Nishab's special sauce, lettuce, onion, tomato, crispy zinger chicken [2 pieces] and cheese [2 slices].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/39f/6dba2a9a7dd965da2d21312eb2f4c39f.jpg",
+      "price": 280,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Classic American Burger",
+      "description": "Bun, classic mayo, lettuce and crispy chicken patty.",
+      "media": null,
+      "price": 125,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Premium American Burger",
+      "description": "Bun, classic mayo, lettuce, crispy chicken patty and cheese slice.",
+      "media": null,
+      "price": 150,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Burger",
+      "description": "Bun, classic mayo, schezwan sauce, lettuce, onion, tomato, crispy zinger chicken and cheese slice.",
+      "media": null,
+      "price": 210,
+      "menuName": "Burgers",
+      "categoryName": "Non Veg Burgers",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Regular Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy veg patty, classic mayo and Nishab's special sauce.",
+      "media": null,
+      "price": 150,
+      "menuName": "Wraps",
+      "categoryName": "Veg Wraps",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy veg patty, cheese sauce and classic mayo.",
+      "media": null,
+      "price": 195,
+      "menuName": "Wraps",
+      "categoryName": "Veg Wraps",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Spicy Chilli Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy veg patty, spicy chilli sauce and classic mayo.",
+      "media": null,
+      "price": 195,
+      "menuName": "Wraps",
+      "categoryName": "Veg Wraps",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Barbeque Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy veg patty, BBQ sauce and classic mayo.",
+      "media": null,
+      "price": 180,
+      "menuName": "Wraps",
+      "categoryName": "Veg Wraps",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Peri Peri Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy veg patty, peri peri sauce and classic mayo.",
+      "media": null,
+      "price": 195,
+      "menuName": "Wraps",
+      "categoryName": "Veg Wraps",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Tandoori Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy veg patty, tandoori sauce and classic mayo.",
+      "media": null,
+      "price": 180,
+      "menuName": "Wraps",
+      "categoryName": "Veg Wraps",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy veg patty, schezwan sauce and classic mayo.",
+      "media": null,
+      "price": 180,
+      "menuName": "Wraps",
+      "categoryName": "Veg Wraps",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy paneer patty, tandoori sauce and classic mayo.",
+      "media": null,
+      "price": 195,
+      "menuName": "Wraps",
+      "categoryName": "Veg Wraps",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy zinger chicken, tandoori sauce and classic mayo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ec2/5e700226fe484d4f9658163a66945ec2.jpg",
+      "price": 210,
+      "menuName": "Wraps",
+      "categoryName": "Non Veg Wraps",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Regular Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy zinger chicken, Nishab's special sauce and classic mayo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5c9/21cf14b93be1f659c3de05d4e7f935c9.jpg",
+      "price": 165,
+      "menuName": "Wraps",
+      "categoryName": "Non Veg Wraps",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Cheese Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy zinger chicken, cheese sauce and classic mayo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2a6/fbdc188fce6f97ac15b032686e3fe2a6.jpg",
+      "price": 240,
+      "menuName": "Wraps",
+      "categoryName": "Non Veg Wraps",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Spicy Chilli Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy zinger chicken, spicy chilli sauce and classic mayo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f3d/c9a42a44b039166fa2f8570621f08f3d.jpg",
+      "price": 240,
+      "menuName": "Wraps",
+      "categoryName": "Non Veg Wraps",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Barbeque Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy zinger chicken, BBQ sauce and classic mayo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f12/5a3622b3a7333e3d7e3a654869445f12.jpg",
+      "price": 210,
+      "menuName": "Wraps",
+      "categoryName": "Non Veg Wraps",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Peri Peri Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy zinger chicken, peri peri sauce and classic mayo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f3d/c9a42a44b039166fa2f8570621f08f3d.jpg",
+      "price": 240,
+      "menuName": "Wraps",
+      "categoryName": "Non Veg Wraps",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Wrap",
+      "description": "Tortilla, onion, tomato, lettuce, crispy zinger chicken, schezwan sauce and classic mayo.",
+      "media": null,
+      "price": 210,
+      "menuName": "Wraps",
+      "categoryName": "Non Veg Wraps",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lettuce Burger",
+      "description": "Classic mayo, lettuce, onion, tomato, grilled chicken and cheese slice.",
+      "media": null,
+      "price": 250,
+      "menuName": "Diet Specials",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Grilled BBQ Burger",
+      "description": "Bun, classic mayo, BBQ sauce, lettuce, onion, tomato, grilled chicken and cheese slice.",
+      "media": null,
+      "price": 210,
+      "menuName": "Diet Specials",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Grilled Tandoori Burger",
+      "description": "Bun, classic mayo, tandoori sauce, lettuce, onion, tomato, grilled chicken and cheese slice.",
+      "media": null,
+      "price": 210,
+      "menuName": "Diet Specials",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Popcorn",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/292/1c2f826efe2e837d42347d15bb2d2292.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "Non Veg Snacks",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Boneless Strips",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f7d/3e530dc83a978c79dd2c20507a958f7d.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "Non Veg Snacks",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Non Veg Cheese Popcorn",
+      "description": "Chicken popcorn topped with cheese sauce and mozzarella cheese.",
+      "media": null,
+      "price": 240,
+      "menuName": "Snacks",
+      "categoryName": "Non Veg Snacks",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Non Veg Dynamite Popcorn",
+      "description": "Chicken popcorn loaded with dynamite sauce, cheese sauce and mozzarella cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f2b/4764091e68251d917107ac3369de4f2b.jpg",
+      "price": 280,
+      "menuName": "Snacks",
+      "categoryName": "Non Veg Snacks",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

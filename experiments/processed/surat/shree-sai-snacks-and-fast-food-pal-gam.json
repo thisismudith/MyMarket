@@ -1,0 +1,1836 @@
+{
+  "basicInfo": {
+    "name": "Shree Sai Snacks And Fast Food",
+    "cuisine_string": "South Indian, Fast Food, Desserts, Shake, Juices, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/shree-sai-snacks-and-fast-food-pal-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.0",
+      "reviewCount": "58",
+      "reviewTextSmall": "58 Reviews",
+      "subtext": "58 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "5,078",
+      "reviewTextSmall": "5,078 Reviews",
+      "subtext": "5,078 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Pal Gam, Surat",
+    "latitude": "21.2022505952",
+    "longitude": "72.7820832655",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2022505952,72.7820832655&maptype=zomato&markers=21.2022505952,72.7820832655,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "G-1/2, Heta Complex, Nr Mahalaxmi Row House, Pal Palanpur Road, Pal Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919265209621"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Idli Sambar",
+      "description": "2 Pieces",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f6/b98acb3c9821046879bcdbf6678e03f6.jpeg",
+      "price": 75,
+      "menuName": "Idli and Vada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "hero-item",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "hero-item",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 Vada Sambhar",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/adf/0929d0558ac203b8055b955707393adf.jpeg",
+      "price": 85,
+      "menuName": "Idli and Vada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "hero-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "hero-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idli Vada",
+      "description": "2 Pieces",
+      "media": null,
+      "price": 85,
+      "menuName": "Idli and Vada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Batata Vada [2 pcs]",
+      "description": "",
+      "media": null,
+      "price": 85,
+      "menuName": "Idli and Vada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fry Idli",
+      "description": "2 Pieces",
+      "media": null,
+      "price": 105,
+      "menuName": "Idli and Vada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Idli",
+      "description": "2 Pieces",
+      "media": null,
+      "price": 120,
+      "menuName": "Idli and Vada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Idli",
+      "description": "2 Pieces",
+      "media": null,
+      "price": 125,
+      "menuName": "Idli and Vada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Vada",
+      "description": "2 Pieces",
+      "media": "https://b.zmtcdn.com/data/dish_photos/70d/afeab3003cee6232f1145a1f88f1170d.jpeg",
+      "price": 125,
+      "menuName": "Idli and Vada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Idli",
+      "description": "2 Pieces",
+      "media": null,
+      "price": 130,
+      "menuName": "Idli and Vada",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Dosa",
+      "description": "A thin crispy plain dosa served with sambhar, red garlic chutney & white coconut chutney. | Item can't be modified |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ef/778f328cdb59343f2f509d9b40fa91ef.jpg",
+      "price": 75,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Samosa",
+      "description": "2 Pieces",
+      "media": "https://b.zmtcdn.com/data/dish_photos/973/21714139ef4f0d4b3109aaae90a6d973.jpeg",
+      "price": 80,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Sada Dosa",
+      "description": "A thin crispy butter plain dosa served with sambhar, red garlic chutney & white coconut chutney. Serves 1.",
+      "media": null,
+      "price": 105,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/546/d61d58478facefe120e8f7fe5799b546.jpg",
+      "price": 115,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Boondi",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Puri Bhaji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/495/e1d8e82ed39e4090a0fc633fe707d495.jpg",
+      "price": 135,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d41/014f65383f6885e5cd3d3123b1835d41.jpg",
+      "price": 140,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pulao",
+      "description": "Aromatic rice tossed in a pan with fresh veggies and spices. Serves 1.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c1/6f2fb5d537f83a102ca74b635ef3c2c1.jpg",
+      "price": 140,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f3b/485b52922d1d6fa6d5ec1791aa6aef3b.jpeg",
+      "price": 150,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Mysore Masala Dosa",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Mysore Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5bd/ecc8a6a7fcd15f16e78df32b294f75bd.jpg",
+      "price": 190,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "hero-item",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "hero-item",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Jain Mysore Masala Dosa",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nylon Dosa",
+      "description": "| Item can't be modified |",
+      "media": null,
+      "price": 200,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paper Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paper Masala Dosa",
+      "description": "Fermented extra large crepe made from rice batter and stuff with mildly spiced potato and onion filling, served with chutney and sambar.",
+      "media": null,
+      "price": 500,
+      "menuName": "Dosa",
+      "categoryName": "Dhosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Sada Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/380/f0f567098187ac611fd917c10cb5f380.jpeg",
+      "price": 120,
+      "menuName": "Dosa",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Masala Dosa",
+      "description": "A delightfully wholesome combo of mouthwatering set dosa| Item can't be modified |",
+      "media": null,
+      "price": 140,
+      "menuName": "Dosa",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Rava Sada Dosa",
+      "description": "Rava dosa is a south Indian breakfast made with semolina, cumin, ginger, coriander leaves and green chillies.",
+      "media": null,
+      "price": 145,
+      "menuName": "Dosa",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Rava Masala Dosa",
+      "description": "A delightfully wholesome combo of mouthwatering butter rava masala dosa. |Served with delectable sambhar and chutney| Item can't be modified |",
+      "media": null,
+      "price": 160,
+      "menuName": "Dosa",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Uttapam",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Plain Uttapam",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Tomato Uttapam",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Uttapam",
+      "description": "A delightfully wholesome combo with mouthwatering onion uttapam, | Item can't be modified |",
+      "media": null,
+      "price": 130,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/219/02ed229dbb387b3f4877f9b2b477c219.jpg",
+      "price": 135,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Jain Tomato Uttapam",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Mix Uttapam",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Uttapam",
+      "description": "A delightfully wholesome combo with mouthwatering masala uttapam, served along with sambhar and chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/304/b1c6b901f39e117acee5442f1f3f6304.jpeg",
+      "price": 140,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Onion Uttapam",
+      "description": "A delightfully wholesome combo with mouthwatering butter onion uttapam, served along with sambhar and chutney.",
+      "media": null,
+      "price": 150,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Masala Uttapam",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coconut Uttapam",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Coconut Uttapam",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Sandwich",
+      "categoryName": "Veg Sandwich",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Jam Sandwich",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Sandwich",
+      "categoryName": "Veg Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "A flavorsome sandwich prepared with two bread slices stuffed with perfectly seasoned mixed vegetable. | Item can't be modified |",
+      "media": null,
+      "price": 80,
+      "menuName": "Sandwich",
+      "categoryName": "Veg Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwich",
+      "categoryName": "Veg Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "A non-grilled sandwich stuffed with crunchy vegetables loads of cheese. | Item can't be modified |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/478/76dff9372586e68a71dc6c84f1784478.jpg",
+      "price": 110,
+      "menuName": "Sandwich",
+      "categoryName": "Veg Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Cheese Jam Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwich",
+      "categoryName": "Veg Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Club Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Sandwich",
+      "categoryName": "Veg Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Sandwich",
+      "categoryName": "Toast Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Sandwich",
+      "categoryName": "Toast Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Sandwich",
+      "categoryName": "Toast Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Cheese Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwich",
+      "categoryName": "Toast Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Sandwich",
+      "categoryName": "Toast Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Cheese Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Sandwich",
+      "categoryName": "Toast Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Sandwich",
+      "categoryName": "Toast Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Cheese Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Sandwich",
+      "categoryName": "Toast Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Club Cheese Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Sandwich",
+      "categoryName": "Toast Sandwich",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Grill Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b32/db5c1188be87465dc21f3d42740a7b32.jpeg",
+      "price": 200,
+      "menuName": "Sandwich",
+      "categoryName": "Grill Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Sandwich",
+      "categoryName": "Grill Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Sandwich",
+      "categoryName": "Grill Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Pizza [6 Inches]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicum Pizza [6 Inches]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Pizza [6 Inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b3c/a9df90143d2ddf8038839aec365a3b3c.jpg",
+      "price": 175,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Cheese Pizza [6 Inches]",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Cheese Pizza [6 Inches]",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza [6 Inches]",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Pizza [6 Inches]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Mushroom Pizza [6 Inches]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Sainath Pizza [6 Inches]",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Burger",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "description": "A cheesy veg burger made with lots of veggies and tasty sauces; served along with wafers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/39a/05babbe1f109eb36966805cdaa2b039a.jpg",
+      "price": 110,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Burger",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Milk",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ddc/2548deda315e967783095deacc958ddc.jpeg",
+      "price": 45,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Lassi",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lassi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c2/e3283a048943f9470fe59f83deffc2c2.jpeg",
+      "price": 90,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Lassi",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Lassi",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Lassi",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Milkshake",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rose Milkshake",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "description": "",
+      "media": null,
+      "price": 85,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Milkshake",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coffee",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gulkand Milkshake",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Gulkand",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Badam Milkshake",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Anjeer",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/073/f93a595ac468fa76f07ac6610d19a073.jpeg",
+      "price": 170,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Draksh",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Chocolate Milkshake",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Milkshake",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Badam",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dry Fruit Milkshake",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "perishable",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "perishable",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

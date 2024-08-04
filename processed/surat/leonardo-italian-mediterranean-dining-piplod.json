@@ -1,0 +1,1273 @@
+{
+  "basicInfo": {
+    "name": "Leonardo Italian Mediterranean Dining",
+    "cuisine_string": "Italian, Mexican, Fast Food, Mediterranean, Desserts",
+    "canonicalUrl": "https://www.zomato.com/surat/leonardo-italian-mediterranean-dining-piplod/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.3",
+      "reviewCount": "758",
+      "reviewTextSmall": "758 Reviews",
+      "subtext": "758 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.3",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "1,170",
+      "reviewTextSmall": "1,170 Reviews",
+      "subtext": "1,170 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Piplod, Surat",
+    "latitude": "21.1616347847",
+    "longitude": "72.7724430710",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1616347847,72.7724430710&maptype=zomato&markers=21.1616347847,72.7724430710,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Third Floor, Dumas Road, Near Iscon Mall, Piplod, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917435888008, +917435888009"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Minestrone Soup (230ML)",
+      "description": "Countryside vegetables & tomato broth with diced penne pasta, generously drizzled with extra virgin olive oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3e8/8bef8f057a4dbf5f19f96c339a9bb3e8.jpeg",
+      "price": 0,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Sopa Di Mexico Soup! (230ML)",
+      "description": "Traditional hearty mexican vegetable green soup served with crispy nachos chips.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cff/fc42401b9b870262b8537c8f6d3cccff.jpeg",
+      "price": 0,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Popeye'S Broccoli & Almond Soup (230ML) [Jain]",
+      "description": "Perfect piping hot creamy broccoli pureed soup with roasted almonds!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/147/fd0f74416438ebca328dedd25fca7147.jpeg",
+      "price": 300,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Genovese Soup",
+      "description": "Exotic vegetables served with a touch of basil pesto",
+      "media": null,
+      "price": 0,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Signature Salad",
+      "description": "Mix salad with feta, iceberg lettuce, cucumber, black olives, bell pepper and a mint limonene dressing",
+      "media": "https://b.zmtcdn.com/data/dish_photos/64f/85fc8e1def72114caaefdd132da0164f.jpeg",
+      "price": 400,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Insalata Balsamica",
+      "description": "Iceberg lettuce tomatoes cucumber sweet corn bell pepper carrots and parmesan shavings covered in our delicious balsamic dressing",
+      "media": null,
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Best of Caesar (180gms)",
+      "description": "Enjoy the classic mix of hand torn romaine lettuce with our in-house caesar dressing, shaved with parmesan cheese & homemade croutons.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/210/3c95040cf1c64d3703518601e7b33210.jpeg",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mozzarella Salad (180gms)",
+      "description": "Baby mozzarella served with basil pesto & heirloom tomatoes, dressed in basil pesto dressing, drizzled with balsamic.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3fb/63abb349582232001008be6f5103e3fb.jpeg",
+      "price": 450,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Chilled Melon & Feta (280gms) [Jain]",
+      "description": "Chilled watermelon scoops, crumbled feta cheese, arugula drizzled with balsamic reduction.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a22/6e44c8644e88a3ac2aa761e3f1b0da22.jpeg",
+      "price": 355,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grilled Vegetables Salad (250gms)",
+      "description": "Fresh exotic vegetables grilled to perfection with our in-house herb seasoning.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2d1/638588300af8447b08b91ff5a367d2d1.jpeg",
+      "price": 445,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sauted Peri Peri Cottage Cheese (325gms)",
+      "description": "Cottage cheese saut�ed along with assorted colorful veggies tossed in spicy sauce & finished in sicilian style.",
+      "media": null,
+      "price": 0,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Avocado Tacos (6 Pcs)",
+      "description": "Pickled slaw, chunky guacamole & cilantro crema filled in tacos and served with pico de gallo.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be4/6b70d1a7a3321c1774e6f7d939a8ebe4.jpeg",
+      "price": 0,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bouquet Of Fries (150gms)",
+      "description": "Try our fries with the dip, a favourite among all!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bd3/3ba98372d5cb06d28b17a94df309abd3.jpeg",
+      "price": 245,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Greek Sumac French Fries (150gms)",
+      "description": "These fries seasoned with sumac will become your new addiction!",
+      "media": null,
+      "price": 245,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread (6 Pcs)",
+      "description": "Flat italian bread topped with herbed garlic butter and mozzarella cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea4/fe9867e7e47db02681673520085f2ea4.png",
+      "price": 445,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "The Shroom-Lover'S Dream (325gms)",
+      "description": "Fresh mushrooms, pan sauteed with garlic, onion, cheese, fresh thyme & olive oil, blended perfectly to create these savoury bites of heaven.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5d4/fc2b2e38cc400eec6b07472cbef655d4.jpeg",
+      "price": 475,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Cigar Rolls (6 Pcs) [Jain]",
+      "description": "Delicate rolls filled with cheese & cubes of bell peppers served with sweet chilli dip.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ce3/f010aac127be94d9d1d0a43582d5ace3.jpeg",
+      "price": 450,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Cottage Cheese Tacos (6 Pcs)",
+      "description": "Fried tacos filled with cottage cheese, bell pepper, onion, olives served with salsa.",
+      "media": null,
+      "price": 445,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo's Spinach Balls (6 Pcs)",
+      "description": "Crispy vegetables balls stuffed with corn, saut�ed spinach & cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b33/b5fcf8f301505929893e07925384fb33.jpeg",
+      "price": 450,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato Wedges",
+      "description": "Rosemary flavoured potatoes sautéed with paprika garlic and sea salt",
+      "media": "https://b.zmtcdn.com/data/dish_photos/969/86ebbacf8c70d69d5722afb93183a969.jpeg",
+      "price": 395,
+      "menuName": "Anti Pasti- Appetizers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Princess Margherita Pizza [Jain]",
+      "description": "Tomato | Mozzarella Cheese |Pomodoro Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/75c/0a4997212b9800a68f43a909933d075c.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Giardiniera Pizza",
+      "description": "Mozzarella Cheese | Button Mushroom | Leek | Cherry Tomato| Bell Pepper | Garlic Oil | Olives | Artichokes | Tomato & Pesto Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/524/47113de06aa6db81128a4fdf19329524.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Story Of Italy Pizza",
+      "description": "Zucchini | Onion | Bell Pepper | Jalapenos | Mozzarella Cheese | Green Chilli| Olives",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f95/d93b1ce95dc1b16b6162e3b566efcf95.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mr. Mushroom Alfredo Pizza",
+      "description": "Creamy Mushroom Sauce | Fresh Mushroom | Spinach | Mozzarella Cheese",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Paneer Tikka- Made In India Pizza",
+      "description": "Bar-b-que sauce | Paneer Tikka | Onion | Capsicum | Mozzarella Cheese",
+      "media": "https://b.zmtcdn.com/data/dish_photos/44b/2779938472a702c68d257bbf37de444b.png",
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Tartufo Pizza",
+      "description": "Truffle Oil | Burnt Garlic | Mushroom | Pomodoro Sauce | Mozzarella Cheese",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Roasted Vegetable Pizza",
+      "description": "Grilled Zucchini | Peppers | Caramelized Onions | Goat Cheese Cream | Pesto Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4e1/c7816fbf1fd2e1f6ed10d033b8d894e1.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Buffalo Pizza [Jain]",
+      "description": "[Veg Preparation] Tomato | Buffalo Cheese | Pomodoro Sauce",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Epic Turkish Pide Pizza",
+      "description": "Traditional Turkish Stuffed Flatbread with Italian Caponata, Mozzarella Cheese and Olives, Baked to Perfection!",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Gourmet Handcrafted Pide Pizza",
+      "description": "Spinach Sauteed with Red Pepper, Corn and Feta Cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fcb/39cc9dcebdf352d8119ffe05b74e5fcb.jpeg",
+      "price": 750,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paprika Pizza",
+      "description": "Classic Leonardo style! Bell peppers, babycorn, mushroom and olives tossed in Italian spices on a bed of paprika sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e04/062fb7464fe5d595d45b22eecc954e04.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Milano Pizza",
+      "description": "Thin crust pizza with a unique fusion of tomato sauce, mozzarella cheese, tossed spinach, mushrooms and American corn",
+      "media": "https://b.zmtcdn.com/data/dish_photos/13c/1f65ad3a0af69fa405d043aa249c913c.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pomodoro Fresco E Basilico Pizza",
+      "description": "A true classic! Tomato, basil, extra virgin olive oil and fresh whole milk mozzarella.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/baa/b905e5113bb86d7161f7216a5c899baa.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Pide Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mediterranean Flat-Bread",
+      "description": "Artichoke | Mushroom | Onion| Olives | Jalapenos | Spicy Marinara Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c15/fae9a9461f6aa36da7d06134e1802c15.jpeg",
+      "price": 0,
+      "menuName": "Flatbreads & Calzone",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Calzone Exotica Pizza",
+      "description": "Our folded vegetarian pizza with a filling of mozzarella cheese, exotic vegetables & marinara sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c80/a136d550240ab7835a0d9f6d50ecbc80.png",
+      "price": 0,
+      "menuName": "Flatbreads & Calzone",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Go-Go-Gourmet Flat Bread",
+      "description": "Refried Beans| American Corn | Bell Pepper | Cheese | Guacamole | Tomato Salsa Sour Cream | Pomodoro Sauce",
+      "media": null,
+      "price": 715,
+      "menuName": "Flatbreads & Calzone",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Calzone Margherita [Jain]",
+      "description": "Folded vegetarian pizza with a filling of pomodoro sauce & mozzarella.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5ef/d46b80e688ae806956b271c0547ce5ef.jpeg",
+      "price": 690,
+      "menuName": "Flatbreads & Calzone",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baked Cannelloni (400gms)",
+      "description": "Homemade pasta funnels stuffed with sauteed zucchini & jalapenos & baked with stringy mozzarella cheese in tangy mix sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cb4/633dc2e3ab609137362e309af89e0cb4.jpeg",
+      "price": 0,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Ravioli Spinach & Ricotta (400gms)",
+      "description": "Chef's secret recipe of homemade pasta stuffed with spinach & ricotta. pan sauteed with mix vegetables, fresh cream & parmesan cheese in choice of your sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd7/a32b3a0cd7690e7e6aebe24505e83cd7.jpeg",
+      "price": 0,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fettuccini Exotica (400gms)",
+      "description": "Traditional legendary pasta, saut�ed with assorted bell pepper, olives, broccoli, baby corn, garlic & olive oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f1c/04fa0e310513d737b07a4c7fec33df1c.jpeg",
+      "price": 0,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo'S Riso Giardino (400gms)",
+      "description": "Risotto cooked to perfection with assorted bell pepper, zucchini, broccoli, carrot & olives.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Couch Gnocchi (400gms)",
+      "description": "Classic italian dumplings served in choice of your sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/897/0e057627c49186dadd5465ba10767897.jpeg",
+      "price": 595,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spaghetti Aglio Olio E Pepperoncino (400gms)",
+      "description": "An extraordinary spaghetti! a fiery blend of garlic & spicy chili flakes with extra virgin olive oil & chopped parsley.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/88e/8606f5e58991dcb8b6f2ed617d99288e.jpeg",
+      "price": 560,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spaghetti Aglio Olio In Basil Pesto (400gms)",
+      "description": "Spaghetti tossed in much tempted pesto sauce and extra virgin olive oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b95/35e2175647a11396183959367f92fb95.jpeg",
+      "price": 560,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grandma'S Lasagne Verdure (400gms)",
+      "description": "Our house specialty oven baked layered dish with assorted seasonal vegetables, cheese, & marinara sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/040/b2186ee7680943edf272db709570b040.jpeg",
+      "price": 680,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo's Penne Arrabbiata",
+      "description": "Our version of Italian classic Penne pasta! Red chili pepper cooked in extra Virgin Olive oil topped with hint of Fresh Basil leaves & grated parmesan cheese.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fusilli Alfredo",
+      "description": "Fusilli Pasta tossed in alfredo sauce flavored with Garlic & Bell Pepper",
+      "media": null,
+      "price": 0,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spaghetti Alla Pomarola",
+      "description": "Spaghetti with tomato sauce, olives, cherry tomatoes & basil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c5a/a28601fa8e7a9f0da054435d01171c5a.jpeg",
+      "price": 0,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fettuccine Salsa Di Limon",
+      "description": "Handcrafted fettuccini flavoured with lemon and served with cream sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2f1/87d600df8bbb9562c58e41b6799822f1.jpeg",
+      "price": 0,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Penne Portofino",
+      "description": "Penne pasta with pesto sauce cherry tomatoes, olives and parmesan cheese.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Leonardo's Classic Nachos (100gms)",
+      "description": "Homemade nacho chips served with cheese sauce & salsa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/051/06ec31a4a7382c3d7ef70957f000f051.jpeg",
+      "price": 0,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "B.B.Q Cottage Cheese Quesadillas (8 Pcs)",
+      "description": "Stuffed tortilla rolls with cottage cheese, onion & capsicum served with salsa.",
+      "media": null,
+      "price": 0,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spinach & Mushroom Quesadillas (8Pcs)",
+      "description": "Spinach & mushroom, roasted corn & jalapenos, cheese  sour cream, guacamole, pico de gallo  eat all you can!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f53/015fe47ed40d965fec8cefda0f0e6f53.jpeg",
+      "price": 0,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cottage Cheese Burritos (4 Pcs)",
+      "description": "Flour tortillas filled with rice & cottage cheese served with pineapple salsa",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b38/de2ecb909daf0b40b51b6a783b758b38.jpeg",
+      "price": 0,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Vegetables Enchilada (2 Pcs)",
+      "description": "Two soft flour tortillas filled with fire roasted vegetables, mushrooms, black beans & melted jack cheese topped with ranchera sauce & cheddar cheese. served with mexican rice, pineapple salsa & sour cream.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/389/53f1bdbe50cdfb113cde302f67439389.jpeg",
+      "price": 0,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Cottage Cheese Rice (425gms)",
+      "description": "House specialty of mexican rice topped with mexican style spicy cottage cheese, cheese sauce & crispy tortilla, an all-time favourite.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a5e/57d2dbb4ef306b315f6a725d6b211a5e.jpeg",
+      "price": 0,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Vegetables with Cilantro Rice (425gms)",
+      "description": "Assorted vegetables in a creamy peri-peri sauce served with herbed cilantro rice.",
+      "media": null,
+      "price": 0,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri-Peri Vegetables With Cilantro Rice",
+      "description": "Assorted vegetables in a creamy peri-peri sauce served with herbed cilantro",
+      "media": null,
+      "price": 495,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Risotto Milanese",
+      "description": "Traditional Italian rice with saffron and red bell pepper sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/17e/d5f1a8d35e2afc0aa25052a5c5ad117e.jpeg",
+      "price": 0,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spinach With Paprika Riso",
+      "description": "Spinach flavored rice cooked with Italian herbs",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ad/9c570e0e9f4e544a1371cedd9a11c1ad.jpeg",
+      "price": 0,
+      "menuName": "Mexican Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chef's Special Panna Cotta",
+      "description": "Soft & smooth textured cr�me pudding served with your choice of topping.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/58c/249c9771303c6bb15e0479db8ffd858c.jpeg",
+      "price": 0,
+      "menuName": "Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brownie Sandwich",
+      "description": "Soft & smooth brownie layered with salted caramel",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7b1/3bc002d8037d0d4171f2199638e557b1.png",
+      "price": 545,
+      "menuName": "Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oh La..La..La..Tiramisu",
+      "description": "Espresso infused sponge between happiness layered of alluring mascarpone cheese & topped with cocoa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/14e/0cc94f0252d7ab1bac743b84e378814e.jpeg",
+      "price": 595,
+      "menuName": "Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

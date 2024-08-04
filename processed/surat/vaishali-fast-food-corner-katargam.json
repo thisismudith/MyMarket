@@ -1,0 +1,3925 @@
+{
+  "basicInfo": {
+    "name": "Vaishali Fast Food Corner",
+    "cuisine_string": "Fast Food, Pizza, Sandwich, Street Food, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/vaishali-fast-food-corner-katargam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "134",
+      "reviewTextSmall": "134 Reviews",
+      "subtext": "134 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.5",
+      "reviewCount": "1,925",
+      "reviewTextSmall": "1,925 Reviews",
+      "subtext": "1,925 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.5",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "800"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Katargam, Surat",
+    "latitude": "21.2207989333",
+    "longitude": "72.8212143481",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2207989333,72.8212143481&maptype=zomato&markers=21.2207989333,72.8212143481,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 1, Royal Plaza, Ved Road, Opposite Akhand Anand College, Katargam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917096180180"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Vada",
+      "description": "",
+      "media": null,
+      "price": 21,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 32,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayonnaise Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sezwan Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Grill Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 48,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Pakoda",
+      "description": "",
+      "media": null,
+      "price": 32,
+      "menuName": "Bread Pakoda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Bread Pakoda",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Bread Pakoda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sezwan Bread Pakoda",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Bread Pakoda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayonnaise bread pakoda",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Bread Pakoda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Panner Cheese Pakoda",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Bread Pakoda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pakoda",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Bread Pakoda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Pakoda",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Bread Pakoda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dabeli",
+      "description": "",
+      "media": null,
+      "price": 32,
+      "menuName": "Dabeli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Dabeli",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Dabeli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Dabeli",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Dabeli",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Frankie",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Frankie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Frankie",
+      "description": "",
+      "media": null,
+      "price": 88,
+      "menuName": "Frankie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Mayonnaise Cheese Frankie",
+      "description": "",
+      "media": null,
+      "price": 96,
+      "menuName": "Frankie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sizwan Cheese Frankie",
+      "description": "",
+      "media": null,
+      "price": 96,
+      "menuName": "Frankie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Panner Cheese Frankie",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Frankie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian cheese frankie",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Frankie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Cheese Frankie",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Frankie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Panner Tandori Cheese Frankie",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Frankie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Puff",
+      "description": "",
+      "media": null,
+      "price": 32,
+      "menuName": "Puff",
+      "categoryName": "Puf",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Puff",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Puff",
+      "categoryName": "Puf",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Puff",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Puff",
+      "categoryName": "Puf",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Panner Puff",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Puff",
+      "categoryName": "Puf",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bhel",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev Bataka Puri 5 Piece",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala puri 5 piece",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Chaat",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Collegian Bhel",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chataka Bowl",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi puri 5 piece",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American bhel",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Delhi Chaat",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Papdi",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pani puri 12 Piece",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Bhel",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Chaat Items",
+      "categoryName": "Chat Items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Aloo",
+      "description": "",
+      "media": null,
+      "price": 48,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Aloo Cheese",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Jam",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Jam Cheese",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 88,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Toast",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 104,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tandori Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Open Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Open Cheese Toast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Open Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Open Cheese Toast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Open Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Open Cheese Toast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Open Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Open Cheese Toast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tandoori Open Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Open Cheese Toast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Burgers and French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 96,
+      "menuName": "Burgers and French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Burgers and French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Pizza",
+      "categoryName": "Pizza [7 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Pizza",
+      "categoryName": "Pizza [7 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Cheese Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 192,
+      "menuName": "Pizza",
+      "categoryName": "Pizza [7 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Cheese Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 192,
+      "menuName": "Pizza",
+      "categoryName": "Pizza [7 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 208,
+      "menuName": "Pizza",
+      "categoryName": "Pizza [7 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tandoori Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 208,
+      "menuName": "Pizza",
+      "categoryName": "Pizza [7 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "All in the ne Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Pizza",
+      "categoryName": "Pizza [7 inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 176,
+      "menuName": "Grilled Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 208,
+      "menuName": "Grilled Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 208,
+      "menuName": "Grilled Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 208,
+      "menuName": "Grilled Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Juicy Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 208,
+      "menuName": "Grilled Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 208,
+      "menuName": "Grilled Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tandoori Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 208,
+      "menuName": "Grilled Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "All in One Cheese Griledl Sandwich",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Grilled Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchow Soup",
+      "description": "[Veg preparation]",
+      "media": null,
+      "price": 112,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot and Sour Soup",
+      "description": "",
+      "media": null,
+      "price": 112,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dry Manchurian",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Manchurian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gravy Manchurian",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Manchurian",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodles",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapore Noodles",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Noodles",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapore Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Bhel",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Noodles Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Rice",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Pulao with Chinese Gravy",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Rice",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Paneer Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Combination Rice",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Paneer Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Rice",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Paneer Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Dry",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Paneer Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Gravy",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Paneer Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Manchurian",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Paneer Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Sada Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 32,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Butter Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Cheese Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Sada Dabeli",
+      "description": "",
+      "media": null,
+      "price": 32,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Butter Dabeli",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Cheese Dabeli",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Frankie",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Cheese Frankie",
+      "description": "",
+      "media": null,
+      "price": 88,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Pani Puri [12 Pieces]",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 80,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 64,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Sev Bataka Puri [5 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Masala Puri [5 Pieces]",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 64,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Aloo Chaat",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Collegian Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Chatka [1 Bowl]",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Dahi Puri [5 Pieces]",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan American Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Delhi Chaat",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Dahi Papadi Chaat",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Cheese Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 80,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Bread Butter",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Bread Butter Aloo",
+      "description": "",
+      "media": null,
+      "price": 48,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Bread Butter Aloo Cheese",
+      "description": "",
+      "media": null,
+      "price": 72,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Bread Butter Jam",
+      "description": "",
+      "media": null,
+      "price": 56,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Bread Butter Jam Cheese",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Sandwich",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 64,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Cheese Sandwich",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 88,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Toast",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 104,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Open Cheese Toast",
+      "description": "",
+      "media": null,
+      "price": 128,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 96,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Margherita Pizza [7 inches]",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Cheese Pizza [7 inches]",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Cheese Grilled Sandwich",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 176,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Manchow Soup",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 112,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Hot and Sour Soup",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 112,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Manchurian Dry",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Hakka Noodles",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Schezwan Noodles",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Singapore Noodles",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Veg Fried Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Manchurian Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Singapore Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Chinese Bhel",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Bombay Bhel",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Noodles Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Triple Rice",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Chinese Pulao with Chinese Gravy",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 200,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Paneer Chilli Dry",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Paneer Chilli Gravy",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Paneer Rice",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Paneer Combination Rice",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Paneer Cheese Rice",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Paneer Manchurian",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 250,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Swaminarayan Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Paneer Cheese Pakoda [1 Piece]",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 56,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Pani Puri [12 Pieces]",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 80,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 64,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Sev Bataka Puri [5 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 64,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Masala Puri [5 Pieces]",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 64,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Collegian Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Dahi Puri [5 Pieces]",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain American Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Delhi Chaat",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Dahi Papdi Chaat",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Cheese Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 80,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Bread Butter",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 40,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Bread Butter Cheese",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 72,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Bread Butter Jam",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 56,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Bread Butter Jam Cheese",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 80,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Veg Sandwich",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 64,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Veg Cheese Sandwich",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 88,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Veg Toast",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 80,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Veg Cheese Toast",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 104,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Veg Open Cheese Toast",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 128,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Veg Cheese Grilled Sandwich",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 176,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Manchow Soup",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 112,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Hot and Sour Soup",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 112,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Dry Manchurian",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Gravy Manchurian",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Hakka Noodles",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Schezwan Noodles",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Singapore Noodles",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Veg Fried Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Manchurian Fried Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Singapore Fried Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Schezwan Fried Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Chinese Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Bombay Bhel",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Noodles Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 160,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Triple Fried Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 200,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Chinese Pulao with Chinese Gravy",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 200,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Paneer Chilli Dry",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 250,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Paneer Chilli Gravy",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 250,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Paneer Manchurian",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 250,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Paneer Fried Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 200,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Paneer Combination Fried Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 200,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Paneer Cheese Fried Rice",
+      "description": "[Jain Preparation]",
+      "media": null,
+      "price": 240,
+      "menuName": "Pure Jain Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

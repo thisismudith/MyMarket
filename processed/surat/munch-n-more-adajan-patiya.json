@@ -1,0 +1,565 @@
+{
+  "basicInfo": {
+    "name": "Munch N More",
+    "cuisine_string": "Sandwich, Fast Food, Pizza, South Indian, Chinese, Desserts, Beverages, Shake",
+    "canonicalUrl": "https://www.zomato.com/surat/munch-n-more-adajan-patiya/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.3",
+      "reviewCount": "20",
+      "reviewTextSmall": "20 Reviews",
+      "subtext": "20 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.3",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.9",
+      "reviewCount": "70",
+      "reviewTextSmall": "70 Reviews",
+      "subtext": "70 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.9",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395009",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Patiya, Surat",
+    "latitude": "21.1945269497",
+    "longitude": "72.8016966148",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1945269497,72.8016966148&maptype=zomato&markers=21.1945269497,72.8016966148,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop S 3, 4, 7, 9, Muktanand Nagar, Near Sardar Bridge, Adajan Patiya, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919919917761"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Butter Milk Masala",
+      "description": "'Mildly spicy and tangy drink made with mint leaves, coriander leaves, ginger & cumin powder'",
+      "media": null,
+      "price": 49,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Lassi / Coco",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Milk Plain",
+      "description": "'Curd blended with water, a pinch of salt & cumin powder'",
+      "media": null,
+      "price": 39,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Lassi / Coco",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dryfruit Lassi",
+      "description": "'Rich summer cool drink made with thick curd and a mixture of dry fruits'",
+      "media": null,
+      "price": 129,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Lassi / Coco",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Lassi",
+      "description": "A creamy, frothy yogurt-based drink, blended with water, Ice cubes & sugar/salt",
+      "media": null,
+      "price": 0,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Lassi / Coco",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Plain Dosa",
+      "description": "Plain Dosa topped with grated cheese, served with sambhar & coconut chutney",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "Crispy dosa stuffed with spiced and savoury potato filling, served with sambhar & coconut chutney",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Idli",
+      "description": "A mildly spiced dish made by sauteing onion-tomatoes and idlis in a pan",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Medu Vada",
+      "description": "A fluffy & crispy deep fried snack made from urad dal and a few basic spices served with sambhar & chutney",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Uttapam",
+      "description": "A delish dish of uttapam with spices & specially picked veggies, served with sambhar & coconut chutney",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Uttapam",
+      "description": "'A recipe of uttapam topped with chopped onions & a pinch of spices, served with sambhar & coconut chutney'",
+      "media": null,
+      "price": 149,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Dosa",
+      "description": "Crispy crepes prepared using a batter of rice and lentils, served with sambhar & coconut chutney.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Uttapam",
+      "description": "A crispy and spongy pancakes made with dosa batter with a pinch of spices, served with sambhar & coconut chutney",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steam Idli",
+      "description": "A soft & pillowy steamed cake that is made by grinding rice, urad dal along with water",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ba9/e51d9402546db9829505992a1e3f4ba9.jpg",
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Uttapam",
+      "description": "A recipe of uttapam topped with chopped tomatoes & a pinch of spices, served with sambhar & coconut chutney",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "Evergreen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mysor Dosa",
+      "description": "Crispy dosa with Surat's famous Mysore masala topped with cheese, served with sambhar & coconut chutney.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "MNM Special Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Peri Peri Dosa",
+      "description": "Super-crisp dosa stuffed with peri peri chutney, onion-tomato, capsicum & cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cb1/733fd7cc4e17ca609bffb46bcbb41cb1.jpg",
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "MNM Special Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gotala Dosa",
+      "description": "Traditional south Indian dosa served with gotala sabji made of cheese-paneer, garlic paste & chopped spinach",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "MNM Special Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jini Roll Dosa",
+      "description": "Surat's unique dosa stuffed with cabbage, beetroot, carrot, capsicum & topped with chef's special spices and sauces.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b10/f895a40902d93864a59ff7d25200fb10.jpg",
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "MNM Special Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Dosa",
+      "description": "A thin and crispy dosa topped with red garlic chutney, served with Mysore bhaji, sambhar & coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/25e/b3d12225431f61ab0c879fe6e54c625e.jpg",
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "MNM Special Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Cheese Dosa",
+      "description": "Yummy and nutritious dosa with a spread of tasty spinach paste with cheese.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "MNM Special Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Surma Dosa",
+      "description": "Surat's special dosa dish with the goodness of paneer and cheese with a spread of spiced onion-tomato-potato paste.",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "MNM Special Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Royal Paneer Matka Dosa",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "South Indian",
+      "categoryName": "MNM Special Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spring Dosa",
+      "description": "'Mumbai\\'s famous street food with the goodness of Indian dosa and Chinese noodles'",
+      "media": null,
+      "price": 179,
+      "menuName": "South Indian",
+      "categoryName": "MNM Special Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Pizzeria Grilled Sandwich",
+      "description": "Cheesy mayonnaise-bound mixture of veggies, topped with pizza sauce and seasonings",
+      "media": null,
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Paneer Grilled Sandwich",
+      "description": "A mouthwatering sandwich with paneer filling, flavored with peri peri seasoning",
+      "media": null,
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Grilled Sandwich",
+      "description": "Yummy & cheesy two layered grilled sandwich with goodness of veggies, chutney & potato paste",
+      "media": "https://b.zmtcdn.com/data/dish_photos/73c/f7b5d791f2e4f371c6030cc28209573c.jpg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "Simple veg sandwich topped with grated cheese",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6a1/a63ff3c450dc2e354b02c847925b76a1.jpg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Grilled Sandwich",
+      "description": "Two layered sandwich filled with cilantro chutney, delicious veggies & potato paste - grilled to perfection",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b3/f72ee32efd1f455454490717aebf42b3.jpg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "A simple sandwich loaded with butter, chutney & fresh veggies",
+      "media": null,
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2938 @@
+{
+  "basicInfo": {
+    "name": "Ravi's Kitchen",
+    "cuisine_string": "North Indian, Chinese, Biryani, Sichuan, Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/ravis-kitchen-piplod/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "52",
+      "reviewTextSmall": "52 Reviews",
+      "subtext": "52 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "2,146",
+      "reviewTextSmall": "2,146 Reviews",
+      "subtext": "2,146 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Piplod, Surat",
+    "latitude": "21.1680286873",
+    "longitude": "72.7843882889",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1680286873,72.7843882889&maptype=zomato&markers=21.1680286873,72.7843882889,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "FP 3, The Park, Icchanath, Opposite SVNIT College, Piplod, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919727877609"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Chole Bhature [250 ml] with 2 Bhature",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chole Bhature",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Vegetable Kulcha",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chole Bhature",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Amritsari Aloo Kulcha",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chole Bhature",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Kulcha",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Chole Bhature",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chur Chur Naan with Dal Makhani and Raita",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e6b/76c55d8d907561b7af0a3bce250fbe6b.jpg",
+      "price": 240,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Rice Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a20/2886c68831dbfe50a9a6d639d2762a20.jpg",
+      "price": 280,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Pot Rice Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c5e/0064664908c91cbfca9cab96bc5c4c5e.jpg",
+      "price": 300,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Rice Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd7/ca0f3cdfbd32f5b48733794529b81dd7.jpg",
+      "price": 320,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian Rice Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edb/2c0cb08ad40a1cf53b0e0cea06246edb.jpg",
+      "price": 330,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Rice Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d7/430e2fe89ffba36fd318b95ccaecb9d7.jpg",
+      "price": 330,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Garlic Manchurian Rice Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/255/46e8f87377cc28fb4f5fb0fe3304a255.jpg",
+      "price": 330,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "All in One Rice Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5fe/6f2f78c1e74e04071b0b74abf45ff5fe.jpg",
+      "price": 320,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Garlic Paneer Rice Bowl",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Rice Bowl",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/376/d7c3e6998d17a9496b67f3f8d136f376.jpg",
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Tandoori and Kabab Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Starters",
+      "categoryName": "Tandoori and Kabab Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Achari Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Starters",
+      "categoryName": "Tandoori and Kabab Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kali Mirch Tikka",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Starters",
+      "categoryName": "Tandoori and Kabab Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hariyali Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Starters",
+      "categoryName": "Tandoori and Kabab Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasooni Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Tandoori and Kabab Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crushed Paneer Makhani",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Muglai Shahi Paneer",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Matar Paneer",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Shahi Paneer",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadai Paneer",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b82/be5084ea52bbce1a9cd8ea6ed2816b82.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhurji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cb7/db46f3c393e4d62aa4f771bea823bcb7.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Dum Kali Mirchi",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole Paneer Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Sizzling Paneer",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Do Pyaza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/222/a942bbbbda3efccac1678bec41df7222.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chatpata Tawa Paneer",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kurchan",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Angara",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3fe/113c0c1c096b96801d2afb09bab273fe.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Toofani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e8b/7e5d86c069f0f3e352dd82955114be8b.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Paneer",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/660/8df10eda0d08c32e896283484e85d660.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Laziz",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Veg Pahadi",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hyderabadi Paneer Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Patiyala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tawa Malasa",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pasanda",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Paneer Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ravis Butter Paneer Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/718/adc9739cccda11c0ac4a1f8189828718.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kofta Curry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadai Kofta",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kofta",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Kofta",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Kofta",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/416/2c01b8ba8a42f2181aab3e290563d416.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Palak",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/08d/223e3050f3aaf1d6e6d351d20aa1108d.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dhaba Dal Double Tadka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a7b/b775dc7ee86f723b5bb5d9d89594da7b.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Makhani Bukhara",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/84e/fae6b07ad54c16d65f50bff96383c84e.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Palak",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Aloo",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Matar",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Dum Aloo",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chana Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2cc/f1c7d8fe682c6c50bc79d7cadcef22cc.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Veg",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Handi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b57/342d69718bcacf2957037b3652e5cb57.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Angara",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Tawa Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/099/21dfeb6c941d779816f0622c127a3099.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kolhapuri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/47e/416cb1b2ff5c3cce4876b238a62b447e.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Tawa Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/32a/46ae258b7a3fe0f67fb81fc7f7f0a32a.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sabzi Laziz",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Diwani Handi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c2b/bc0a28e4e2c85761f1e75a34f05d3c2b.jpg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hyderabadi Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Angara",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Begum Bahaar",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Dum Pukth",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Laziz Keema",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Masala",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Curry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Plain Roti",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Butter Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/28e/09ed4fcb2e5528885efff49d4c93228e.jpg",
+      "price": 40,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Naan",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/540/3b4edb811787a083ebb1adffa7fe6540.jpg",
+      "price": 55,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Naan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f59/ab18b8b77ca2f07da8a9b5bfa232af59.jpg",
+      "price": 70,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulcha",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Naan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f59/ab18b8b77ca2f07da8a9b5bfa232af59.jpg",
+      "price": 120,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Naan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f0b/4ffc4eb8c13aa1eb04c58af34eb63f0b.jpg",
+      "price": 120,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Naan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc9/9cb79e250faf2d8554ec0a7cde30acc9.jpg",
+      "price": 150,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Naan",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Breads",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Vegetable Paratha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ab/a07d039e788ba793bd1e221bada421ab.jpg",
+      "price": 210,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Paratha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/750/a6eddda36d5bb9292436c92c58075750.jpg",
+      "price": 180,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobi Paratha",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paratha",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Paratha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/527/46361cf35a79a36fe16ed41df6d9d527.jpg",
+      "price": 230,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peshawari Aloo Paneer Paratha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bd0/165b0cb89075c098e1918dcc2daa2bd0.jpg",
+      "price": 240,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Achari Paratha",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lachha Paratha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0f5/46686a48e149c41bc02e274b695cd0f5.jpg",
+      "price": 65,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pudina Paratha",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Breads",
+      "categoryName": "Paratha",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b7/6fba20725d88a92f2ea3669b14dd58b7.jpg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dc2/35ed5f5bee16550947faf72c265bfdc2.jpg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pulao",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/14e/2e2f2936e7d79c1bf3102f276a76814e.jpg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Peas Pulao",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Khichdi",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Palak Khichdi",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Khichdi",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Khichdi with GheeTadka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e7e/a55e264dd363e033c9b6f2ad2b658e7e.jpg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Palak Khichdi with GheeTadka",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Khichdi with Ghee Tadka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f8/e2b1f70b3a8eb68d5dad8754ca3059f8.jpg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hyderabadi Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6bb/74f85e921545a4383cfd96dd231336bb.jpg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Dum Pukth Biryani",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Matka Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef3/67e1349a0d60cd471afb1d49c1436ef3.jpg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Smoked Paneer Makhani Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b6e/08697602029c9fc0b4c67641d882ab6e.jpg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c76/4362bf0e9258bd766448133eb865bc76.jpg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fe0/129560e2b3ad96d9755bf2b238844fe0.jpg",
+      "price": 240,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Honey Chilli Potato",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/96d/36ab84eb013f74848b68aff120fdb96d.jpg",
+      "price": 230,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Crispy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/019/3660fa4a33c68261238aff1077183019.jpg",
+      "price": 250,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Schezwan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/490/a078a154b589c646e9b554f74b4cf490.jpg",
+      "price": 260,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c10/8521493d6b65ff22e56f7fcf018f1c10.jpg",
+      "price": 260,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Manchurian",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2ba/0a99e86b3722223860958f7fd5e1a2ba.jpg",
+      "price": 300,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Cook Paneer",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian in Hot Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2ba/0a99e86b3722223860958f7fd5e1a2ba.jpg",
+      "price": 280,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Schezwan Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e80/1ea49a3b3fd7a37e22e20f4278926e80.jpg",
+      "price": 220,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c3/385a0df4bb5428874740c43b344982c3.jpg",
+      "price": 240,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Bhel",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d46/cbddb0481e75f268c6362caba4d8dd46.jpg",
+      "price": 250,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "Mild.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c90/7680a865d31d1c52194346f84e475c90.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8f4/9ab02fea6a819dbc681086059d84e8f4.jpg",
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thai Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f20/0bcde55f73b7d7ba60df91fdec2c8f20.jpg",
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hunan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Garlic Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/515/da094359303b699e69fa01ce92e1c515.jpg",
+      "price": 320,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/79a/0e4ae54df03eb8cae29f6eda911b679a.jpg",
+      "price": 320,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pot Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Garlic Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Korean Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Five Spice Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/372/2d24b47e7b54e60058a738531a41f372.jpg",
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Garlic Spinach Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b12/5a6f7e4919f9a1b5b7b2420114cbfb12.jpg",
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodles",
+      "description": "Mild.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a78/e701381994ec5a85a8e5288ed3a32a78.jpg",
+      "price": 250,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fd6/0d2b77b93f4eed25384d5e2c919ccfd6.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thai Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/148/b06ef49ea18106cb8f9b8f0f0c0a9148.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hunan Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/170/1e0ec38518f9a54286376d8f9552a170.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Garlic Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/149/016e72ca9d547508eea73de52e629149.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapore Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/297/79055e9c1f344e4bda45a66eb1a8d297.jpg",
+      "price": 260,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chowmein Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6b6/451d5c9a8f7738cab9cd9f158014b6b6.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Korean Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/58f/ade52c7a69c9b6d005bba9e2615a658f.jpg",
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5ca/30317592fb0ea0a82a53b051828b55ca.jpg",
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Garlic Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/903/8b2decac3d6659ae264863972d9ca903.jpg",
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Chopsey",
+      "description": "Light sweet.",
+      "media": null,
+      "price": 250,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chopsuey",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Chopsey",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Chopsuey",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Salad",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Soups and Salads",
+      "categoryName": "Salads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Salad",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Soups and Salads",
+      "categoryName": "Salads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchow Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae9/50798f464e53cb698e7d7ec7b1c7fae9.jpg",
+      "price": 210,
+      "menuName": "Soups and Salads",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot N Sour Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/987/3513b6e84c62342240044bf5420e7987.jpg",
+      "price": 210,
+      "menuName": "Soups and Salads",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Pepper Coriander Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/062/c4c79065e50cb65d4307f0cdbcb38062.jpg",
+      "price": 220,
+      "menuName": "Soups and Salads",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Garlic Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cee/35f9a2327340ac5d5679b11c72afbcee.jpg",
+      "price": 230,
+      "menuName": "Soups and Salads",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ravis Special Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b5/77d77fab1e68e616201c6fd0793f48b5.jpg",
+      "price": 250,
+      "menuName": "Soups and Salads",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Raita",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burhani Raita",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Boondi Raita",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Papad",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "basicInfo": {
+    "name": "Biryani Palace",
+    "cuisine_string": "Biryani, North Indian",
+    "canonicalUrl": "https://www.zomato.com/surat/biryani-palace-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "58",
+      "reviewTextSmall": "58 Reviews",
+      "subtext": "58 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.4",
+      "reviewCount": "1,667",
+      "reviewTextSmall": "1,667 Reviews",
+      "subtext": "1,667 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.4",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395009",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1873181516",
+    "longitude": "72.7944288030",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1873181516,72.7944288030&maptype=zomato&markers=21.1873181516,72.7944288030,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 8, Aalishan Enclave, Opposite Star Bazaar, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919157598554"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Egg Curry [4 Eggs] with 6 Pav",
+      "description": "Egg curry is a delicious and rich curry made with natural spices.",
+      "media": null,
+      "price": 230,
+      "menuName": "Biryani Palace Golden Combos",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "combo-item",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Dum Biryani",
+      "description": "Served with raita & salad.",
+      "media": null,
+      "price": 0,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Matka Biryani [Serves 2 to 3]",
+      "description": "Served with raita [250 ml] & salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/159/d7e3288af16d5242e4f09c616310c159.jpg",
+      "price": 450,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "party-combo",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "party-combo",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Dum Biryani",
+      "description": "Served with raita & salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/90c/8eaf0a8e5ab1633a07d6575daff9f90c.jpg",
+      "price": 0,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Matka Biryani [6 Eggs, Serves 2 to 3]",
+      "description": "Served with raita [250 ml] & salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d6a/3d1e7978e170692c552b0e3cec7b7d6a.jpg",
+      "price": 410,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "restaurant-recommended",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka BiryanI",
+      "description": "Served with raita & salad.",
+      "media": null,
+      "price": 0,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Dum Biryani",
+      "description": "Served with raita & salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0bb/0e4342da5e315dbbc5ee50a4f203b0bb.jpg",
+      "price": 0,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Matka Biryani [Serves 2 to 3]",
+      "description": "Served with raita [250 ml] & salad.",
+      "media": null,
+      "price": 450,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "rice",
+        "services",
+        "party-combo",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "services",
+        "party-combo",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Matka Biryani [Serves 2 to 3]",
+      "description": "Served with raita [250 ml] & salad.",
+      "media": null,
+      "price": 410,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "party-combo",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "party-combo",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Matka Biryani [Serves 2 to 3]",
+      "description": "Served with raita [250 ml] & salad.",
+      "media": null,
+      "price": 510,
+      "menuName": "Biryani",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "party-combo",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "party-combo",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Lemon Salad",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f6/7bba23ebcd1ba892d0142cae26b2b9f6.jpg",
+      "price": 20,
+      "menuName": "Khane Ke Sath",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Rice",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Khane Ke Sath",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Khane Ke Sath",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Raita",
+      "description": "Curd with spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/da4/ff18e5dc730d997ffe501704646e3da4.jpg",
+      "price": 30,
+      "menuName": "Khane Ke Sath",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Masala",
+      "description": "Dhaba style.",
+      "media": null,
+      "price": 220,
+      "menuName": "Chicken Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken Boneless",
+      "description": "Makhani gravy.",
+      "media": null,
+      "price": 290,
+      "menuName": "Chicken Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Masala Boneless",
+      "description": "Tawa gravy.",
+      "media": null,
+      "price": 320,
+      "menuName": "Chicken Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Creamy Cheese Chicken Boneless",
+      "description": "Creamy cheese chicken boneless.",
+      "media": null,
+      "price": 360,
+      "menuName": "Chicken Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

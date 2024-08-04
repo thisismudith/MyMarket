@@ -1,0 +1,895 @@
+{
+  "basicInfo": {
+    "name": "Kutchi King",
+    "cuisine_string": "Fast Food, Street Food, Pizza, Sandwich, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/kutchi-king-varachha/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "44",
+      "reviewTextSmall": "44 Reviews",
+      "subtext": "44 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.9",
+      "reviewCount": "2,087",
+      "reviewTextSmall": "2,087 Reviews",
+      "subtext": "2,087 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.9",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Varachha, Surat",
+    "latitude": "21.1951207597",
+    "longitude": "72.8607306629",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1951207597,72.8607306629&maptype=zomato&markers=21.1951207597,72.8607306629,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 1, Swagat Complex, Opposite DR World Mall, Aai Mata Chowk Road, Varachha, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919510096039"
+    },
+    "res_chain_text": "See all 2 Kutchi King outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/kutchi-king",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Veg Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/384/0bce1b86452f8ae3981ce49496913384.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/888/3e35fa81a1016678bb816e50b30b5888.jpg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Magherita Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Capsicum Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Tomato Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chill Hot and Spicy Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Veg Sandwich",
+      "description": "A sandwich with veggies like potato, tomato, onion and cheese and sprinkled chaat masala.",
+      "media": null,
+      "price": 0,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Sandwich",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Veg Mix Sandwich",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Sandwich",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mexican Sandwich",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Grilled Sandwich",
+      "description": "A wholesome sandwich with assorted veggies tossed in a simple dressing and grilled to perfection.",
+      "media": null,
+      "price": 145,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sanwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sanwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sanwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Club Grilled Sandwich",
+      "description": "A delicious sandwich made by grilling the bread which is stuffed with masala.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b8/a5a41afb0eee85a62ed8cfbf479502b8.jpg",
+      "price": 195,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sanwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mataka Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sanwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Toast Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sanwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Blast Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sanwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Grilled Sanwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 85,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "A Decadent Veg Burger Made With Lots Of Veggies And Tasty Sauces.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/619/95d035c731a70fea1f627cd422526619.jpg",
+      "price": 60,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Mayonnaise Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Burgers and Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Quick Bites",
+      "categoryName": "Bread Butter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Bread Butter",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Quick Bites",
+      "categoryName": "Bread Butter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Aloo",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Quick Bites",
+      "categoryName": "Bread Butter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Bread Butter Aloo",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Quick Bites",
+      "categoryName": "Bread Butter",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Jam",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Quick Bites",
+      "categoryName": "Bread Butter",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Bread Butter Jam",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Quick Bites",
+      "categoryName": "Bread Butter",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "reco-breads",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "description": "Garlic bread topped with an overload of cheese and baked to perfection.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/391/ec3474950a7aa79bc88ee406cec4a391.jpg",
+      "price": 85,
+      "menuName": "Quick Bites",
+      "categoryName": "Garlic Bread",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Supremo Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Quick Bites",
+      "categoryName": "Garlic Bread",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Quick Bites",
+      "categoryName": "Garlic Bread",
+      "slugs": [
+        "veg",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Fry Dabeli",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "Dabeli",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Fry Dabeli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a9c/12be55e7a28bf6fa2272c4010ff60a9c.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "Dabeli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Fry Dabeli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7d5/f09411d9b6c5299431735a195e8667d5.jpg",
+      "price": 0,
+      "menuName": "Snacks",
+      "categoryName": "Dabeli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bhel",
+      "description": "Wholesome puffed rice mixed with onions, tomatoes, green chutney, spices and topped with lemon.",
+      "media": null,
+      "price": 55,
+      "menuName": "Snacks",
+      "categoryName": "Bhel",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Bhel",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Snacks",
+      "categoryName": "Bhel",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Bhel",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c82/e6faece3a54e49d92fc4f56761c01c82.jpg",
+      "price": 65,
+      "menuName": "Snacks",
+      "categoryName": "Bhel",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Bhel",
+      "description": "Wholesome puffed rice mixed with onions, tomatoes, chutneys and chaat masala topped with cheese",
+      "media": null,
+      "price": 80,
+      "menuName": "Snacks",
+      "categoryName": "Bhel",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

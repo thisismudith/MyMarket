@@ -1,0 +1,766 @@
+{
+  "basicInfo": {
+    "name": "Cornerstone Cafe",
+    "cuisine_string": "Coffee, Tea, Shake, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/cornerstone-cafe-piplod/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.6",
+      "reviewCount": "30",
+      "reviewTextSmall": "30 Reviews",
+      "subtext": "30 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.6",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.1",
+      "reviewCount": "139",
+      "reviewTextSmall": "139 Reviews",
+      "subtext": "139 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Piplod, Surat",
+    "latitude": "21.1707052899",
+    "longitude": "72.7886496484",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1707052899,72.7886496484&maptype=zomato&markers=21.1707052899,72.7886496484,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "L-6, Anmol Complex, Surat Dumas Road, Piplod, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919099269283"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Aloo Tikki Burger",
+      "description": "Fresh burger bread, burger sauce, onion slices and aloo tikki.",
+      "media": null,
+      "price": 69,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Regular Classic Maggi",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Masala Maggi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4d1/855baceda24f84b4f0c4084e9e6ef4d1.png",
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Masala Maggi",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Maggi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/13c/ebaaa8a967d143c7da2ce2db389d013c.jpg",
+      "price": 100,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Masala Maggi",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread [3 Pieces]",
+      "description": "Amul mozzarella cheese, Amul butter freshly chopped garlic paste and chilli oregano. It will taste delicious and crispy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f45/26f9fc16ae414535a8b570769d9f1f45.png",
+      "price": 79,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Garlic Bread [3 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7d0/f88d8c3eb5ebdc622a7d8a21c0c9e7d0.png",
+      "price": 85,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilly Garlic Bread [3 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/302/c7aa2807f28ab83fe7cd7d2c4585a302.png",
+      "price": 79,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Garlic Bread [3 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5df/470b5f85c33cad504251d20fec8745df.png",
+      "price": 149,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "Salted fries.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/461/da48e89a1cb1e4d325bb07bb3d175461.png",
+      "price": 69,
+      "menuName": "French Fries",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "description": "Fries with peri peri masala and salt.",
+      "media": null,
+      "price": 89,
+      "menuName": "French Fries",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peach Iced Tea",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Iced Tea with Honey",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Coffee [2 Cups]",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Cappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coffee Blended with Ice Cream",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d91/93e922fc022b90a50c632bd35e5f7d91.png",
+      "price": 80,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Iced Coffee",
+      "description": "",
+      "media": null,
+      "price": 69,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Cold Coffee",
+      "description": "",
+      "media": null,
+      "price": 69,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Irish Cold Coffee",
+      "description": "",
+      "media": null,
+      "price": 69,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Shake",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Shakes",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Shake",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Shakes",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oreo Shake",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Shakes",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kit Kat Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8f4/242601729a5677d806d92ad2f83a08f4.png",
+      "price": 99,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Shakes",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brownie Shake",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Shakes",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Shake",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Shake",
+      "description": "",
+      "media": null,
+      "price": 98,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Oreo Shake",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Choco Shake",
+      "description": "",
+      "media": null,
+      "price": 98,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Bournvita [2 Cups]",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Bournvita",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Chocolate [2 Cups]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/904/00d5d79f8816e2f694ddee5b7096e904.png",
+      "price": 120,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "reco-beverages",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-beverages",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Tea [2 Cups]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6b9/28ccf1e7485a84bed291efa1064a86b9.jpg",
+      "price": 99,
+      "menuName": "Hot Tea",
+      "categoryName": "Tea",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Elaichi Tea [2 Cups]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/184/d9d172507f490d47f1f89df4ee9b5184.jpg",
+      "price": 99,
+      "menuName": "Hot Tea",
+      "categoryName": "Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1622 @@
+{
+  "basicInfo": {
+    "name": "Shakes N Bites",
+    "cuisine_string": "Shake",
+    "canonicalUrl": "https://www.zomato.com/surat/shakes-n-bites-piplod/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "1",
+      "reviewTextSmall": "1 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "2.8",
+      "reviewCount": "18",
+      "reviewTextSmall": "18 Reviews",
+      "subtext": "18 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "2.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "yellow",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395017",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Piplod, Surat",
+    "latitude": "21.1586130000",
+    "longitude": "72.7789111000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1586130000,72.7789111000&maptype=zomato&markers=21.1586130000,72.7789111000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "B-19, Society 1, Bhaggya Laxmi Nagar, Opposite Akash Business Center, Piplod, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918141486173"
+    },
+    "res_chain_text": "See all 2 Shakes N Bites outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/shakes-n-bites",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Cheese Corn Garlic Bread",
+      "description": "Soft Garlic Breads with lots of Cheese and Corn",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5db/e28ac43dd0e18813b5f72883f33135db.jpg",
+      "price": 219,
+      "menuName": "Garlic Bread (3pcs)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Onion Garlic Bread",
+      "description": "Soft Garlic Breads with lots of Cheese and Onions",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b6/3344c34517cf7d5c1fd6edc623a2b1b6.jpg",
+      "price": 219,
+      "menuName": "Garlic Bread (3pcs)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Garlic Bread",
+      "description": "Soft Garlic Breads with lots of Cheese and Soft Paneer",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2ed/a3502be5ea24015ce8f9cbcb54d312ed.jpg",
+      "price": 239,
+      "menuName": "Garlic Bread (3pcs)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Bread",
+      "description": "Soft Garlic Breads with lots of Cheese and hint of Chilli Flakes",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dda/9732c04fdb088e1f49968ab627fa4dda.jpg",
+      "price": 199,
+      "menuName": "Garlic Bread (3pcs)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brownie Cold Coffee Frappe",
+      "description": "Strong Brazilian Coffee shot with chilled milk and loads of brownie chunks",
+      "media": "https://b.zmtcdn.com/data/dish_photos/296/2d01fdb1244d172842e029638280c296.jpg",
+      "price": 199,
+      "menuName": "Cold Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Cold Coffee Frappe",
+      "description": "Strong Brazilian Coffee shot with chilled milk and lots of hazelnut spread.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/296/2d01fdb1244d172842e029638280c296.jpg",
+      "price": 199,
+      "menuName": "Cold Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Cold Coffee Frappe",
+      "description": "Strong Brazilian Coffee shot with chilled milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/296/2d01fdb1244d172842e029638280c296.jpg",
+      "price": 199,
+      "menuName": "Cold Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kolkata Paan Lava Cake",
+      "description": "Enjoy Molten Lava made of Kolkata Paan",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dfe/0b4b60e4e8a797d405b190b5a148adfe.jpg",
+      "price": 149,
+      "menuName": "Lava Cakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Velvet Lava Cake",
+      "description": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/54b/e05515256f7830ac3cb024657bb2654b.png",
+      "price": 149,
+      "menuName": "Lava Cakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Lava Cake",
+      "description": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ca2/c64ffa42a5a9082c5c6187dd8fcb5ca2.jpg",
+      "price": 129,
+      "menuName": "Lava Cakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rich Hot Chocolate - 250ml",
+      "description": "Perfect hot beverage for chocolate lovers. It's thick, luscious and indulgent.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/03c/e587b30132d194fd5067abcd8dda303c.jpg",
+      "price": 149,
+      "menuName": "Hot Chocolate",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rich Hot Chocolate - 250ml + French Fries",
+      "description": "Perfect hot beverage & french fries for chocolate lovers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b95/a6b52c46536043354736d02c7c1c7b95.jpg",
+      "price": 199,
+      "menuName": "Hot Chocolate",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Chocolate with Brownie Bits - 250ml",
+      "description": "Perfect hot beverage for chocolate lovers. It's thick, luscious, with brownie bits and indulgent.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edd/1d378473dfb766fe5659d699f1d17edd.jpg",
+      "price": 179,
+      "menuName": "Hot Chocolate",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ratnagiri Mango Gelato/Icecream - Regular Scoop",
+      "description": "Now Enjoy Natural Fruits Low FAT Icecream at your doorstep.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/48a/3de3b9216c5211bf4e38aee177aba48a.jpg",
+      "price": 119,
+      "menuName": "Today's Exclusive",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulhad Chai - Elaichi - Medium",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69f/b988ea4afcaf328eec46cac503c6969f.jpeg",
+      "price": 75,
+      "menuName": "Kulhad Chai",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulhad Chai - Medium + Mathri Packet",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/568/c99c5892b7d92151b6721ec4849c4568.jpeg",
+      "price": 125,
+      "menuName": "Kulhad Chai",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulhad Chai - Masala - Medium",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69f/b988ea4afcaf328eec46cac503c6969f.jpeg",
+      "price": 75,
+      "menuName": "Kulhad Chai",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulhad Chai - Adrak - Medium",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69f/b988ea4afcaf328eec46cac503c6969f.jpeg",
+      "price": 75,
+      "menuName": "Kulhad Chai",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tender Coconut Milkshake with Dryfruits-300ml",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/77a/09cf5091ecedff736ab1737c585b677a.jpeg",
+      "price": 199,
+      "menuName": "Tender Coconut Water (Nariyal Paani)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oreo Tender Coconut Milkshake-300ml",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d8c/221c5a11327ce1ef90ad448e832fad8c.jpeg",
+      "price": 199,
+      "menuName": "Tender Coconut Water (Nariyal Paani)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tender Coconut Milkshake -300ml",
+      "description": "",
+      "media": null,
+      "price": 169,
+      "menuName": "Tender Coconut Water (Nariyal Paani)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tender Coconut (Soft Malai with Water) - (200-250ml)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/391/0b036b98e1c1757c0ec83c28b5c8f391.jpeg",
+      "price": 99,
+      "menuName": "Tender Coconut Water (Nariyal Paani)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tender Coconut (Only Water) - 250ml-300ml",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/391/0b036b98e1c1757c0ec83c28b5c8f391.jpeg",
+      "price": 99,
+      "menuName": "Tender Coconut Water (Nariyal Paani)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paan Falooda - 250ml",
+      "description": "Enjoy Sumptuous & Fresh Paan Falooda!!",
+      "media": "https://b.zmtcdn.com/data/dish_photos/768/b6f513c242b303a59b079915e371c768.jpg",
+      "price": 129,
+      "menuName": "Falooda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rose Falooda - 250ml",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/283/0ef8fca0d6aec36e3aea3d831abd3283.jpg",
+      "price": 129,
+      "menuName": "Falooda",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries Peri Peri",
+      "description": "",
+      "media": null,
+      "price": 129,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayonnaise French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ba/59aa04f9a6628a2fe0032d3aabbf24ba.jpg",
+      "price": 129,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7f8/26b63fa3ae61eccc989e6ccdb65477f8.jpg",
+      "price": 129,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Paradise Pizza (Cheese, Onion, Capsicum, Olives, Paneer)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fb6/bf88920c6729a8a45aa98195fc341fb6.jpg",
+      "price": 299,
+      "menuName": "Authentic Pizzas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Paneer Pizza (Capsicum, Paneer, Onion, Cheese)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd1/c0baf9141ec9d2c7680d35503185fdd1.jpg",
+      "price": 299,
+      "menuName": "Authentic Pizzas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza (Onion, Capsicum, Olives, Jalapenos, Cheese)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd1/c0baf9141ec9d2c7680d35503185fdd1.jpg",
+      "price": 279,
+      "menuName": "Authentic Pizzas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Delight Pizza (Cheese, Chilly, Sweet corn, Tomato, Olives)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd1/c0baf9141ec9d2c7680d35503185fdd1.jpg",
+      "price": 279,
+      "menuName": "Authentic Pizzas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Bite Pizza (Onion, Tomato, Capsicum & lots of Cheese)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/519/61352f4074e946bb275ef85357640519.jpg",
+      "price": 219,
+      "menuName": "Authentic Pizzas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza (Lots of Cheese)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/01c/47b114a2fcb38d543cdf100fe573d01c.jpg",
+      "price": 259,
+      "menuName": "Authentic Pizzas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dryfruit Lassi",
+      "description": "The naturally irresistible sweetness of dryfruits blended with thick, fresh curd",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f59/52c619e81e62507b34866e1c78abdf59.jpg",
+      "price": 139,
+      "menuName": "Special Lassi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paan Lassi",
+      "description": "The naturally irresistible sweetness of banarasi paan blended with thick, fresh curd",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c3b/f8c852255024628d6e52df44b908bc3b.jpg",
+      "price": 139,
+      "menuName": "Special Lassi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Lassi",
+      "description": "The naturally irresistible sweetness of chocolates blended with thick, fresh curd",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ac2/6064acc0df9d1ab65b61a92442d8aac2.jpg",
+      "price": 139,
+      "menuName": "Special Lassi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rose Lassi",
+      "description": "The naturally irresistible sweetness of roses blended with thick, fresh curd",
+      "media": "https://b.zmtcdn.com/data/dish_photos/43b/6dba72794421eb65673bd871d5bbb43b.jpg",
+      "price": 139,
+      "menuName": "Special Lassi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Lassi",
+      "description": "The naturally irresistible sweetness of alphonso mangoes blended with thick, fresh curd",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d9c/dd3fb1dd8fdaaee3c0f145feed1c9d9c.jpg",
+      "price": 149,
+      "menuName": "Special Lassi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Lassi",
+      "description": "The naturally irresistible sweetness of vanilla blended with thick, fresh curd",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f59/52c619e81e62507b34866e1c78abdf59.jpg",
+      "price": 129,
+      "menuName": "Special Lassi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Single Walnut Hot Brownie with Gelato",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c3c/67e17dd1c9bff4df658aa50261a93c3c.jpg",
+      "price": 149,
+      "menuName": "Walnut Brownies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Walnut Hot Brownie with Gelato [2 Scoop]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/32a/c421c13eff4cc991612f8b9b7b16232a.jpg",
+      "price": 269,
+      "menuName": "Walnut Brownies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Premium Red Velvet Hot Brownie",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ff5/3c219091080d7cc55d0c5e4ee973cff5.jpg",
+      "price": 119,
+      "menuName": "Walnut Brownies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Walnut Hot Brownie with Gelato",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/488/ffbfb3c13d8c6eff1ce6e962d1d40488.jpg",
+      "price": 239,
+      "menuName": "Walnut Brownies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dark Premium Hot Brownie",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9fd/cbbdce7ea5590676e3f6a93079ada9fd.jpg",
+      "price": 119,
+      "menuName": "Walnut Brownies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rich Nutella Gelato [1 Scoop]",
+      "description": "Low FAT Gelato made of Rich Nutella Spread",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4e2/c91ea855d03fcbcc4461f6f71cf8b4e2.jpg",
+      "price": 119,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato Scoop",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kolkata Paan Gelato [1 Scoop]",
+      "description": "Low FAT Gelato made of Paan and Paan Toppings",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7cd/07ea160c21035f6edd85d797df56d7cd.jpg",
+      "price": 119,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato Scoop",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Vanilla Gelato [1 Scoop]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e79/b7274ba2887e510ee6640e6f8cfc3e79.jpg",
+      "price": 119,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato Scoop",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Mud Brownie Gelato [1 Scoop]",
+      "description": "Low FAT Gelato made of Belgian Chocolate and Rich Brownie Chunks",
+      "media": "https://b.zmtcdn.com/data/dish_photos/53c/a62ed39b9cef6967ee9a59ab5022b53c.jpg",
+      "price": 119,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato Scoop",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Belgian Chocolate Gelato [1 Scoop]",
+      "description": "Natural & Low FAT Rich Chocolate Gelato with choco chips",
+      "media": "https://b.zmtcdn.com/data/dish_photos/210/cc9fd054f9ef960fe85ca96d42938210.jpg",
+      "price": 119,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato Scoop",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Afghan Dry Fruit Gelato [1 Scoop]",
+      "description": "Enjoy Natural Low FAT Gelato with Dry Fruits and Crushed Rose Petals",
+      "media": "https://b.zmtcdn.com/data/dish_photos/736/4969ea53d9bd1965193ef1d4b97e1736.jpg",
+      "price": 119,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato Scoop",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ratnagiri Mango Gelato [1 Scoop]",
+      "description": "Low FAT Gelato made of Natural Ratnagiri Mango",
+      "media": "https://b.zmtcdn.com/data/dish_photos/48a/3de3b9216c5211bf4e38aee177aba48a.jpg",
+      "price": 119,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato Scoop",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Velvet Cheesecake Gelato [1 Scoop]",
+      "description": "Low FAT Gelato made of Cheesecake as Base and Dash of Red Velvet Spread as topping",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c25/a8005e807eefbfe6e7df1dca5d4fac25.jpg",
+      "price": 119,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato Scoop",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ferrero Rocher Gelato [ 1 Scoop]",
+      "description": "Low FAT Gelato made of Hazelnuts and Ferrero Rocher Chunks",
+      "media": "https://b.zmtcdn.com/data/dish_photos/208/4ed51f2899a5ad19dc5f86813ab25208.jpg",
+      "price": 119,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato Scoop",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ferrero Rocher Gelato [600 ml Tub]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/445a90b98a0203c73a9bba746afd192a.jpg",
+      "price": 499,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato 600 ml Tub",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kolkata Paan Gelato [600 ml Tub]",
+      "description": "Low FAT Gelato made of Paan and Paan Toppings",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/445a90b98a0203c73a9bba746afd192a.jpg",
+      "price": 399,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato 600 ml Tub",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Vanilla Gelato [600 ml Tub]",
+      "description": "Low FAT Gelato made of Premium French Vanilla Beans",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/445a90b98a0203c73a9bba746afd192a.jpg",
+      "price": 399,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato 600 ml Tub",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Belgian Chocolate Gelato [600 ml Tub]",
+      "description": "Natural & Low FAT Rich Chocolate Gelato with choco chips",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/445a90b98a0203c73a9bba746afd192a.jpg",
+      "price": 399,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato 600 ml Tub",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ratnagiri Mango Gelato [600 ml Tub]",
+      "description": "Low FAT Gelato made of Rich Ratnagiri Mango",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/445a90b98a0203c73a9bba746afd192a.jpg",
+      "price": 399,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato 600 ml Tub",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Mud Brownie Gelato [600 ml Tub]",
+      "description": "Low FAT Gelato made of Belgian Chocolate and Rich Brownie Chunks",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/445a90b98a0203c73a9bba746afd192a.jpg",
+      "price": 399,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato 600 ml Tub",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Velvet Cheesecake Gelato [600 ml Tub]",
+      "description": "Low FAT Gelato made of Cheesecake as Base and Dash of Red Velvet Spread as topping",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/445a90b98a0203c73a9bba746afd192a.jpg",
+      "price": 399,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato 600 ml Tub",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Afghan Dry Fruit Gelato [600 ml Tub]",
+      "description": "Enjoy Natural Low FAT Gelato with Dry Fruits and Crushed Rose Petals",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/445a90b98a0203c73a9bba746afd192a.jpg",
+      "price": 399,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato 600 ml Tub",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rich Nutella Gelato [600 ml Tub]",
+      "description": "Low FAT Gelato made of Rich Nutella Spread",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/445a90b98a0203c73a9bba746afd192a.jpg",
+      "price": 399,
+      "menuName": "Natural Gelato/Sorbets",
+      "categoryName": "Gelato 600 ml Tub",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rich Coco",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/261/778014d5ddb6af863d0293c720675261.png",
+      "price": 140,
+      "menuName": "Cold Coco",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kit Kat Coco",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a84/69db6493334c5fdcee8e15742a900a84.jpg",
+      "price": 149,
+      "menuName": "Cold Coco",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cashew Coco",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f00/e28f104526f0391a970d69343a934f00.jpg",
+      "price": 149,
+      "menuName": "Cold Coco",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brownie Coco",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2f2/dc51fdc7d3a528aee6b94b504a9d42f2.jpg",
+      "price": 149,
+      "menuName": "Cold Coco",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Almond Coco",
+      "description": "Rich Delicious Chocolate Drink",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f00/e28f104526f0391a970d69343a934f00.jpg",
+      "price": 149,
+      "menuName": "Cold Coco",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Summer Special Bel Sharbat-300ml",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7cf/e5446d4ef21fc9e3d121e38fcea0b7cf.jpeg",
+      "price": 169,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kolkata Paan Milkshake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/35d/c5a10708cfc5ba8e4c3a58304eae135d.jpg",
+      "price": 199,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Royal Kit Kat Milkshake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a84/69db6493334c5fdcee8e15742a900a84.jpg",
+      "price": 199,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rich Nutella Milkshake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/086/57d5e22aafcde69d5ffc75cbbb4c4086.jpg",
+      "price": 199,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Premium Chocolate Brownie Milkshake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5c4/2a0af620fa8a96c3ba7429e11873f5c4.jpg",
+      "price": 199,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Premium Brown and Browner Chocolate Milkshake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/525/dcb5c7e438821cf0b606a8b8db2c1525.jpg",
+      "price": 199,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Black Jamun Milkshake",
+      "description": "Milkshake with Natural Crushed Jamuns",
+      "media": "https://b.zmtcdn.com/data/dish_photos/849/f30afb9660291e8ac1e99814ae0de849.jpg",
+      "price": 199,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Afghan Dry Fruit Milkshake",
+      "description": "Milkshake with Dry Fruits and Crushed Rose Petals",
+      "media": null,
+      "price": 199,
+      "menuName": "Milkshakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "goods",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

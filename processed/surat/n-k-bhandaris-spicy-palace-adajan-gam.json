@@ -1,0 +1,806 @@
+{
+  "basicInfo": {
+    "name": "N.K Bhandari's Spicy Palace",
+    "cuisine_string": "Mughlai",
+    "canonicalUrl": "https://www.zomato.com/surat/n-k-bhandaris-spicy-palace-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.5",
+      "reviewCount": "13",
+      "reviewTextSmall": "13 Reviews",
+      "subtext": "13 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.5",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "196",
+      "reviewTextSmall": "196 Reviews",
+      "subtext": "196 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395009",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1924033356",
+    "longitude": "72.7937049419",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1924033356,72.7937049419&maptype=zomato&markers=21.1924033356,72.7937049419,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop G-2, Om Sai Appartment, Masjid Road, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+916354062491"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Chicken Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/841/3c14800edc8d6d21232a98e832b10841.png",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Leg Piece Dry [1 Piece]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f1/7d3d3fd017f488bec1d49680626923f1.png",
+      "price": 180,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lollipop Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/621/94aa5a1064274887188320ea0eecd621.png",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kaleji Dry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Chicken Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5d3/d0ec17873f1e5f3ad8828bd41abb15d3.png",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Mamna Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e32/48fcbfcfa2b5b1c31c0c1fb152849e32.png",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Dry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Malai Chicken Tikka",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Malai Cheese Tikka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c9e/d4b5036d0bb6ae8d6f6ebc7016276c9e.png",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Kaleji Dry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Mutton Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Mamna Dry [10 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Mutton Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Bheja Fry [1 Piece]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/32b/92fb3fd04452ad1e82e69671060c132b.png",
+      "price": 310,
+      "menuName": "Starters",
+      "categoryName": "Mutton Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/892/9b3ad9f2e2956dc48598689812ea2892.png",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Leg Piece Gravy [1 Piece]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/acd/57a41f3ea7a98377300dcd447e03aacd.png",
+      "price": 210,
+      "menuName": "Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lollipop Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c79/329898f6febcda51b57ffe63f2e98c79.png",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kaleji Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Chicken Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/25f/fb3f9ddef3585b47a7cbcde56364225f.png",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Mamna Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ff2/4f5bd8d708cc0c2f03ceb3fc56faeff2.png",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Green Chicken",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Tapelu",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Kaleji Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8ed/16067f492635a2d522a361610a5f38ed.png",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Mamna Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Bheja Gravy [1 Piece]",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Seafood",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "1 Plain Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b6e/d4f54d969017f487aa9415f88bfe2b6e.png",
+      "price": 17,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "1 Butter Roti",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "1 Plain Jowar Rotla",
+      "description": "",
+      "media": null,
+      "price": 28,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Rotla",
+      "description": "",
+      "media": null,
+      "price": 33,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaleji Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/01c/5067b75dc627a1f9b7092df9bc8a701c.png",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Zinga Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd8/32bc39e38105c87242b1cd33829e7dd8.png",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Biryani",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tikka Biryani",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0f5/3d292df3830d1437f50978d3cfff40f5.png",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sp.Chicken Mamna",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "N.k's special",
+      "categoryName": "Main course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sp.Mutton Mamna",
+      "description": "",
+      "media": null,
+      "price": 460,
+      "menuName": "N.k's special",
+      "categoryName": "Main course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sp.Chicken Lolipop",
+      "description": "",
+      "media": null,
+      "price": 400,
+      "menuName": "N.k's special",
+      "categoryName": "Main course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sp.Chicken Tikka",
+      "description": "",
+      "media": null,
+      "price": 400,
+      "menuName": "N.k's special",
+      "categoryName": "Main course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sp.Chicken Green Tikka",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "N.k's special",
+      "categoryName": "Main course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sp.Butter Cheese Leg",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "N.k's special",
+      "categoryName": "Main course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

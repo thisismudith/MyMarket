@@ -1,0 +1,2006 @@
+{
+  "basicInfo": {
+    "name": "Thalaivaa",
+    "cuisine_string": "South Indian, Desserts, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/thalaivaa-1-city-light/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.5",
+      "reviewCount": "1,045",
+      "reviewTextSmall": "1,045 Reviews",
+      "subtext": "1,045 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.5",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "800"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.3",
+      "reviewCount": "5,607",
+      "reviewTextSmall": "5,607 Reviews",
+      "subtext": "5,607 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.3",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "City Light, Surat",
+    "latitude": "21.1733668372",
+    "longitude": "72.7923309803",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1733668372,72.7923309803&maptype=zomato&markers=21.1733668372,72.7923309803,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 7, 8, 21, Lower Ground Floor, Meghmayar Plaza, Near Surat Municipal Corporation, City Light, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919824369222"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Steam Idli [3 Pieces]",
+      "description": "Soft savoury rice cake served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/48f/3da5979a5f910738d6015590a74b948f.jpeg",
+      "price": 90,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thattu Idli [2 Pieces]",
+      "description": "2 Large sized idli sprinkled with our house made Podi and topped with generous amount of butter served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b6/5095bb35bc8c58c76cdf0f7ecc9342b6.jpeg",
+      "price": 210,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Idli [10 Pieces]",
+      "description": "10 Pieces of small cute coin size idlis specially for kids served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e0e/67276ddbf3ab4009d79305bc30915e0e.jpeg",
+      "price": 150,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Idli [3 Pieces]",
+      "description": "Soft savoury rice cake topped with generous amount of butter served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9a1/db9ab46bf1727c6503a22f6a3f3e09a1.jpeg",
+      "price": 160,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idli Medu Vada [2 Pieces + 1 Piece]",
+      "description": "Soft savoury rice cake and crispy Vada served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea1/41e9a966b94bcce3ecc768f1ea6a4ea1.jpeg",
+      "price": 200,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Idli [2 Pieces]",
+      "description": "Idlis that are deep fried and made crunchy served with 3 different type of chutneys",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a66/e0d56282a0821d8a4fccf0842c6b6a66.jpeg",
+      "price": 170,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Idli",
+      "description": "Idli sauté with onion, garlic, coriander, tomatoes with a tangy taste served with 3 different type of chutneys",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cdd/3e709814f2f7c66c8dc0129affcbfcdd.jpeg",
+      "price": 200,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rasam Idli",
+      "description": "A soup of Spices and 2 pieces of Idli served with 3 different type of chutneys",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cdd/3e709814f2f7c66c8dc0129affcbfcdd.jpeg",
+      "price": 180,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Idli [3 Pieces]",
+      "description": "Soft savoury rice cake topped with lots of cheese served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e1c/8260cb09b5447a25f73db90678313e1c.jpeg",
+      "price": 180,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Idli",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "Masala Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal stuffed with potato masala(aloo bhaji) served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/894/b6e58563a11be8de8ae3f74d9e77a894.jpeg",
+      "price": 210,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Dosa",
+      "description": "Plain Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e37/04be55d2e7070fef55ff31986748de37.jpeg",
+      "price": 140,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Masala Dosa With Potato Bhaji",
+      "description": "Myosre Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal spiced with green chutney and house made Podi powder stuffed with potato masala(Aloo bhaji) served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/266/6f6fe92fe006e3b6f220ba31e8fb0266.jpeg",
+      "price": 220,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Onion Masala Dosa",
+      "description": "Rava Onion Masala Dosa is a thin, crispy, and savory pancake made with semolina, rice flour and spices stuffed with potato masala(aloo bhaji) topped with onions served 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c2f/15a404326599a28f9c32cccf6b214c2f.jpeg",
+      "price": 230,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chetinaad Dosa",
+      "description": "Chetinaad Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal spiced with chetinaad(tomato) chutney and house made Podi powder served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9df/60f6b1ea57d328b267d5664b7b0de9df.jpeg",
+      "price": 250,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Dosa",
+      "description": "Cheese Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal topped with plenty of cheese served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/34f/6db1d75698b4dcaed47789c54902c34f.jpeg",
+      "price": 170,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Onion Dosa",
+      "description": "Rava Onion Dosa is a thin, crispy, and savory pancake made with semolina, rice flour and spices topped with onions served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/065/ef3bdc9a05cfb1c96fc864f18c39f065.jpeg",
+      "price": 190,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Dosa Platter",
+      "description": "Mini Dosa Platter consists of 3 different dosa namely Plain, Mysore Dosa & Chetinaad Dosa served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b2/692d55e965f3b201da78398cdbdd98b2.jpeg",
+      "price": 250,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Dosa",
+      "description": "Myosre Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal spiced with green chutney and house made Podi powder served with 3 different type of chutneys and sambhar.",
+      "media": null,
+      "price": 190,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Roast Dosa",
+      "description": "Paneer roast dosa is a delicious South Indian dish that combines the flavors of paneer (Indian cottage cheese) roast with the popular dosa mixed with onion, tomato, house made Podi powder served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d69/da97d370970bb6a483ac3d6828e23d69.jpeg",
+      "price": 280,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Dosa",
+      "description": "Rava Dosa is a thin, crispy, and savory pancake made with semolina, rice flour and spices served with 3 different type of chutneys and sambhar.",
+      "media": null,
+      "price": 180,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ghee Podi Dosa",
+      "description": "Ghee Podi Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal topped with generous amount of GHEE and PODI powder served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3d1/6d2044d9a172aeacaa1c3bd94c5a83d1.jpeg",
+      "price": 200,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Masala Dosa",
+      "description": "Rava Masala Dosa is a thin, crispy, and savory pancake made with semolina, rice flour and spices stuffed with potato masala(aloo bhaji) served with 3 different type of chutneys and sambhar.",
+      "media": null,
+      "price": 220,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Neer Dosa",
+      "description": "Neer Dosa Literally means Water Dosa In Kannada. It is made with rice and coconut flavour and served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/903/f370a5c528bbe00606845e34265b9903.jpeg",
+      "price": 180,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Dosa",
+      "description": "Onion Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal topped with onions served with 3 different type of chutneys and sambhar.",
+      "media": null,
+      "price": 170,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Masala Dosa",
+      "description": "Onion Masala Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal stuffed with potato masala(Aloo bhaji) & topped with onions served with 3 different type of chutneys and sambhar.",
+      "media": null,
+      "price": 210,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Raagi Dosa [Millet Dosa]",
+      "description": "Ragi dosa, also known as finger millet dosa, is a nutritious and gluten-free South Indian pancake made from ragi flour served with 3 different type of chutneys and sambhar.",
+      "media": null,
+      "price": 190,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Set Dosa With Vadai Curry",
+      "description": "Set Dosa also known as Sponge Dosa is a thick, soft and fluffy Dosa variety made with rice, urad dal, fenugreek seeds and poha served with Vadai curry and 3 different types of chutneys.",
+      "media": null,
+      "price": 250,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Beetroot Dosa",
+      "description": "Beetroot dosa is a colorful and nutritious variation of the traditional South Indian dosa, incorporating beetroot into the batter served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a8f/3c5c71bca59f765f4088921ba7b78a8f.jpeg",
+      "price": 210,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coconut Dosa",
+      "description": "Coconut Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal topped with freshly grated coconut, onions & coriander served with 3 different type of chutneys and sambhar.",
+      "media": null,
+      "price": 210,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Patta Dosa",
+      "description": "Patta dosa is made by infusing the batter on Banana leaf and roasting it on the grill on both sides along with coconut, onion, house made Podi Powder & coriander served with 3 different type of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d3a/8b262e3fae5fab7fd7ea039f9aa2fd3a.jpeg",
+      "price": 250,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ghee Podi Masala Dosa",
+      "description": "Ghee Podi Masala Dosa is a thin, crispy, and savory pancake made from a batter of fermented rice and urad dal topped with generous amount of GHEE and PODI powder stuffed with potato masala(Aloo bhaji) served with 3 different type of chutneys and sambhar.",
+      "media": null,
+      "price": 220,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Open Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/227/53e72c050e6310f067f88e18b177a227.jpeg",
+      "price": 230,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Adai Dosa With Avial",
+      "description": "Adai dosa is a savory pancake made from a batter consisting of mixed lentils and rice. Avial, on the other hand, is a traditional South Indian vegetable curry or stew made with a variety of vegetables like carrots, beans, drumsticks, potatoes cooked in a coconut-based gravy flavored with curry leaves and cumin served with 3 different types of chutneys.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/198/feafd7b721c9ff4e23d6566585aee198.jpeg",
+      "price": 260,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Dosa",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Tomato Utthapam",
+      "description": "Onion Tomato utthapam is a variation of dosa, which is slightly thick topped with Onion, tomato, green chilly and coriander served with 3 different types of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8cd/5ffa089f927773280c55a9577ade48cd.jpeg",
+      "price": 230,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Utthapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Utthapam",
+      "description": "Masala utthapam is a variation of dosa, which is slightly thick topped with Onion, tomato, aloo bhaji, green chilly and coriander served with 3 different types of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3eb/549c543b956bee2ee235dc811b8fa3eb.jpeg",
+      "price": 250,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Utthapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Utthapam",
+      "description": "Onion utthapam is a variation of dosa, which is slightly thick topped with Onion, green chilly and coriander served with 3 different types of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/817/3e8235acf98bacdb5f310e356b0ec817.jpeg",
+      "price": 210,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Utthapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Utthapam",
+      "description": "Tomato utthapam is a variation of dosa, which is slightly thick topped with tomato, green chilly and coriander served with 3 different types of chutneys and sambhar.",
+      "media": null,
+      "price": 210,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Utthapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Utthapam Platter",
+      "description": "Four different types of utthapam (Plain, Tomato, Onion and Masala) served with 3 different types of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/908/0527ec1483d8e28d8ed3f07e3d515908.jpeg",
+      "price": 350,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Utthapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Utthapam",
+      "description": "Plain utthapam is a variation of dosa, which is slightly thick topped with coriander served with 3 different types of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2a4/a96af546bca1bad7bc46cab357f4b2a4.jpeg",
+      "price": 180,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Utthapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coconut Utthapam",
+      "description": "Coconut utthapam is a variation of dosa, which is slightly thick topped with freshly grind coconut, green chilly and coriander served with 3 different types of chutneys and sambhar.",
+      "media": null,
+      "price": 210,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Utthapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Podi Utthapam",
+      "description": "Ghee podi uttapam is a variation of dosa, which is slightly thick topped with generous amount of ghee and podi, green chilly and coriander served with 3 different types of chutneys and sambhar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/18f/688049ae55518373bbe090640e0ad18f.jpeg",
+      "price": 210,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Utthapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Medu Vada [2 Pieces]",
+      "description": "Crispy from outside and soft from inside Vada served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a09/a17961d2eeb693ff941d88e442d35a09.jpeg",
+      "price": 150,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Medu Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Daal Vada [6 Pieces]",
+      "description": "Crispy fried Vada(fritters) made with lentils and mixed with spices and herbs served with 3 different type of chutneys",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7b8/32573ce74a724b7df96184422bee77b8.jpeg",
+      "price": 170,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Medu Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thairu [Curd] Vada [2 Pieces]",
+      "description": "Extremely soft Vada mixed with generous amount of sweet curd topped with pomegranate and cumin powder",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d94/c5a5e57c5fe778a1c936906384f1fd94.jpeg",
+      "price": 160,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Medu Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Medu Vada [2 Pieces]",
+      "description": "Crispy from outside and soft from inside Vada mixed with onion served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a09/a17961d2eeb693ff941d88e442d35a09.jpeg",
+      "price": 160,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Medu Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rasam Vada [6 Pieces]",
+      "description": "A soup of Spices and 6 pieces of small round shaped vada served with 3 different type of chutneys",
+      "media": "https://b.zmtcdn.com/data/dish_photos/37b/41e4f84b05004ad0400313e253f1d37b.jpeg",
+      "price": 200,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Medu Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Medu Vada Platter",
+      "description": "1 pc Medu Vada, 1 pc Onion Medu Vada and 2 pieces of Daal Vada served with 3 different type of chutneys and sambhar",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1f6/d053cba632da84f0033ad0e854ada1f6.jpeg",
+      "price": 230,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Medu Vada",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Upma",
+      "description": "A popular South Indian breakfast with Suji flour(Rava/Semolina), veggies, spices and herbs.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c84/6bf529d7b8b7da1ca33278f0b5dd5c84.jpeg",
+      "price": 200,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Upma",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Upma",
+      "description": "A popular South Indian breakfast with Suji flour(Rava/Semolina) spices and herbs.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c84/6bf529d7b8b7da1ca33278f0b5dd5c84.jpeg",
+      "price": 180,
+      "menuName": "South Indian Dishes",
+      "categoryName": "Upma",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Ginger With Water",
+      "description": "Lemon ginger water is a refreshing beverage infused with the zesty tang of lemon and the spicy warmth of ginger along with sugar.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ab0/b86ef2b15ee3c074fc4199667463eab0.jpeg",
+      "price": 90,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coconut Sweet Lassi",
+      "description": "Coconut Sweet lassi has creamy texture and refreshing taste made with yogurt, sugar, infused with freshly grated coconut and topped with Almonds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/647/eb5dbaf9dcfbb690c5d11818e97de647.jpeg",
+      "price": 150,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Milk [Neer Mor]",
+      "description": "Buttermilk(Chaas) is a smooth and creamy dairy beverage with a tangy flavor profile",
+      "media": null,
+      "price": 110,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Fresh Lime Soda",
+      "description": "Freshly squeezed limes sweetened with a syrupy infusion of sugar mixed with cold soda water.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4c6/b22f80d8f3f8a940f558bb7f266f94c6.jpeg",
+      "price": 110,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Lassi",
+      "description": "Sweet lassi is a delicious Indian beverage which has creamy texture and refreshing taste made with yogurt, sugar and topped with Almonds.",
+      "media": null,
+      "price": 130,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Ginger With Soda",
+      "description": "Lemon ginger with soda is a refreshing beverage that combines the zesty citrus flavor of lemon, the warm spiciness of ginger, and the refreshing fizz of soda water along with sugar.",
+      "media": null,
+      "price": 110,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coke",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "coke",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "coke",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sprite",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "sprite",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "sprite",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "commission-free",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salty Fresh Lime Soda",
+      "description": "Adding a pinch of salt to freshly squeezed limes mixed with cold soda water.",
+      "media": null,
+      "price": 110,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Plain Dosa + Steam Idli [2 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/57c/60ee95bc09570519fbe9e45e1495e57c.jpeg",
+      "price": 119,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steam Idli [2 Pieces] + 250 ML Thums Up",
+      "description": "| Serves 1 , 2 Pcs | | Not spicy |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/244/16c5bf0bd6a9a79419da79de9e216244.jpeg",
+      "price": 99,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "sf-no-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "sf-no-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Masala Dosa + 200 ML Butter Milk",
+      "description": "| Serves 1 |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fab/792a8a4abd33599c36136b614f004fab.jpeg",
+      "price": 139,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thattu Idli [1 Pieces] + 100 ML Rasam",
+      "description": "| Serves 1 |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9a0/fa68b2dff0423b2567566ebbea8fd9a0.jpeg",
+      "price": 119,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Chetinaad Dosa + 200 ML Butter Milk",
+      "description": "",
+      "media": null,
+      "price": 149,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Chetinaad Dosa + 250 ML Thumps Up",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ad5/9c22a8d371540980f974ee1c970fcad5.jpeg",
+      "price": 159,
+      "menuName": "Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thairu Sadham [Curd Rice]",
+      "description": "Curd Rice is a South Indian dish where rice is simply mixed with curd and salt. It is later finished off with a flavorful tempering made with basic whole spices & curry leaves. Garnished with some coriander leaves and Pomegranate. Served with Aplam(Papad)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7e3/0da52c6bd7d67439b57ce7fbc13d77e3.jpeg",
+      "price": 200,
+      "menuName": "Variety Of Sadham [Rice]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rasam Rice",
+      "description": "Served With Aplam[Papad]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9e6/dbba3b14ed71b77c56dd4daa34f0d9e6.jpeg",
+      "price": 160,
+      "menuName": "Variety Of Sadham [Rice]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bisibella Bhaat",
+      "description": "Bisibella Bhaat is a flavourful dish made with rice, lentils and vegetables that is tempered with typical South Indian spices and nuts. A special spice blend called the Bisibella Bhaat Sambhar is also added to it, which gives it the authentic taste. Served with Aplam(Papad).",
+      "media": "https://b.zmtcdn.com/data/dish_photos/49f/c94e20b7b662c69bc68f69a7f766849f.jpeg",
+      "price": 310,
+      "menuName": "Variety Of Sadham [Rice]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dakshini Veg Biryani With Raita",
+      "description": "Dakshina Veg Biryani is an aromatic rice dish made with basmati rice, mix veggies, herbs & house made South Indian Style spices served with Raita. Served with Aplam(Papad)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/610/bb167160164ff3efb834919ea90bb610.jpeg",
+      "price": 320,
+      "menuName": "Variety Of Sadham [Rice]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Sadham",
+      "description": "Lemon rice has a delicate flavour of fresh lemon juice and nutty aroma of the tempered ingredients like lentils, spices and herbs. Served with Aplam(Papad)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/854/cc53cf2acdf6428bffb9d82df7e67854.jpeg",
+      "price": 260,
+      "menuName": "Variety Of Sadham [Rice]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Sadham",
+      "description": "Tomato Rice is a simple, spicy, flavorful & delicious dish made with rice, tomatoes, spices & herbs. Served with Aplam(Papad)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ec9/b287578b3ab648e90740535954c71ec9.jpeg",
+      "price": 260,
+      "menuName": "Variety Of Sadham [Rice]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tamarind Sadham",
+      "description": "Tamarind rice is a popular South Indian delicacy which is tangy, sour & spiced flavour. Also known as Puliyogare rice. Served with Aplam(Papad)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/faa/6d11f1df4638ecc03ee68b190d76afaa.jpeg",
+      "price": 260,
+      "menuName": "Variety Of Sadham [Rice]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Puri Bhaji [4 Puri]",
+      "description": "4 pieces of Puri served with South Indian style aloo bhaji",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5ee/8444a481f84a718fc707ad38de8f15ee.jpeg",
+      "price": 120,
+      "menuName": "Thalaivaa Special Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kuzhi Paniyaram Rice Balls",
+      "description": "[Soft Inside, Crispy Outside]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b4e/be5f736e4881ffa1c49df88399078b4e.jpeg",
+      "price": 210,
+      "menuName": "Thalaivaa Special Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aapam With Stew",
+      "description": "Bowl shaped Dosa having a sweet mild coconut flavour served with Stew(made of carrot, beans, coconut milk and spices) served with 3 different type of chutneys",
+      "media": "https://b.zmtcdn.com/data/dish_photos/529/6bd5996604406d750c0e6cd4b81b0529.jpeg",
+      "price": 250,
+      "menuName": "Thalaivaa Special Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato Bonda With Chutney",
+      "description": "Bonda is a deep-fried South Indian potato snack with savory flavour served with 3 different types of chutneys.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/886/97cc8898d8830f836c98e2293fdb0886.jpg",
+      "price": 170,
+      "menuName": "Thalaivaa Special Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ven Pongal",
+      "description": "Ven Pongal is a traditional South Indian dish made with ghee, rice and lentils served with 3 different type of chutneys",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edf/c155823f29bf7749e222062e5f28aedf.jpeg",
+      "price": 240,
+      "menuName": "Thalaivaa Special Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iddiyapam With Vadai Curry",
+      "description": "Sevai Made of rice flour served with Vadai Curry(made of lentil Vada, coconut milk and many spices) and three different types of chutneys.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/59b/f4e8695355f7f50e5687b10a6d99859b.jpeg",
+      "price": 240,
+      "menuName": "Thalaivaa Special Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aapam With Vadai Curry",
+      "description": "Bowl shaped Dosa having a sweet mild coconut flavour served with Vadai Curry(made of lentil Vada, coconut milk and many spices) served with 3 different type of chutneys",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f8/b3fb36ae929141de95e317d410f159f8.jpeg",
+      "price": 260,
+      "menuName": "Thalaivaa Special Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thairu Bundi [Curd]",
+      "description": "Thairu meaning Dahi in South India mixed with Bundi and tadka.",
+      "media": null,
+      "price": 170,
+      "menuName": "Thalaivaa Special Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iddiyapam With Butter Podi",
+      "description": "Sevai Made of rice flour and tempering with butter, podi and seasoning served with three different types of chutneys.",
+      "media": null,
+      "price": 220,
+      "menuName": "Thalaivaa Special Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-mithai",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-mithai",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "South Indian Sapad [Thali]",
+      "description": "| Serve 1 | | Not spicy | Rice Chapati [2 Pieces] + Kulumbu [Gravy Sabji] + Kootu [Semi Gravy Sabji] + Poriyal [Dry Sabji] + Rasam [Dal/Tomato] + Steam Rice + Sapad Sambhar + Daal Vada [2 Pieces] + Aplam [Papad] [2 Pieces] + Payasam/Kesari Bhaat + Thairu [Curd] + Pickle + Lemon Ginger |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2cf/425983d96b1313df7404ec3f4f0762cf.jpeg",
+      "price": 430,
+      "menuName": "South Indian Sapad [Thali]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-no-spicy",
+        "sf-mithai",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-no-spicy",
+        "sf-mithai",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aplam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a35/1fc721c8a86d9be853b92a08c3438a35.jpeg",
+      "price": 65,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Puri [2 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rice",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Podi Powder",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/457/80ec7d8df34a6db29a0cc38e189d4457.jpeg",
+      "price": 50,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rice Roti",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Bhaji",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thairu [Curd]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b8/57c5a9088ec57e0da0a4359c56ec71b8.jpeg",
+      "price": 70,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aapam - Bowl Dosa",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Raita",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Kesari",
+      "description": "Pineapple Kesari Bhaat is a rich sweet made with rava, sugar, nuts, saffron, water and ghee infused with Pineapple chunks and topped with almonds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/657/b9e8f04430d12a77b4a60f37f1597657.jpeg",
+      "price": 190,
+      "menuName": "South Indian Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "services",
+        "discounted-addon",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Payasam With Vermicelli",
+      "description": "Payasam is a pudding/porridge made by boiling milk, sugar, cashews, cardamom, raisins and rice sevai.",
+      "media": null,
+      "price": 170,
+      "menuName": "South Indian Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "home-style-meal",
+        "services",
+        "category-slab-1",
+        "sf-mithai",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "home-style-meal",
+        "services",
+        "category-slab-1",
+        "sf-mithai",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesari Bhaat",
+      "description": "Kesari Bhaat is a rich sweet made with rava, sugar, nuts, saffron, water, ghee and topped with almonds.",
+      "media": null,
+      "price": 190,
+      "menuName": "South Indian Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coconut Kesari Bhaat",
+      "description": "Coconut Kesari Bhaat is a rich sweet made with rava, sugar, nuts, saffron, water and ghee infused with coconut and topped with almonds.",
+      "media": null,
+      "price": 190,
+      "menuName": "South Indian Dessert",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Rasam",
+      "description": "Tomato Rasam is a tangy and aromatic South Indian soup made primarily with tomatoes, tamarind, ginger, garlic and a blend of spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d2b/31d02c6843294166aa2c4e3b1fda6d2b.jpeg",
+      "price": 140,
+      "menuName": "Rasam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Daal Rasam",
+      "description": "Daal Rasam, also known as Paruppu Rasam, is a traditional South Indian soup-like dish made from cooked lentils and a flavorful Garlic, ginger and tamarind broth and a blend of spices.",
+      "media": null,
+      "price": 140,
+      "menuName": "Rasam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Avial",
+      "description": "Avial is a traditional South Indian vegetable curry or stew made with a variety of vegetables like carrots, beans, drumsticks, potatoes cooked in a coconut-based gravy flavored with curry leaves and cumin served with 3 different types of chutneys.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/96b/598e3cce4c20dfa984a4b1e490e4396b.jpeg",
+      "price": 100,
+      "menuName": "Traditional South Indian Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kootu [Semi-Gravy Sabji]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d5/8a2694857105016b702b1be80933a9d5.jpeg",
+      "price": 120,
+      "menuName": "Traditional South Indian Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulumbu [Gravy Sabji]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/327/018bd96fa02c1498125280f90f915327.jpeg",
+      "price": 120,
+      "menuName": "Traditional South Indian Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vadai Curry",
+      "description": "Vadai Curry is a flavorful and hearty South Indian dish made with vada, which are savory lentil fritters, cooked in a spiced and tangy curry sauce in coconut milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/327/018bd96fa02c1498125280f90f915327.jpeg",
+      "price": 100,
+      "menuName": "Traditional South Indian Gravy",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

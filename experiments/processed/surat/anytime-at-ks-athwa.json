@@ -1,0 +1,2219 @@
+{
+  "basicInfo": {
+    "name": "Anytime at K’s",
+    "cuisine_string": "Bakery, Coffee, Sushi",
+    "canonicalUrl": "https://www.zomato.com/surat/anytime-at-ks-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "1",
+      "reviewTextSmall": "1 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.3",
+      "reviewCount": "275",
+      "reviewTextSmall": "275 Reviews",
+      "subtext": "275 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.3",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1757838057",
+    "longitude": "72.7952818257",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1757838057,72.7952818257&maptype=zomato&markers=21.1757838057,72.7952818257,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 501, 5th Floor, Acropolice, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919898776659"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Soba Noodles",
+      "description": "Stir fry black wheat japnese thin noodles with soy sauce, flavour some veggies topping chives japanese togarashi powder.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4c7/28b01ac9bb8e2b2913bcee02496944c7.jpeg",
+      "price": 495,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Paneer Chilly With Jasmin Fried Rice",
+      "description": "Soya base chilli paneer in semi gravy bell pepper chilli, combination with jasmine fried rice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a1d/b691f480bac4a1c00f53270869843a1d.jpeg",
+      "price": 510,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shahi Paneer With Keral Paratha",
+      "description": "Paneer in a classic tomato & cream gravy, served with flaky malabar parotta.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cec/f501df1aee965bd6c616ebe19aa89cec.jpeg",
+      "price": 540,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Black Rice With Edamame Truffle",
+      "description": "Aromatic black rice mixed with tru e oil & edamame.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f1b/e5b2f8b582223db566718e0270db9f1b.jpeg",
+      "price": 545,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mac And Cheese",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/633/16c7b482caca5024f5a1ca9d5177d633.jpeg",
+      "price": 440,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Tomato Pasta",
+      "description": "Tubular shaped macaroni, made in a spicy tomato & cream sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/281/c7dfe552f98484931dc95e99ac35c281.jpeg",
+      "price": 465,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Makhani With Jasmine Rice",
+      "description": "A modern variation of traditional lentil, it is made with urad dal (black lentils) & other pulses, buttery & creamy flavour served with jasmine rice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b0f/a01027a05e0cf33300474772283b8b0f.jpeg",
+      "price": 480,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Buddha Peanut Curry Bowl",
+      "description": "Sauted mushroom & tofu, jasmine rice in peanut sauce, garnished with coriander & peanut chunks.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a99/9c29168ccfb2a7d25bf4fe949957fa99.jpeg",
+      "price": 545,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Misal Pav",
+      "description": "A spicy curry made with lentil or moth beans, topped with farsan / sev & cilantro.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d1/a8a5bdb9c5cfea21212e50bffb8eb9d1.jpeg",
+      "price": 340,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer chilly starter",
+      "description": "Soya base chilli paneer in semi gravy bell pepper chilli.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/682/744bfa570ce9e68a85b996793a943682.jpeg",
+      "price": 510,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Sticks 2.O",
+      "description": "Infused with house-blend spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fec/5eab098e5a4409201ff0d19823f19fec.jpeg",
+      "price": 300,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Makhani With Keral Paratha",
+      "description": "A modern variation of traditional lentil, it is made with urad dal (black lentils) & other pulses, buttery & creamy flavour served with keral paratha.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/db1/40fc1f46e56f48177b39f9f61d168db1.jpeg",
+      "price": 480,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b48/6fd7086bb69dfabecc3d71e778ed4b48.jpeg",
+      "price": 265,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plum & Rocket Salad",
+      "description": "",
+      "media": null,
+      "price": 440,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Soya Kheema",
+      "description": "Served with house  made pav and garnished with chopped onion and sliced lemon.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/27e/dbc024a545d155385360e59c18be127e.jpeg",
+      "price": 490,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tofu Akuri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/38c/59db25dafc16577e5e23a0e2ed5c838c.jpeg",
+      "price": 365,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh White Corn Chips",
+      "description": "With salsa, sourcream & guacamole.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0bc/1bbac156d7fdbc10ff3e345dc6a600bc.jpeg",
+      "price": 465,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Breakfast Tacos",
+      "description": "Soft tortis filling with spicy soya chunks & avocado, topped with sour cream & salsa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b7c/2616c7a56e9bf1526d6cc20542b18b7c.jpeg",
+      "price": 490,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hummus With Pita",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c42/9bc3157b37b7c15872143905be9a8c42.jpeg",
+      "price": 510,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tempura Avocado Tacos",
+      "description": "Corn tortilla, sour cream, tempura avocado, home made chipotle sauce, carrot, jalapeno, coriander.",
+      "media": null,
+      "price": 490,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Bao",
+      "description": "Crispy shitake mushroom, truffle mayonnaise, smoke mushroom, bird eye chilli & fried garlic.",
+      "media": null,
+      "price": 540,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Loaded Sweet Potato Fries",
+      "description": "Air fried sweet potato, guacamole, sour cream, jalapeno & scallion.",
+      "media": null,
+      "price": 265,
+      "menuName": "Tapas Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tempura Asparagus Sushi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fb5/7b07ba1d80edd96f14f1a087ed101fb5.jpeg",
+      "price": 565,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Creamy Avocado Sushi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d27/75cd6e634c1180a3f212ef9472292d27.jpeg",
+      "price": 565,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Ramen Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a9e/03c3498510341982e596dc3f40359a9e.jpeg",
+      "price": 565,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Korean Ramen Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b7/bb15982edcea09145b7cbffcd3e1d2b7.jpeg",
+      "price": 565,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Mock Burger",
+      "description": "Crispy mock meat patty with cheddar cheese garkin & in our hot souce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/91d/f518c3569d6398ad1ae66bbeb25f591d.jpeg",
+      "price": 400,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Edamame Cucumber Truffle Sushi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/37e/1cdda514365366633187d1bdec4a637e.jpeg",
+      "price": 565,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Creamy Coconut Ramen Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/61c/032db787f09540019bd8b1387953f61c.jpeg",
+      "price": 580,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegan Miso Chilli Ramen Bowl",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/398/ed32cf8d14ac71450258b320256c8398.jpeg",
+      "price": 590,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Paneer Burger",
+      "description": "Grilled cottage cheese patty with onion, toamato, romaine lettuce in our hot sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c68/c02e26b469ef0db596cdb895d4267c68.jpeg",
+      "price": 400,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Chives & Scallion Sushi",
+      "description": "Cream cheese in ponzu dressed with crispy tempura, chives & scallion.",
+      "media": null,
+      "price": 565,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Enoki Truffle Roll",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/385/f1037624ba036c2f1cb560aac6c03385.jpeg",
+      "price": 565,
+      "menuName": "Sushi, Ramen Bowls and Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Sandwich",
+      "description": "House-made basil pesto, tomato fresh bu alo mozzarella cheese, olive oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d70/c6e307d2e1357a2339b8c97881cc1d70.jpeg",
+      "price": 390,
+      "menuName": "Sourdough, Sandwiches and more",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Avocado Toast",
+      "description": "With tomato, avocado, fresh mozzarella, basil pesto.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ee9/47fa4d4dc8a9af1b3ec09b42d9804ee9.jpeg",
+      "price": 490,
+      "menuName": "Sourdough, Sandwiches and more",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grilled Cheese Sandwich",
+      "description": "A comfort menu must-have. cheese toasted to perfection between two toasted sourdough slices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/720/f4a3c417da99529432cde1a218a6f720.jpeg",
+      "price": 390,
+      "menuName": "Sourdough, Sandwiches and more",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hummus Sandwich",
+      "description": "Textured hummus, with the goodness of pickeled veggies & toasted sourdough.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e89/4db08accda72a1d6a7ccac2a6037ee89.jpeg",
+      "price": 390,
+      "menuName": "Sourdough, Sandwiches and more",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burrata Cheese And Basil Pesto Bowl",
+      "description": "Soft and delicious ball of cheese, house-made pesto and sourdough.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/45f/2c40ccaed6a56e921871fef14762845f.jpeg",
+      "price": 610,
+      "menuName": "Sourdough, Sandwiches and more",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Truffle Cream Cheese , Lemon Aioli & Olive Oil",
+      "description": "The ultimate trio of dips - cheesy, zesty & flavourful.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c34/d44eade4cb7317fc31a650106836ec34.jpeg",
+      "price": 390,
+      "menuName": "Sourdough, Sandwiches and more",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hummus Sandwich 2.O",
+      "description": "Hummus, lemon grass cream cheese, tomato,cucumber, pickled onion, curried mushroom & micro green.",
+      "media": null,
+      "price": 390,
+      "menuName": "Sourdough, Sandwiches and more",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tuscan Garden Sandwich",
+      "description": "Pomodoro, fresh mozzarella, zucchini, bell pepper & arugula.",
+      "media": null,
+      "price": 390,
+      "menuName": "Sourdough, Sandwiches and more",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Banana Bread",
+      "description": "Ghee, coconut sugar, whole wheat & 65% single origin cocoa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a7a/ec6351fb51c3740b9b96813fd5a1da7a.jpeg",
+      "price": 239,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pain Au Chocolate Croissant",
+      "description": "55% Cocoa & 84% french butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b24/3b510efb98910985beb53676a3c9cb24.jpeg",
+      "price": 279,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Croissant",
+      "description": "With 84% french butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e88/c0768c6383a83b3c2dd26e1f0d873e88.jpeg",
+      "price": 264,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Toast(Tiramisu)",
+      "description": "Toasted In unsalted butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cef/c7c7e9516593a90cc00306ec33dcccef.jpeg",
+      "price": 340,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Twix And Chocolate Cheesecake",
+      "description": "",
+      "media": null,
+      "price": 400,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Brownie",
+      "description": "65% Cocoa single origin.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/41c/63d513488e9b4de711a8f18ef7fe541c.jpeg",
+      "price": 340,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Smoothie Bowl",
+      "description": "Granola homemade, cocoa nibs, caramelised coconut, seasonal fruits, basil seeds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef5/f60761313995f82bbdb0cb313bb1eef5.jpeg",
+      "price": 440,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wheat Pancake",
+      "description": "With maple & seasonal fruit.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/19d/471e57df6df265adc232c687d964819d.jpeg",
+      "price": 364,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lisbon Cake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b23/386cb5e6414d6bd1ee60068f70d14b23.jpeg",
+      "price": 440,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-cake",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-cake",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dark Cherry And White Chocolate Cheesecake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5ff/3367dd9bd561451909212c27288785ff.jpeg",
+      "price": 400,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pain Au Pecan Chocolate Croissant",
+      "description": "Made With 55% Cocoa And 84% French Butter, Stu\u001fed With Pecan Pralines.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/097/998e15311d309bf5b7a5c9b8aec46097.jpeg",
+      "price": 390,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sliced Double Baked Croissant",
+      "description": "Served With Dark Chocolate Mousse.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/049/764dd46921ada8d2edbc077816ea1049.jpeg",
+      "price": 340,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cookies",
+      "description": "",
+      "media": null,
+      "price": 165,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Granola Jars",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Croissant, Desserts and Fresh Bakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sourdough Loaf (Rye Flour + All Purpose Flour + Wheat)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/14a/db89492187585900aa2c045d5f56c14a.jpeg",
+      "price": 290,
+      "menuName": "Take Away",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sourdough Loaf(Green Olive + Black Olive)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/403/413cfd8621115c4036c917a7973a2403.jpeg",
+      "price": 290,
+      "menuName": "Take Away",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Milk Loaf",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b27/ed743f0522dcfa01e2e8217fc6505b27.jpeg",
+      "price": 390,
+      "menuName": "Take Away",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Cold Cofee",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e2/cef87865d60c6a66eff072edcc6838e2.jpeg",
+      "price": 265,
+      "menuName": "Your Anytime Classics",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Chocolate",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1d9/98ab8fd6e3fd359f673d49b65a0981d9.jpeg",
+      "price": 340,
+      "menuName": "Your Anytime Classics",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Chocolate",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f5f/2cf2813c1a00c0313948ae3e0f94cf5f.jpeg",
+      "price": 340,
+      "menuName": "Your Anytime Classics",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ginger Lemon Kombucha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/17c/c5a4cef7ee36439e239f1c45abc2b17c.jpeg",
+      "price": 275,
+      "menuName": "Your Anytime Classics",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "G & T",
+      "description": "Fresh grape fruit cordial with tonic.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a32/4617fd52e64f77bac234ef6cc1c8ba32.jpeg",
+      "price": 310,
+      "menuName": "Your Anytime Classics",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Apple Cinnamon Kombucha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/17c/c5a4cef7ee36439e239f1c45abc2b17c.jpeg",
+      "price": 275,
+      "menuName": "Your Anytime Classics",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Latte (Coconut Milk)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e2/cef87865d60c6a66eff072edcc6838e2.jpeg",
+      "price": 265,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vietnamese Iced Coffee",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/632/5660caf1c422612c6397bbc3ab447632.jpeg",
+      "price": 265,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coconut Vietnamese Iced Coffee",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2da/f37e19b161989f3c8d75afb9ee7cd2da.jpeg",
+      "price": 265,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Tonic",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e39/db43c87cdb930f69065e21479c931e39.jpeg",
+      "price": 335,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Latte",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e2/cef87865d60c6a66eff072edcc6838e2.jpeg",
+      "price": 265,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Americano",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a37/32d867d430203debdc4ae4b637ecfa37.jpeg",
+      "price": 195,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Latte (Oat Milk)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e2/cef87865d60c6a66eff072edcc6838e2.jpeg",
+      "price": 265,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Cinnimon Maple Latte",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e2/cef87865d60c6a66eff072edcc6838e2.jpeg",
+      "price": 265,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Espresso",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/558/b0d1c732b3ee2e93d587726e50a0a558.jpeg",
+      "price": 195,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Mocha Latte",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/38f/e8c78f9f7a9236ea2e31a72e36b1b38f.jpeg",
+      "price": 365,
+      "menuName": "Espresso Iced Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew With Tonic",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e39/db43c87cdb930f69065e21479c931e39.jpeg",
+      "price": 265,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Barrel Aged Cold Brew",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/49d/cbd5552746a6ca177da1e8a7dc11449d.jpeg",
+      "price": 265,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/49d/cbd5552746a6ca177da1e8a7dc11449d.jpeg",
+      "price": 250,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew With Grapefruit & Rosemary Tonic",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bf7/cbb7eae9122783948f3a3d8795544bf7.jpeg",
+      "price": 335,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew With Blood Orange & Elder Flower Tonic",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c3b/5eeaaa64fbdc9ec44e6d1e1826ba3c3b.jpeg",
+      "price": 335,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew With Ginger Ale",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/09d/da85019250df0b4ab09f4d801785909d.jpeg",
+      "price": 265,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew with Orange Juice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/412/220c7eb9b38d090a7ab722dc0be5f412.jpeg",
+      "price": 295,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Barrel Aged Cold Brew Tonic",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/02d/cf92c0b39ece499a4c7311e6b9ad202d.jpeg",
+      "price": 335,
+      "menuName": "Cold Brew",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "V60 Pour Over Iced",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/adf/f4025e98cc72ebc93b7cd06bd8e6eadf.jpeg",
+      "price": 265,
+      "menuName": "V60 Pour Over",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "V60 Pour Over Hot",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a16/b27429b04e52cc9064258c0e8a337a16.jpeg",
+      "price": 265,
+      "menuName": "V60 Pour Over",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69a/c631eb41249d085c69c0625a6004069a.jpeg",
+      "price": 240,
+      "menuName": "Espresso Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Latte",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/67c/8d2e621b51ee1a7bc08f4439f417067c.jpeg",
+      "price": 240,
+      "menuName": "Espresso Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mocha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69a/c631eb41249d085c69c0625a6004069a.jpeg",
+      "price": 240,
+      "menuName": "Espresso Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Americano",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/020/99c97c8ca4ad0cd94dd9e1917bce1020.jpeg",
+      "price": 195,
+      "menuName": "Espresso Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cortado",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6aa/77e16d5678e1016240ff7a34f98c86aa.jpeg",
+      "price": 215,
+      "menuName": "Espresso Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flat White",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/20e/dcbcf94aa75a0679d77dd6edbe51320e.jpeg",
+      "price": 240,
+      "menuName": "Espresso Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e3f/4ff188242a401a032c3e923783165e3f.jpeg",
+      "price": 195,
+      "menuName": "Espresso Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Macchiato",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/15b/4fa5615674b5bf61ba0b6bfa494b315b.jpeg",
+      "price": 215,
+      "menuName": "Espresso Hot Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "South Indian Filter Coffee",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ff6/04fce00d36bb74f82aa21465920f6ff6.jpeg",
+      "price": 195,
+      "menuName": "South Indian Filter Coffee",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3b8/1cead80530ad33097f5dcd7633a9d3b8.jpeg",
+      "price": 265,
+      "menuName": "Teas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peach Iced Tea",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3b8/1cead80530ad33097f5dcd7633a9d3b8.jpeg",
+      "price": 265,
+      "menuName": "Teas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Tea",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/404/314fa470b02ebd73e6047e528f927404.jpeg",
+      "price": 215,
+      "menuName": "Teas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Chai",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/124/db3c5c1240cddc4c7632803673484124.jpeg",
+      "price": 190,
+      "menuName": "Teas",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/786/d654fcc95068734d30c6218706cea786.jpeg",
+      "price": 340,
+      "menuName": "The Great Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Avocado Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8d0/bb55eda569474d7b8afc8286d74668d0.jpeg",
+      "price": 340,
+      "menuName": "The Great Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tiramishu Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eee/c3445c9182cbeafbe227920bcadb0eee.jpeg",
+      "price": 340,
+      "menuName": "The Great Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peanut Butter Coffee Shake",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/950/8343122adf43fa8f2df43757f556b950.jpeg",
+      "price": 340,
+      "menuName": "The Great Shakes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burrata Pie",
+      "description": "Pomodoro sauce ,burrata cheese, rocket leaves, cherry tomatoes.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/16b/c1bb6334737bd3914c13aa40c571716b.jpeg",
+      "price": 380,
+      "menuName": "Pizza And Pie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pizza Bianca",
+      "description": "Wild mushroom, garlic, olive oil, potato, ricotta, pepper & salt.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bde/294bc1b6562127a921cb4bc862c36bde.jpeg",
+      "price": 490,
+      "menuName": "Pizza And Pie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Surti Pie",
+      "description": "Home-made cheese, potato,onion, green chilli, spring onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/84e/6e338e3c4663f4f7cd23a5f8eb14184e.jpeg",
+      "price": 380,
+      "menuName": "Pizza And Pie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pie",
+      "description": "Tomato basil & mozzarella cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/465/a61a836758e01c500ff01b7daa499465.jpeg",
+      "price": 380,
+      "menuName": "Pizza And Pie",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Water Melons Juice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/285/cd06b3cbf758c8c58c9ecf6a75663285.jpeg",
+      "price": 215,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Orange Juice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/427/3c8c45217b6a1d22125cf5b97775e427.jpeg",
+      "price": 265,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Juice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d22/357ba9da67ca435eb62162d391318d22.jpeg",
+      "price": 265,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Abc Juice",
+      "description": "Apple, Beetroot, Carrot.",
+      "media": null,
+      "price": 215,
+      "menuName": "Fresh Juice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Croissant + Choose your Coffee",
+      "description": "",
+      "media": null,
+      "price": 1,
+      "menuName": "All day Breakfast Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pain Au Chocolate Croissant + Choose your Coffee",
+      "description": "",
+      "media": null,
+      "price": 1,
+      "menuName": "All day Breakfast Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Banana Bread + Choose your latte",
+      "description": "",
+      "media": null,
+      "price": 1,
+      "menuName": "All day Breakfast Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pancake + Choose your juice",
+      "description": "",
+      "media": null,
+      "price": 1,
+      "menuName": "All day Breakfast Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2677 @@
+{
+  "basicInfo": {
+    "name": "Papa Bear's Kitchen",
+    "cuisine_string": "Cafe, Coffee, Tea, Sandwich, Fast Food, Pizza, Desserts, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/papa-bears-kitchen-city-light/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.5",
+      "reviewCount": "4",
+      "reviewTextSmall": "4 Reviews",
+      "subtext": "4 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.5",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.2",
+      "reviewCount": "67",
+      "reviewTextSmall": "67 Reviews",
+      "subtext": "67 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "City Light, Surat",
+    "latitude": "21.1511778000",
+    "longitude": "72.7981203000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1511778000,72.7981203000&maptype=zomato&markers=21.1511778000,72.7981203000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "G-2, The Lenora New City Light Road, City Light, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919157247295"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Paneer Makhani Bowl",
+      "description": "(Brown Rice, Corn, Tomato, Broccoli, Saut",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5df/5665869fe0db241834606dcf283ac5df.jpeg",
+      "price": 430,
+      "menuName": "Healthy Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Buddha Bowl",
+      "description": "(Whole Wheat Spaghetti Aglio e Olio, Broccoli, Cherry Tomatoes, Mushroom, Corn, Olives, Bell Peppers, Pesto, Pizza Sauce)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/17e/248200fd541ad822662062cefc0fc17e.jpeg",
+      "price": 460,
+      "menuName": "Healthy Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indian Rajma Bowl",
+      "description": "(Brown Rice with Indian Style Rajma, Sliced Onions, Red Cabbage)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/aec/0f6cc18bb28f7e77fea56051f2c63aec.jpg",
+      "price": 420,
+      "menuName": "Healthy Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Chole Bowl",
+      "description": "(Brown Rice with Chole Gravy, Onion Salad, Red Cabbage, Dressing of Tandoori Sauce)",
+      "media": null,
+      "price": 410,
+      "menuName": "Healthy Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Burrito Bowl",
+      "description": "(Brown Rice, Bell Peppers, Kidney Beans, Corn, Tomatoes, Lettuce, Olives, Jalape",
+      "media": "https://b.zmtcdn.com/data/dish_photos/72f/8ba7a10e579e9bcacb57acc014c0872f.jpeg",
+      "price": 440,
+      "menuName": "Healthy Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Greek Buddha Bowl",
+      "description": "(Quinoa, Lettuce, Cherry Tomatoes, Cucumber, Herb Potatoes, Olives, Purple Cabbage, Saut",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b5/b000478192c741914a1d1fdbebb831b5.jpeg",
+      "price": 470,
+      "menuName": "Healthy Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Santa-Fe Bear",
+      "description": "(Brown rice, Smoked Paneer, Chilli, Baked Beans, Sour Cream, Salsa, Lettuce, Corn, Olive, Jalape",
+      "media": "https://b.zmtcdn.com/data/dish_photos/29d/76bcece06a3356863c470443f9cd829d.jpeg",
+      "price": 420,
+      "menuName": "Healthy Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hummus Bowl",
+      "description": "(Falafal Tikki, Lettuce, Red Cabbage, Sour Cream, Olive, Jalape",
+      "media": null,
+      "price": 460,
+      "menuName": "Healthy Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Stroganoff With Black Rice",
+      "description": "Black rice with Creamy Mushroom Gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9e/ece0bb39124057347c755f0bcebe0b9e.jpeg",
+      "price": 490,
+      "menuName": "Healthy Bowls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Mac & Cheese",
+      "description": "(Classic English Pan Style, Not Baked)",
+      "media": null,
+      "price": 380,
+      "menuName": "Mac & Cheese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Papa",
+      "description": "(Classic English Pan Style, Not Baked)",
+      "media": null,
+      "price": 410,
+      "menuName": "Mac & Cheese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Angry Mama",
+      "description": "(Classic English Pan Style, Not Baked)",
+      "media": null,
+      "price": 420,
+      "menuName": "Mac & Cheese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutty Pesto",
+      "description": "(Classic English Pan Style, Not Baked)",
+      "media": null,
+      "price": 460,
+      "menuName": "Mac & Cheese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Margherita Pizza [11 Inches]",
+      "description": "(Pomodora Sauce, Mozzarella, Basil, Olive Oil)",
+      "media": null,
+      "price": 540,
+      "menuName": "Pizzas",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bear Flames Pizza [11 Inches]",
+      "description": "(White Garlic Sauce, Jalape",
+      "media": null,
+      "price": 600,
+      "menuName": "Pizzas",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Teekha Papa Paneer Pizza [11 Inches]",
+      "description": "(Spicy In-House Sauce, Paneer, Mixed Bell Peppers, Broccoli, Zucchini, Red Paprika, Cheddar Cheese, Mozzarella)",
+      "media": null,
+      "price": 590,
+      "menuName": "Pizzas",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Smokey Head Papa Pizza",
+      "description": "(Pesto sauce, Mushrooms, Onions, Red Paprika, Jalape",
+      "media": null,
+      "price": 620,
+      "menuName": "Pizzas",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arabic Rush Pizza [11 Inches]",
+      "description": "(Hummus, Falafel Cubes, Olives, Red Bell Pepper, Red Paprika, Mozzarella)",
+      "media": null,
+      "price": 580,
+      "menuName": "Pizzas",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Pesto Pizza [11 Inches]",
+      "description": "(Pesto Sauce, Olive Oil, Basil, Mozzarella, Cherry Tomatoes)",
+      "media": null,
+      "price": 560,
+      "menuName": "Pizzas",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Bear Pizza [11 Inches]",
+      "description": "(Pomodora Sauce, Onion, Jalape",
+      "media": null,
+      "price": 580,
+      "menuName": "Pizzas",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Papa Bear Pizza [11 Inches]",
+      "description": "(In-house Creamy Cheese Sauce, Cheddar Cheese, Jack Monterey Cheese, Orange Cheddar Cheese, Mozzarella Cheese)",
+      "media": null,
+      "price": 620,
+      "menuName": "Pizzas",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Creamy Mushroom Fusilli",
+      "description": "Indulge in the creamy decadence of our Mushroom Fusilli Pasta, where tender fusilli pasta is enveloped in a rich and velvety mushroom sauce, creating a harmonious symphony of flavors and textures that will tantalize your taste buds.",
+      "media": null,
+      "price": 460,
+      "menuName": "Pizzas",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arrabbiata Penne",
+      "description": "Pasta made from garlic, tomatoes, and dried red chili peppers cooked in olive oil",
+      "media": null,
+      "price": 420,
+      "menuName": "Pizzas",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Pasta",
+      "description": "Indulge in a creamy symphony of flavors with our Alfredo Penne pasta, where tender pasta meets velvety Alfredo sauce. Elevate your dining experience with every twirl, and savor the richness of Italian tradition in every bite. \"Crafted with care, savored with delight where every forkful sings Italian harmony.\"",
+      "media": null,
+      "price": 430,
+      "menuName": "Pizzas",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rosso Pink Pasta",
+      "description": "\"A captivating blend of traditional Italian craftsmanship and modern creativity, boasting vibrant pink hues and a delicate, al dente texture for an unforgettable dining experience.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/105/19855b69bf6923c756ac3f1bce3f2105.jpg",
+      "price": 460,
+      "menuName": "Pizzas",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Spaghettii Pasta",
+      "description": "",
+      "media": null,
+      "price": 460,
+      "menuName": "Pizzas",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aglio E Olio Pasta",
+      "description": "\"Indulge in the timeless simplicity of our Aglio-e Olio Pasta, where perfectly al dente spaghetti is tossed in a fragrant blend of garlic-infused olive oil, accented with a hint of chili flakes for a harmonious balance of flavors.\"",
+      "media": null,
+      "price": 430,
+      "menuName": "Pizzas",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Hummus",
+      "description": "(Served with Pita Bread and Falafel Bullets)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9cb/2430cb19e94faa528609622e98d739cb.jpeg",
+      "price": 420,
+      "menuName": "Hummus",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Hummus",
+      "description": "(Served with Pita Bread and Falafel Bullets)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/139/7a84e28f24c5ac20464e0ed463d74139.jpeg",
+      "price": 430,
+      "menuName": "Hummus",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Paneer Burger",
+      "description": "(Toasted Bun, Crispy Paneer Patty, Spicy Garlic In-House Sauce, Crispy Lettuce, Sliced Onions, Cheese Slice, Red Paprika)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eed/15d053c9b1d5da0b171899b62c18aeed.png",
+      "price": 410,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papas Favourite Burger",
+      "description": "(Toasted Bun, Patty made with Favourite Vegetables & Herbs, Rosso Lettuce, Sliced Tomatoes, Toasted Onions, Jalape",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b9e/45e75eed0bce3226ad43e81cb5fa2b9e.jpeg",
+      "price": 420,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Smoky Bear Burger",
+      "description": "(Toasted Bun, Paneer Patty, Caramelised Onions, Melted Cheese, Creamy Mushrooms, Jalape",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cbc/f1d57695b8217d5f252f4663b73f8cbc.jpeg",
+      "price": 430,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caprese Veggie Burger",
+      "description": "(Toasted Bun, Grilled Vegetable Patty, Mozzarella Cheese, In-House Pesto Sauce, Balsamic Onions, Cheddar Cheese)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/de9/25ccad0d972514bb4cd8120cc44eede9.jpeg",
+      "price": 430,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Basil Pesto",
+      "description": "(Served with Classic Fries on Side)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f14/00a01b2e14bfbf0e12a9f9dea4e8cf14.jpeg",
+      "price": 420,
+      "menuName": "Panini",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Saute Mushroom",
+      "description": "(Served with Classic Fries on Side)",
+      "media": null,
+      "price": 460,
+      "menuName": "Panini",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Scrambled Paneer",
+      "description": "(Served with Classic Fries on Side)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b96/d5c76faed13f7937626b230128ac2b96.jpeg",
+      "price": 440,
+      "menuName": "Panini",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato Wedges",
+      "description": "\"Savor the crispy perfection of our potato wedge fries, seasoned to golden-brown perfection for a deliciously satisfying crunch in every bite.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e01/3a4ad870d6130ac15cca96b839418e01.jpeg",
+      "price": 220,
+      "menuName": "Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Salted Fries",
+      "description": "\"Indulge in the timeless appeal of our Classic Salted Fries, meticulously crafted to crispy perfection and seasoned with just the right amount of salt for an irresistible savory crunch.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8fb/212ce836122beaa9a4a8a4a544e878fb.jpeg",
+      "price": 190,
+      "menuName": "Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri-Peri Fries",
+      "description": "\"Indulge in the fiery allure of our Peri-peri fries, tantalizing your taste buds with a perfect blend of zesty spices and crispy goodness, sure to ignite a flavorful sensation with every bite.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ffe/f97631728671826fe08c1704ecb70ffe.jpeg",
+      "price": 230,
+      "menuName": "Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Garlic Fries",
+      "description": "\"Indulge in a tantalizing fusion of bold flavors with our Spicy Garlic Fries, where crispy golden potatoes are tossed in zesty garlic seasoning for a fiery kick that leaves taste buds craving more.\"",
+      "media": null,
+      "price": 260,
+      "menuName": "Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pizza Fries",
+      "description": "\"Indulge in the ultimate fusion of Italian and American flavors with our savory Pizza Fries - crispy, golden fries topped with melted cheese, zesty marinara sauce, and a tantalizing medley of pizza toppings, delivering a burst of taste in every bite.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b8b/ff7276855fc06228b4189ada6b38bb8b.jpeg",
+      "price": 280,
+      "menuName": "Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Cheese Fries",
+      "description": "\"Indulge in the perfect fusion of smoky tandoori spices and gooey melted cheese atop crispy golden fries, a tantalizing twist on a classic comfort food favorite.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a55/9c6b4f8ad8388290711bfabd4f8e0a55.jpeg",
+      "price": 300,
+      "menuName": "Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baked Cheesy Nachos",
+      "description": "\"Indulge in the irresistible crunch of golden-baked nachos smothered in a decadent blend of melted cheeses, a tantalizing symphony of flavors that's impossible to resist.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a06/74049f45d7ad5a66c9244e77e9e8ea06.jpeg",
+      "price": 470,
+      "menuName": "Fries",
+      "categoryName": "Nachos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nachos With Beans",
+      "description": "\"Indulge in the perfect harmony of crunchy tortilla chips topped with savory beans, melted cheese, and zesty salsa, creating a fiesta of flavor in every bite.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a4/b20646d0f158bb5cda6f2d4f6c16d5a4.jpeg",
+      "price": 430,
+      "menuName": "Fries",
+      "categoryName": "Nachos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "English Cheddar",
+      "description": "(Served with Cheddar, Jack Monterey and Mozzarella Cheese)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8c5/7d2412031cecd74f41d87db35eedd8c5.png",
+      "price": 380,
+      "menuName": "Toasties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Saute Mushroom Tosties",
+      "description": "\"Savor the irresistible fusion of earthy sautéed mushrooms atop perfectly toasted bread, a delectable symphony of flavors in every bite.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6ea/7b3e3cb12964e5428e286846df1d96ea.jpeg",
+      "price": 460,
+      "menuName": "Toasties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Hummus Toastie",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Toasties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Avocado Goodness",
+      "description": "\"Indulge in the creamy richness of ripe avocados atop perfectly toasted bread, a harmonious blend of flavor and health in every bite.\"",
+      "media": null,
+      "price": 420,
+      "menuName": "Toasties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Hummus",
+      "description": "\"Savor the fusion of Mediterranean and Middle Eastern flavors with our Pesto Hummus toasties, where creamy hummus meets zesty pesto atop perfectly toasted bread for a delightful culinary adventure.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/814/25d7b46bda27b926aa26cdbbe4fcc814.jpeg",
+      "price": 410,
+      "menuName": "Toasties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Bruschetta",
+      "description": "(A Portion has 4 Pieces and A Dip)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b07/ada2073f2f7f45e44ef975e223a68b07.jpeg",
+      "price": 310,
+      "menuName": "Bruschetta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer",
+      "description": "(A Portion has 4 Pieces and A Dip)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f16/11c5ae9382b67f5a8cf25c7c23650f16.jpeg",
+      "price": 340,
+      "menuName": "Bruschetta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Garlic Cheese",
+      "description": "(A Portion has 4 Pieces and A Dip)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/14c/c3c0546c4c27368aab56a3f4cbce414c.jpeg",
+      "price": 350,
+      "menuName": "Bruschetta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic",
+      "description": "(Served on Sourdough Bread)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/aa7/fbf99e0f358bb07bc2f69dd505fb6aa7.jpeg",
+      "price": 250,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Cheese",
+      "description": "(Served on Sourdough Bread)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/89e/eab434888edf78892990da9c2268a89e.jpeg",
+      "price": 280,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Garlic",
+      "description": "(Served on Sourdough Bread)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/650/c9e40aeba66916b84cf1a428bb182650.jpeg",
+      "price": 300,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Coffee",
+      "description": "\"Intensely flavorful espresso: a bold, aromatic pick-me-up crafted for true coffee aficionados. Savor the essence of perfection in every sip.\"",
+      "media": null,
+      "price": 160,
+      "menuName": "Coffee",
+      "categoryName": "Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino Coffee",
+      "description": "Indulge in the rich harmony of espresso, velvety steamed milk, and a frothy crown of foam in our classic Cappuccino. Elevate your coffee experience, one sip at a time.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/087/f36ef4ff509f46d695815ebd18c7f087.jpg",
+      "price": 250,
+      "menuName": "Coffee",
+      "categoryName": "Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Latte Coffee",
+      "description": "\"Indulge in the creamy richness of our signature Cafe Latte, crafted with expertly blended espresso and velvety steamed milk. Taste where every moment is a latte-lover's delight.\"",
+      "media": null,
+      "price": 250,
+      "menuName": "Coffee",
+      "categoryName": "Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Mocha Coffee",
+      "description": "Indulge in the rich harmony of espresso and velvety chocolate with our Café Mocha. Every sip, a symphony of flavor to savor. \"Sip. Savor. Repeat.\"",
+      "media": null,
+      "price": 280,
+      "menuName": "Coffee",
+      "categoryName": "Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flat White Coffee",
+      "description": "\"Indulge in the smooth harmony of espresso and velvety microfoam in our Flat White - the epitome of coffee elegance.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8dc/f3aa3f36f773da57227bcd0c70dbd8dc.png",
+      "price": 280,
+      "menuName": "Coffee",
+      "categoryName": "Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Americano Coffee",
+      "description": "\"A bold espresso-based beverage with hot water, offering a smooth and robust flavor profile. Wake up your taste buds with every sip.\"",
+      "media": null,
+      "price": 200,
+      "menuName": "Coffee",
+      "categoryName": "Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "V60 Pour Over Coffee",
+      "description": "\"Indulge in the exquisite art of coffee brewing with our Hot V60 Pour Over, crafting rich flavors sip by sip. Elevate your morning ritual with precision and passion, one pour at a time.\"",
+      "media": null,
+      "price": 260,
+      "menuName": "Coffee",
+      "categoryName": "Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "V60 Iced Pour Over Coffee",
+      "description": "Experience the refreshing chill of V60 Iced Pour Over, where smooth coffee meets the cool embrace of ice, delivering a crisp and invigorating taste. Embrace the perfect blend of chill and thrill with every sip. #ChillAndThrill",
+      "media": null,
+      "price": 260,
+      "menuName": "Coffee",
+      "categoryName": "Iced Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew Coffee",
+      "description": "A smooth and refreshing coffee delight, crafted by steeping coarse coffee grounds in cold water for an extended period, resulting in a velvety brew with low acidity and subtle, nuanced flavors, perfect for a cool and invigorating caffeine fix.",
+      "media": null,
+      "price": 240,
+      "menuName": "Coffee",
+      "categoryName": "Iced Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew Tonic Coffee",
+      "description": "Elevate your refreshment with Cold Brew Tonic, a harmonious blend of smooth, bold cold brew coffee and crisp tonic water, creating a revitalizing beverage with a delightful balance of flavors and a subtle caffeine kick.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0db/907bf2961d12647e7764175f04eb30db.jpeg",
+      "price": 300,
+      "menuName": "Coffee",
+      "categoryName": "Iced Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Tonic Coffee",
+      "description": "Experience the invigorating fusion of intense espresso and crisp tonic water, resulting in a refreshing and sophisticated beverage with a delightful balance of bitterness and effervescence, perfect for a unique coffee experience.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f4f/400540d725ce75c61b60f3a211505f4f.jpeg",
+      "price": 310,
+      "menuName": "Coffee",
+      "categoryName": "Iced Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Mocha Coffee",
+      "description": "\"A harmonious blend of rich espresso and creamy chocolate, chilled to perfection for a refreshing indulgence. Sip into satisfaction, one frosty sip at a time.\"",
+      "media": null,
+      "price": 280,
+      "menuName": "Coffee",
+      "categoryName": "Iced Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Affogato Coffee",
+      "description": "Indulge in the rich harmony of espresso poured over creamy vanilla ice cream in our Affogato Iced Coffee—a divine blend of chill and charm. Savor the marriage of espresso and gelato, where every sip is a symphony of flavor.",
+      "media": null,
+      "price": 260,
+      "menuName": "Coffee",
+      "categoryName": "Iced Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Signature Hot Chocolate",
+      "description": "Indulge in the rich decadence of our Signature Hot Chocolate, crafted with 54% cocoa for a velvety-smooth experience that's simply irresistible. Sip your way to cocoa bliss and elevate your mood, one delightful cup at a time!",
+      "media": null,
+      "price": 260,
+      "menuName": "Coffee",
+      "categoryName": "Hot Chocolate",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Hot Chocolate",
+      "description": "Indulge in the rich decadence of Nutella Hot Chocolate, boasting a velvety blend of 54% cocoa perfection. It's the ultimate hug in a mug, guaranteed to sweeten even the chilliest of days!",
+      "media": null,
+      "price": 300,
+      "menuName": "Coffee",
+      "categoryName": "Hot Chocolate",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted Caramel Hot Chocolate",
+      "description": "Indulge in the decadent fusion of rich 54% cocoa with luscious salted caramel, creating a heavenly symphony of flavors. Sip, savor, and let every warm, comforting drop remind you that life is sweet with a dash of salt.",
+      "media": null,
+      "price": 290,
+      "menuName": "Coffee",
+      "categoryName": "Hot Chocolate",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tiramisu Hot Chocolate",
+      "description": "Indulge in the decadent fusion of velvety Tiramisu, rich caramel, and smooth 54% cocoa, in a lusciously satisfying hot chocolate. Sip into bliss as each creamy sip unveils the ultimate sweet escape, leaving your taste buds dancing in delight.",
+      "media": null,
+      "price": 310,
+      "menuName": "Coffee",
+      "categoryName": "Hot Chocolate",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papa Bears Mix Chocolate",
+      "description": "Indulge in the rich, velvety goodness of Papa Bear's Mix Hot Chocolate, crafted with a luscious 54% cocoa blend. Experience the warmth of every sip, embracing the perfect harmony of sweetness and depth. Embrace the cozy comfort of cocoa perfection.",
+      "media": null,
+      "price": 340,
+      "menuName": "Coffee",
+      "categoryName": "Hot Chocolate",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Frappe",
+      "description": "Escape to a blissful oasis with the Classic Frappe, where smooth espresso meets icy perfection, blended with velvety milk and a hint of sweetness, offering a refreshing and invigorating coffee indulgence on any sunny day.",
+      "media": null,
+      "price": 250,
+      "menuName": "Frappe",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Irish Frappe",
+      "description": "Embark on a decadent journey with Irish Frappe, where velvety coffee meets the smooth embrace of Irish cream liqueur, creating a delightful chilled treat that whispers of indulgence with every sip.",
+      "media": null,
+      "price": 290,
+      "menuName": "Frappe",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Frappe",
+      "description": "Indulge in the creamy decadence of a hazelnut frappe, where velvety hazelnut essence meets icy sweetness, creating a refreshing yet satisfying treat that tantalizes the taste buds with its nutty richness and frosty allure.",
+      "media": null,
+      "price": 290,
+      "menuName": "Frappe",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Frappe",
+      "description": "Escape into creamy decadence with a Vanilla Frappe, where smooth vanilla meets chilled indulgence, creating a heavenly blend of sweetness and refreshment in every frosty sip.",
+      "media": null,
+      "price": 290,
+      "menuName": "Frappe",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Signature Mocha Frappe",
+      "description": "Experience the irresistible allure of a Signature Mocha Frappe, where velvety chocolate meets aromatic espresso, blended to perfection with creamy milk and crowned with a swirl of whipped cream, offering a decadent and refreshing indulgence in every sip.",
+      "media": null,
+      "price": 340,
+      "menuName": "Frappe",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Frappe",
+      "description": "Indulge in a creamy blend of espresso and caramel, crowned with whipped cream and drizzled with caramel sauce—a sweet escape in every sip. \"Sip into bliss with every caramel swirl.\"",
+      "media": null,
+      "price": 300,
+      "menuName": "Frappe",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cookie Monster Mocha Frappe",
+      "description": "Embark on a deliciously wild ride with the Cookies Monster Mocha Frappe, where velvety chocolate meets chunks of irresistible cookies, blended to icy perfection, delivering a sweet and satisfying treat that's sure to satisfy your cravings and spark joy with every sip.",
+      "media": null,
+      "price": 320,
+      "menuName": "Frappe",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Seasonal Special Frappe",
+      "description": "Embrace the flavors of the season with our tantalizing Seasonal Special Frappe, blending creamy textures with a burst of seasonal ingredients, creating a refreshing and delightful treat that captures the essence of each moment.",
+      "media": null,
+      "price": 330,
+      "menuName": "Frappe",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Passion Fruit Iced Tea",
+      "description": "Quench your thirst with a tropical burst of tangy passion fruit infused into refreshing iced tea, creating a vibrant and invigorating beverage that transports you to sun-drenched paradise with each sip.",
+      "media": null,
+      "price": 260,
+      "menuName": "Tea",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blueberry Iced Tea",
+      "description": "Cool off with the refreshing taste of blueberries infused into a crisp and invigorating iced tea, offering a delightful balance of sweet fruitiness and brisk tea notes in every sip, perfect for a sunny day refreshment.",
+      "media": null,
+      "price": 280,
+      "menuName": "Tea",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Iced Tea",
+      "description": "Quench your thirst with the refreshing allure of Strawberry Iced Tea, where the tangy sweetness of ripe strawberries meets the cool embrace of chilled tea, crafting a revitalizing beverage bursting with fruity delight.",
+      "media": null,
+      "price": 280,
+      "menuName": "Tea",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peach Iced Tea",
+      "description": "\"Refreshingly sweet and tangy peach flavors dance in every sip of our Peach Iced Tea, a delightful blend of sun-ripened peaches and crisp tea leaves. Savor the sweetness of summer with every sip.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dc5/72812c59b448bfd01f3316432985bdc5.jpeg",
+      "price": 290,
+      "menuName": "Tea",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Berryblast Iced Tea",
+      "description": "Quench your thirst with Berryblast Iced Tea, a refreshing infusion of ripe berries harmonized with the coolness of ice, offering a burst of fruity delight in every sip, perfect for a sunny day's rejuvenation.",
+      "media": null,
+      "price": 290,
+      "menuName": "Tea",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Iced Tea",
+      "description": "\"Indulge in the refreshing fusion of sweet mango and cool tea with our Mango Iced Tea—a delightful sip of summer in every glass. Savor the tropical twist, refreshment redefined.\"",
+      "media": null,
+      "price": 280,
+      "menuName": "Tea",
+      "categoryName": "Iced Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Honey Mint Green Tea",
+      "description": "\"Savor the refreshing fusion of delicate green tea infused with the sweetness of honey and the invigorating essence of mint. A soothing elixir to rejuvenate your senses and uplift your spirits.\"",
+      "media": null,
+      "price": 160,
+      "menuName": "Tea",
+      "categoryName": "Hot Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hibiscus Cinnamon",
+      "description": "\"Savor the invigorating blend of hibiscus petals and green tea, delicately infused with the warmth of cinnamon, for a soothing and aromatic hot beverage experience.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ce3/5afe270be74ad8882d924f5df5f06ce3.jpeg",
+      "price": 170,
+      "menuName": "Tea",
+      "categoryName": "Hot Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Kahwa Kesar",
+      "description": "Indulge in the aromatic allure of Kashmiri Kahwa, a tantalizing blend of saffron-infused hot tea, enriched with delicate spices, promising a soul-warming experience like no other. Embark on a sensory journey with each sip, as the golden hues of saffron dance gracefully amidst the comforting embrace of traditional Kashmiri flavors.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2fc/7c149ab0958e9e535a66453978ecc2fc.png",
+      "price": 160,
+      "menuName": "Tea",
+      "categoryName": "Hot Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chamomile Green Tea",
+      "description": "\"Savor the soothing blend of delicate chamomile flowers and refreshing green tea, a harmonious fusion to calm the senses and invigorate the spirit.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/86c/0f9be909316f79708291953eecb2486c.jpg",
+      "price": 140,
+      "menuName": "Tea",
+      "categoryName": "Hot Tea",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blue Sky",
+      "description": "\"Refreshing and vibrant blue sky mojito, a tropical twist on a classic cocktail. Sip into the azure bliss and let every sip be your ticket to a beachside paradise.\"",
+      "media": null,
+      "price": 230,
+      "menuName": "Mocktails",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lavendar",
+      "description": "\"Indulge in the refreshing fusion of zesty lime and fragrant lavender, a tantalizing twist on the classic mojito. Escape to a world of relaxation with every sip - Lavender Mojito: Where tranquility meets zest.\"",
+      "media": null,
+      "price": 250,
+      "menuName": "Mocktails",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Guava",
+      "description": "\"Experience a tantalizing twist with our Spicy Guava Mojito, blending the refreshing essence of guava with a kick of spice. Savor the zest of the tropics in every sip. Ignite your taste buds with a fiery fusion of flavor.\"",
+      "media": null,
+      "price": 260,
+      "menuName": "Mocktails",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pink Lemonade",
+      "description": "\"Indulge in a refreshing twist with our Pink Lemonade Mojito, blending zesty lemon, sweet strawberries, and minty freshness for a vibrant sip of summer. Sip, savor, and let the pink hues of paradise dance on your palate.\" #SavorThePinkTwist",
+      "media": null,
+      "price": 260,
+      "menuName": "Mocktails",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Pineapple",
+      "description": "\"Indulge in a tantalizing twist with our Spicy Pineapple Mojito, where zesty pineapple meets a fiery kick of spice, perfect for a refreshing escape. Heat up your happy hour with a tropical twist!\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c93/41e6a375fad5f64fe2bdf1454bb54c93.png",
+      "price": 280,
+      "menuName": "Mocktails",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Orange Citrus",
+      "description": "\"Refreshing Orange Citrus Mojito: A zesty twist on the classic with tangy oranges, fresh mint, and a splash of citrus, creating the perfect balance of flavors. Sip into sunshine with every delightful sip!\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/199/f7e656dbd15d0471036711d551ab7199.jpeg",
+      "price": 310,
+      "menuName": "Mocktails",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sky Red",
+      "description": "\"Indulge in the vibrant allure of a Sky Red Mojito, where zesty lime meets the exotic sweetness of Curacao, delivering a taste that paints the town red with refreshment.\"",
+      "media": null,
+      "price": 230,
+      "menuName": "Mocktails",
+      "categoryName": "Mojito",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Orange Citrus Smoothie",
+      "description": "\"Indulge in a zesty whirlwind of sunshine with our Orange Citrus milkshake – a vibrant fusion that dances on your taste buds like a citrus orchestra. It's a sip of pure joy that'll make you question why oranges ever settled for just being squeezed.\"",
+      "media": null,
+      "price": 310,
+      "menuName": "Mocktails",
+      "categoryName": "Smoothies",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Smoothie",
+      "description": "Embark on a refreshing journey with a strawberry smoothie, blending luscious strawberries with milk to create a vibrant and satisfying burst of fruity goodness that invigorates the senses with each sip.",
+      "media": null,
+      "price": 300,
+      "menuName": "Mocktails",
+      "categoryName": "Smoothies",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blueberry Smoothie",
+      "description": "A refreshing blend of plump, ripe blueberries, this vibrant smoothie bursts with antioxidants and irresistible fruity goodness, making it the perfect wholesome treat for any time of day.",
+      "media": null,
+      "price": 300,
+      "menuName": "Mocktails",
+      "categoryName": "Smoothies",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Berry Blast Smoothie",
+      "description": "Indulge in the refreshing taste of ripe strawberries blended to perfection with dairy-free alternatives, creating a luscious and nutritious smoothie bursting with fruity goodness and vibrant flavors.",
+      "media": null,
+      "price": 310,
+      "menuName": "Mocktails",
+      "categoryName": "Smoothies",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Passion Fruit Smoothie",
+      "description": "Embark on a tantalizing journey with the Passion Fruit smoothie, where the tangy zest of yuzu meets the tropical sweetness of passion fruit, creating a refreshing and invigorating blend that's bursting with vibrant flavors.",
+      "media": null,
+      "price": 300,
+      "menuName": "Mocktails",
+      "categoryName": "Smoothies",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papa Bear Signature Smoothie",
+      "description": "The House Blend Signature smoothie offers a symphony of flavors, blending ripe tropical fruits with ice for a refreshingly smooth and satisfying treat that's bursting with vitality in every sip.",
+      "media": null,
+      "price": 320,
+      "menuName": "Mocktails",
+      "categoryName": "Smoothies",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Doctors Favourite Juice",
+      "description": "(Apple, Beetroot, Carrot)",
+      "media": null,
+      "price": 180,
+      "menuName": "Healthy Juices",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papa's Blood Juice",
+      "description": "(Guava, Beetroot, Apple, Tomato)",
+      "media": null,
+      "price": 190,
+      "menuName": "Healthy Juices",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ginger Goodness Juice",
+      "description": "(Spinach, Ginger, Basil, Apple, Olive Oil)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b5b/2c6c2f4f68b9986bf5fa700ddf915b5b.jpeg",
+      "price": 190,
+      "menuName": "Healthy Juices",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Yellow Blend Juice",
+      "description": "(Carrot, Pineapple, Orange, Turmeric)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f09/5a5b6ed39e0f7c1919a88c563b0b6f09.jpeg",
+      "price": 200,
+      "menuName": "Healthy Juices",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pink Root Juice",
+      "description": "(Orange, Pineapple, Beetroot, Cucumber)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/30c/c6f04950e395c51a5e8bda4f9b96d30c.jpeg",
+      "price": 190,
+      "menuName": "Healthy Juices",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Brownie Milk Shakes",
+      "description": "Indulge in the ultimate decadence with our Double Brownie Milkshake - a rich blend of creamy chocolate ice cream and fudgy brownie pieces, delivering twice the delight in every sip. Satisfy your sweet cravings with a swirl of perfection in every shake.",
+      "media": null,
+      "price": 300,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Velvet Cheesecake Milk Shakes",
+      "description": "Indulge in decadence with our Red Velvet Cheesecake milkshake, a creamy fusion of rich red velvet cake and luscious cheesecake blended to perfection. Satisfy your sweet cravings with every sip - a symphony of flavors in a single shake.",
+      "media": null,
+      "price": 350,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tiramisu Milk Shakes",
+      "description": "Indulge in the creamy delight of a Tiramisu milkshake, blending rich espresso, velvety mascarpone, and hints of cocoa into a heavenly sip. Elevate your shake game with every decadent slurp, a sweet escape to Italian bliss.",
+      "media": null,
+      "price": 310,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Milk Shakes",
+      "description": "Indulge in the creamy decadence of a hazelnut milkshake, where smooth hazelnut flavors dance with velvety milk, creating a luscious and satisfying treat that's both comforting and delightfully nutty.",
+      "media": null,
+      "price": 300,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kitkat Milk Shakes",
+      "description": "Indulge in a creamy symphony of crushed KitKat bars blended with chilled milk, offering a decadent twist on a classic treat that satisfies both chocolate cravings and milkshake desires in one delightful sip.",
+      "media": null,
+      "price": 290,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscoff Milk Shakes",
+      "description": "Indulge in the creamy delight of a Biscoff milkshake, blending smooth vanilla ice cream with the irresistible taste of caramelized cookies. \"Sip into sweetness with every spoonful.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b18/448a5fe5019406816a62e4516cd70b18.jpeg",
+      "price": 340,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oreomilk Shakes",
+      "description": "Indulge in the ultimate creamy treat with an Oreo milkshake, blending velvety vanilla ice cream with crushed Oreo cookies for a delectable fusion of sweetness and crunch, guaranteed to satisfy every craving in a single sip.",
+      "media": null,
+      "price": 290,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Seasonal Fruit Milk Shakes",
+      "description": "\"Indulge in a symphony of seasonal fruits dancing in creamy harmony, where every sip whispers a tale of orchard bliss. It's not just a milkshake; it's a fruity fiesta that'll make your taste buds do the tango!\"",
+      "media": null,
+      "price": 350,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rocher Milk Shakes",
+      "description": "Indulge in the velvety embrace of Rocher chocolate, swirled into a milkshake so divine, every sip whispers sweet secrets to your taste buds. Because why settle for ordinary when you can sip on decadence with a crunch?",
+      "media": null,
+      "price": 320,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Berry Milk Shakes",
+      "description": "\"Indulge in a symphony of summer's sweetness with our Mixed Berry milkshake, where every sip is a berrylicious dance on your taste buds. Get ready to shake up your senses and berry-fy your day!\"",
+      "media": null,
+      "price": 320,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Pb",
+      "description": "Indulge in nostalgia with our Classic Milkshake, where every sip whispers tales of yesteryears. It's a delicious time machine in a frosty glass, bringing smiles as timeless as its flavor.",
+      "media": null,
+      "price": 310,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Milk Shakes",
+      "description": "Indulge in the sweet symphony of caramel kissed with cream, a milkshake so divine it'll make your taste buds dance with delight—sip away your worries, one creamy caramel swirl at a time.",
+      "media": null,
+      "price": 300,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Cheesecake Milk Shakes",
+      "description": "\"Indulge in a whirlwind of creamy delight and fruity bliss with our Strawberry Cheesecake Milkshake, where every sip is a slice of happiness. Warning: May cause spontaneous cravings and envy among bystanders.\"",
+      "media": null,
+      "price": 360,
+      "menuName": "Milkshake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic New York Cheesecake",
+      "description": "Indulge in the decadent delight of New York cheesecake, featuring a creamy, velvety texture atop a buttery graham cracker crust, perfectly balanced with a hint of tanginess, offering a luxurious dessert experience that captivates the palate with each heavenly bite.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/45c/6493411286a97635693e198de5fbd45c.jpg",
+      "price": 280,
+      "menuName": "Desserts",
+      "categoryName": "Cheesecake",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Matcha Cheesecake",
+      "description": "\"Indulge in a tantalizing dance of flavors with our Green Matcha cheesecake, where creamy decadence meets the vibrant embrace of Japanese green tea. One bite, and you'll realize: this dessert isn't just a treat; it's a zen moment in every forkful.\"",
+      "media": null,
+      "price": 300,
+      "menuName": "Desserts",
+      "categoryName": "Cheesecake",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutty Hazelnut Cheesecake",
+      "description": "Indulge in a decadent Nutty Hazelnut cheesecake, where every creamy bite is a nut lover's dream. It's a slice of heaven that'll have you saying, \"Who needs a spoon when you've got hazelnuts to swoon?\"",
+      "media": null,
+      "price": 310,
+      "menuName": "Desserts",
+      "categoryName": "Cheesecake",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Milky Kitkat Cheesecake",
+      "description": "Indulge in the creamy delight of Milky Kitkat cheesecake, where velvety smoothness meets the irresistible crunch of Kitkat bars, delivering a slice of pure euphoria. One bite, and you'll be reaching for the stars with every heavenly mouthful!",
+      "media": null,
+      "price": 310,
+      "menuName": "Desserts",
+      "categoryName": "Cheesecake",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mr. Rocher Cheesecake",
+      "description": "Indulge in decadent delight with Mr. Bear Rocher cheesecake, where creamy chocolate meets crunchy hazelnuts. It's a hug from dessert heaven that'll leave you beary satisfied!",
+      "media": null,
+      "price": 350,
+      "menuName": "Desserts",
+      "categoryName": "Cheesecake",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Creamy Biscoff Cheesecake",
+      "description": "Indulge in layers of velvety Biscoff-infused creaminess atop a crumbly biscuit base—because every slice is a ticket to sweet serenity that craves no explanation, only adoration.",
+      "media": null,
+      "price": 350,
+      "menuName": "Desserts",
+      "categoryName": "Cheesecake",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Brownie",
+      "description": "Indulge in the timeless allure of our Classic Brownie, where rich chocolate meets irresistible cakey perfection. One bite, and you'll realize why some classics never go out of style.",
+      "media": null,
+      "price": 200,
+      "menuName": "Desserts",
+      "categoryName": "Brownies",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Brownie",
+      "description": "Indulge in a decadent Nutella brownie, where every bite is a blissful swirl of chocolate ecstasy. It's the sweetest way to turn any day into a celebration of cocoa dreams!",
+      "media": null,
+      "price": 250,
+      "menuName": "Desserts",
+      "categoryName": "Brownies",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscoff Brownie",
+      "description": "The cookie spread that turns your toast into a gourmet indulgence, making every breakfast a cookie-lover's dream come true. Spread the love, one biscuit at a time!",
+      "media": null,
+      "price": 250,
+      "menuName": "Desserts",
+      "categoryName": "Brownies",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Velvet Cream Cheese Brownie",
+      "description": "Indulge in decadent layers of rich red velvet and creamy cheesecake atop a fudgy brownie base—a divine symphony of flavors in every bite. \"Savor the bliss of heavenly layers, where red velvet meets creamy delight in every irresistible square.\"",
+      "media": null,
+      "price": 260,
+      "menuName": "Desserts",
+      "categoryName": "Brownies",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chef Papa's Mocha Brownie",
+      "description": "Indulge in Chef Papa's decadent Mocha Brownie, where rich cocoa meets aromatic espresso for an irresistible fusion of flavors. \"Savor every bite, where chocolate and coffee collide in perfect harmony.\"",
+      "media": null,
+      "price": 280,
+      "menuName": "Desserts",
+      "categoryName": "Brownies",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Spaghetti",
+      "description": "\"Savor the vibrant flavors of summer with our Pesto Spaghetti Salad: a harmonious blend of al dente spaghetti, fresh basil pesto, and crisp vegetables, perfect for a quick and satisfying meal on the go.\"",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd8/a9f29011fe8fbcef6a506c9102f29cd8.jpeg",
+      "price": 300,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Healthy Punch",
+      "description": "(Paneer, Lettuce, Mushrooms, Sweet Corn, Cherry Tomato, Cucumber, Mixed Bell Peppers, Olives, Southwest Dressing)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b7/6477da5410b77c0c06d10e986c3ca2b7.jpeg",
+      "price": 250,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bear Fiesta",
+      "description": "(Paneer, Mixed Bell Peppers, Cucumber, Lettuce, Sweet Corn, Jalape",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1bb/6f412111eb931586ddcc384522a961bb.jpeg",
+      "price": 260,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papa Honey",
+      "description": "(Apple, Walnuts, Honey, Feta Cheese, Olives, Sweet Corn, Paneer, Sweet Vinaigrette)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/62f/2a3572e55c8cc94d3f1a97056c48862f.jpeg",
+      "price": 240,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Papa Bear",
+      "description": "(Boiled Pasta, Olives, Lettuce, Cherry Tomatoes, Mixed Bell Peppers, Pesto Dressing)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/21f/598f5e3e05208ffb385ad60c216db21f.jpeg",
+      "price": 280,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Tango",
+      "description": "(Red Kidney Beans, Lettuce, Mixed Peppers, Onion, In House Cooked Nachos, Sweet Corn, Cherry Tomatoes, Salsa Vinaigrette dressing)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d40/83340f9cda8e2bc1a20b08a0d1c75d40.jpeg",
+      "price": 260,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

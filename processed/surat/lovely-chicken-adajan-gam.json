@@ -1,0 +1,936 @@
+{
+  "basicInfo": {
+    "name": "Lovely Chicken",
+    "cuisine_string": "North Indian, Mughlai, Chinese, Biryani, Kebab",
+    "canonicalUrl": "https://www.zomato.com/surat/lovely-chicken-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.7",
+      "reviewCount": "48",
+      "reviewTextSmall": "48 Reviews",
+      "subtext": "48 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.7",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.1",
+      "reviewCount": "1,951",
+      "reviewTextSmall": "1,951 Reviews",
+      "subtext": "1,951 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1888255626",
+    "longitude": "72.7953032032",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1888255626,72.7953032032&maptype=zomato&markers=21.1888255626,72.7953032032,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Saat Bunglow, Opposite Income Tax Office, Near Star Bazaar, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919879177411, +919510692424"
+    },
+    "res_chain_text": "See all 3 Lovely Chicken outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/lovely-chicken",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Lovely Special",
+      "description": "Semi Dry Chicken Gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edd/1cc0d7fa306f3191f93c02c1659f0edd.jpeg",
+      "price": 0,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Lovely Special",
+      "description": "Semi Dry Chicken Gravy",
+      "media": null,
+      "price": 0,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cheese Lovely Special",
+      "description": "Semi Dry Chicken Gravy with Cheese",
+      "media": null,
+      "price": 0,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Cheese Lovely Special",
+      "description": "Boneless Semi Dry Chicken Gravy with Cheese",
+      "media": null,
+      "price": 0,
+      "menuName": "Special",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Soup",
+      "description": "Chicken soup is a soup made from chicken, simmered in water, usually with various other ingredients.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/458/1a8c7e2b73ce7f2deb932957b3d0d458.jpg",
+      "price": 210,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chilli Chicken",
+      "description": "Chilli chicken is a sweet, spicy and crispy appetizer, most popular in Indo-Chinese cuisine. Crispy marinated chicken is sauteed in a spicy sweet sauce along with onions and bell peppers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b4f/5ff14e6f446c80c0d8aba45f754f2b4f.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchurian",
+      "description": "A delicious and popular Indo-Chinese recipe-chicken Manchurian.Fried chicken pieces in a spicy and tangy sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/661/dbdd223988de578fa6bf78b598e03661.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka",
+      "description": "A flavourful dish of chicken boneless tikka made with variety of Indian masala.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1c6/fa36dc8249cd7e2e992d9dd4e27f21c6.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Cheese Tikka",
+      "description": "Cheesy chicken tikka is a party appetizer which just melts in the mouth. The taste is incredibly cheesy and yummy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5c4/bab01cbe15b5a29c4f52a09f930375c4.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Afghani",
+      "description": "Grilled strips of marinated chicken cooked in an aghani masala, and wrapped in a soft kuboos with select veggies and mayonnaise.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/43c/cb2aba075368ac52cdaf82bcd678143c.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Cheese Malai Tikka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a8f/e7f6995f2652772981245a848f60aa8f.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Chicken",
+      "description": "Tandoori chicken is a chicken dish prepared by roasting chicken marinated in yogurt and spices in a tandoor, a cylindrical clay oven.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd4/9b956bd18685eec7df186aad319b4dd4.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mixed Kabab",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7c2/e9ac885e110b709297d28e06857917c2.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hariyali Kabab",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/08f/fe763207eea51774ad1fbd429e1cd08f.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Reshmi Kabab",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6e0/107285f1d925a8083b92a136194d06e0.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Banjara Kabab",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f7d/bbdbdca71300f64fa5b99d688f2c1f7d.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Malai Kabab",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c3d/cba146b4aca50c162cd3e0ed66624c3d.jpeg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Leg Piece",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6bb/8b61b88d51679171113b4c1f855406bb.jpeg",
+      "price": 190,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/556/432d6a61be348627d700b63e4a669556.jpeg",
+      "price": 325,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Kadai Paneer",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dbd/1ed2dc971c88b92f42fa5d7a6a9c7dbd.jpeg",
+      "price": 325,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Paneer Chatpata",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b57/14822dd06f5e201d6df42ea15bfabb57.jpeg",
+      "price": 325,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Cheese Butter Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92e/66ed5d47489027694cc8d01c90b2292e.jpeg",
+      "price": 325,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Masala",
+      "description": "Chicken masala is a simple Indian dish made with chicken, spices, herbs, onions and tomatoes.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0c5/5876fe8bd491d2bbe51c93b7b410c0c5.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kali Mirch",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3b3/ff2baf63a82bedfb6affa1107da3f3b3.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lemon Chicken",
+      "description": "Grilled lemon chicken is a tender, juicy and savory grilling recipe that is perfect for summer. It's light, healthy and beaming with mediterranean flavor.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2f3/a6c20e3e2bcb5e36ba5052732b8502f3.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Kadai Chicken",
+      "description": "Medium spicy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/796/1d86f98d743c1f5a097a1cddec660796.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken",
+      "description": "Chicken simmered and cooked in smooth and delicious butter rich tomato gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/453/866ec4d2a361baee2da83e875ca3f453.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Butter Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/276/96b90b3e42419d197d914a9ecb29b276.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Chatpata",
+      "description": "Spicy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/137/1ae4b769d9e94d75bdf86a91df2a1137.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Cheese Butter Chicken",
+      "description": "Chicken simmered and cooked in smooth and delicious butter rich tomato gravy and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0f2/9b60b2a20cd31dac1a36e1c662e890f2.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "description": "Tandoor and juicy pieces of chicken tikka cooked in red gravy of tomato cashew and Indian spices, an all time favourite.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7d4/adf25c0b7f2ab28b2039f0a6da0d57d4.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Curry [400 g, 2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9ec/6f42d4a3acc78968dcaa0900f010d9ec.jpeg",
+      "price": 17,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1f5/b27c03ee33697dd7a3228cafe04bb1f5.jpeg",
+      "price": 19,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a93/eb84e611a684ef4e51193ded2fa43a93.jpeg",
+      "price": 25,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Tandoori Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/01a/cded2cf7b3b4f68522de38e6eca5101a.jpeg",
+      "price": 30,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Butter Paratha",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d63/8f133f6954c815007cb7c05ea6fcbd63.jpeg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gravy Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/45c/5039eed9bca1f1b70da2ccf32f5ee45c.jpeg",
+      "price": 0,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50c/18b207677416869fb57043b9c7dae50c.jpeg",
+      "price": 360,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Chicken Biryani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c38/94bccbdf5628be4f9454c830e5bb8c38.jpeg",
+      "price": 360,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "services",
+        "category-biryani",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "category-biryani",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jeera Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f00/06dd98f7d1523881d2e8c5d84a51af00.jpeg",
+      "price": 199,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/991/06cbb7b21eede965aaae7b9f56f75991.jpeg",
+      "price": 280,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ed1/493b64cac7af5dcb934fb751dae7eed1.jpeg",
+      "price": 360,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f02/8125c3f005b1797d3b0a66e1a0e8ef02.jpeg",
+      "price": 370,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Papad",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a38/19c4120d2ff4627970f6334cac7f3a38.jpeg",
+      "price": 25,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Salad",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e6d/33c50beba7413a8beb518224729c3e6d.jpeg",
+      "price": 10,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Chutney",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9cb/d9f280a57cbfef8b21298ec3334a99cb.jpeg",
+      "price": 10,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

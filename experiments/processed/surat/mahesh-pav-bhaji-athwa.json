@@ -1,0 +1,2797 @@
+{
+  "basicInfo": {
+    "name": "Mahesh Pav Bhaji",
+    "cuisine_string": "Street Food, Chinese, Fast Food, South Indian, Sandwich, Pizza, Waffle",
+    "canonicalUrl": "https://www.zomato.com/surat/mahesh-pav-bhaji-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.7",
+      "reviewCount": "407",
+      "reviewTextSmall": "407 Reviews",
+      "subtext": "407 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.7",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "16.3K",
+      "reviewTextSmall": "16.3K Reviews",
+      "subtext": "16.3K Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1847850289",
+    "longitude": "72.8088463470",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1847850289,72.8088463470&maptype=zomato&markers=21.1847850289,72.8088463470,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 7, Ground Floor, Mishan Shopping Center, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919375188635"
+    },
+    "res_chain_text": "See all 7 Mahesh Pav Bhaji outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/mahesh-pav-bhaji",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Pav Bhaji Regular",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece] [Salad-Subject to Availability].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fd9/03de946e43ba4f404f022060b7c18fd9.jpg",
+      "price": 204,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Bhaji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e5b/86ef3c13e493f1c42a516e09685ebe5b.jpg",
+      "price": 238,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fry Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a8e/8286b3eb996b50a23f669bd0423a1a8e.jpg",
+      "price": 238,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Khada Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b14/c5cd9c3a797c82bbb57d46f22f178b14.jpg",
+      "price": 238,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Fry Bhaji",
+      "description": "",
+      "media": null,
+      "price": 289,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato Fry Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": null,
+      "price": 204,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c2b/2503f50580a851e73be0a6073f235c2b.jpg",
+      "price": 240,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pav Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c2b/2503f50580a851e73be0a6073f235c2b.jpg",
+      "price": 255,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6fc/2e3e633a7e3ad4acf5e6e8831f4376fc.jpg",
+      "price": 255,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/95f/f49b7add198cabd5109beb1b2658f95f.jpg",
+      "price": 289,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Fry Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/86d/1d4f33ea573e5346014df6b17b8cb86d.jpg",
+      "price": 289,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Pav [4 Pav]",
+      "description": "Pav dipped in garlic and onion paste.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e69/c15cbe8acdebcb5957a688871cb89e69.jpg",
+      "price": 100,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Pav [4 Pav]",
+      "description": "Masala pav topped with cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/599/cd089d87bb0943b1cfee98627113f599.jpg",
+      "price": 144,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Butter Pav [4 Piece]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/599/2e3ff2e578392add9c6a62ca2a449599.jpg",
+      "price": 40,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kora Pav [6 Pav]",
+      "description": "Raw pav.",
+      "media": null,
+      "price": 60,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Butter Pav",
+      "description": "Butter pav slapped again with butter.",
+      "media": null,
+      "price": 60,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Toast Pav [4 Pav]",
+      "description": "Pav made crispy.",
+      "media": null,
+      "price": 60,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Pav Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": null,
+      "price": 238,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Fancy Pav Bhaji",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Yellow Pav Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bb0/be3280f0b28d7ccd15cbc3a1acd7ebb0.jpg",
+      "price": 238,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Fancy Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4f2/532b060e2bfefdced6fcafe9778fe4f2.jpg",
+      "price": 238,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Fancy Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pav Bhaji [Serves 1]",
+      "description": "Contains chilli flakes, oregano, pasta, cheese and toasted pav. Comes with 4 pav, salad and  roasted papad [1 piece].",
+      "media": null,
+      "price": 255,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Fancy Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Paneer Bhaji",
+      "description": "",
+      "media": null,
+      "price": 289,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Fancy Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Veg Bhaji",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Fancy Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Pav Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/44e/a62b645abdda30eb432c4b7cd796644e.jpg",
+      "price": 204,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Jain and Swaminarayan Bhaji",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Jain Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e12/b0c09727895009977e56caacb08c5e12.jpg",
+      "price": 255,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Jain and Swaminarayan Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Jain Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": null,
+      "price": 255,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Jain and Swaminarayan Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Jain Bhaji",
+      "description": "Comes with 4 pav, salad and roasted papad [1 piece].",
+      "media": null,
+      "price": 289,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Jain and Swaminarayan Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Swaminarayan Pav Bhaji",
+      "description": "Without onion and garlic.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ddc/22e4c024842f4608891c93284572cddc.jpg",
+      "price": 204,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Jain and Swaminarayan Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Bhaji [300 ml]",
+      "description": "No accompaniments.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8f9/29945d6ae9c36eb16b413f9a253908f9.jpg",
+      "price": 153,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Only Bhaji",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Bhaji [1 kg]",
+      "description": "Comes without pav and papad [salad included].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/023/073444c2a11f4be02ba44918ce079023.jpg",
+      "price": 425,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Only Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Dosa",
+      "description": "A thin crispy plain dosa served with sambhar, red garlic chutney & white coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bff/7fb4a7ccae049df9fe92b72a5973abff.jpg",
+      "price": 102,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Sada Dosa",
+      "description": "A crispy and savory South Indian specialty perfect for breakfast or as a snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bff/7fb4a7ccae049df9fe92b72a5973abff.jpg",
+      "price": 136,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Sada Dosa",
+      "description": "| Serves 1 |",
+      "media": null,
+      "price": 136,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nylon Sada Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7a5/ca72634225a1f6801144c41257f5c7a5.jpg",
+      "price": 136,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Garlic Sada",
+      "description": "",
+      "media": null,
+      "price": 153,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sada Dosa",
+      "description": "| Serves 1 |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc1/b320aa6cd60b6cf21bf4e66da9ad0cc1.jpg",
+      "price": 170,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Onion Sada",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Sada",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Nylon Dosa",
+      "description": "",
+      "media": null,
+      "price": 153,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Nylon Dosa",
+      "description": "",
+      "media": null,
+      "price": 153,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Nylon",
+      "description": "| Serves 1 |",
+      "media": null,
+      "price": 187,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Nylon Dosa",
+      "description": "",
+      "media": null,
+      "price": 204,
+      "menuName": "Dosa",
+      "categoryName": "Sada Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Sada",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "description": "| 1 Pc | Dosa served with mysore bhaji, sambhar, red garlic chutney and white coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/00e/37f5d0333b5518121f59b47ce53a400e.jpg",
+      "price": 187,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Mysore Dosa",
+      "description": "",
+      "media": null,
+      "price": 221,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mysore Dosa",
+      "description": "Spicy dosa with grated cheese, a red chutney spread and masala folded in.",
+      "media": null,
+      "price": 238,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mysore Dosa",
+      "description": "",
+      "media": null,
+      "price": 238,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tukda Mysore Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3bd/fa7852070ab1d157ad1e2c5fb28883bd.jpg",
+      "price": 255,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Mysore Dosa",
+      "description": "",
+      "media": null,
+      "price": 272,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Surma Mysore Dosa",
+      "description": "",
+      "media": null,
+      "price": 272,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tukda Cheese Mysore Dosa",
+      "description": "",
+      "media": null,
+      "price": 306,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Mysore Dosa",
+      "description": "",
+      "media": null,
+      "price": 306,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Surma Mysore Dosa",
+      "description": "",
+      "media": null,
+      "price": 306,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gotala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c8c/5e1bdc2a89afe9322f9483b747ccec8c.jpg",
+      "price": 306,
+      "menuName": "Dosa",
+      "categoryName": "Mysore Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "A thin crispy dosa stuffed with aloo masala served with sambhar, red garlic chutney & white coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1e2/34d7cdce3b1ad0fa9675d9b5681df1e2.jpg",
+      "price": 153,
+      "menuName": "Dosa",
+      "categoryName": "Masala Dosa",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Masala Dosa",
+      "description": "Crispy and delicious dosa, folded in with spicy paneer masala.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b00/cab05f1ec5bb2595f990ae2f31341b00.jpg",
+      "price": 238,
+      "menuName": "Dosa",
+      "categoryName": "Masala Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Dosa",
+      "description": "Tawa-toasted, crispy dosa spread with cheese and folded in with masala.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/007/78333c02950141743c0f4ccbd86c0007.jpg",
+      "price": 238,
+      "menuName": "Dosa",
+      "categoryName": "Masala Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Masala",
+      "description": "",
+      "media": null,
+      "price": 238,
+      "menuName": "Dosa",
+      "categoryName": "Masala Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Dosa",
+      "description": "Soft and hearty dosa with palak mixed into the batter served with sambhar and chutney.",
+      "media": null,
+      "price": 187,
+      "menuName": "Dosa",
+      "categoryName": "Palak Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Palak Dosa",
+      "description": "A crispy dosa filled with a mouthwatering blend of potato and spinach.",
+      "media": null,
+      "price": 204,
+      "menuName": "Dosa",
+      "categoryName": "Palak Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Palak Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ff4/b3a191f65ce69a9582e12510d9471ff4.jpg",
+      "price": 272,
+      "menuName": "Dosa",
+      "categoryName": "Palak Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Palak Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/253/9cb10d8f6e1445a14ca31c2898186253.jpg",
+      "price": 272,
+      "menuName": "Dosa",
+      "categoryName": "Palak Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Palak Dosa",
+      "description": "",
+      "media": null,
+      "price": 306,
+      "menuName": "Dosa",
+      "categoryName": "Palak Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Dosa",
+      "description": "",
+      "media": null,
+      "price": 221,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dosa",
+      "description": "Tawa-toasted, crispy dosa well-folded with vegtables in a sweet and spicy manchurian sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f80/e00d84510c8cef1bb898a39a85f61f80.jpg",
+      "price": 255,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Dosa",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Chopsuey Dosa",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jini Roll Dosa",
+      "description": "A popular mumbai spicy street style dosa stuffed with veggies served with sambhar, red garlic chutney and white coconut chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/374/8f107837448ac8c9cddb762b296d7374.jpg",
+      "price": 272,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bangalore Spring Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/429/d5939b22ce84cc1ee0c3b9e515f6c429.jpg",
+      "price": 272,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sweet Corn Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7dc/f9d712451a3345dfedcb884727e1e7dc.jpg",
+      "price": 272,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Dosa",
+      "description": "",
+      "media": null,
+      "price": 306,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Toofani Dosa",
+      "description": "The good old dosa packed with a paneer based spicy gravy. Served with sambhar and chutney",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d51/3a3040d473e8cefd66e81e525887bd51.jpg",
+      "price": 306,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Dosa",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Cheese Chilli Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/525/af7e06a149425a8d9cb88a97096d4525.jpg",
+      "price": 306,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Frankie Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c03/e866bdc9a7355923f88e9949010a2c03.jpg",
+      "price": 306,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dilkhush Dosa",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jhanak Jhanak Payal Dosa",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Dosa",
+      "categoryName": "Fancy Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9a4/7ba4629b9bb3038d750569c216ba49a4.jpg",
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Chinese",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Manchurian",
+      "description": "Manchurian Balls Tossed in Sezwan Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/281/e93f73c83891737c849573566a8ef281.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Chinese",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "Combination of Rice Noodles and Manchurian in street style.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6e2/4ff86fd6fb40e9373e6e6a9b3a5596e2.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Chinese",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Bhel",
+      "description": "Fried noodles tossed with manchurian balls.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a4d/a31fe0241776c45d935f6e397ad1fa4d.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Chinese",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Garlic Manchurian",
+      "description": "Manchurian with Add-on Garlic",
+      "media": "https://b.zmtcdn.com/data/dish_photos/37b/6005d56e74b108b40a95d9d2c5f9c37b.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Chinese",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Manchurian",
+      "description": "Combination of paneer chunks and manchurian.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6f7/db93e0f68419576c8921d619412026f7.jpg",
+      "price": 289,
+      "menuName": "Chinese",
+      "categoryName": "Chinese",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli",
+      "description": "Chunks of paneer cooked to perfection dry.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dce/5e29fe0860420a3664b0db3de12fedce.jpg",
+      "price": 323,
+      "menuName": "Chinese",
+      "categoryName": "Chinese",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer 65",
+      "description": "Paneer chunks sauteed in red Chinese sauce.",
+      "media": null,
+      "price": 323,
+      "menuName": "Chinese",
+      "categoryName": "Chinese",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Red Cook",
+      "description": "Paneer chunks fried in Chinese gravy with yogurt.",
+      "media": null,
+      "price": 323,
+      "menuName": "Chinese",
+      "categoryName": "Chinese",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "Traditional Street style Chinese fried rice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef8/a380c5fdd1a2c8c48e5a54c3bb3b0ef8.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Fried Rice",
+      "description": "Combination of rice and manchurian balls.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a9e/89822f659f9fdf560107c50507c18a9e.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "rice",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Fried Rice",
+      "description": "Chinese rice tossed in Spicy red Gravy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5f1/bfec55de2d588dc519d08509779ab5f1.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Singapore Rice",
+      "description": "Rice tossed in turmeric powder topped with Spicy tadka mirchi.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3dc/704ff2d68d8d807dd612bfe27d3683dc.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Rice",
+      "description": "Combination of rice noodles and manchurian.",
+      "media": null,
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hong Kong Fried Rice",
+      "description": "Diagonally cut vegetables combined with sauces, red chillies ginger and garlic cooked oriental by.",
+      "media": null,
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Fried Rice",
+      "description": "A dish of steamed rice that is stir fried with soya sauce cottage cheese and mix vegetable. Combination of rice and paneer chunks.",
+      "media": null,
+      "price": 289,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Garlic Rice",
+      "description": "Chinese rice topped with burnt garlic.",
+      "media": null,
+      "price": 256,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Schezwan Fried Rice [750 ml]",
+      "description": "Comes with combination of rice noodles and gravy manchurian separately.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/166/3db9fd01ab8bf5a960bbf88410010166.jpg",
+      "price": 323,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Noodles",
+      "description": "Combination of fried rice and manchurian balls.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3c1/cdec90a93e7cfdabe22d7a883aa5d3c1.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Noodles and Choupsey",
+      "slugs": [
+        "veg",
+        "noodle",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "noodle",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodles",
+      "description": "| Serves 1 , 500 ml | Authentic Chinese Noodles",
+      "media": "https://b.zmtcdn.com/data/dish_photos/36e/acb5095cc4e8684aece5d6aac65dd36e.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Noodles and Choupsey",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "noodle",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "noodle",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Noodles",
+      "description": "Red hot spicy noodles.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/31f/28146d3f615907688ccbefed32d8231f.jpg",
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Noodles and Choupsey",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Singapuri Noodles",
+      "description": "Noodles added with a tinge of turmeric powder.",
+      "media": null,
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Noodles and Choupsey",
+      "slugs": [
+        "veg",
+        "noodle",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "noodle",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crisp and Soft Noodles",
+      "description": "Combination of fried and boiled noodles.",
+      "media": null,
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Noodles and Choupsey",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Chopsuey",
+      "description": "Fried noodles with authentic red Chinese gravy.",
+      "media": null,
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Noodles and Choupsey",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Chopsuey",
+      "description": "Fried noodles with authentic Chinese gravy.",
+      "media": null,
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Noodles and Choupsey",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Chopsuey",
+      "description": "Fried noodles with authentic Chinese gravy.",
+      "media": null,
+      "price": 204,
+      "menuName": "Chinese",
+      "categoryName": "Noodles and Choupsey",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burnt Garlic Noodles",
+      "description": "Chinese noodles topped with burnt garlic.",
+      "media": null,
+      "price": 272,
+      "menuName": "Chinese",
+      "categoryName": "Noodles and Choupsey",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Aromatic rice cooked in a tempering of cumin and whole spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/844/93a5264d9912e257a5dd46fc25d97844.jpg",
+      "price": 204,
+      "menuName": "Pulao",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tawa Pulao",
+      "description": "Jain Preparation is not available. Comes with chatni, salad and roasted papad [1 piece]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6ee/860587ebbbff8dbd11ff37821e49a6ee.jpg",
+      "price": 255,
+      "menuName": "Pulao",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Pulao",
+      "description": "Comes with kadhi, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/236/9d3fde8e8b8580d2337f3489a0d09236.jpg",
+      "price": 255,
+      "menuName": "Pulao",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kashmiri Pulao",
+      "description": "Comes with kadhi, salad and roasted papad [1 piece].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/820/bd473fe82d6f2c5799b9669bdb203820.jpg",
+      "price": 306,
+      "menuName": "Pulao",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Kashmiri Pulao",
+      "description": "Comes with kadhi, salad and roasted papad [1 piece].",
+      "media": null,
+      "price": 306,
+      "menuName": "Pulao",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tawa Pulao",
+      "description": "Comes with chutney, salad and roasted papad [1 piece].",
+      "media": null,
+      "price": 306,
+      "menuName": "Pulao",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Tawa Pulao",
+      "description": "A wholesome dish prepared by cooking chopped vegetables and rice in a flavorful Indian masala tossed in a tawa topped with cheese. Comes with chutney, salad and roasted papad [1 piece].",
+      "media": null,
+      "price": 306,
+      "menuName": "Pulao",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Kashmiri Pulao",
+      "description": "Comes with kadhi, salad and roasted papad [1 piece].",
+      "media": null,
+      "price": 340,
+      "menuName": "Pulao",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Tawa Pulao",
+      "description": "Comes with chutney, salad and roasted papad [1 piece].",
+      "media": null,
+      "price": 340,
+      "menuName": "Pulao",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-rice",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot and Sour Soup",
+      "description": "A Thick Spicy & Sour Soup Made From Juliennes of vegetables !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d09/f7a65d1d480b415cfeb0fddd1d136d09.jpg",
+      "price": 153,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchow Soup",
+      "description": "[Veg preparation] Serves 1 , 500 ml.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/211/b1d9629147b1af76f66c0b91ffe70211.jpg",
+      "price": 153,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Clear Soup",
+      "description": "A delightfully flavor-packed clear soup with chopped veggies - perfect to satiate your cravings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/391/c105f8c70e21af51e0a6a6f4f72f2391.jpg",
+      "price": 153,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Soup",
+      "description": "Cream based soup in tomato flavoured served with croutons.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b02/e0d8ef932be6a64e4fa3eec8c9379b02.jpg",
+      "price": 153,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Veg Soup",
+      "description": "",
+      "media": null,
+      "price": 204,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Veg Noodles Soup",
+      "description": "",
+      "media": null,
+      "price": 204,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon & Coriander Soup",
+      "description": "",
+      "media": null,
+      "price": 153,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Uttapam",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Uttapam",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Uttapam",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Onion Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/22a/b979da3148fc7c7afb26cacb892fb22a.jpg",
+      "price": 204,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Uttapam",
+      "description": "",
+      "media": null,
+      "price": 204,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Uttapam",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Uttapam",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Uttapam",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Rice + Manchow Soup",
+      "description": "Manchurian Rice with Manchow Soup",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eb7/5ed4b26a7b6a3360e9af92560052feb7.jpg",
+      "price": 250,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Gravy+Veg Fried Rice",
+      "description": "Veg Manchurian Gravy with Veg Fried Rice",
+      "media": null,
+      "price": 310,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Dry+Chinese Bhel+2 Jeera Soda",
+      "description": "",
+      "media": null,
+      "price": 430,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Dry+Veg Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b18/751e7c1abfc4ea060d44046161d14b18.jpg",
+      "price": 310,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Dosa + Regular Pav Bhaji + 4 Pav",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa with Sada Dosa and 2 Buttermilk",
+      "description": "",
+      "media": null,
+      "price": 288,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Masala Dosa with Masala Dosa and Buttermilk",
+      "description": "",
+      "media": null,
+      "price": 346,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pav Bhaji [Full]+4 Pav+Kashmiri Pulao [Full]+2 Jeera Soda+Papad",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/96f/77c73ba9bb4c9cb5224d1539a2a4896f.jpg",
+      "price": 430,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "hac-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "hac-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tawa Pulao with Papad",
+      "description": "Tawa Pulao [Full]+Regular Bhaji [Full]+4 Pav+Jeera Soda+Papad",
+      "media": null,
+      "price": 390,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Masala Dosa Combo",
+      "description": "Mysore Masala Dosa+Jini Roll Dosa+Sada Dosa+2 Jeera Soda",
+      "media": null,
+      "price": 450,
+      "menuName": "MPB Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "zpl-combo",
+        "hac-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "combo-item",
+        "zpl-combo",
+        "hac-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "1 Pc.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a88/9cf45b00ec62fc4b4849281880e44a88.jpg",
+      "price": 25,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Papad",
+      "description": "Papadis a thin Indian wafer, sometimes described as a cracker or flatbread. It is usually made from dried lentils eaten fried or roasted.",
+      "media": null,
+      "price": 40,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Salad",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chutney",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Buttermilk [200 ml]",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Desserts & Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mineral Water [1 Liter]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ce7/1266ed701042f0e2ee77a3be84badce7.jpg",
+      "price": 38.09,
+      "menuName": "Desserts & Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

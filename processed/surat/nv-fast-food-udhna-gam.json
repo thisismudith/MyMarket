@@ -1,0 +1,1720 @@
+{
+  "basicInfo": {
+    "name": "NV Fast Food",
+    "cuisine_string": "Chinese, South Indian, Street Food",
+    "canonicalUrl": "https://www.zomato.com/surat/nv-fast-food-udhna-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.5",
+      "reviewCount": "42",
+      "reviewTextSmall": "42 Reviews",
+      "subtext": "42 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.5",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.7",
+      "reviewCount": "4,546",
+      "reviewTextSmall": "4,546 Reviews",
+      "subtext": "4,546 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.7",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Udhna Gam, Surat",
+    "latitude": "21.1660852203",
+    "longitude": "72.8383040428",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1660852203,72.8383040428&maptype=zomato&markers=21.1660852203,72.8383040428,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop G-2, Saswat Residency, Santi Nagar, Udhna Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919106920494"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Butter Ghotala Bhaji with Pav Bhaji",
+      "description": "Butter Ghotala Bhaji+Pav Bhaji [4 Pav]",
+      "media": null,
+      "price": 325,
+      "menuName": "Party Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pav Bhaji + Manchurian Dry",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Navratri Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Noodles with Manchurian Gravy and Fried Rice",
+      "description": "Noodles+Manchurian Gravy+Fried Rice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/969/c96f9980799a3b05d449aff8e314e969.jpg",
+      "price": 399,
+      "menuName": "Navratri Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Pav Bhaji and Oil Tawa Pulao",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Navratri Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodles and Paneer Chilly Dry",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Navratri Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Pav Bhaji and Butter Tawa Pulao",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b6a/bfd174b99078ac082d6b4177900cab6a.jpg",
+      "price": 249,
+      "menuName": "Navratri Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Gravy and Veg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Navratri Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry and Butter Pav Bhaji",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Navratri Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "value-meal",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/129/d1e0859c555c87200758d7557ca0d129.jpg",
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Gravy",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b53/7ab4ce11788ef69a97e4fc0d76389b53.jpg",
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Kolhapuri Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/036/3acf51a23d4c92b08008713f01c83036.jpg",
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Singapuri Gravy",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ginger Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian 65 Gravy",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Kolhapuri Dry",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Singapuri Dry",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian Dry",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ginger Manchurian Dry",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Manchurian Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d4d/605744ec6c4934af9ea43c51a2c48d4d.jpg",
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Manchurian",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian 65",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c8f/b6acde786f02d514b0e2de40dd234c8f.jpg",
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian items",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli",
+      "description": "Paneer cubes, green chillies, onion, capsicum tossed in desi chilli sauce finished with a punch of soya. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6ef/8c1037155e96271dfbd7c1451457b6ef.jpg",
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Schezwan Chilli",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kolhapuri Chilli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6bf/0e60b25179236e1f61577e2fb34e26bf.jpg",
+      "price": 230,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli 65",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli 65 Gravy",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8fc/f6dd9c441e378d7cd9bf462ab281e8fc.jpg",
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Schezwan Gravy",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Kolhapuri Gravy",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilli",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilli Gravy",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Chinese",
+      "categoryName": "Paneer items",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pav Bhaji",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/175/4ea69537bbaabf03145833a69beac175.jpg",
+      "price": 0,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Khada Bhaji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a7/60896fb75f49ce439bfbb78c179395a7.jpg",
+      "price": 0,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Bhaji",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6ad/d0821762c25ad546ac34028f9d2936ad.jpg",
+      "price": 0,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Ghotala Bhaji",
+      "description": "| Butter made || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae2/cb177fe9bdcc17ac563ea835f245cae2.jpg",
+      "price": 170,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kathiyawadi Bhaji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e8a/12e5b11a3d057015ae8f93e101a78e8a.jpg",
+      "price": 0,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kolhapuri Bhaji",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "navratri-special",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "navratri-special",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Kolhapuri Gotala Bhaji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/834/8123ac1961b421f2d57075b4a77a3834.jpg",
+      "price": 170,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Kaju Masala Bhaji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6f2/1fdb17209622b7ba7e30910d4bab06f2.jpg",
+      "price": 180,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Amul Cream Ghotala Bhaji",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Butter Ghotala Bhaji",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Cheese Bhaji",
+      "description": "Butter made || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1f3/9cf84fd2a80ac2573b9818b02a8d71f3.jpg",
+      "price": 170,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paneer Bhaji",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Masala Pav",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Pav [4 Pav]",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Extra",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Pav [4 Pav]",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Pav Bhaji",
+      "categoryName": "Extra",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Aromatic rice cooked in a tempering of cumin and whole spices. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 110,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tawa Pulao",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6a5/a42dafe2289ad638e00a76e10842d6a5.jpg",
+      "price": 130,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Pulao",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae4/b8d3dc57fc177772ac3429c59c9c2ae4.jpg",
+      "price": 140,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "hero-item",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Pulao",
+      "description": "Butter made",
+      "media": null,
+      "price": 149,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kolhapuri Pulao",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Pulao",
+      "description": "Butter made",
+      "media": "https://b.zmtcdn.com/data/dish_photos/29e/8cf3aff490d3ace924e069b2b747229e.jpg",
+      "price": 159,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pulao",
+      "description": "Butter made",
+      "media": null,
+      "price": 160,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Pulao",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "Veg fried rice is flavourful rice tossed with vegetables and Chinese sauces.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9c4/57133a3276d9b140eb2b0e4b180c79c4.jpg",
+      "price": 140,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0f5/992130d3285ad8ad700f9648f1f8e0f5.jpg",
+      "price": 140,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "description": "A wholesome dish with the aromatic Schezwan rice prepared with assorted fresh veggies and flavor-packed masalas - perfect to satiate your apetite. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e1/f3663538389a1f3ac89f7fdcf87798e1.jpg",
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/18b/df62aec4631a510d8c3ab6ef2a09918b.jpg",
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hong Kong Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kolhapuri Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Fried Rice",
+      "description": "A wholesome dish with the aromatic triple fried rice prepared with assorted fresh veggies,flavor-packed masalas and schezwan sauce. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c0/d3ae843813b51bedf3d9e8d3edf712c0.jpg",
+      "price": 190,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Noodles",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/99b/61dc4354744dc4e5a3293d20b36b499b.jpg",
+      "price": 140,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Noodles",
+      "description": "A Singaporean delicacy with soft and tender noodles tossed in a sweet and spicy sauce.",
+      "media": null,
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hong Kong Noodles",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Noodles",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodles",
+      "description": "Vegetables, Chilli Flakes, Garlic tossed with Noodles & cooked in Schezwan Sauce.",
+      "media": null,
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Noodles",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kolhapuri Manchurian Noodles",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d93/45b6df467b7c51d290caceb3485a2d93.jpg",
+      "price": 140,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Bhel",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Bhel",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Bhel",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d7/1c3429614e565f88806f3911ae3d19d7.jpg",
+      "price": 150,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kolhapuri Bhel",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot and Sour Soup",
+      "description": "A spicy vegetable soup loaded with nutritious veggies to tingle your taste buds.",
+      "media": null,
+      "price": 90,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchow Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/392/b44e9940e1b455ca7812a1c5db29e392.jpg",
+      "price": 90,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Soup",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Soup",
+      "description": "A mouth-watering cream of mushroom soup.",
+      "media": null,
+      "price": 99,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

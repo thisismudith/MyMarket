@@ -1,0 +1,2889 @@
+{
+  "basicInfo": {
+    "name": "Shree Nav Durga Sandwiches",
+    "cuisine_string": "Sandwich, Chinese, Pizza, Fast Food, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/shree-nav-durga-sandwiches-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "148",
+      "reviewTextSmall": "148 Reviews",
+      "subtext": "148 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "3,887",
+      "reviewTextSmall": "3,887 Reviews",
+      "subtext": "3,887 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1942626805",
+    "longitude": "72.7861136198",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1942626805,72.7861136198&maptype=zomato&markers=21.1942626805,72.7861136198,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 8, Green Avenue Apartment, LP Savani Road, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918866766981"
+    },
+    "res_chain_text": "See all 2 Shree Nav Durga Sandwiches outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/shree-nav-durga-sandwiches",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Mexican Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/655/2e343479dd6d0640b35336396f197655.jpg",
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Schezwan Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Australian Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Russian Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Ahemdabadi Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Napoleon Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Cheese Chutney Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Beans Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tandoori Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Paneer Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Garlic Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hyderabadi Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo Garlic Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Punjabi Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lover Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Diet Corn Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Garlic Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tiranga Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Sandwiches",
+      "categoryName": "Shahi Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Bread Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Club Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chutney Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Masala Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Aloo Masala Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Aloo Masala Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chocolate Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Jam Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3dd/88543fa11e79c32c02135d73e9fb83dd.jpg",
+      "price": 199,
+      "menuName": "Sandwiches",
+      "categoryName": "Grilled Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Sandwich",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e7e/92df0e6625c3da3d67b2e6a0d11f5e7e.jpg",
+      "price": 70,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Only Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jam Sandwich",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Jam Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chutney Sandwich",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chutney Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Masala Sandwich",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Aloo Masala Sandwich",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Aloo Masala Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Sandwich",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chocolate Sandwich",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "3 in 1 Sandwich",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Simple Sandwiches",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Sandwich",
+      "description": "Non grilled.",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Dessert Sandwiches",
+      "slugs": [
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Russian Sandwich",
+      "description": "Non grilled.",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Dessert Sandwiches",
+      "slugs": [
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Sandwich",
+      "description": "Non grilled.",
+      "media": null,
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Dessert Sandwiches",
+      "slugs": [
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Chocolate Sandwich",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Sandwiches",
+      "categoryName": "Non Grilled Dessert Sandwiches",
+      "slugs": [
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry with Paneer",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Combo",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchow Soup",
+      "description": "Without fried noodles.",
+      "media": null,
+      "price": 130,
+      "menuName": "Soup",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/523/a0f8bced3bc7a1adeeab1393a8440523.jpg",
+      "price": 299,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Tawa Pulao",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Tawa Pulao",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Tawa Pulao",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tawa Pulao",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 229,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 219,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Cheese Baked Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Garlic Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Baked Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Nav Durga Pizza [7 inches]",
+      "description": "[Veg preparation]",
+      "media": null,
+      "price": 230,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot and Spicy Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pizza",
+      "slugs": [
+        "veg",
+        "spicy",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Pasta",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "White Pasta",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Pasta",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Burger",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Vada Pav",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/289/ca003e7e875157e4e25f3fcc72773289.jpg",
+      "price": 40,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Vada Pav",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Vada Pav",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/267/ae3caa572d84c9e7c6577ae1eaf32267.jpg",
+      "price": 55,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Vada Pav",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Vada Pav",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/267/ae3caa572d84c9e7c6577ae1eaf32267.jpg",
+      "price": 70,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Vada Pav",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Dabeli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d96/c33155a339cec9fecc10cf5cf7f41d96.jpg",
+      "price": 40,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Dabeli",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Dabeli",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Dabeli",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Dabeli",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Dabeli",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bhel",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Bhel and Sev Puri",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Bhel",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Bhel and Sev Puri",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev Puri",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Bhel and Sev Puri",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sev Puri",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Bhel and Sev Puri",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Toast",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Bread",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Toast",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Surat Special Toast",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hot Dog",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Hot Dog",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Hot Dog",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted and Masala French Fries",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese French Fries",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Cheese French Fries",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Pav Bhaji",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Pav Bhaji",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Pav Bhaji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4f4/12e7e94658f7f5b7e3bfb9d762dc34f4.jpg",
+      "price": 190,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "Pav Bhaji",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Roll",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Roll",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Beans Roll",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Cheese Baked Roll",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Roll",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Chilli Roll",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Rolls",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Frankie",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/130/2e41588aa18c83f1601cb6027b023130.jpg",
+      "price": 55,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Frankie",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Frankie",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Schezwan Frankie",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/434/63a339e007b116b57f4625f2ce029434.jpg",
+      "price": 65,
+      "menuName": "Frankies",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Maggi",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Maggi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Butter Maggi",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Papad",
+      "description": "",
+      "media": null,
+      "price": 25,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Papad",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "cake-flavor-vanilla",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tandoori Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Masala Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Veg Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Diet Corn Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Toast Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicum Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Mania Pizza [7 inches]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Mania Pizza [7 inches]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Mania Pizza [7 inches]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Mania Pizza [7 inches]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Veg Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Mania Pizza [7 inches]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Mania Pizza [7 inches]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Capsicum Pizza [7 inches]",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Mania Pizza [7 inches]",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    }
+  ]
+}

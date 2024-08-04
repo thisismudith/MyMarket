@@ -1,0 +1,929 @@
+{
+  "basicInfo": {
+    "name": "Avadh Shakes & Fast Food",
+    "cuisine_string": "Shake, Fast Food, Sandwich, Burger",
+    "canonicalUrl": "https://www.zomato.com/surat/avadh-shakes-fast-food-city-light/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "1",
+      "reviewTextSmall": "1 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "",
+      "reviewCount": "0",
+      "reviewTextSmall": "0 Reviews",
+      "subtext": "New on Delivery",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDelivery": true
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "City Light, Surat",
+    "latitude": "21.1661997000",
+    "longitude": "72.7959248000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1661997000,72.7959248000&maptype=zomato&markers=21.1661997000,72.7959248000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop L-4, Ashiyana Apartment, Block - B, City Light Main Road, City Light, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919879306989"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Veg Classic Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Grilled Bread Jam Sandwich",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Open Toast Sandwich",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Grilled Sandwich",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Asian Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Club Sandwich",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Super Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4af/a4c8cda64a305d153be5f4448203d4af.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/06e/61e1638cda2c7a20c18e84f9feb4006e.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pepper Bites Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Delight Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/85a/f257793d7396bff4ca2ff43e6f56885a.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farm Special Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92f/4edddfac4d740790b0ed1240209ef92f.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indi Paneer Lovers Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ceb/087a006bc3d219f0e45480cda537eceb.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Bean Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e6/3a241417c165a36c706cf0adc8d7c8e6.png",
+      "price": 210,
+      "menuName": "Footlong Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/607/ad9d08595a2d6121c254df22e6849607.png",
+      "price": 230,
+      "menuName": "Footlong Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Delight Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/82e/6be5df21dcb0ccc83f27dcb5cdfc282e.png",
+      "price": 210,
+      "menuName": "Footlong Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farm Special Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/aad/775297f96018c1693068e864d6e60aad.png",
+      "price": 230,
+      "menuName": "Footlong Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indi Paneer Lovers Pizza [8 inches]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/940/4e941fe7e30da1aca861cdafe35ac940.png",
+      "price": 230,
+      "menuName": "Footlong Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Bean Pizza [8 inches]",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Footlong Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mac and Cheese Pasta [350 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b1d/d0db3559c2094cb36ae9d453220e3b1d.png",
+      "price": 230,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "White Sauce Pasta [350 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f94/b82784d9195415cb6e1c0f2115595f94.png",
+      "price": 250,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Sauce Pasta [350 g]",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pink Sauce Pasta [350 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d2e/c47277a3f51dbd824e8dd7fc71f28d2e.png",
+      "price": 270,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Pasta [350 g]",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Pasta [350 g]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Pasta [350 g]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Burgers and Fries",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/04c/34d3f1e009bd8cd3951b3bb8c821c04c.png",
+      "price": 170,
+      "menuName": "Burgers and Fries",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Salted French Fries",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Burgers and Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries with Cheese",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b0/baa6faf25611ee1a35e24ee0adca45b0.png",
+      "price": 130,
+      "menuName": "Burgers and Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Burgers and Fries",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pocket [2 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Loaded Quesadilla",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Garlic Bread [4 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3eb/371dc663ac2545df733ba2e3b817e3eb.png",
+      "price": 130,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread [4 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/645/7466095d889f9ae308a7882ceaa05645.png",
+      "price": 170,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Garlic Bread [4 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Frappuccino [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Frappe [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Chips Frappe [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Caramel Macchiato [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Rice with Salsa Curry",
+      "description": "Rajma, corn, bell pepper and white rice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b60/1031d69caad50e9ce0ff80b5de606b60.png",
+      "price": 340,
+      "menuName": "Mexican Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Hot Pot Rice",
+      "description": "Rajma, corn, bell pepper and white rice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8fb/98b1f9420b9b1b5660c988da863f98fb.png",
+      "price": 380,
+      "menuName": "Mexican Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burrito Bowl",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Mexican Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

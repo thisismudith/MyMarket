@@ -1,0 +1,4953 @@
+{
+  "basicInfo": {
+    "name": "Golden Dragon",
+    "cuisine_string": "Chinese, Seafood, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/golden-dragon-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.4",
+      "reviewCount": "595",
+      "reviewTextSmall": "595 Reviews",
+      "subtext": "595 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.4",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.2",
+      "reviewCount": "10.6K",
+      "reviewTextSmall": "10.6K Reviews",
+      "subtext": "10.6K Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1754440110",
+    "longitude": "72.8044797586",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1754440110,72.8044797586&maptype=zomato&markers=21.1754440110,72.8044797586,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "G 10-15, Amidhara Shopping Centre, Rangila Park, Ghod Dod Road, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+912612669517"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Dragon Chicken Combo",
+      "description": "Dragon Chicken+Chicken Manchurian Gravy+Chicken Fried Rice",
+      "media": null,
+      "price": 899,
+      "menuName": "Combos",
+      "categoryName": "Dragon Non Veg Combo",
+      "slugs": [
+        "non-veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "combo-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Combo Meal",
+      "description": "Paneer Chilli Dry [Starter]+Vegetable Buddhas Delight[Main Course]+Veg Fried Rice [Main Course].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/66a/b83021b6af0c55bb2a4819761f09666a.png",
+      "price": 850,
+      "menuName": "Combos",
+      "categoryName": "Dragon Veg Combo",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Clear Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "home-style-meal",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Noodles Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Wonton Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f40/e46dcb5fd2ac5eb500b0d9132c318f40.png",
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Burnt Garlic Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Spicy Mongolian Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lemon Coriander Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Thai Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bad/b00abc8aa8feb6ca56b23639042e9bad.jpg",
+      "price": 230,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Five Treasure Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Saiwoo Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f94/ac3e4f68c82242270e953bbb1a668f94.jpg",
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hakka Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Talumein Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/21b/f50e28fe77ae7cb626da672aab62c21b.png",
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hot and Sour Wonton Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0a9/06b1c0244278f894d496fbe74f3100a9.png",
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lung Fung Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tum Yum Thong Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Thai Tum Yum Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Golden Dragon Special Soup",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hot and Sour Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Combination Soup",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ba2/e463b76c3883fd408def65859a35fba2.jpg",
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chef Special Chicken Soup",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Sweet Corn Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0f8/c5d8fe170887cd9bc1d45c9aaf42d0f8.jpg",
+      "price": 200,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chef Special Fish Soup",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Meat Ball with Vegetable Soup",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chef Special Prawns Soup",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Ginger Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/af1/ded1358d8d7b0bb0e65ee053e6ff9af1.jpg",
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Garlic Soup",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Spicy Seafood Soup",
+      "description": "[Spicy]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0e9/a0eeda5aa71ce640a5a1822ac14250e9.jpg",
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Seafood Soup",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mixed Seafood Thick Soup",
+      "description": "Fish and prawns.",
+      "media": null,
+      "price": 270,
+      "menuName": "Soups",
+      "categoryName": "Non Veg Soups",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Five Treasure Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5c4/869c57bc8da0a492f73c2eca773cd5c4.jpg",
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Golden Dragon Special Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Sweet Corn Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Burnt Garlic Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e0/e25792e956d91fd056f56f8dcafbd8e0.jpg",
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Plain Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Hot and Sour Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/249/896344f99cb714bd1ef0e02e1c6b0249.jpg",
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Mushroom Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetable Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Wonton Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/34a/bdc6340f260cf0a3a8515d6d4067834a.jpg",
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Wonton Noodles Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Talumein Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Lung Fung Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Manchow Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/661/ce7677f1b384761d3feb0641843a4661.png",
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chef Special Veg Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Green Pepper Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Spicy Mongolian Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/614/150eaf8f2bc48e7487dd4f9ab9f04614.jpg",
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Lemon Coriander Soup",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Thai Tom Yum Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d36/b37f9874fca580337ecd9da4a0fbbd36.jpg",
+      "price": 190,
+      "menuName": "Soups",
+      "categoryName": "Veg Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Fish",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Pepper Salt",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hakka Fish",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/703/5e33f0b58710f8276aab6f26bcce9703.jpg",
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish with Crispy Ginger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ea/660944af82e4ee9e731e40b01fbf84ea.jpg",
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Butter Garlic (Red)",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chilli Fish",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Manchurian",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Burnt Coriander",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Burnt Chilli",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Herb",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Smoked Coriander",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Five Spice",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sweet and Sour Fish",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Golden Dragon Fish",
+      "description": "",
+      "media": null,
+      "price": 470,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Pepper Salt",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-evening",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "White Prawns Butter Garlic",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3c4/9b16cc44fbb94b59e2ea2161cf0483c4.jpg",
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Hunan Style",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fried Prawns",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Munchurian",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Burnt Coriander",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Burnt Chilli",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Herb",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Honey Pepper",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eb0/cac6997619f9e2330ebc1041056d0eb0.jpg",
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Honey Garlic",
+      "description": "",
+      "media": null,
+      "price": 425,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Smoked Coriander",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Five Spice",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Barbeque",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sweet and Sour Prawns",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Butter Garlic ( White )",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Red Prawns Butter Garlic",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Vegetable Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/213/2c3e92b9a393409b7f0a583bbf2b2213.jpg",
+      "price": 280,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Honey Pepper",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Honey Pepper",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Honey Garlic",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Mustard",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/638/b3fa470cfdd944c4ce637fc41c748638.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Herb",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Thai Chilli",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Thai Chilli",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Burnt Coriander",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Thai Hot Basil",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Onion Chilli",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Exotic",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kung Pao",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d3c/89b9060ed2fba4bc90cb2b4c55762d3c.png",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Spicy Hakka",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Basil Chilli",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Angel",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e87/7eaee13aa6a42629b6a73af46792fe87.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Baby Corn Chilli Paprika",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8d7/1ad2f7295026525bba0a77096cf778d7.png",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Five Spice Paneer",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Manchurian",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cauliflower Manchurian",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d23/531add2575cc0f19cc8da532c9de0d23.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/846/8e56fde60aae9f8bcd88a5b3edc78846.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Barbeque",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pepper Salt",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Three Treasure Pepper Salt",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Baby Corn",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chow Chu Potato",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dragon Potato",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Barbeque",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tsinghai Paneer",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/14b/b90f13844acbc394f18475963b63c14b.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Dragon Special",
+      "description": "[Chef Special]",
+      "media": null,
+      "price": 390,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Chilli Potato with Special Onion",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Chilli Baby Corn",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Sticks",
+      "description": "",
+      "media": null,
+      "price": 400,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Thread Paneer",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f01/9b04c9e96b7ff69adf5dfc441c9caf01.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet and Sour Vegetable",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Lotus Stem in Hoisin Sauce",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Veg in Hot Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Veg in Schezwan Sauce",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Veg in Black Bean Sauce",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Foo Young",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Honey Pepper",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/355/237b3db483e30d2388fb8cb15ef82355.png",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Mustard Chicken",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "BBQ Sizzling Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eab/0852a539e00884b174f0ca36158d0eab.jpg",
+      "price": 430,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Herb",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f10/aadd966fc46a56ae581e97ca3f79ef10.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Onion and Burnt Garlic Chicken",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Burnt Coriander",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9c9/18ead55d1d92ad7a0cf380508c0e99c9.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Smoked Coriander",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Burnt Chilli",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Basil Chilli",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Thai Hot Basil",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef7/c1b3fe6c5c6590cbfb8b886c39d54ef7.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Shredded Onion Chilli Chicken",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Zad Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8da/2066f26e575ed7953d57a165b55fa8da.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hot and Spicy",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Angle",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chilli Milli Chicken",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Paprika",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chilli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b9/be5571b9a655f1e65b4b758a7aa099b9.jpg",
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/291/ef7b8ec60f5b27773f727efad3fe1291.jpg",
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tai Pei",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Shantung",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Deep Fried Chicken Thai Style",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6cc/0631b9bb03adee346ab7c9142adae6cc.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Crispy Chicken with Sesame Seed",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pepper Salt",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Barbeque",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f4e/e262130c94737628f2c15ee4b8c6bf4e.png",
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hakka Chicken",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sliced Spicy Chicken",
+      "description": "[Spicy]",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Stir Fried Chicken Dips and Chilli",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sesame Fried Chicken with Chilli Honey Sauce",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tsing Hoi Chicken",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Spicy Crispy Chicken",
+      "description": "[Spicy]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0b5/4d56cf2dbb9beb0f55b70a989648f0b5.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "bestseller-dinner",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "bestseller-dinner",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Red Chicken Butter Garlic",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Oyster Chilli",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd4/28326f4c844cfd1584cb450449113cd4.jpg",
+      "price": 390,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Golden Dragon Special Chicken",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Volcanic Chicken",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Drums of Heaven Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a12/d3ba24e9bd4ce157587d9023037caa12.png",
+      "price": 390,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Drums of Heaven Chicken Shandong Style",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e60/7f5aa5e38ab8354650ca0f8a63bcbe60.png",
+      "price": 390,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Crispy Thread Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/833/e6bf9ea98a24787a38451a45e9664833.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Five Spice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0de/6e3a7cb68e56985732f6f0114c3700de.jpg",
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Drums of Heaven Chicken Hong Kong Style",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Hunan Style",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sweet and Sour Chicken",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Korean Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/573/8ec67d147618e2b7f63513f4a5fd3573.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Asian Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/76f/0680ffa8f8593e17fe8123dc9b84c76f.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Butter Garlic (White)",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Starters",
+      "categoryName": "Egg and Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Ching Chokai Chicken Gravy",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tiso Chicken Gravy",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Holy Chicken Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/75d/c3f6dbe3a2ed59902947391319dc475d.jpg",
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Spicy Hakka Sauce",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tsing Hoi Chicken Gravy",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Coriander Chilli Sauce",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sapo Chicken Gravy",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Thai Red Curry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bd0/8af883cd90569ce38f4dc88eba4b9bd0.jpg",
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Thai Green Curry",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Garlic Sauce",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6db/ce090614f9ae8ef2c067cd9f5bc756db.jpg",
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Ginger Sauce",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Black Bean Sauce",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Chilli Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Oyster Sauce",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-evening",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Devils Chicken Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/293/e8e4450e6b53bdf404528327348c0293.png",
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken with Green Chilli in Red Sauce",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Ginger Chilli Gravy",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken in Schezwan Sauce",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Red Cooked Chicken Gravy",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-evening",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chow Chow",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Grilled Chicken in Teriyaki Sauce",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6be/159a8aa6dbb644fa02dc9b94cf03d6be.jpg",
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Non Veg Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish in Ginger Sauce",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish in Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Stuffed Fish in Chilli Garlic Sauce",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b12/5044381933fbbf9452a8e297cbab1b12.jpg",
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Thai Red Curry",
+      "description": "",
+      "media": null,
+      "price": 470,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Thai Green Curry",
+      "description": "",
+      "media": null,
+      "price": 470,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns in Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns in Ginger Sauce",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Green Chilli Red Sauce [Jumbo]",
+      "description": "",
+      "media": null,
+      "price": 770,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "King Prawns Green Chilli Red Sauce",
+      "description": "",
+      "media": null,
+      "price": 650,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "King Prawns in Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 650,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "King Prawns in Ginger Sauce",
+      "description": "",
+      "media": null,
+      "price": 650,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns in Oyster Sauce [Jumbo]",
+      "description": "",
+      "media": null,
+      "price": 770,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Schezwan Sauce",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tiso Paneer Gravy",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tiso Mushroom Gravy",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Thai Red Curry",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable in Hot Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Thai Green Curry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f5f/09ade52c5f6d13db1bdcd7a64699af5f.jpg",
+      "price": 450,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer in Double Red Cooked Sauce",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable in Hunan Sauce",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable in Ginger Sauce",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer in Ginger Sauce",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable in Schezwan Sauce",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Korean Veg Gravy",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Buddhas Delight",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Chow Chow",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1d1/13836e34fbe93a288270c7da529191d1.jpg",
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sesame Fried Paneer in Honey Chilli Sauce",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable with Baby Corn",
+      "description": "",
+      "media": null,
+      "price": 310,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Steamed Rice",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ab8/73fed1ad0193fb6d37ec673f7097cab8.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hunan Noodles",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chinese Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/245/9c5207bb2f4a56e3c1534abd23342245.jpg",
+      "price": 450,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pan Fried Noodles",
+      "description": "",
+      "media": null,
+      "price": 420,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Teppan Soba",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92e/c886c802f0b071688badba75fd39492e.png",
+      "price": 390,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken American Chopsuey",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b76/363c7cc8cf12cd883860764bb9550b76.png",
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chinese Chopsuey",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hunan Chopsuey",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chowmein",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/02d/c06d7bf2943c2b96f9950e4cd0ef702d.png",
+      "price": 310,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Chowmein",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mixed Chowmein",
+      "description": "Mixed with chicken and prawns.",
+      "media": null,
+      "price": 410,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mixed Hakka Noodles",
+      "description": "Chicken and prawns.",
+      "media": null,
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Noodles",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Vegetable Hunan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Schezwan Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f7b/8edce20fd7f054756531d1b4ceacef7b.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Chilli Mushroom Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Cheese Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Moon Fan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Bamboo Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Korean Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Steamed Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Special Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b6/12cf4d353e005b6328f9a921395089b6.jpg",
+      "price": 260,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Type Vegetable Combination Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Canton Type Vegetable Combination Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Veg Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/566/3e59e458f27b19b51730f07b91945566.jpg",
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f51/56cb8aa3567c03d8d78c879eec9ebf51.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "egg",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "bestseller-dinner",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken and Cheese Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Moon Fan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Bamboo Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bcc/8a4205873b885ec23e530a2a1a56bbcc.jpg",
+      "price": 410,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Hunan Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/017/d4dbe5e36c10970173b004c9297e1017.png",
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc3/deed9f4d50a8720169259d37a5d02cc3.jpg",
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Thai Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Korean Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Special Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 410,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/745/428767a9620291c386a3618fed722745.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Schezwan Chicken Combination Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Canton Style Chicken Combination Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "combo-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Vegetable Steamed Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Bamboo Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 470,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Combination Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Combination Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 450,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b8/bde8a15e024dbf2c3f01a15cf3bf69b8.jpg",
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Korean Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 470,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Bamboo Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 470,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Vegetable Steamed Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 400,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mixed Fried Rice",
+      "description": "Chicken and prawns.",
+      "media": null,
+      "price": 300,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mixed Vegetable Steamed Fried Rice",
+      "description": "Mixed with chicken & prawns.",
+      "media": null,
+      "price": 400,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Non Veg Fried Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Vegetable Hakka Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2ea/ebe612e48644c19156a038eb057d02ea.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Schezwan Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c5b/f47738619111da3fddbd19985f803c5b.jpg",
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Hunan Noodles",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Noodles",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pan Fried Noodles",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable American Chopsuey",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Tepan Soba",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Chinese Chopsuey",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Hunan Chopsuey",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Chowmein",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/30d/0556b4c1c9b067a9177812204216930d.png",
+      "price": 280,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Veg Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Spring Roll",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/428/b47b50b9328bb8882cb80924ae0b2428.jpg",
+      "price": 250,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Spring Roll",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/945/effaddcca06e1d67a3886828015c8945.png",
+      "price": 260,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Fingers",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4b5/e707af2736ea4a971e613e75958024b5.jpg",
+      "price": 450,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Wonton [12 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f2a/e0847ecfb892b90f3cd76665c0905f2a.jpg",
+      "price": 250,
+      "menuName": "Momos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Wonton [12 Pieces] with Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Momos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

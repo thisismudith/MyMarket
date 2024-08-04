@@ -1,0 +1,358 @@
+{
+  "basicInfo": {
+    "name": "Sobi's Diet Farm",
+    "cuisine_string": "Healthy Food, Salad",
+    "canonicalUrl": "https://www.zomato.com/surat/sobis-diet-farm-1-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.1",
+      "reviewCount": "68",
+      "reviewTextSmall": "68 Reviews",
+      "subtext": "68 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.1",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.5",
+      "reviewCount": "987",
+      "reviewTextSmall": "987 Reviews",
+      "subtext": "987 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.5",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "800"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1916840367",
+    "longitude": "72.7930635586",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1916840367,72.7930635586&maptype=zomato&markers=21.1916840367,72.7930635586,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "B-368, Saiyad Street, Near Gujarat Gas Company, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919712171817, +919023912126"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Omelette Stuffed with Paneer Keema",
+      "description": "Stuffed with paneer.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4e9/03cd379d20536672ca055438412274e9.jpg",
+      "price": 350,
+      "menuName": "Meals",
+      "categoryName": "Egg",
+      "slugs": [
+        "egg",
+        "restaurant-recommended",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "restaurant-recommended",
+        "services",
+        "value-meal",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Spinach Meal",
+      "description": "Juicy chicken breast in spinach gravy and traditional basmati white rice tossed in jeera",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d74/736b74043fa83fb87733eb912aea6d74.jpg",
+      "price": 360,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "combo-item",
+        "services",
+        "value-meal",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Roasted Chicken Breast Salad",
+      "description": "Soft and juicy chicken breast grilled with exotic veggies",
+      "media": "https://b.zmtcdn.com/data/dish_photos/783/1697d1ca22eb1a12e688c665cfcb7783.jpg",
+      "price": 290,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kebab in House Sauce",
+      "description": "Chicken kebab (3 pcs) with house sauce with rice and salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/123/e2d9a75cdc4c003aa6c8c4e4791ff123.jpg",
+      "price": 350,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Veggies",
+      "description": "Chicken breast stuffed with chopped veggies with steamed white rice and exotic salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/648/dd28de105dcc093fd242a70cc5c36648.jpg",
+      "price": 370,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Mayo [Keto]",
+      "description": "Keto chicken meal with only salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/19f/c4239704baab9c09154406d66900219f.jpg",
+      "price": 300,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Omelette Stuffed with Chicken Keema",
+      "description": "3 Egg whites and one yolk omlette stuffed with 50 gram chicken keema",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6fd/c66019fab77c5c7d35fc9492ecfd86fd.jpg",
+      "price": 350,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Smoked Chicken Tikka Meal",
+      "description": "Smoked chicken pieces (200 gm) with exotic veggies and white rice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bc3/147c79620f198a44358bb28d1ded4bc3.jpg",
+      "price": 360,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "combo-item",
+        "services",
+        "value-meal",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Roasted Meal",
+      "description": "Tender pieces of chicken cooked with a blend of exotic spices and cooked to perfection.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8fc/fd9a9b073ca19d8a1cffd23d503788fc.jpg",
+      "price": 350,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "healthy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "healthy",
+        "combo-item",
+        "services",
+        "value-meal",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Roulade",
+      "description": "0 Oil ,melt in mouth chicken breast stuffed with veggies.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/87b/24a3b70860f3c27fec6618678b1f987b.jpg",
+      "price": 330,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "new",
+        "wheat-free",
+        "restaurant-recommended",
+        "dairy-free",
+        "mild",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "wheat-free",
+        "restaurant-recommended",
+        "dairy-free",
+        "mild",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Blonde Tikka",
+      "description": "Chicken tikkas smoked till blonde saffron hue, with rice and salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/84d/68afee3b1c33b1742b2b429808a4b84d.png",
+      "price": 360,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Roasted [150 grams]",
+      "description": "Tender, juicy pieces of chicken marinated in a blend of aromatic spices and roasted to perfection. A classic chicken dish, perfect for any occasion.",
+      "media": null,
+      "price": 220,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Roasted [100 grams]",
+      "description": "Juicy and tender pieces of chicken roasted with herbs and spices, perfect for a light and satisfying meal.",
+      "media": null,
+      "price": 170,
+      "menuName": "Meals",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Roasted (200gm)",
+      "description": "Juicy and tender chicken roasted to perfection, our Chicken Roasted is a delectable dish that will satisfy your taste buds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/29f/0d14d36c24442bb81e6d5ea26c3a229f.jpg",
+      "price": 270,
+      "menuName": "Salads",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

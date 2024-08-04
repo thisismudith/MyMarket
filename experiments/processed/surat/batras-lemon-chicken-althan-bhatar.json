@@ -1,0 +1,772 @@
+{
+  "basicInfo": {
+    "name": "Batra's Lemon Chicken",
+    "cuisine_string": "North Indian",
+    "canonicalUrl": "https://www.zomato.com/surat/batras-lemon-chicken-althan-bhatar/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "3",
+      "reviewTextSmall": "3 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.1",
+      "reviewCount": "518",
+      "reviewTextSmall": "518 Reviews",
+      "subtext": "518 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Althan Bhatar, Surat",
+    "latitude": "21.1571010289",
+    "longitude": "72.8097647000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1571010289,72.8097647000&maptype=zomato&markers=21.1571010289,72.8097647000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Plot 36-42, Amul Society, Althan Bhatar, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918160277454"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Butter Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bc6/dbc89b35567f805b52aaca12a7579bc6.jpg",
+      "price": 0,
+      "menuName": "Gravy Item [Bone]",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kali Mirch Chicken",
+      "description": "With Gravy || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2fa/b94aaca85e4fdbbdd57de6c31c26f2fa.jpg",
+      "price": 0,
+      "menuName": "Gravy Item [Bone]",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lemon Chicken",
+      "description": "With Gravy  Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5f5/f8a527b4876a564f20e8d0606bda45f5.jpg",
+      "price": 0,
+      "menuName": "Gravy Item [Bone]",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lemon Kali Mich Mix[bone]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Gravy Item [Bone]",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken Dry",
+      "description": "With Bone",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4b0/d6dad0276cce861e2718a1e0999ec4b0.jpg",
+      "price": 0,
+      "menuName": "Dry Items [Bone]",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dahi Chicken Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/14f/606d563068c1d56cb4a53e25508b814f.jpg",
+      "price": 0,
+      "menuName": "Dry Items [Bone]",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kali Mirch Chicken Dry",
+      "description": "With Bone || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/269/e260e5c8464b8c63eb4e7994ce2a4269.jpg",
+      "price": 0,
+      "menuName": "Dry Items [Bone]",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lemon Chicken Dry",
+      "description": "With Bone || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/905/eed4e304fd0ea1cf62134fee3ca86905.jpg",
+      "price": 0,
+      "menuName": "Dry Items [Bone]",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken Boneless Gravy",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/71d/51d79007d9e1ed1f66eb159d27f3371d.jpg",
+      "price": 0,
+      "menuName": "Boneless (Keema)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kali Mirch Chicken Boneless Gravy",
+      "description": "Mages used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish",
+      "media": "https://b.zmtcdn.com/data/dish_photos/511/a173b11b492685f7a2dcc212782a7511.jpg",
+      "price": 0,
+      "menuName": "Boneless (Keema)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lemon Chicken Boneless Gravy",
+      "description": "Lemon chicken recipe yields tender chicken bites with a dominant flavor of lemon juice, mint and mild spices",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea9/4d3634f7127dc4bf89e53fc078328ea9.jpg",
+      "price": 0,
+      "menuName": "Boneless (Keema)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lemon Kali Mich Mix[Boneless]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Boneless (Keema)",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken Boneless Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5e6/3185bdfd2f1b962f5daf6f98b71145e6.jpg",
+      "price": 0,
+      "menuName": "Boneless Dry",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Cream Chicken",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/78b/8a7624ca2f44aa699d79be3d6590f78b.jpg",
+      "price": 0,
+      "menuName": "Boneless Dry",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Dahi Chicken Boneless Dry",
+      "description": "Mages used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.",
+      "media": null,
+      "price": 0,
+      "menuName": "Boneless Dry",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kali Mirch Chicken Boneless Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/699/d8faaf522791e7c11ed4e09116fc0699.jpg",
+      "price": 0,
+      "menuName": "Boneless Dry",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Lemon Chicken Boneless Dry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/794/0ede32dd02d00ceb3cb21a074ec24794.jpg",
+      "price": 0,
+      "menuName": "Boneless Dry",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Curd",
+      "description": "A healthy and tasty side of curd that ca be relished on its own or with Indian meals.",
+      "media": null,
+      "price": 96,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "A comforting and delicious preparation made with mixed daal cooked and tempered with onions, chillies and more in pure ghee. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 120,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Extra Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Extra Leg Piece",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kaleji Dry",
+      "description": "Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish",
+      "media": null,
+      "price": 0,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kaleji With Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Extra",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Aloo Paratha",
+      "description": "Wholesome parathas with generous seasoned potato stuffing; served with curd, salad and pickle. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 132,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Paratha Butter",
+      "description": "",
+      "media": null,
+      "price": 144,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ghobi Paratha",
+      "description": "Soft and fluffy flatbread with a mashed caulifloret stuffing; served with curd and pickle. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 168,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobhi Paratha Butter",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paratha",
+      "description": "Hearty parathas with ample stuffing of seasoned paneer chunks; served with curd, salad and pickle. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 192,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paratha Butter",
+      "description": "",
+      "media": null,
+      "price": 204,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Paratha",
+      "description": "Multilayered wheat bread baked in tandoor. Are made from pure wheat flour on maida",
+      "media": null,
+      "price": 96,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Paratha With Butter",
+      "description": "",
+      "media": null,
+      "price": 108,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pyaaz Paratha",
+      "description": "",
+      "media": null,
+      "price": 132,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pyazz Paratha Butter",
+      "description": "",
+      "media": null,
+      "price": 144,
+      "menuName": "Paratha With Curd And Dal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "Soft and fluffy rotis topped with a generous serving of butter. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 24,
+      "menuName": "Roti",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Drinks",
+      "description": "",
+      "media": null,
+      "price": 24,
+      "menuName": "Roti",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Aromatic rice cooked in a tempering of cumin and whole spices. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 0,
+      "menuName": "Roti",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mineral Water",
+      "description": "",
+      "media": null,
+      "price": 24,
+      "menuName": "Roti",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "mrp-item",
+        "non-gold",
+        "non-promo",
+        "packaged",
+        "non-refundable",
+        "services",
+        "mrp-commission",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papad",
+      "description": "Mages used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish",
+      "media": null,
+      "price": 18,
+      "menuName": "Roti",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Rice",
+      "description": "Heat ghee in a vessel and fry the sliced onions till golden brown, add the cloves, cinnamon, green chilly serves in container.",
+      "media": null,
+      "price": 0,
+      "menuName": "Roti",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Roti",
+      "description": "Super-soft roti that is usually paired with a gravy-based dish. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": null,
+      "price": 18,
+      "menuName": "Roti",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

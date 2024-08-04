@@ -1,0 +1,1007 @@
+{
+  "basicInfo": {
+    "name": "The Pizzaland",
+    "cuisine_string": "Pizza, Chinese, Fast Food, Italian, Healthy Food",
+    "canonicalUrl": "https://www.zomato.com/surat/the-pizzaland-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.2",
+      "reviewCount": "4",
+      "reviewTextSmall": "4 Reviews",
+      "subtext": "4 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.9",
+      "reviewCount": "244",
+      "reviewTextSmall": "244 Reviews",
+      "subtext": "244 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.9",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395009",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1898815539",
+    "longitude": "72.7964468300",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1898815539,72.7964468300&maptype=zomato&markers=21.1898815539,72.7964468300,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 103, 104, Western Coridor, Gujarat Gas Circle, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919099965001"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Crispy Fried Veg",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dry Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/675/8e6159a5f1faf538074e9c6f7ad85675.jpeg",
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/27e/cdaaf9331afe6d8a4d66382fc2beb27e.jpeg",
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hakka Noodles",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e1b/9caf4ac6a47fc5df174fe9d5482d6e1b.jpeg",
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilly Garlic",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Manchurian",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilly",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f13/d3fb3ac5159cb73262e6da5e8c762f13.jpeg",
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Manchurian",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Chilly",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Margherita Pizza",
+      "description": "Cheesy with Tamato, fresh basil leaves, Tomato Sprinkled with olive oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e8a/763d089626d692ef92dd0a4681a9be8a.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh Veggie Feast",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5eb/e48d8c4611d44ef6affeb8bc911c55eb.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fungi Mushroom And Chilli Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/26e/776d98a8016705f22907084bd3faa26e.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hawaiian Mood Pizza",
+      "description": "Pineapple, mushroom, barbeque paneer and jalapeno.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b54/1f64df53962972f6b9d501286024fb54.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot And Spicy American Pizza",
+      "description": "Jalapeno, baby corn, green capsicum and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/280/81a70ebccc94f99ac550b6a91e5a6280.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Red Pizza",
+      "description": "Red pasta, olives, capsicum, tomato, onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be1/0b797aafe8c295be787fd51e508dbbe1.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian White Pizza",
+      "description": "White pasta, olives, capsicum and tomato.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Bean Delight Pizza",
+      "description": "Cheesy with tomato, fresh basil leaves and tomato sprinkled with olive oil.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "New Mexicano Pizza",
+      "description": "Sweet corn capsicum, onion, tomato, jalapeno, mexican herbs.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/26b/462fbc2c76b568ca589f6e839b22526b.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peppery Party Pizza",
+      "description": "Red yellow green bell pepper tomato with crushed black pepper.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b54/1f64df53962972f6b9d501286024fb54.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Simply Spicy Pizza",
+      "description": "Tomato, sweet corn and green chilli.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/28f/0e42c80f0fc703d4a1bf40dd429d228f.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Urban Choice Pizza",
+      "description": "Baby corn, olives and red paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a16/ad95462f9cf84a42237aac3a978eea16.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Crunch Pizza",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5eb/e48d8c4611d44ef6affeb8bc911c55eb.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Continental Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Balle Beat Pizza",
+      "description": "Special punjabi makhani gravy, tandoori paneer, onion baby corn, green peas and coriander.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chaina Man Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chennai Express Pizza [South Special]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "China Man Pizza",
+      "description": "Chinese style paneer chilly, garnished with spring onion.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fiery Paneer Pizza",
+      "description": "Spicy paneer green capsicum, olives, jalapeno & cruushed red chilli.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/70c/e4f070477d67166c8c66fac7abdd270c.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hariyali Paneer Pizza",
+      "description": "Hariyali paneer, onion, tomato, capsicum, green chilli.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pataka Paneer Pizza",
+      "description": "Chatpata paneer, sweet corn, red paprika, green capsicum and coriander..",
+      "media": "https://b.zmtcdn.com/data/dish_photos/665/7f65df6e30e15ef061fc30738f1ce665.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rangilo Gujju Pizza",
+      "description": "Gujarati style flavourful green peas masala, tomato, garlic, ginger, onion, green chilli, coriander and lots of cheese.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Chilly Pizza",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Zayka Pizza",
+      "description": "Tandoori paneer, onion, tomato & green capsicum with tandoori masala.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/523/abaa3eb9bd820216d5f681ff0464f523.jpeg",
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Yummy Pizza",
+      "description": "Spicy paneer, green chilli, garlic, spinach and fresh mint garnished with spring onion.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Desi Style Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Treat Pizza",
+      "description": "",
+      "media": null,
+      "price": 499,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "New York Style Pizza (Large)",
+      "description": "",
+      "media": null,
+      "price": 499,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Old Bombay Chowpati Style Pizza",
+      "description": "Chopped veg mixed with green chilli, chatpata bombay masala on thin crust pizza base topped with processed cheese.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Special Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "description": "(4 Pcs)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d30/0f3c96a2f0bc479f045efb06eb723d30.jpeg",
+      "price": 189,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Garlic Bread",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Jain Bread",
+      "description": "(4 Pcs)",
+      "media": null,
+      "price": 189,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Garlic Bread",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Garlic Bread",
+      "description": "(4 Pcs)",
+      "media": null,
+      "price": 129,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Garlic Bread",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Jain Bread",
+      "description": "(4 Pcs)",
+      "media": null,
+      "price": 129,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Garlic Bread",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Supreme Spicy Garlic Bread",
+      "description": "(4 Pcs)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a3/36f8275d71c86f39bdd629927a9db5a3.jpeg",
+      "price": 199,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Garlic Bread",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Supreme Spicy Jain Bread",
+      "description": "(4 Pcs)",
+      "media": null,
+      "price": 199,
+      "menuName": "Pizza & Garlic Bread",
+      "categoryName": "Garlic Bread",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fd7/a37f1bddcbb0f15508ac04830a7c0fd7.jpeg",
+      "price": 249,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arabiata Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2e7/9b78c04c94147c6107a5b91622e512e7.jpeg",
+      "price": 249,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Sauce Pasta",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b7c/3575d0036284b62202f9f3fc3d7b0b7c.jpeg",
+      "price": 249,
+      "menuName": "Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fb3/46d7f160bf6c3c01c5160d6a2c358fb3.jpeg",
+      "price": 199,
+      "menuName": "Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan French Fries",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Brownie",
+      "description": "(1 Pcs)",
+      "media": null,
+      "price": 129,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

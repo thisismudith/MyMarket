@@ -1,0 +1,999 @@
+{
+  "basicInfo": {
+    "name": "Falafel Lovers",
+    "cuisine_string": "Salad, Lebanese, Pizza, Pasta, Arabian, Fast Food, Desserts, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/falafel-lovers-varachha/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "9",
+      "reviewTextSmall": "9 Reviews",
+      "subtext": "9 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "748",
+      "reviewTextSmall": "748 Reviews",
+      "subtext": "748 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Varachha, Surat",
+    "latitude": "21.2070148802",
+    "longitude": "72.8472636268",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2070148802,72.8472636268&maptype=zomato&markers=21.2070148802,72.8472636268,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "101, 109, First Floor, Royal Arcade, Dongarebadi, Varachha Road, Varachha, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919825264633"
+    },
+    "res_chain_text": "See all 3 Falafel Lovers outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/falafel-lovers",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Original Falafel",
+      "description": "Cucumber pickle, tomatoes, cucumber, lettuce, shredded parsley, mint, falafel with tahini.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d7c/3e49fad591edf25fc8e5933a8ad21d7c.jpg",
+      "price": 220,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Rice",
+      "description": "Steamed rice with garlic bell pepper and creamy tomato sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2d2/d4dcf41b9acdcd7a0186cbb3e6b412d2.jpg",
+      "price": 320,
+      "menuName": "Today's Exclusive Dishes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "Deep fried, thin salted slices of potatoes.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/91b/c786c5aad2bf639e30da77779a85591b.jpg",
+      "price": 150,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Saute Fries",
+      "description": "Deep fried, thin salted slices of potatoes with finely chopped fried garlic, in creamy garlic sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ff0/30b480d62b15fc1daa65ceac259a8ff0.jpg",
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Garlic Bread",
+      "description": "Garlic toasted breads.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/453/cb01cb513569d300fe00b028f5688453.jpg",
+      "price": 180,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "description": "Garlic bread topped with an overload of cheese and baked to perfection. || Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2d4/83bb1f4dfaf2aa29ab85478ba37b42d4.jpg",
+      "price": 220,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Supreme Garlic Bread",
+      "description": "|| Images used are for representation purposes only, and do not indicate size, portion, quantity or color of the actual dish.||",
+      "media": "https://b.zmtcdn.com/data/dish_photos/22d/bdd2ddea8963b0525575f0ebd58c222d.jpg",
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Garlic Bread",
+      "description": "A crispy and flavorful bread smeared with a savory garlic butter, perfect for sharing with friends.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/196/c71fd7043d524eebb2b78ed3cf775196.jpg",
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Bruschetta",
+      "description": "Garlic toast topped with tomatoes, fresh basil & feta cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c50/512f8d6bf158c4779d559c57578aec50.jpg",
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nachos With Cheese",
+      "description": "Corn nachos dipped in lots of cheese. Served with salsa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3a9/85dd5305592b121733785510e57fa3a9.jpg",
+      "price": 240,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nachos Grande",
+      "description": "Corn nachos topped with beans, bell peppers & cheese, served with salsa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3a9/85dd5305592b121733785510e57fa3a9.jpg",
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lahmacun",
+      "description": "Crispy flat bread topped with flavour packed mixture of minced soya, earthy spices, fresh herbs and pine nuts.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/27a/88f6ac18eab65d1507363007b63a327a.jpg",
+      "price": 380,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falafel Bites",
+      "description": "Golden crisp balls of chickpea, parsley, green onions, garlic & spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/606/d1cc21e471e83ed5d4ab982f367ef606.jpg",
+      "price": 150,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lebanese Bowl",
+      "description": "Great combination of falafel bites, farm greens & veggies, hummus, labneh, muhammara & garlic pita bread.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea0/e62996685e3081437558bdd3ca350ea0.jpg",
+      "price": 420,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falafel Salad",
+      "description": "Falafel bites, green & farm veggies, hummus & labneh dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/47c/1e0fc26dc568a9b515d37c1d3e11047c.jpeg",
+      "price": 280,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "healthy",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tabbouleh Salad",
+      "description": "Bulgur wheat with parsley, tomatoes & pomegranate kernels, onions, lemon dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7cf/c6448faf876d4e3be1964d776ad117cf.jpg",
+      "price": 330,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fattoush Salad",
+      "description": "Toasted pita with greens & farm veggies, lemon olive oil dressing & sumac.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/71b/7faeb1d2a6d0f23db8c50cf6759bf71b.jpg",
+      "price": 240,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Original Falafel",
+      "description": "Cucumber pickle, tomatoes, cucumber, lettuce, shredded parsley, mint, falafel with tahini.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d7c/3e49fad591edf25fc8e5933a8ad21d7c.jpg",
+      "price": 220,
+      "menuName": "Falafel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arabic Falafel",
+      "description": "Cucumber pickle, tomatoes, cucumber, Lettuce, roasted plants and falafel with spicy yogurt.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0be/99a2e6407871e72487b723b0e5a180be.jpg",
+      "price": 220,
+      "menuName": "Falafel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Falafel",
+      "description": "Cucumber pickle, tomatoes, cucumber, Lettuce, beans, nachos, falafel with salsa.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0be/99a2e6407871e72487b723b0e5a180be.jpg",
+      "price": 220,
+      "menuName": "Falafel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Turkish Falafel",
+      "description": "Merhaba, farm veggies & greens in spicy traditional muhammara.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0be/99a2e6407871e72487b723b0e5a180be.jpg",
+      "price": 280,
+      "menuName": "Falafel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Falafel Meal",
+      "description": "6 Pcs Falafel Bites + 2 Pita Bread + 1 Salad Bowl + Hummus + Tahini + Labneh + Muhammara",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e55/87ddc796c5e8d9131d67ec849fea1e55.jpg",
+      "price": 650,
+      "menuName": "Meal",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Pasta",
+      "description": "Classic creamy pasta tossed in alfredo sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f0/7c8edb9cf0795a2435fc900ddadb23f0.jpg",
+      "price": 400,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arrabiata Pasta",
+      "description": "Penne Pasta In Tangy Tomato Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69f/4af96f63c2f476eda29c3dc2240f269f.jpg",
+      "price": 400,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ravioli Pasta",
+      "description": "Vegetable Filling Sealed Between Two Layers Of Pasta",
+      "media": "https://b.zmtcdn.com/data/dish_photos/68a/5e62ce5d92d90f23e177fc6ceccf268a.jpg",
+      "price": 400,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Pasta",
+      "description": "Combination Sauce Bechamel & Arrabiata",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cf1/7b5e959d41b89f94360c511996310cf1.jpeg",
+      "price": 400,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aglio Olio",
+      "description": "Spaghetti, Mushroom & Parmesan",
+      "media": "https://b.zmtcdn.com/data/dish_photos/73b/3fabf91f047a9e4069c7cdcc74ca773b.jpg",
+      "price": 440,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Manakish",
+      "description": "Manakish is popular Arabic food consisting of fresh dough and zattar olive oil and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d65/2ad1d26dd4cf95b6f3cee68bf3892d65.jpg",
+      "price": 320,
+      "menuName": "Manakish",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Manakish",
+      "description": "Manakish is popular Arabic food consisting of fresh dough and zattar olive oil and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/15d/7f335bab9b221d96a3c93a805f2e515d.jpeg",
+      "price": 380,
+      "menuName": "Manakish",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lebanese Manakish",
+      "description": "Manakish is popular Arabic food consisting of fresh dough and zattar olive oil and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e03/5812cb228adb96f8e12d2617d8c57e03.jpg",
+      "price": 380,
+      "menuName": "Manakish",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lebanese Falafel Sizzler",
+      "description": "Spinach Rice, Exotic Veggies, Falafel Bites & Vegetable Brown Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/706/de388c2112f2fdf7cc9699c54dadd706.jpeg",
+      "price": 500,
+      "menuName": "Sizzlers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Exotica Sizzler",
+      "description": "Garlic Rice, Exotic Veggies, Potato Fries & Creamy Garlic Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d9e/02c77e6df0530d563eb33c1495461d9e.jpeg",
+      "price": 650,
+      "menuName": "Sizzlers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sizzling Vegetable Sizzler",
+      "description": "Herb Rice, Exotic Veggies, Potato Fries & Garlic Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/439/bfb1d0992262f81cd66bcc337c1d3439.jpeg",
+      "price": 610,
+      "menuName": "Sizzlers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Sizzler",
+      "description": "Coriander Rice, Exotic Veggies, Nachos & Combination Sauce",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c93/2984afaaa8d46060c5c26755928ebc93.jpeg",
+      "price": 650,
+      "menuName": "Sizzlers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Rice",
+      "description": "Steamed rice with garlic bell pepper and creamy tomato sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2d2/d4dcf41b9acdcd7a0186cbb3e6b412d2.jpg",
+      "price": 320,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "exclusive-offer",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Rice",
+      "description": "Rice sparkling in chilli with beans, sweet corn and green onions.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/551/e94e2718b3dc649ccb3fa5fdde887551.jpg",
+      "price": 290,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cilantro Rice",
+      "description": "Rice dipping in coriander, bell pepper with combination sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e16/22ee86f2737fc367373af9f228e7de16.jpg",
+      "price": 320,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Hummus",
+      "description": "Dip made from chickpea & tahini.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/add/6e7205994ad0328f8f95c6eebf1bcadd.jpg",
+      "price": 210,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "healthy",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Hummus",
+      "description": "Dip made from chicpea & tahini.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/add/6e7205994ad0328f8f95c6eebf1bcadd.jpg",
+      "price": 190,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "healthy",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Hummus",
+      "description": "Spread made from basil pesto & hummus.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50f/f526384775b080408f5580aa7d96a50f.jpg",
+      "price": 230,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Babaganush",
+      "description": "Smokey messed eggplant, tahini with olive oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b9/e20d930dec1f14b679b25350166829b9.jpg",
+      "price": 200,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Beetroot Hummus",
+      "description": "Spread made from roasted beetroot & hummus.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/27d/a53121c4fcf58d69f38b2f586cc9f27d.jpeg",
+      "price": 230,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Muhammara",
+      "description": "Roasted red peppers, walnut dip with parsley & olive oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/95e/360cbff675de492b7f8a4c7a91af395e.jpg",
+      "price": 300,
+      "menuName": "Dips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pita Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0c0/9e8412cbb341102bc2b2b2cb3a2fc0c0.jpeg",
+      "price": 50,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Pita",
+      "description": "Garlic pita  a pita bread stuffed with a savory garlic sauce and a variety of fresh vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/22d/bdd2ddea8963b0525575f0ebd58c222d.jpg",
+      "price": 70,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "healthy",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Zaatar Pita",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/765/c026394202770ec1efe41ebff75fb765.jpeg",
+      "price": 90,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rose Mojito",
+      "description": "[Non Alcoholic] Mint, rose & lemon.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b69/f9c197a7bd94fcda37b1f427bfe4ab69.jpeg",
+      "price": 300,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coconut Cream",
+      "description": "[Non Alcoholic] Fresh pineapple juice & coconut.",
+      "media": null,
+      "price": 280,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Blueberry Lemon Spritz",
+      "description": "[Non Alcoholic] Blueberries pea, lavender dried, lime juice & tonic water.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/456/323919c6accd6280413afbd83b45d456.jpeg",
+      "price": 310,
+      "menuName": "Mocktail",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

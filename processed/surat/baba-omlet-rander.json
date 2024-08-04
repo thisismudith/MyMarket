@@ -1,0 +1,3590 @@
+{
+  "basicInfo": {
+    "name": "Baba Omlet",
+    "cuisine_string": "Fast Food, Street Food, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/baba-omlet-rander/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "14",
+      "reviewTextSmall": "14 Reviews",
+      "subtext": "14 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.2",
+      "reviewCount": "261",
+      "reviewTextSmall": "261 Reviews",
+      "subtext": "261 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Rander, Surat",
+    "latitude": "21.2108663307",
+    "longitude": "72.7893979847",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2108663307,72.7893979847&maptype=zomato&markers=21.2108663307,72.7893979847,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Near Vaibhav Nagar Society, Mashal Circle, Palanpore Patiya, Rander, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919825107725"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Egg Mini Baba",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Mini Baba",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Baba Special Egg",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Baba Special Butter Egg",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Angoor Rabdi",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Angoor Rabdi",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Paplet Gravy",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Paplet Gravy",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Ghari",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lapeta",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lahori",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Lahori",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Ravaiya",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Ravaiya",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Machi Fry",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Machi Fry",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kachi Pakki Lahori",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Kachi Pakki Lahori",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dosa",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Dosa",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Mamna Gravy",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg 65",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tiranga Fry",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Tiranga Fry",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter 65",
+      "description": "",
+      "media": null,
+      "price": 370,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Mamna Gravy",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pizza",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Pizza",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kashmiri Cheese Fry",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Kashmiri Cheese Fry",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Hyderabadi Royal Kachu",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Patra Gravy",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Patra Gravy",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pataudi",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Pataudi",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Mughlai",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Mughlai",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Hum Tum",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Chingari",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Chingari",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Red and Green",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Red and Green",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tikhari",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Tikhari",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kasata",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Kasata",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Family Dish [12 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 550,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Family Dish [12 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 600,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Boiled Chips",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Paneer",
+      "description": "",
+      "media": null,
+      "price": 330,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Butter Paneer",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Rabdi",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Rabdi",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Baba Egg Dhamaka [10 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 500,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Baba Egg Butter Dhamaka [10 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 550,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rahul Special",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Rahul Special",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Cream Pataudi",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Butter Cream Pataudi",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Kofta",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Kofta",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cream Cheese Kofta",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cream Cheese Kofta",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Royal Saute",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Royal Saute",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhurji",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Bhurji",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bharta",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Baba Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Omelette",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Limbumari Omelette [1 Egg]",
+      "description": "",
+      "media": null,
+      "price": 35,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Limbumari Omelette",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Gravy Omelette [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Gravy Omelette [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Omelette",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Salad Omelette",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Royal Omelette",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Paper Omelette",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Paper Omelette",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kadhi",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Kadhi",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cream Kadhi",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cream Kadhi",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Cream Kadhi Tadka [3 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Butter Cream Kadhi Tadka",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tadka Kadhi",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Tadka Kadhi",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Paneer Kadhi",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Butter Paneer Kadhi",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kaju Kadhi [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Kaju Kadhi",
+      "description": "",
+      "media": null,
+      "price": 175,
+      "menuName": "Kadhi Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Gravy with Pulao",
+      "description": "Egg Gravy with Pulao",
+      "media": null,
+      "price": 90,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Gravy with Pulao",
+      "description": "Egg Butter Gravy with Pulao",
+      "media": null,
+      "price": 110,
+      "menuName": "Meals",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "combo-item",
+        "services",
+        "value-meal",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boiled Egg Salad",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boiled Egg Cheese Salad",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Salads",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Roti",
+      "description": "",
+      "media": null,
+      "price": 10,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "",
+      "media": null,
+      "price": 15,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pav",
+      "description": "",
+      "media": null,
+      "price": 4,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Pav",
+      "description": "",
+      "media": null,
+      "price": 6,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Butter Rice",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green Pulao [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Green Pulao",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Pulao",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Triple Fried Rice [4 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Triple Fried Rice [4 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Singapore Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Singapore Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Schezwan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Schezwan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sandwich [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Sandwich [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Sandwich",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Red Gotalo",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Gotalo",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green Gotalo",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Green Gotalo",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Red Gotalo",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Red Cheese Gotalo",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Green Gotalo",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Green Gotalo",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green Goti Gotalo",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Goti Gotalo",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Goti Gotalo",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Schezwan Gotalo",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Schezwan Gotalo",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Schezwan Gotalo",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Schezwan Gotalo",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Gotalo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Red Khimo [1 Egg]",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Khimo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Red Khimo [1 Egg]",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Khimo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green Khimo [1 Egg]",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Khimo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Green Khimo [1 Egg]",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Khimo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Green Khimo [1 Egg]",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Khimo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Butter Green Khimo [1 Egg]",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Khimo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cream Khimo",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Khimo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cream Khimo",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Khimo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Khimo",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Khimo",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kachu",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Kachu",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Kachu",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Kachu",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tadka Kachu",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Kachu",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Tadka Kachu",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Kachu",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Tadka Kachu",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Kachu",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Kachu",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Kachu",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Kachu",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Kachu",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Tadka Kachu",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Kachu",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lachko",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Lachko",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Lachko",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Lachko",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Lachko",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Lachko",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Lachko",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Lachko",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Masala Pav",
+      "description": "",
+      "media": null,
+      "price": 8,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Masala Pav",
+      "description": "",
+      "media": null,
+      "price": 10,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Sadi Fry",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Sadi Fry",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tomato Fry",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Tomato Fry",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Tomato Fry",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Tomato Fry",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green Fry",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Green Fry",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Green Fry",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Green Fry",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green Goti Fry",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Green Goti Fry",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Green Goti Fry",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cream Goti Fry",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Cream Goti Fry",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dal Fry",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Dal Fry",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Dal Fry",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Dal Fry",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tadka Cheese Dal Fry",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Tadka Dal Fry",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Australian Fry",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Australian Fry",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Italian Fry",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Italian Fry",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Chinese Fry",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Chinese Fry",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Schezwan Chinese Fry",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Schezwan Chinese Fry",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Russian Fry",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Russian Fry",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Golden Fry",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Golden Fry",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Jinga Fry",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Jinga Fry",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tawa Fry",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Tawa Fry",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boiled Egg",
+      "description": "",
+      "media": null,
+      "price": 15,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boiled Egg Fry",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cutlet [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Cutlet [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese and Dry Khofta [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boiled Butter Egg Fry",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cutlet [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese Cutlet",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Butter Cheese and Dry Khofta",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    }
+  ]
+}

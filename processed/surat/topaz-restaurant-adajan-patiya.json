@@ -1,0 +1,3408 @@
+{
+  "basicInfo": {
+    "name": "Topaz Restaurant",
+    "cuisine_string": "North Indian, Chinese",
+    "canonicalUrl": "https://www.zomato.com/surat/topaz-restaurant-adajan-patiya/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "202",
+      "reviewTextSmall": "202 Reviews",
+      "subtext": "202 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.1",
+      "reviewCount": "3,695",
+      "reviewTextSmall": "3,695 Reviews",
+      "subtext": "3,695 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Patiya, Surat",
+    "latitude": "21.1993926381",
+    "longitude": "72.8036418557",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1993926381,72.8036418557&maptype=zomato&markers=21.1993926381,72.8036418557,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 5 to 12, Divya Darshan Complex-A, Opposite Rushabh Tower, Rander Road, Adajan Patiya, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+912612785879, +917046634440"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Lassi (Salty)",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Appetizer(200 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lassi (Sweet)",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Appetizer(200 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mineral Water (Mrp+Sc)",
+      "description": "",
+      "media": null,
+      "price": 20,
+      "menuName": "Appetizer(200 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rajwadi Lassi",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Appetizer(200 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Of Tomato Soup",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Soup(300 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Of Veg. Soup",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Soup(300 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Soup(300 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Coriander Soup",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Soup(300 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchow Soup",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Soup(300 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ministrone Soup",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Soup(300 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Soup",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Soup(300 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Soup(Plain)",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Soup(300 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Veg .Soup",
+      "description": "",
+      "media": null,
+      "price": 155,
+      "menuName": "Soup(300 Ml)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Babycorn Chilly(Dry)",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Chainese Starter(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Veg.",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Chainese Starter(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilly",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Chainese Starter(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer 65",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Chainese Starter(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilly (Dry)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Chainese Starter(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian(Dry)",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Chainese Starter(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. 65",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Chainese Starter(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Lolipop",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Chainese Starter(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Manchurian(Dry)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bd7/d0c8b9951978dfc2e1ecb40ddf4cebd7.jpeg",
+      "price": 245,
+      "menuName": "Chainese Starter(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Hariyali Tikka",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Tandoor Starter(8 Pcs)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Dry",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Tandoor Starter(8 Pcs)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Hara Bhara Kabab(Fried)",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Tandoor Starter(8 Pcs)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alu Mutter",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alu Palak",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Hara Masala",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Masala",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chana Masala",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chana Paneer",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Anguri(Sweet)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Corn Palak",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Corn Tomato",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlik Palak",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Palak",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/397/e88871d92bb079831ae48055c0aee397.jpeg",
+      "price": 220,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Paneer Bt. Masala",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Palak",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry Butter",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e96/71cc20ed4e1006f8d6a7a19bb1f79e96.jpeg",
+      "price": 150,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Palak",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/830/259c5ea1d99a94600789590ad4ea0830.jpeg",
+      "price": 170,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dum Alu Punjabi",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Palak",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Peace Masala",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Balti",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Curry",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Handi",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Kadai",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Khoya (Sweet)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Navratna(Seweet)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Tawa",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Dum Alu (Sweet)",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetable",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Baby Corn Masala",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 245,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Masala",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Mutter Masala",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Paneer Masala",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Navratan Korma(Sweet)",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Mutter",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Palak",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp. Kaju Mashroom Masala",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp. Veg. Topaz(Signature Dish)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Kaju Angara",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Kaju Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Kaju Masala",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg Anagara",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg Chatpata",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg Kheema Masala",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg. Handi",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg. Hydrabadi",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg. Kolhapuri",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg. Tawa Masala",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg. Toofani",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg.Kadai",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Veg.Patiyala",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sukhi Bhaji",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Jaipuri",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Diwani Handi",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Lasuni",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Makhanwala",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Silsila",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Tawa Mahefil",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Punjabi Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Kofta",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Kofta Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Kofta",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Kofta Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadai Kofta",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Kofta Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Kofta",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Kofta Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Kofta (Sweet)",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Kofta Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malai Kofta",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Kofta Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nargis Kofta",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Kofta Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Navratan Kofta",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Kofta Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg. Kofta",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Kofta Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Balti Paneer",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Paneer",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Paneer",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0c1/5c379aa2cad33204e8100ad3f96980c1.jpeg",
+      "price": 250,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhurjee",
+      "description": "",
+      "media": null,
+      "price": 265,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/707/c87e22b12131d79238ed09f3ad44a707.jpeg",
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Handi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e5/c9ef70506ab55f2c67531b0810ddf8e5.jpeg",
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Hara Masala",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Haydrabadi",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kadai",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/634/a026cd64130b1013422a18c11c0d9634.jpeg",
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Korma",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mutter",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Nizamee",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pasanda",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/11a/5eb258d6d138e28996017be6f6af411a.jpeg",
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Patiyala",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/55b/7266194828935a1df4212ce48bd8d55b.jpeg",
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Toofani",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shahi Paneer",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp. Paneer Topaz(Signature Dish)",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Paneer Angara",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Paneer Chatpata",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Paneer Jaljala",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Paneer Lababdar",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Paneer Lasuni",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Paneer Laziz",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Paneer Pahadi",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Paneer Silsila",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp.Paneer Tawa Mahefil",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tava Paneer",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Paneer Dishes(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Choupsey",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Chilly(Gravy)",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Fry Rice",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Fry Rice",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mumbai Bhel",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Fry Rice",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilly (Gravy)",
+      "description": "",
+      "media": null,
+      "price": 235,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Fry Rice",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sezwan Fry Noodles",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Fry Noodles",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Fry Rice",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sp Topaz Fry Rice",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Fry Rice",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fry Rice",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Manchurian (Gravy)",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Chinese Main Course(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alu Parotha",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Kulcha",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Nan",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Parotha",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f33/7e62d486c8764e2760007cc54a100f33.jpeg",
+      "price": 38,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Nan",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlik Kulcha",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Kulcha",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Nan",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Kulcha",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Nan",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulcha",
+      "description": "",
+      "media": null,
+      "price": 47,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nan",
+      "description": "",
+      "media": null,
+      "price": 47,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Parotha",
+      "description": "",
+      "media": null,
+      "price": 42,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/071/baf70e7e570a9d4a53c5b2a4add28071.jpeg",
+      "price": 35,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuff Kulcha",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuff Nan",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuff Parotha",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Tandoori(Per Pc)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bbc/f91599a4839c2bb1553e2fc7a0414bbc.jpeg",
+      "price": 150,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Pulao",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Pulao (Sweet)",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peas Pulao",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steam Rice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Pulao",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Haidrabadi Biryani",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pulao",
+      "description": "",
+      "media": null,
+      "price": 199,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Biryani",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg.Handi Biryani",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Rice(350 Gm)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bundi Raita",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Milk",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Papad",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Curd",
+      "description": "",
+      "media": null,
+      "price": 85,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Bundi(Sweet)",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Salad",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Butter Milk",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Papad",
+      "description": "",
+      "media": null,
+      "price": 45,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papad (Fried)",
+      "description": "",
+      "media": null,
+      "price": 35,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Papad (Roasted)",
+      "description": "",
+      "media": null,
+      "price": 32,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Raita",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Salad",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Raita",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Raita/Salad(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Sandwitch(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chatni Sandwich",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Sandwitch(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Sandwitch(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jam Sandwich",
+      "description": "",
+      "media": null,
+      "price": 99,
+      "menuName": "Sandwitch(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Sandwich",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Sandwitch(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "",
+      "media": null,
+      "price": 105,
+      "menuName": "Sandwitch(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Sandwitch(Per Plate)",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

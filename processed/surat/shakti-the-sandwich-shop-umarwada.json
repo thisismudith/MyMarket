@@ -1,0 +1,1352 @@
+{
+  "basicInfo": {
+    "name": "Shakti-The Sandwich Shop",
+    "cuisine_string": "Sandwich, Fast Food, Beverages, Shake",
+    "canonicalUrl": "https://www.zomato.com/surat/shakti-the-sandwich-shop-umarwada/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.9",
+      "reviewCount": "66",
+      "reviewTextSmall": "66 Reviews",
+      "subtext": "66 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.9",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.5",
+      "reviewCount": "2,584",
+      "reviewTextSmall": "2,584 Reviews",
+      "subtext": "2,584 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.5",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Umarwada, Surat",
+    "latitude": "21.1928722378",
+    "longitude": "72.8601117432",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1928722378,72.8601117432&maptype=zomato&markers=21.1928722378,72.8601117432,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 3, Barakari Bhavan, Aai Mata Road, Parvat Patiya, Near Unity Hospital, Umarwada, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919662277755"
+    },
+    "res_chain_text": "See all 5 Shakti-The Sandwich Shop outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/shakti-the-sandwich-shop",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Bread Butter Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b2d/5551f689964e3d6c8873fa25baa9bb2d.jpeg",
+      "price": 125,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Jam Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/78d/eaa2ffb3c601b5b9c98ac26d2c79d78d.jpeg",
+      "price": 187,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Simple Sandwich",
+      "description": "Vegetables marinated in house special Mexican dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4a5/c4c751552f7f485a0e4663683ac954a5.jpeg",
+      "price": 187,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Russian Simple Sandwich",
+      "description": "House special Russian salad between the breads.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5f8/ff46f85b2ab154d7dd74a1cf685405f8.jpg",
+      "price": 187,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Simple Sandwich",
+      "description": "Spicy combination of vegetables and schezwan sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/861/40c2337674a597d9c0c1509138eaa861.jpg",
+      "price": 187,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "| Serves 1 |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a38/7da5106d9893344aaab7cad0ef3b9a38.jpeg",
+      "price": 150,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Sandwich",
+      "description": "",
+      "media": null,
+      "price": 106,
+      "menuName": "Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b2d/5551f689964e3d6c8873fa25baa9bb2d.jpeg",
+      "price": 83.6,
+      "menuName": "Sandwiches",
+      "categoryName": "Old Classic Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilly",
+      "description": "Mozzarella cheese with chilli coriander and capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cbb/cef5b0d0fa93eb432ff8090be6bc8cbb.jpeg",
+      "price": 225,
+      "menuName": "Sandwiches",
+      "categoryName": "Old Classic Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chutney",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e75/48703188720cef0f5ae71bafec5e0e75.jpeg",
+      "price": 142,
+      "menuName": "Sandwiches",
+      "categoryName": "Old Classic Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic",
+      "description": "[Spicy] A cheesy combination of mozzarella cheese garlic and chilli flakes.",
+      "media": null,
+      "price": 182,
+      "menuName": "Sandwiches",
+      "categoryName": "Old Classic Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Jam",
+      "description": "",
+      "media": null,
+      "price": 142,
+      "menuName": "Sandwiches",
+      "categoryName": "Old Classic Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala",
+      "description": "Mozzarella cheese with oniona, tomato and capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f72/9403c1ee6650eb750b44163d0edd6f72.jpeg",
+      "price": 225,
+      "menuName": "Sandwiches",
+      "categoryName": "Old Classic Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3d5/0c51c7fa1e723bf2821edc0bfeaf43d5.jpeg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "Old Classic Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Cheese Grill Sandwich",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Sandwiches",
+      "categoryName": "Old Classic Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Mayo Sandwich",
+      "description": "The Mexican hit with mustard and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c46/e04dcea0812e33d63e4016fd8ce87c46.jpeg",
+      "price": 241,
+      "menuName": "Sandwiches",
+      "categoryName": "Mayo Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Russian Mayo Sandwich",
+      "description": "Our house special Russian salad between two layers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c2/8d2b96bd863a332319175849a9caa2c2.jpeg",
+      "price": 230,
+      "menuName": "Sandwiches",
+      "categoryName": "Mayo Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Mayo Sandwich",
+      "description": "[Spicy] House special schezwan sauce with veggies and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7dd/b06140f10033455257015a6fd337a7dd.jpeg",
+      "price": 241,
+      "menuName": "Sandwiches",
+      "categoryName": "Mayo Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4 Cheese Chilly",
+      "description": "Specially made for cheese lovers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cef/e950eb323e96f21968bd606116b35cef.jpeg",
+      "price": 239,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ahmedabad Touch",
+      "description": "[Extra Spicy] Our all time favourite with assorted vegetables like cucumber, capsicum, onion flavoured with our spicy house mint chutney.",
+      "media": null,
+      "price": 235,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italy Touch",
+      "description": "The all Italian sandwich with mozzarella cheese olive and paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a9b/3bcb06fb0a9079699ec6b4883c839a9b.jpeg",
+      "price": 235,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/37a/5004074140603721dbadeaca1eec237a.png",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peppy Perry",
+      "description": "Vegetables and cheese with unique peri peri sauce. (Jain not available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/91a/644569b156f5c240f610de818c9ac91a.jpeg",
+      "price": 235,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pizza Sandwich",
+      "description": "|Serves 1| An italian Classic in a sandwich twist.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5cb/8717bca0db07de30314b2088cf9215cb.jpeg",
+      "price": 250,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Touch",
+      "description": "Capsicum Cheese and paneer marinated in kadhai sauce. (Jain not available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4fb/d76f0b048fa5ede6d7f46298800264fb.jpeg",
+      "price": 224,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Russian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/816/48fe75bead392a2b8d5a2241fe3d6816.jpeg",
+      "price": 0,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tuscany",
+      "description": "",
+      "media": null,
+      "price": 239,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tuscany Cheese Grilled Sandwich",
+      "description": "Assorted vegetables with a garlic twist inside a panini bread.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c8a/3c86909df4acc0fc740b6efc3adbac8a.jpeg",
+      "price": 298,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Western Touch",
+      "description": "Capsicum and olives drizzled with smoky BBQ. (Jain not available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd9/3a888426e0d8a37fccf24411f1e8ddd9.jpeg",
+      "price": 224,
+      "menuName": "Sandwiches",
+      "categoryName": "TSS Signatures Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Exotica",
+      "description": "The shakti special exotica stuffing with cheese corn and olives.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/658/041a17bae11d27b33b99f51f5b49e658.jpeg",
+      "price": 224,
+      "menuName": "Sandwiches",
+      "categoryName": "Exotic Delight Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indian Exotica",
+      "description": "The shakti special exotica stuffing with coriander, green chillies and olives.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ce4/a2b140e652143cf5e10e359bd2760ce4.jpeg",
+      "price": 224,
+      "menuName": "Sandwiches",
+      "categoryName": "Exotic Delight Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Schezwan",
+      "description": "[Spicy] Vegetables with house special schezwan sauce and cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be2/6e6e9df6662fb5e1b2055d9d7334bbe2.jpeg",
+      "price": 253,
+      "menuName": "Sandwiches",
+      "categoryName": "Exotic Delight Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tandoori",
+      "description": "Paneer cubes marinated with tandoori dressing and vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4d1/4275ede81368736be5c5f32ad65804d1.jpeg",
+      "price": 230,
+      "menuName": "Sandwiches",
+      "categoryName": "Exotic Delight Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate",
+      "description": "Chocolate sauce with chocolate chunks.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7e3/03a0ba1d03873f5ef0d87cc78143b7e3.jpeg",
+      "price": 239,
+      "menuName": "Sandwiches",
+      "categoryName": "Desserts Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Boss Peri",
+      "description": "Open Sub with peri peri and yellow cheese with tomato. (Jain not available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c52/f4ee212414a0f2990d590418e5ce8c52.jpeg",
+      "price": 239,
+      "menuName": "Sub",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Tandoori Open Sub",
+      "description": "Open sub with tandoori and spicy touch with paneer and capsicum. (Jain not availabel)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d6e/0b549fb456c2773ed4bcaac90635dd6e.jpeg",
+      "price": 239,
+      "menuName": "Sub",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tarpido",
+      "description": "Chef Special Rozana Delicacy with vegetables, paneer. (Jain not Available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e58/8cb23db855ac822eefe845844c7e9e58.jpeg",
+      "price": 239,
+      "menuName": "Sub",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "4 Cheese Chilli Burger",
+      "description": "Split bun with cheese sauce, cheese slice, tikki and mayo. (Jain not available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/26b/dad952bd496bd0cd7a69d8f52114d26b.jpeg",
+      "price": 178,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bunny Cho",
+      "description": "Stuffed burger with crispy patty and mozzarella. (Jain not available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a60/e4b6abc4b9a279f447ae4f5b82b89a60.jpeg",
+      "price": 193,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Veg",
+      "description": "Regular veg tikki, cheese with lettuce, vegetables and chipotle.",
+      "media": null,
+      "price": 163,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Exotic Burger",
+      "description": "Loaded with Veggies and Pickles",
+      "media": "https://b.zmtcdn.com/data/dish_photos/45c/04c570452c991679c7165aba576ab45c.jpeg",
+      "price": 163,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Heritage Burger",
+      "description": "Indian tawa burger with sauces cheese and vegetables. (Jain not available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2fb/8a2ac457236042f9172e562786a692fb.jpeg",
+      "price": 296,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Indian Touch",
+      "description": "Desi Style with vegetables, tikki and mayonnaise. (Jain not available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/aeb/6d45e728f7c1039c03fd86fdc4264aeb.jpeg",
+      "price": 178,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maharaja Burger",
+      "description": "Jumbo double layer with sauces cheese and vegetables. (Jain not Available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea3/b202f5d069365eec13d4aed1e3d4fea3.jpeg",
+      "price": 224,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Melting Cheese",
+      "description": "Will melt your heart. (Jain not Available)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/62a/a1401675fbd844b5cb40a9d57538162a.jpeg",
+      "price": 209,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Supreme Burger",
+      "description": "Loaded with Veggies",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eda/9f3b86b7a2d80fc036c848ddbc8e9eda.jpg",
+      "price": 148,
+      "menuName": "Burger",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chatak Pataka",
+      "description": "",
+      "media": null,
+      "price": 141,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Salted",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/382/34e8479d45a0718c3bfdd3e81252f382.jpeg",
+      "price": 141,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Desi Twist Fries",
+      "description": "Curly fries with an Indian twist.",
+      "media": null,
+      "price": 247,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pepper N Salt",
+      "description": "",
+      "media": null,
+      "price": 141,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/60e/b005d4534c38b9f3a9c39e249075260e.jpeg",
+      "price": 156,
+      "menuName": "French Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Capsicana",
+      "description": "9 inches. Soft sweet corn and green capsicum topped pizza.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a1f/82159b8ef16f1611bbede7e4b4bb3a1f.jpeg",
+      "price": 316,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margerita",
+      "description": "9 inches. Traditional italian pizza with cheese and sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/061/267f9b907a192881bb2f46b29f539061.jpeg",
+      "price": 286,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Olive Delight",
+      "description": "9 inches. Pickled black olives with house special seasoning.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f92/ffcac7abc721a56015ace9a15d1b8f92.jpeg",
+      "price": 336,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Panner Blossom",
+      "description": "9 inches. Indian spice topped with makhni, paneer, and coriander.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/510/2cf10c81183dbf724f896f9a17305510.jpeg",
+      "price": 356,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Boss (Best Of Shakti Sandwich)",
+      "description": "|Serves 1| Vegetables and cheese loaded with house special dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/45c/2b97e1b014baa76ea8bce0ccbd6f845c.jpeg",
+      "price": 268,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "description": "Shakti special garlic bread with mozzarella cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/84b/6512f35e46bc5a30a75868c1127d584b.png",
+      "price": 194,
+      "menuName": "Garlic Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Kela Wafer",
+      "description": "A twist to traditional bhel with Raw banana wafers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5ce/ac053d449aafe098a2d792fc458ff5ce.jpeg",
+      "price": 194,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Potato Wafer",
+      "description": "Potato wafers with chutneys and vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c31/be3298d2a31bbf3354da25da3f753c31.jpeg",
+      "price": 194,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nachos Bhel",
+      "description": "Crispy nachos cheese with chutneys and vegetables.",
+      "media": null,
+      "price": 256,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shakti Special",
+      "description": "Combination of bhel made with both potato and banana wafers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1af/2b2215b16d5880ae10ed7074325591af.jpeg",
+      "price": 209,
+      "menuName": "Bhel",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Penne Arrabiata",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/753/9cebe8217b2df9b4b709375350671753.jpg",
+      "price": 399,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pink Pasta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3bb/65fc5f1131cdf54dafc1aa9f7822e3bb.jpg",
+      "price": 349,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Penne Alfredo",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9cb/de1c0e30d77f63ce4569644929c209cb.jpg",
+      "price": 329,
+      "menuName": "Pasta",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Mayo Sandwich + Russian Simple Sandwich",
+      "description": "",
+      "media": null,
+      "price": 510,
+      "menuName": "Shakti Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tandoori + Margerita",
+      "description": "",
+      "media": null,
+      "price": 480,
+      "menuName": "Shakti Special Combos",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

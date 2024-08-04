@@ -1,0 +1,1827 @@
+{
+  "basicInfo": {
+    "name": "Zest House",
+    "cuisine_string": "North Indian, Continental, Fast Food, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/zest-house-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "201",
+      "reviewTextSmall": "201 Reviews",
+      "subtext": "201 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "214",
+      "reviewTextSmall": "214 Reviews",
+      "subtext": "214 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1737209799",
+    "longitude": "72.7944143726",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1737209799,72.7944143726&maptype=zomato&markers=21.1737209799,72.7944143726,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "13 A C S 308/1, TP-5, FP- 103, Paiki, 5th Floor, Sahil Avenue, Ghod Dod Road, Opposite Parle Point, Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919904789000"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Falafel and Hummus Platter",
+      "description": "Homemade Pita Bread+Hummus Falafel",
+      "media": null,
+      "price": 320,
+      "menuName": "Platters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Cheese Roasted Tomato Soup",
+      "description": "Cream cheese piped in bowl with roasted tomato and served with tangy tomato soup.",
+      "media": null,
+      "price": 250,
+      "menuName": "Soups and Salads",
+      "categoryName": "Soups",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Zesty Paneer Salad",
+      "description": "Sliced paneer sauteed with mix vegetables and served with lettuce.",
+      "media": null,
+      "price": 280,
+      "menuName": "Soups and Salads",
+      "categoryName": "Salads",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka",
+      "description": "Paneer coated in home spiced marination and cooked in tandoor.",
+      "media": null,
+      "price": 340,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Paneer Tikka",
+      "description": "Peri peri paneer coated in home spice and served with the perfection.",
+      "media": null,
+      "price": 350,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Seekh Kebab",
+      "description": "Minced vegetable mixed with grated paneer and spices and cooked in tandoor.",
+      "media": null,
+      "price": 318,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Paneer Tikka",
+      "description": "Paneer stuffed with minced vegetable and cooked in tandoor.",
+      "media": null,
+      "price": 349,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Afghani Soya Chaap",
+      "description": "Orange colour spice chaap which is delight by the cream and cooked in tandoor.",
+      "media": null,
+      "price": 340,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Creamy Butter Garlic Chaap",
+      "description": "Chaap flavored with onion and garlic paste marinated in butter and cooked in tandoor.",
+      "media": null,
+      "price": 360,
+      "menuName": "Starters",
+      "categoryName": "Tandoori Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Garlic Mushroom",
+      "description": "Mushroom sauteed in our special butter garlic sauce and served with little spiciness.",
+      "media": null,
+      "price": 340,
+      "menuName": "Starters",
+      "categoryName": "Continental Starter",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mastani",
+      "description": "",
+      "media": null,
+      "price": 400,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kolhapuri",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kaleji",
+      "description": "[Veg Preparation] Prepared with mock meat.",
+      "media": null,
+      "price": 360,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Patiala Paneer",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Surti Cheese Paneer Bhurji",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Nawabi Khaas",
+      "description": "",
+      "media": null,
+      "price": 340,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shahi Keema Masala",
+      "description": "",
+      "media": null,
+      "price": 360,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sesame Kofta Curry",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pasanda Chaap",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malai Paneer",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fromage Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Chaap",
+      "description": "",
+      "media": null,
+      "price": 390,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rouge Paneer",
+      "description": "",
+      "media": null,
+      "price": 380,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Makhani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/245/62fadf870a36b5563bdaad354d9b5245.jpg",
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Chawal Arancini",
+      "description": "Mixture of dal and chawal in a ball and served with makhani gravy.",
+      "media": null,
+      "price": 350,
+      "menuName": "Main Course",
+      "categoryName": "Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Paneer with Sauce",
+      "description": "Paneer which is stuffed with vegetables and served with creamy sauce.",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "Continental Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lachha Paratha",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d04/1d914c6bbd1447385cbc8824550bfd04.jpg",
+      "price": 110,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulcha",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/20b/9538b29f1d918883608a0a793bcdb20b.jpg",
+      "price": 60,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Tandoori Roti",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Naan",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Butter rice which is flavoured with cumin.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8c5/e66a90ddc58594f7d13d930b564d88c5.jpg",
+      "price": 220,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Rice",
+      "description": "",
+      "media": null,
+      "price": 350,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shashlik Manchurian",
+      "description": "Homemade mix vegetable manchurian sauteed in green sauce served.",
+      "media": null,
+      "price": 300,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Street Style Manchurian",
+      "description": "Manchurian made in street style and served in new way.",
+      "media": null,
+      "price": 320,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "3 Spice Paneer",
+      "description": "Paneer cubes which are flavoured with our homemade spicy sauce and served with little sweetness.",
+      "media": null,
+      "price": 350,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dragon Aloo",
+      "description": "Fried potato cooked with some peppers and served in homemade spicy sauce.",
+      "media": null,
+      "price": 280,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Sliders with Chilli Garlic",
+      "description": "Small paneer cube which is served with schezwan on side.",
+      "media": null,
+      "price": 240,
+      "menuName": "Chinese",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicago Margherita Pizza",
+      "description": "Pizza made with mozzarella, Cheddar, sun dried tomato and basil.",
+      "media": null,
+      "price": 550,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Chicago Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicago Double Margherita Pizza",
+      "description": "Pizza made with mozzarella, Cheddar, sun dried tomato and basil.",
+      "media": null,
+      "price": 590,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Chicago Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicago 5 Pepper Pizza",
+      "description": "Pizza made with mozzarella, Cheddar, red bell pepper, yellow bell pepper, green bell pepper, red paprika and fresh jalapeno.",
+      "media": null,
+      "price": 600,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Chicago Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicago Organic Farm Pizza",
+      "description": "Pizza made with mozzarella, Cheddar, grilled zucchini, bell pepper, fresh jalapeno and olive.",
+      "media": null,
+      "price": 600,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Chicago Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicago Tandoori Paneer Pizza",
+      "description": "Made with mozzarella, Cheddar, tandoori paneer, bell pepper, tomato and onion.",
+      "media": null,
+      "price": 600,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Chicago Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicago Sun Dried Pizza",
+      "description": "Made with mozzarella, Cheddar, sun dried tomato, olive, fresh jalapeno, golden onion and baby corn.",
+      "media": null,
+      "price": 600,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Chicago Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicago Make Your Own Pizza",
+      "description": "",
+      "media": null,
+      "price": 650,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Chicago Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Cheese Burst Pizza",
+      "description": "Pizza made with mozzarella, Cheddar, sun dried tomato and basil.",
+      "media": null,
+      "price": 500,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Cheese Burst Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Margherita Cheese Burst Pizza",
+      "description": "Pizza made with mozzarella, Cheddar, sun dried tomato and basil.",
+      "media": null,
+      "price": 540,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Cheese Burst Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "5 Pepper Cheese Burst Pizza",
+      "description": "Pizza made with mozzarella, Cheddar, red bell pepper, yellow bell pepper, green bell pepper, red paprika and fresh jalapeno.",
+      "media": null,
+      "price": 550,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Cheese Burst Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Organic Farm Cheese Burst Pizza",
+      "description": "Pizza made with mozzarella, Cheddar, grilled zucchini, bell pepper, fresh jalapeno and olive.",
+      "media": null,
+      "price": 550,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Cheese Burst Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Cheese Burst Pizza",
+      "description": "Made with mozzarella, Cheddar, tandoori paneer, bell pepper, tomato and onion.",
+      "media": null,
+      "price": 550,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Cheese Burst Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sun Dried Cheese Burst Pizza",
+      "description": "Made with mozzarella, Cheddar, sun dried tomato, olive, fresh jalapeno, golden onion and baby corn.",
+      "media": null,
+      "price": 550,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Cheese Burst Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pesto Funghi Cheese Burst Pizza",
+      "description": "Made with mozzarella, Cheddar, pesto sauce, mushroom, olives, red paprika and bruatta cheese.",
+      "media": null,
+      "price": 650,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Cheese Burst Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Make Your Own Cheese Burst Pizza",
+      "description": "",
+      "media": null,
+      "price": 650,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Cheese Burst Pizza[8 Inches]",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fettuccine Blue Cheese",
+      "description": "Fettuccine cooked in blue cheese creamy sauce and served with garlic flavour bread.",
+      "media": null,
+      "price": 390,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fusilli Creamy Tomatina",
+      "description": "Fusilli cooked in creamy tomatina sauce and served with garlic flavoured bread.",
+      "media": null,
+      "price": 380,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Arrabiata Pasta",
+      "description": "Penne cooked with vegetable and served in arrabiata sauce with garlic flavoured bread.",
+      "media": null,
+      "price": 350,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alfredo Pasta",
+      "description": "Penne cooked with vegetable and served in creamy alfredo sauce with garlic flavoured bread.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0ba/963bb8e8334966ab57006ed68792b0ba.jpg",
+      "price": 350,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Pasta",
+      "description": "Penne cooked with vegetable and served in combination of alfredo and arrabiata sauce with garlic flavoured bread.",
+      "media": null,
+      "price": 350,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aglio Olio Pasta",
+      "description": "Spaghetti cooked with vegetables and served with burnt garlic sauce.",
+      "media": null,
+      "price": 350,
+      "menuName": "Pizza and Pasta",
+      "categoryName": "Pasta",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Till the Death Burger",
+      "description": "Jumbo burger of cheese and Mexican patty served with spicy sauce on side.",
+      "media": null,
+      "price": 320,
+      "menuName": "Burger and Sandwich",
+      "categoryName": "Burger",
+      "slugs": [
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Sandwich",
+      "description": "Tandoori paneer stuffed in focaccia bread with cheese and served with tandoori sauce.",
+      "media": null,
+      "price": 280,
+      "menuName": "Burger and Sandwich",
+      "categoryName": "Sandwhich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Calzone",
+      "description": "Cheese stuffed bread with jalapeno, olives and golden corn.",
+      "media": null,
+      "price": 238,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Burger Slider [6 Pieces]",
+      "description": "Mini burger bun served in 3 different flavour of cheese patty, cream cheese and Mexican patty.",
+      "media": null,
+      "price": 280,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Korean Bun",
+      "description": "Garlic flavoured bun filled with green garlic cream cheese.",
+      "media": null,
+      "price": 280,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Okra Ball",
+      "description": "Deep fried okra flavoured with different spice and served with green chutney on side.",
+      "media": null,
+      "price": 220,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Everything Nachos",
+      "description": "Nachos which is served with home grown jalapeno, olive, beans sauce and homemade guacamole.",
+      "media": null,
+      "price": 310,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Pie",
+      "description": "Homemade pastry which is stuffed wit exortic vegetables and baked with cheese.",
+      "media": null,
+      "price": 300,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted Fries",
+      "description": "French fries served with tandoori sauce, BBQ sauce, green garnish sauce & cheese sauce with olives and fresh jalapenos.",
+      "media": null,
+      "price": 220,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Fries",
+      "description": "French fries served with tandoori sauce, BBQ sauce, green garnish sauce & cheese sauce with olives and fresh jalapenos.",
+      "media": null,
+      "price": 260,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Everything Fries",
+      "description": "French fries served with tandoori sauce, BBQ sauce, green garnish sauce & cheese sauce with olives and fresh jalapenos.",
+      "media": null,
+      "price": 300,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pav Bhaji Shots",
+      "description": "Small bun stuffed with homemade bhaji and served with taste.",
+      "media": null,
+      "price": 280,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Enchiladas",
+      "description": "Homemade beans wrap cooked with tangy marinara sauce and baked with cheese.",
+      "media": null,
+      "price": 340,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tacos",
+      "description": "Homemade crispy tacos served with Mexican beans stuffing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/67e/2f7e52a3fcd997b33f0083598ef7167e.jpg",
+      "price": 339,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burrito",
+      "description": "Wrap which is filled with Mexican rice and served with BBQ flavoured paneer.",
+      "media": null,
+      "price": 300,
+      "menuName": "Burrito",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Papad",
+      "description": "",
+      "media": null,
+      "price": 40,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Americano",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Affogato",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Cold Coffee",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mocha Cold Coffee",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Cold Coffee",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Biscoff Frappuccino",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nutella Frappuccino",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Cold Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Mojito",
+      "description": "[Non Alcoholic]",
+      "media": null,
+      "price": 200,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Mojitos and Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cranberry Mojito",
+      "description": "[Non Alcoholic]",
+      "media": null,
+      "price": 220,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Mojitos and Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Zest Punch Mocktail",
+      "description": "[Non Alcoholic]",
+      "media": null,
+      "price": 250,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Mojitos and Mocktails",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Guava Merry Mocktail",
+      "description": "[Non Alcoholic]",
+      "media": null,
+      "price": 250,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Mojitos and Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pina Colada Mocktail",
+      "description": "[Non Alcoholic]",
+      "media": null,
+      "price": 250,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Mojitos and Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wild Grape Cooler Mocktail",
+      "description": "[Non Alcoholic]",
+      "media": null,
+      "price": 240,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Mojitos and Mocktails",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Shot",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Americano",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flat White",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "White Chocolate Mocha",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Mocha",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Dessert and Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

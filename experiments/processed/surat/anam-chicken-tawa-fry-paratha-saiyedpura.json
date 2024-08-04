@@ -1,0 +1,1582 @@
+{
+  "basicInfo": {
+    "name": "Anam Chicken Tawa Fry & Paratha",
+    "cuisine_string": "North Indian, Biryani, Chinese",
+    "canonicalUrl": "https://www.zomato.com/surat/anam-chicken-tawa-fry-paratha-saiyedpura/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "1",
+      "reviewTextSmall": "1 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.4",
+      "reviewCount": "17",
+      "reviewTextSmall": "17 Reviews",
+      "subtext": "17 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.4",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395003",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Saiyedpura, Surat",
+    "latitude": "21.1963465000",
+    "longitude": "72.8332651000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1963465000,72.8332651000&maptype=zomato&markers=21.1963465000,72.8332651000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "4/4894, Zampa Bazar, Opposite Saliya Market, Saiyedpura, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+917990802355"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Special Tikka Paratha",
+      "description": "Full size.",
+      "media": null,
+      "price": 340,
+      "menuName": "Paratha",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Paratha",
+      "description": "Full size.",
+      "media": null,
+      "price": 260,
+      "menuName": "Paratha",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Seekh Paratha",
+      "description": "Paratha.",
+      "media": null,
+      "price": 340,
+      "menuName": "Paratha",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Cheese Paratha",
+      "description": "Full size.",
+      "media": null,
+      "price": 340,
+      "menuName": "Paratha",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Mutton Paratha",
+      "description": "Full size.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fbd/2bd5d3b84a68a2839b4407eb1d1a4fbd.png",
+      "price": 320,
+      "menuName": "Paratha",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "main-course",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "main-course",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Mutton Cheese Paratha",
+      "description": "Full size.",
+      "media": null,
+      "price": 380,
+      "menuName": "Paratha",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Malai Tikka [10 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9e9/9b37983107465924eee5ed53e97239e9.png",
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Peri Peri Tikka [10 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b1/0e6da0735694267837b029e10e7149b1.png",
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Golden Tikka [10 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b76/cbe5d2fea2de3255b2b163ee8eae2b76.png",
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Pathani Tikka [10 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd1/0fec566545001bc16002ddad98947dd1.png",
+      "price": 290,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Green Tikka [10 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Afghani Tikka [10 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4f6/7441756b45f6c4e1802c4713976e04f6.png",
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Italian Tikka [10 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green 65 [250 g]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malai 65 [250 g]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Starters",
+      "categoryName": "Veg Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka [10 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/027/1dd7f03361af473aa0e0e3cb04bb0027.png",
+      "price": 250,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chicken Tikka [10 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b1/0e6da0735694267837b029e10e7149b1.png",
+      "price": 280,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Cheese Leg Tikka [10 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 320,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Leg Tandoori [1 Piece]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7f6/f4db5edc0e5c299aea79fc138188a7f6.png",
+      "price": 170,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Chest Tandoori [1 Piece]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/792/bf2ec50f6e4d9a4350bedcb869bc5792.png",
+      "price": 160,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pathani Leg Tandoori [1 Piece]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f43/155e93f4384ec101f2acb9226e2b5f43.png",
+      "price": 170,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Malai Leg Tandoori [1 Piece]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Malai Chest Tandoori [1 Piece]",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Green Leg Tandoori [1 Piece]",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Green Chest Tandoori [1 Piece]",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tandoori Chicken",
+      "description": "",
+      "media": null,
+      "price": 650,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pathani Chicken",
+      "description": "",
+      "media": null,
+      "price": 670,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Green Chicken",
+      "description": "",
+      "media": null,
+      "price": 670,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Mamna [200 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/edc/75913fd6d0a7370fc1acefa24613dedc.png",
+      "price": 150,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pathani Mamna [200 g]",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tandoori [200 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/907/d41c63990beffbaeb9179e88c9406907.png",
+      "price": 150,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Makhanwali Mari Masala [200 g]",
+      "description": "",
+      "media": null,
+      "price": 165,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Cheese Mamna [200 g]",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken 65 Fried Rice [750 g]",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken 65 [250 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/aec/cc43afbc504f05af8a614cf9f6d55aec.png",
+      "price": 165,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless 65 [250 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/304/52991e4b20a8c41f69fa9adb31ab0304.png",
+      "price": 210,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Dana [250 g]",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kurkure [300 g]",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Starters",
+      "categoryName": "Non Veg Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Masala [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/002/c163e542a3c7ff6985ac0ce678a52002.png",
+      "price": 240,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Rathi [750 g]",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kadhai Chicken [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/382/70c567671f9822b854095614791f4382.png",
+      "price": 240,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Angara [750 g]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kolhapuri [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/40f/c84c032a075a67796e3a39cec7f7540f.png",
+      "price": 255,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Green Chicken [750 g]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "White Chicken [750 g]",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Methi Chicken [750 g]",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Sorse Chicken [750 g]",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Toofani [750 g]",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kurkure Gravy [750 g]",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Popcorn Gravy [750 g]",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Masala Gravy [750 g]",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Machi Masala Gravy [750 g]",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Rumali Chicken [750 g]",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Butter Chicken [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a98/66b42cc43bc3b40d907bfe11ff810a98.png",
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Butter Chicken [750 g]",
+      "description": "",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Lucknowi Kebab Gravy [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd7/411df52d4317678ec7f59ef5d6240dd7.png",
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boneless Chicken Masala [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8aa/11693eedb5ba605e858d60ca5d1988aa.png",
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Rose Garden [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9cc/14a52db72343d676ad76d1df125cf9cc.png",
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Nanawadi Chicken [750 g]",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tangdi Kebab Gravy [750 g]",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Silver Chicken [1 Piece]",
+      "description": "Some gravy.",
+      "media": null,
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Sorse Leg [1 Piece]",
+      "description": "Semi gravy.",
+      "media": null,
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Papeya",
+      "description": "Chicken breat [1 Piece] and some gravy.",
+      "media": null,
+      "price": 300,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Chest Fry [1 Piece]",
+      "description": "Semi gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a66/e89bdbc7d5f42578315122e04af8ea66.png",
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Leg Fry [1 Piece]",
+      "description": "Semi gravy.",
+      "media": null,
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Machi Masala [1 Piece]",
+      "description": "Some gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/76e/473129d44751c6b18cb4114d61ddb76e.png",
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jeera Pulao [500 g]",
+      "description": "",
+      "media": null,
+      "price": 69,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Pulao [500 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/82f/8be1cf886d20463e9ef33849feb5882f.png",
+      "price": 135,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Pulao [500 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/02e/84245932a6525d1cb98bcee4855ad02e.png",
+      "price": 140,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Tikka Biryani [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/804/ac6bd40bfd257ee4900ea01fd3935804.png",
+      "price": 210,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Biryani [750 g]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Egg Biryani [500 g]",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Chicken Biryani [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bf3/9452e6b970fbcc8576e88c5e859cfbf3.png",
+      "price": 190,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Seekh Biryani [750 g]",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d00/3baf1b3984abb18883ae1d87b36acd00.png",
+      "price": 210,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Singapuri Fried Rice [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b8/d26aaa35cac95ec7d237cc79629478b8.png",
+      "price": 240,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pizza Fried Rice [1 kg]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1e5/0b8101303f0318fed303de2207d071e5.png",
+      "price": 320,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Fried Fried Rice [750 g]",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Triple Chicken Fried Rice [1 kg]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/12c/7d3320390dcafa904c05d8e74355712c.png",
+      "price": 240,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Fried Rice [750 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6a2/d382a0f9062c3b5df1cb8cd814df06a2.png",
+      "price": 250,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Schezwan Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/18f/29b382bb3723f521a714231a230d118f.png",
+      "price": 220,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Italian Fried Rice [1 kg]",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Golden Fried Rice [750 g]",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Helmet Fried Rice [1 kg]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/785/7f515805da8d227f10d3ae8c811ea785.png",
+      "price": 270,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Anam Chicken Special Fried Rice [1 kg]",
+      "description": "[Chef's Special]",
+      "media": null,
+      "price": 320,
+      "menuName": "Fried Rice",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Popcorn [300 g]",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Snack",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kurkuri",
+      "description": "Show crispy and crunchy, red spicy sauce.",
+      "media": null,
+      "price": 200,
+      "menuName": "Snack",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "medium-spicy",
+        "home-style-meal",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Soft Roti",
+      "description": "Soft roti.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fe5/2c66876016379d1ec1356ab82bd62fe5.png",
+      "price": 12,
+      "menuName": "Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

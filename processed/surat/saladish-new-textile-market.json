@@ -1,0 +1,843 @@
+{
+  "basicInfo": {
+    "name": "Saladish",
+    "cuisine_string": "Healthy Food, Salad, Sandwich, Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/saladish-new-textile-market/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.0",
+      "reviewCount": "39",
+      "reviewTextSmall": "39 Reviews",
+      "subtext": "39 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.3",
+      "reviewCount": "2,166",
+      "reviewTextSmall": "2,166 Reviews",
+      "subtext": "2,166 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.3",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "New Textile Market, Surat",
+    "latitude": "21.1959503878",
+    "longitude": "72.8301940486",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1959503878,72.8301940486&maptype=zomato&markers=21.1959503878,72.8301940486,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 1, 3/4048-B, Ground Floor, Navapura Karwa Road, New Textile Market, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919512259322"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Paneer Tikka Salad",
+      "description": "small 50grms,big 100grms paneer.Served with goodness of garden fresh chopped lettuce, tomatoes, onion, cucumber and more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c2f/00a0b3a92dbb157fe855fb04ec1f4c2f.jpg",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Veg Salads",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Potato Shots Salad",
+      "description": "Served with goodness of garden fresh chopped lettuce, tomatoes, onion, cucumber and more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/02f/b0258a1276ec3ef1e734b2cd7bdc302f.jpg",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Veg Salads",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Tikki Salad",
+      "description": "Served with goodness of garden fresh chopped lettuce, tomatoes, onion, cucumber and more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3a0/b3f24ccb48ae4ed80f73261e5c87d3a0.jpeg",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Veg Salads",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Veg Salad",
+      "description": "Served with goodness of garden fresh chopped lettuce, tomatoes, onion, cucumber and more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd4/b3aa38a4c701090397d5b0799747acd4.jpg",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Veg Salads",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nacho Salad",
+      "description": "Served with goodness of garden fresh vegetables, tomatoes, onion, cucumber and more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eb4/fc1a807868ff1732db1bf4f56e5a0eb4.jpg",
+      "price": 160,
+      "menuName": "Salads",
+      "categoryName": "Veg Salads",
+      "slugs": [
+        "veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Corn Salad",
+      "description": "Served with goodness of garden fresh vegetables, tomatoes, onion, cucumber and more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/789/3fd20fa5075568b8ce8f3375db8c8789.jpg",
+      "price": 150,
+      "menuName": "Salads",
+      "categoryName": "Veg Salads",
+      "slugs": [
+        "veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kurkure Salad",
+      "description": "Served with goodness of garden fresh vegetables, tomatoes, onion, cucumber and more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/88c/973223f19ef4c7689dbb7ade8c75a88c.jpg",
+      "price": 140,
+      "menuName": "Salads",
+      "categoryName": "Veg Salads",
+      "slugs": [
+        "veg",
+        "non-promo",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "non-promo",
+        "healthy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Salad",
+      "description": "small 50grms,big 100grms chicken. Served with goodness of garden fresh vegetables and chicken tikka.",
+      "media": null,
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Non Veg Salads",
+      "slugs": [
+        "non-veg",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Grilled Chicken Salad",
+      "description": "small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken sausage.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/812/f2726eb0df61a68950caed41b2cc2812.jpg",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Non Veg Salads",
+      "slugs": [
+        "non-veg",
+        "bestseller-evening",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-evening",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Achari Kebab Salad",
+      "description": "small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken kabab.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ef/03be2aa4a856c577292821f8275b54ef.jpeg",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Non Veg Salads",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Seekh Kebab Salad",
+      "description": "small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken kabab.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc1/2566b9b48a8c33957858a0d2d0748cc1.png",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Non Veg Salads",
+      "slugs": [
+        "non-veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "chicken Salami Salad",
+      "description": "small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and chopped chicken salami.",
+      "media": null,
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Non Veg Salads",
+      "slugs": [
+        "non-veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Smoked Chicken Sausage Salad",
+      "description": "small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken sausage.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dae/7e85cac114aa67618d3592770ba71dae.jpg",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Non Veg Salads",
+      "slugs": [
+        "non-veg",
+        "bestseller-late-night",
+        "healthy",
+        "hero-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-late-night",
+        "healthy",
+        "hero-item",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Plain Chicken Sausage Salad",
+      "description": "small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken sausage.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dae/7e85cac114aa67618d3592770ba71dae.jpg",
+      "price": 0,
+      "menuName": "Salads",
+      "categoryName": "Non Veg Salads",
+      "slugs": [
+        "non-veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Seekh Kebab Salad [Jumbo, 1.1 kg, Serves 6]",
+      "description": "Best for BBQ gathering, salad including chicken of [150 grams].",
+      "media": null,
+      "price": 670,
+      "menuName": "Salads",
+      "categoryName": "Non Veg Salads",
+      "slugs": [
+        "non-veg",
+        "healthy",
+        "services",
+        "party-combo",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "healthy",
+        "services",
+        "party-combo",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pan Seared Chicken Salad",
+      "description": "Approx.180 to 200 gm of salad including 50gms of chicken with thousand island and tandoori mayo dressing.",
+      "media": null,
+      "price": 180,
+      "menuName": "Salads",
+      "categoryName": "Mini Salads",
+      "slugs": [
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-dinner",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-dinner",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Plain Boiled Chicken Salad",
+      "description": "Approx.180 to 200 gm of salad including 50gms of chicken with thousand island and tandoori mayo dressing.",
+      "media": null,
+      "price": 170,
+      "menuName": "Salads",
+      "categoryName": "Mini Salads",
+      "slugs": [
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pan Seared Chicken Corn Salad",
+      "description": "50 Grams chicken with corn salad something new to try, stay healthy with tasty salad.",
+      "media": null,
+      "price": 190,
+      "menuName": "Chicken Corn Salad",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Boiled Chicken Corn Salad",
+      "description": "50 Grams chicken with corn salad something new to try, stay healthy with tasty salad.",
+      "media": null,
+      "price": 180,
+      "menuName": "Chicken Corn Salad",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Nuggets [6 Pieces]",
+      "description": "Cheesy crispy chicken nuggets wrap",
+      "media": "https://b.zmtcdn.com/data/dish_photos/01b/34e3b1ac1b2d733e84d26c4f7ea9401b.jpg",
+      "price": 140,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Seekh Kebab [1 Piece]",
+      "description": "Delicious roasted seek, served with chipotle dip.",
+      "media": null,
+      "price": 80,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "starter",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "starter",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Achari Kebab [1 Piece]",
+      "description": "Achari flavored roasted seek served with chipotle dip.",
+      "media": null,
+      "price": 80,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Paneer Loaded Wrap",
+      "description": "",
+      "media": null,
+      "price": 290,
+      "menuName": "Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Wrap",
+      "description": "Crisp lettuce with mixed vegetables and roasted paneer topped with mayo and chipotle dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae7/5bfd738c5e4fdc0b8119e8912b573ae7.jpg",
+      "price": 190,
+      "menuName": "Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "restaurant-recommended",
+        "starter",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "restaurant-recommended",
+        "starter",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Tikki Wrap",
+      "description": "Crispy lettuce with mixed vegetables and aloo tikki topped with mayo and chipotle dressing.",
+      "media": null,
+      "price": 160,
+      "menuName": "Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "starter",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "starter",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Delight Wrap",
+      "description": "Crispy lettuce and mixed vegetables topped with chipotle dressing.",
+      "media": null,
+      "price": 140,
+      "menuName": "Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "starter",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "starter",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Chicken Loaded Wrap",
+      "description": "Give your tounge a twister with this cheesy full of chicken loaded wrap\n(Multigrain Bread)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/949/573220340471aed528e66cc8a3d78949.jpg",
+      "price": 260,
+      "menuName": "Non Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Nuggets Wrap",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/75d/e87830a669be89cc2d3a85333e34975d.jpg",
+      "price": 210,
+      "menuName": "Non Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Wrap",
+      "description": "Tender and juicy roasted chicken with crispy lettuce and mixed vegetables topped with chipotle dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/764/39f159f68f47284dbe52245d8bcd2764.jpg",
+      "price": 190,
+      "menuName": "Non Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "new",
+        "starter",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "starter",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Grilled Chicken Wrap",
+      "description": "Tender and juicy pan grilled chicken with crispy lettuce and mixed vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be6/1a153dc4ca10850c8f7ed078ed4c5be6.jpg",
+      "price": 180,
+      "menuName": "Non Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "new",
+        "starter",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "starter",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Achaari Kebab Wrap",
+      "description": "Kebab with a flavor of achaar you will get.",
+      "media": null,
+      "price": 180,
+      "menuName": "Non Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "healthy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "healthy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Seekh Kebab Wrap",
+      "description": "Grab a light bite with crisp lettuce, mixed vegetables and topped with chipotle dressing and all perfectly wrapped in a tortilla.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/795/76d6e8c728bbe9c706fef340517a9795.jpg",
+      "price": 170,
+      "menuName": "Non Veg Wraps",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "new",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "healthy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Hifizz Blueberry [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Hifizz",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hifizz Jeera Masala [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Hifizz",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hifizz Green Apple [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Hifizz",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hifizz Lemon Ginger [300 ml]",
+      "description": "",
+      "media": null,
+      "price": 30,
+      "menuName": "Drinks (Beverages)",
+      "categoryName": "Hifizz",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Mayo Vegetable Sandwich",
+      "description": "Brown bread chicken mayo sandwich, filled with cabbage, carrot, capsicum vegetables.",
+      "media": null,
+      "price": 120,
+      "menuName": "Non Veg Sandwich",
+      "categoryName": "Chicken Mayo Vegetable Sandwich",
+      "slugs": [
+        "non-veg",
+        "new",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

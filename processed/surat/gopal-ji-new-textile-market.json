@@ -1,0 +1,403 @@
+{
+  "basicInfo": {
+    "name": "Gopal Ji",
+    "cuisine_string": "Mithai, Street Food, Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/gopal-ji-new-textile-market/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.2",
+      "reviewCount": "5",
+      "reviewTextSmall": "5 Reviews",
+      "subtext": "5 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "115",
+      "reviewTextSmall": "115 Reviews",
+      "subtext": "115 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395002",
+    "is_dark_kitchen": false,
+    "locality_verbose": "New Textile Market, Surat",
+    "latitude": "21.1913679942",
+    "longitude": "72.8420343250",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1913679942,72.8420343250&maptype=zomato&markers=21.1913679942,72.8420343250,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "4/2330/3, Paiki Shop -G-1 To G-3, Ground Floor, New Textile Market, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918320100758"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Samosa (2 Pcs.)",
+      "description": "",
+      "media": null,
+      "price": 48,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kota Kachori (2 Pcs)",
+      "description": "",
+      "media": null,
+      "price": 48,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Bhalla [2 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/963/84a628f9ffa4e03df06c4ca3c68be963.jpg",
+      "price": 90,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Puri [5 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0db/3c3a20d5b1b33f7c14430d401124d0db.jpg",
+      "price": 90,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev Purl [5 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Papdi Chaat",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Samosa Chaat",
+      "description": "",
+      "media": null,
+      "price": 85,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole Bhature",
+      "description": "Paneer stuffed bhature served with chole, pickle, green chilli and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e22/92d640fe0cd2ac51c15e4891c335be22.jpg",
+      "price": 110,
+      "menuName": "Snacks and Chaat",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rasgulla (2 Pcs.)",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rajbhog (2 Pcs.)",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "discounted-addon",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "discounted-addon",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rasmalai (2 Pcs.)",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "discounted-addon",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "discounted-addon",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gulab Jamun Lamba (2 Pcs.)",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gulab Jamun Stuffed (2 Pcs.)",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kala Jamun Jumbo (2 Pcs.)",
+      "description": "",
+      "media": null,
+      "price": 80,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "discounted-addon",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "discounted-addon",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kalakand",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "rakhi-special",
+        "sf-mithai",
+        "veg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1719 @@
+{
+  "basicInfo": {
+    "name": "Laziz Pizza",
+    "cuisine_string": "Fast Food, Burger, Sandwich, Pizza, Beverages, Desserts, Pasta",
+    "canonicalUrl": "https://www.zomato.com/surat/laziz-pizza-sagrampura/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "0",
+      "reviewTextSmall": "0 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.7",
+      "reviewCount": "831",
+      "reviewTextSmall": "831 Reviews",
+      "subtext": "831 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.7",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395001",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Sagrampura, Surat",
+    "latitude": "21.1829012000",
+    "longitude": "72.8213139000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1829012000,72.8213139000&maptype=zomato&markers=21.1829012000,72.8213139000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 8, Navsarjan Apartment, Kailash Nagar Road, Mahadev Nagar Society, Sagrampura, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918780428141"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Country Special Pizza [7 Inch]",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Laziz's Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farm House Pizza [7 Inch]",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Laziz's Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Pizza [7 Inch]",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Laziz's Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Spicy Fusion Pizza [7 Inch]",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Laziz's Special",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Margherita Pizza",
+      "description": "Enjoy double portions of delicious mozzarella cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/82f/a4128123be227b1c3e343d1a2ed0c82f.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Margherita Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Single Cheese Margherita Pizza",
+      "description": "Delicious mozzarella cheese in every bite.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/041/a92f20710a46b77f1b8cc8e58885d041.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Margherita Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Cheese Margherita Pizza",
+      "description": "Enjoy three type cheese in every bite.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/20c/a8687964591bfac0c44d627c0ead920c.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Margherita Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "2 In One Pizza( Margarita + Veggy Mix)",
+      "description": "Delicious veggies like tomato, onion, capsicum, Olives deep in Cheese",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Heat(small)",
+      "description": "Onion, Green capsicum, baby corn, Jelopinos",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a79/5dd161155671dfb3e64883afb95c5a79.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Balle Balle Pizza",
+      "description": "Onion, Green Chilli, Paneer, Corinder",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fc5/90ec1ca082bb78b69ae6f95f462eefc5.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicum Pizza",
+      "description": "Enjoy capsicum in every bite.(7 inch)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/734/7b63a3e0f6980e98ae3dcdfc10392734.jpeg",
+      "price": 145,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chatpata Paneer Piizza",
+      "description": "Sweet corn, Chatpata Paneer, Tomato",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a13/a1a24bbedf4d6abb93dcbcd0a7e4aa13.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fresh Veggi Special",
+      "description": "Onion, Green capsicum, sweet corn",
+      "media": "https://b.zmtcdn.com/data/dish_photos/84e/9fa7af2fd3cbb5dc9868eddaf882684e.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Chilli Cheese Pizza",
+      "description": "Specially for green chilli lovers(7 inch)",
+      "media": null,
+      "price": 145,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gujarati Treat",
+      "description": "Onion, Green Chiili, Green Capsicum, Tonato, Garlic, Sweet corn",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f95/2fdfccfd7b051d7167e362b16d08ef95.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jalopinas Sweet Corn & Paneer(small)",
+      "description": "Comination of juicy paneer , sweet corn and Jalopinos",
+      "media": null,
+      "price": 199,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jalopinos & Olives(small)",
+      "description": "Remarkable blend of jelopinos and black olives",
+      "media": null,
+      "price": 199,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jelopino Pizza",
+      "description": "Enjoy Jelopino cheese in every bite.(7 inch)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a33/d3d5f7e281b00e04445c68378ac81a33.jpeg",
+      "price": 145,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Maxican Delight",
+      "description": "Sweet corn, Tomato, Green chilli, Olives",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f36/9b30a8c4359db9ce561ef2cb8c2dcf36.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Olives",
+      "description": "Enjoy Olive cheesein every bite.(7 inch)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/155/e0f69a4a746eea6cc5fffdf9257b4155.jpeg",
+      "price": 139,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Pizza",
+      "description": "Not just onion (7 inch)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d07/2eeea29bf7389551d5e0fb0e20803d07.jpeg",
+      "price": 129,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Pizza",
+      "description": "Sweet corn special with cheese.(7 inch)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3c3/7ac1ac8a5d1233fd577d2e87623f83c3.png",
+      "price": 145,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Pizza",
+      "description": "Enjoy tomato flavourin every bite.(7 inch)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9c9/4ea93a2c903d1ae67e2a80d863a6c9c9.jpeg",
+      "price": 145,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Yam Dam Pizza(small)",
+      "description": "Onion, Green chilli, Garlic, Spnich, Paneer",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ded/bf838270ca70281b0f7164ee53187ded.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Simply Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chef's Special Pizza",
+      "description": "Red, yellow pepper, sweet corn, baby corn, red paprika and paneer tikka.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c59/a70e02335897fae90ba7cc66dd474c59.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Country Special Pizza",
+      "description": "Green capsicum, red, yellow pepper, baby born, sweet corn and black olives.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/00d/6be10a2c2fa2a4d825eca40b450ea00d.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Creamy Cheese Pizza",
+      "description": "Liquid cheese ,red -yellow-green capsicum,jalapenos.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e59/6f4a2575b03dd9356079e36d845fae59.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farmhouse Pizza",
+      "description": "Green capsicum, red, yellow pepper, jalapenos, onion and black olives.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/309/63f86d6cb7cb747083553908faef4309.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Laziz Classic Pizza",
+      "description": "Green capsicum,tomato, babycorn, sweet corn, red peprica.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/62b/d0d2bb0c43f43535ab91c030c44d362b.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Laziz Mac Veg Pizza",
+      "description": "Paneer, onion, olives and baby corn.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/503/c8282c76a9882f69818532fa34367503.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Special Pizza",
+      "description": "Crispy paneer,onion,green capsicum",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ddd/a70dda1fed7d663722c731722c785ddd.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Corn & Capsicum Pizza",
+      "description": "Corn - Capsi. lover.(7 inch)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a65/b61bda5dd07b957b5f7fa05c836cca65.jpeg",
+      "price": 145,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Paprika Pizza",
+      "description": "Paneer paprica,green capsicum,sweet corn, red peprica.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e2c/57dc07a534a87770789fc638c2fc4e2c.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Veg Pizza",
+      "description": "Red, yellow pepper, green capsicum, red paprika, chilli flakes and mayo dip.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/678/c2917b3770dd23883db697a4b2019678.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Exotic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Laziz Khas Pizza",
+      "description": "Green sauce, red, yellow, green capsicum and green onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cdc/70ef8deb930881297945699003cc7cdc.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Pizza",
+      "description": "Tikka powder, paneer tikka, green capsicum and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/107/9e445d6f6cd769993194062accb9e107.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Passion Delight Pizza",
+      "description": "Sweet corn, black olive and jalapenos.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c4e/f9ec95028350c230cd65365150a7bc4e.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Pizza",
+      "description": "Onion, baby corn, green capsicum, pepper and green onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/475/4732bfc0616c67f2ce46532752c7c475.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Lovers Pizza",
+      "description": "Red paprika, tomato, onion and green capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/027/168a5d4d9852986c52e3faa4f0215027.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Classic Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Paneer Pizza",
+      "description": "Paneer tossed in chilli & soya sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ebb/bf6ffb0abab0a4abfa98579987050ebb.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot N Spice Pizza",
+      "description": "[Extra Spicy] Hot n spice sauce, paneer, jalapenos, green chilli, red paprika and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c7c/b6fcf910566bca4bd49d6dc934639c7c.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "5 Paneer Pizza",
+      "description": "Paneer, tikka paneer, paprika paneer, tandoori paneer and spice paneer.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e35/77cfb9c19de9e7154dfd954dbfab2e35.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Makhani Pizza",
+      "description": "Makhani sauce, makhani paneer, green capsicum, red paprika and onion.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5cb/6efe3f4811c53ff3f4850789fef6f5cb.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Paprika Pizza",
+      "description": "[Extra Spicy] Green capsicum, red, yellow pepper, paneer tikka mix, red paprika, chilli flakes and jalapenos.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b4b/89a4129073f3226fca71211ff47e8b4b.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Pizza",
+      "description": "Peri peri sauce, paneer, onion, capsicum and tomato.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b55/53cf6ddf109a9c23a87832a87beb0b55.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Paneer Pizza",
+      "description": "Tandoori sauce, tandoori paneer, onion, capsicum and tomato.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/11d/f5ced593ab7ee60989f8bab1952cf11d.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Carnival Pizza",
+      "description": "Green capsicum, red, yellow pepper, sweet corn, baby corn, red paprika and paneer paprika.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/288/45617a365c9e0776399bc7ecfa835288.png",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Loaded Pizza",
+      "description": "Loaded with extra cheese, green capsicum, red, yellow bell pepper, sweet corn, jalapenos, onion and mushroom.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ee7/234f21b252d40e2328416eee878c3ee7.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Spice Fusion Pizza",
+      "description": "[Extra Spicy] Green, red sauce, jalapenos, black olive, sweet corn, red paprika, capsicum and green chilli.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/62b/609367733091932cb285bdaab146e62b.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Special Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Exotica Pizza",
+      "description": "Baby corn, jalapenos, olive and green capsicum.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/998/ccfd378aed2cedcd37f2d6137c8cd998.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Premium Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Lazizo Pizza",
+      "description": "Every bite cheese n cheese, red, yellow bell pepper, onion, jalapenos and cheese topping.",
+      "media": null,
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Premium Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jamaican Veg Pizza",
+      "description": "Green capsicum, onion, sweet corn, chilli flakes, black olive, jalapenos and garnish mustard.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e20/497cbf4b3d35643b8cbd0d0962446e20.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Premium Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Laziz Taj Pizza",
+      "description": "Green, red sauce, green capsicum, red, yellow bell pepper, red paprika, sweet corn, black olive, garlic and butter pest.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c1c/423c6338168de6c280502aec6b764c1c.jpeg",
+      "price": 0,
+      "menuName": "Pizza",
+      "categoryName": "Premium Bite Pizza",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/549/78d8eed68db9ee55cf939fdf6c4ba549.png",
+      "price": 0,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d60/dcded0c541910b43a4631b502098fd60.jpeg",
+      "price": 120,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7d3/4515d769295828c1be18086b14f5d7d3.jpeg",
+      "price": 105,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f05/15cc596e1d87dce0e7e527a63a9b6f05.jpeg",
+      "price": 75,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Burger",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d1b/ad0bb4f6d1b7d5874e55c52c41784d1b.png",
+      "price": 105,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Burgers",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1c5/84de55663f9e33d89360023de8bde1c5.jpeg",
+      "price": 40,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jam Butter Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b96/272891f59931a4e797583c12e6662b96.jpeg",
+      "price": 50,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jam Cheese Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/509/23c3032ece80bcacad7aa64ae22f5509.jpeg",
+      "price": 80,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5ec/5ef2410a5d7f25126173428df68415ec.jpeg",
+      "price": 110,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4e3/7b0f74726c31d131c4f14edcdc5e94e3.jpeg",
+      "price": 90,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Laziz Spicy Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b1c/d179179061f8c3122b646e8f7339fb1c.png",
+      "price": 199,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Grill Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Laziz Veg Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/980/03fa44da6adb724f681e0696c5108980.jpeg",
+      "price": 189,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Grill Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d7e/1cc7dc47097253f0a61631ca3b5cfd7e.jpeg",
+      "price": 199,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Grill Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pizza Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e06/cc57e4042bab259ddbe78c1fa9b03e06.jpeg",
+      "price": 189,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Grill Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Corn Grilled Sandwich",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a06/b83ca8adebe428f390758b77679d3a06.jpeg",
+      "price": 189,
+      "menuName": "Burgers And Sandwiches",
+      "categoryName": "Grill Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ad/ece93b5a09892afc8fc00632767e21ad.jpeg",
+      "price": 149,
+      "menuName": "Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2e6/b8279b0d53fba6af26ebf2eb8636a2e6.jpeg",
+      "price": 99,
+      "menuName": "Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1eb/98060569563f2ddac265f9e1733601eb.jpeg",
+      "price": 169,
+      "menuName": "Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2ae/83327f341d5d1850426cf94f4aa5f2ae.jpeg",
+      "price": 119,
+      "menuName": "Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayo French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ded/765c1ae5c258a9f20d00af3ff2a2fded.jpeg",
+      "price": 139,
+      "menuName": "Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2cd/f737948474726e4c26a20f078802b2cd.jpeg",
+      "price": 125,
+      "menuName": "Fries",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Four Flavour Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d6b/abd9d41b0fd71301ca326e3e647ead6b.jpeg",
+      "price": 139,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d2e/8740b2de56403240d8d531f0ab5a0d2e.png",
+      "price": 119,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Stick",
+      "description": "",
+      "media": null,
+      "price": 159,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Garlic Bread",
+      "description": "Cheesy garlic bread topped with juicy paneer & red peprika",
+      "media": null,
+      "price": 149,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Stuffed Garlic Bread",
+      "description": "Paneer and veggies dip in tikka power and cheese",
+      "media": null,
+      "price": 159,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/65c/120b1683dd949d20c10d473df512865c.jpeg",
+      "price": 129,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e62/5b5b356509a7fba9f091e2795b147e62.jpeg",
+      "price": 169,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Supreme Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c0c/35bd9841cd8d2867bbe7d626cfab4c0c.jpeg",
+      "price": 129,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweetcorn Stuffed Garlic Bread",
+      "description": "Sweet corn , jelopinos with cheese",
+      "media": null,
+      "price": 149,
+      "menuName": "Garlic Bread",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cap.&paneer, Cap.&Onion, Sweetcorn &Olives, GreenChili & Tomato",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0eb/55c942581780344731e435c3cd94c0eb.png",
+      "price": 449,
+      "menuName": "Capsicum, Sweet Corn, Onion, Jelopino",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Capsicum, Sweet Corn, Onion, Jelopino",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/72e/7ae0ba3fe8bfb3d20165aa59147c472e.png",
+      "price": 399,
+      "menuName": "Capsicum, Sweet Corn, Onion, Jelopino",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

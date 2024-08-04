@@ -1,0 +1,891 @@
+{
+  "basicInfo": {
+    "name": "Bomb-Ay Grill",
+    "cuisine_string": "Fast Food, Pizza, Street Food",
+    "canonicalUrl": "https://www.zomato.com/surat/bomb-ay-grill-varachha/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.0",
+      "reviewCount": "294",
+      "reviewTextSmall": "294 Reviews",
+      "subtext": "294 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "5,876",
+      "reviewTextSmall": "5,876 Reviews",
+      "subtext": "5,876 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Varachha, Surat",
+    "latitude": "21.2095879428",
+    "longitude": "72.8492263332",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2095879428,72.8492263332&maptype=zomato&markers=21.2095879428,72.8492263332,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "6 Vrundavan Shopping Centre, Opposite Varachha Police Station, Varachha, Surat.",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918000965652"
+    },
+    "res_chain_text": "See all 2 Bomb-Ay Grill outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/bomb-ay-grill",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Vada Pav Combo [5 Pieces]",
+      "description": "Crispy and spicy vada pav combo with five vada and five pavs to make your mouth water.",
+      "media": null,
+      "price": 179,
+      "menuName": "Zomato Exclusive Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Burger Combo",
+      "description": "Rosti Burger [1 Piece]+1 Fries [Medium]+1 Coke Soft Beverage [200 ml]",
+      "media": null,
+      "price": 190,
+      "menuName": "Zomato Exclusive Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sandwich Combo",
+      "description": "Grilled Mexican Bean Sandwich [1 Piece]+1 Fries [Medium]+1 Coke Soft Beverage [200 ml]",
+      "media": null,
+      "price": 249,
+      "menuName": "Zomato Exclusive Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rice Combo",
+      "description": "1 Mexican Rice+1 Fries [Medium]+1 Coke Soft Beverage [200 ml]",
+      "media": null,
+      "price": 289,
+      "menuName": "Zomato Exclusive Meals",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vada Pav [1 Piece]",
+      "description": "",
+      "media": null,
+      "price": 36,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Vada Pav",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veggie Cheese Vada Pav [1 Piece]",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Cheese Vada Pav [1 Piece]",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Vada Pav",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Aloo Mutter Grilled Sandwich",
+      "description": "A double layered creamy sandwich that is filled with freshly cut veggies that are mixed with cheese and mayonnaise.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b2/029eb66acc1ed14cc0d434fb525b02b2.jpg",
+      "price": 207,
+      "menuName": "Bomb's Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pasta Grilled",
+      "description": "Fusilli pasta cooked in tomato sauce along with corn, peas, red and yellow bell peppers. A sandwich that is perfect combination of Italian pasta and Indian spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/072/5e1b4dcba9037a55dd39cabaa28ac072.jpg",
+      "price": 221,
+      "menuName": "Bomb's Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Russian Greens Grilled",
+      "description": "A Russian Salad sandwich containing a creamy mixture of potatoes, green peas and capsicums stuffed in fluffy bread that is crisp on outside and soft inside, topped with mustard sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/039/e744672bd3a0ab757f8aff4d0d083039.jpg",
+      "price": 207,
+      "menuName": "Bomb's Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Beans",
+      "description": "A unique blend of onions, capsicums and baked beans, spiced with jalapeno and garlic sauce topped with liquid cheese, a sandwich that will melt in your mouth.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4cf/ddd6055f1910c3331922ad078591c4cf.jpg",
+      "price": 248,
+      "menuName": "Bomb's Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulcha Grilled",
+      "description": "A delicious Indian flatbread with a unique grilling technique that gives it a smoky, charred flavor.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7cb/0344600737d1f46a886a5fb176c4a7cb.jpg",
+      "price": 255,
+      "menuName": "Bomb's Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Grilled Sandwich",
+      "description": "A mouthwatering sandwich made with tandoori chicken and a variety of fresh vegetables, perfect for a quick and delicious meal.",
+      "media": null,
+      "price": 269,
+      "menuName": "Bomb's Specials",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Juicy Cucumber Grilled Sandwich",
+      "description": "As juicier as a sandwich can get. Contains extra cheesy blend of cucumber and capsicum topped with our secret spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/804/38c7012b31a8a5f075ae96fe37129804.jpg",
+      "price": 200,
+      "menuName": "Bomb's Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chefs Special Grilled Sandwich",
+      "description": "A delectable and aromatic grilled sandwich with a zing of cilantro and spices. A perfect blend of flavors and textures.",
+      "media": null,
+      "price": 262,
+      "menuName": "Bomb's Specials",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Raw Veggie Sandwich [Kachi Vegetable Sandwich with Cheese]",
+      "description": "A local street delicacy stuffed with a layer of sliced potato, a layer of sliced cucumber and tomato spiced with fresh mint and coriander chutney.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d77/c0fdc87d2dc436ba0bed550ea17aed77.jpg",
+      "price": 117,
+      "menuName": "Bombs Classic Sandwich & Burger",
+      "categoryName": "Bombs Classic Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Cheesy Paneer Roll",
+      "description": "A spicy treat that has mixture of paneer cubes, onions, capsicums and green chillies, layered with mustard sauce and spicy mayo stuffed into a herbs and veggie bread.",
+      "media": null,
+      "price": 145,
+      "menuName": "Bombs Classic Sandwich & Burger",
+      "categoryName": "Bombs Classic Sandwich",
+      "slugs": [
+        "veg",
+        "very-spicy",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "very-spicy",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Cheese Toasted Sandwich",
+      "description": "A classic vegetarian sandwich with a cheesy twist. Topped with a variety of fresh vegetables and melted cheese on a toasted bun.",
+      "media": null,
+      "price": 137,
+      "menuName": "Bombs Classic Sandwich & Burger",
+      "categoryName": "Bombs Classic Sandwich",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rosti Burger ( Cheese slice included )",
+      "description": "Chilli herb, lettuce, tomatoes, blend mix of sauces topped with cheese slice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2e2/30afe6344ac5a85e008af23f11e722e2.jpg",
+      "price": 137,
+      "menuName": "Bombs Classic Sandwich & Burger",
+      "categoryName": "Bombs Classic Burger",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Footlong",
+      "description": "A 12 inches grilled sub containing exotic veggies such as broccoli, baby corn, bell peppers etc., and full of spicy Mexican flavors.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0aa/670770b19b044d4f75ef1a7664fe30aa.jpg",
+      "price": 255,
+      "menuName": "Bomb's Footlong",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peppy Paneer",
+      "description": "A 12 inches grilled sub containing exotic veggies such as broccoli, baby corn, bell peppers etc, and full of spicy Mexican flavors.",
+      "media": null,
+      "price": 221,
+      "menuName": "Bomb's Footlong",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bomb's All in One Regular Grilled Sandwich",
+      "description": "A double layered triangle grilled sandwich loaded with cheese, veggies and potato mash, spiced with schezwan sauce and creamy mayonnaise.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/31b/c052ee3f7506a2567d7930a24293931b.jpg",
+      "price": 221,
+      "menuName": "Bombs Authentic Sandwich",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Margherita Pizza [6 inches]",
+      "description": "A classic pizza with fresh tomato sauce, mozzarella cheese and fresh basil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e74/45779c3e06d4bec279231b46fb032e74.jpg",
+      "price": 179,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Cheese Pizza [6 inches]",
+      "description": "A delicious pizza with a soft and chewy crust, stuffed with mozzarella cheese, and topped with a variety of savory toppings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2c1/ccd638fe70b00f6a83cbd2f1d3cd22c1.jpg",
+      "price": 207,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Temptation Pizza [6 inches] our Special",
+      "description": "A delightful pizza that will satisfy your hunger with its delicious taste and tempting appearance.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e9/53e4a6c5590d57b43683904632df28e9.jpg",
+      "price": 255,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Supreme Veg Pizza [6 inches]",
+      "description": "1 Choice of 6 inch pizza crust with a generous spread of cheese, vegetables and chicken filling.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/03e/9b896f921de4354961235c010d00003e.jpg",
+      "price": 255,
+      "menuName": "Pizza",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Quesadilla [3 Pieces]",
+      "description": "Includes salsa sauce.",
+      "media": null,
+      "price": 216,
+      "menuName": "Quesadilla",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mexican Quesadilla [3 Pieces]",
+      "description": "Includes salsa sauce.",
+      "media": null,
+      "price": 240,
+      "menuName": "Quesadilla",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Quesadilla [3 Pieces]",
+      "description": "Includes salsa sauce.",
+      "media": null,
+      "price": 240,
+      "menuName": "Quesadilla",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Simply Cheese Garlic Bread",
+      "description": ". A crispy, cheesy, garlicflavored bread roll with a soft and fluffy interior.",
+      "media": null,
+      "price": 137,
+      "menuName": "Snacks",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Cheese Corn Garlic Bread",
+      "description": "",
+      "media": null,
+      "price": 166,
+      "menuName": "Snacks",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Garlic Bread",
+      "description": "Crispy garlic bread with spicy masala sauce, perfect for snacking or sharing.",
+      "media": null,
+      "price": 138,
+      "menuName": "Snacks",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Cheese Garlic Bread",
+      "description": "A delectable treat for cheese lovers, this bread stuffed with garlic butter and cheese is a mouthwatering snack.",
+      "media": null,
+      "price": 159,
+      "menuName": "Snacks",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Garlic Bread ( 8 Pieces )",
+      "description": "A delicious garlic bread made with fresh, soft, and chewy bread, generously topped with a savory garlic sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e75/6b8cff6f70df6f1b80f7277f3b718e75.jpg",
+      "price": 262,
+      "menuName": "Snacks",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/391/479768a9ef191a151597aba58f469391.jpg",
+      "price": 137,
+      "menuName": "Snacks",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Fries",
+      "description": "Crispy potato fries tossed in a spicy masala sauce with a hint of sweet and tangy flavors.",
+      "media": null,
+      "price": 137,
+      "menuName": "Snacks",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Fries",
+      "description": "Crispy fries tossed in a creamy and cheesy masala sauce, perfect for a quick bite.",
+      "media": null,
+      "price": 166,
+      "menuName": "Snacks",
+      "categoryName": "Fries",
+      "slugs": [
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "reco-snacks",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Wrap",
+      "description": "Schezuan Paneers Wrap is a delicious wrap with a Schezawan spice twist.",
+      "media": null,
+      "price": 179,
+      "menuName": "Wraps",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Simply Nachos",
+      "description": "Nachos Crispy tortilla chips, topped with seasoned ground meat, melted cheddar cheese, and fresh toppings.",
+      "media": null,
+      "price": 166,
+      "menuName": "Nachos",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "new",
+        "services",
+        "sf-kid-friendly",
+        "moderated-non-veg",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "new",
+        "services",
+        "sf-kid-friendly",
+        "moderated-non-veg",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mexican Rice",
+      "description": "Rajma vegetables rice.",
+      "media": null,
+      "price": 300,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "rice",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "rice",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

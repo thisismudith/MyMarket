@@ -1,0 +1,1592 @@
+{
+  "basicInfo": {
+    "name": "G Dada",
+    "cuisine_string": "Gujarati, Street Food, Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/g-dada-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.2",
+      "reviewCount": "455",
+      "reviewTextSmall": "455 Reviews",
+      "subtext": "455 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.8",
+      "reviewCount": "7,877",
+      "reviewTextSmall": "7,877 Reviews",
+      "subtext": "7,877 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.8",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1991985586",
+    "longitude": "72.7961056172",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1991985586,72.7961056172&maptype=zomato&markers=21.1991985586,72.7961056172,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "17, Green Atria, Sneh Sankul Wadi, Opposite Anand Mahal Road, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919408766429, +919427135771, +919376665777"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Mini Punjabi Thali",
+      "description": "1 Sabji+4 Phulka Roti+Dal+Rice+Salad [Subject to Availability]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e34/b4661ed97cb107734d3508fcb434fe34.jpeg",
+      "price": 199,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Thali",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mini Gujarati Thali",
+      "description": "1 Sabji+4 Phulka Roti+Dal+Rice+Salad [Subject to Availability]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b3/07f2f1e033363c15d721e38502c7d5b3.jpeg",
+      "price": 199,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Thali",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Thali",
+      "description": "Paneer Sabji+Chole/Punjabi Mix Veg+5 Phulka Roti+Dal Fry/Kadhi+Jeera Rice/Khichdi+ Salad+Papad [Salad-Subject to Availability].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dfc/2a61ae937f3f4c22526e14168ac27dfc.jpeg",
+      "price": 340,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Thali",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gujarati Thali",
+      "description": "2 Gujarati Shaak+5 Fulka Roti+Gujarati Dal or Kadhi+Rice or Khichdi+Salad+Papad [Salad-Subject to Availability].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8e4/310a49624ffd5679d34546f697ea48e4.jpeg",
+      "price": 340,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Thali",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Bhaji with 5 Thepla",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/563/44f3fc936ac4998009c3a77635ea0563.jpg",
+      "price": 200,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Roti Sabji Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Bhaji with 5 Roti",
+      "description": "Crispy, golden poori pairs perfectly with fluffy, flavorful aloo Bhaji for a delicious breakfast or snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be1/ee757d2e29f3d0d0f5ba8c9117d55be1.jpg",
+      "price": 145,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Roti Sabji Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Bhaji with 8 Poori",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/24d/97f2a96886d7446c4222dcfb5807024d.jpeg",
+      "price": 142,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Roti Sabji Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gujarati Sabji with 5 Chapati Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/be1/ee757d2e29f3d0d0f5ba8c9117d55be1.jpg",
+      "price": 210,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Roti Sabji Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Sabji with 5 Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/837/760b0d793ec9e59b5840d30b8053d837.jpeg",
+      "price": 215,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Roti Sabji Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole with 8 Poori",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b6/e167fb34992316c023ca2e7b9374c1b6.jpeg",
+      "price": 215,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Roti Sabji Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Dal Fry with Jeera Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/295/e004a667505f5ce20ac1604c16955295.jpeg",
+      "price": 215,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Roti Sabji Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gujarati Khichdi with Kadhi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/442/56c34e741f1fadfcca62318be4ca5442.jpeg",
+      "price": 213,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Roti Sabji Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gujarati Dal with Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bf8/71f3bb68186a44aa5cab149f46698bf8.jpeg",
+      "price": 215,
+      "menuName": "Thali and Roti Sabji Combos",
+      "categoryName": "Roti Sabji Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Handvo with Dahi",
+      "description": "Satisfy your savory breakfast cravings with this scrumptious surti dish paired with cool dahi.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f1e/e7be6a479d60c000f9e43bfa9b0c8f1e.jpeg",
+      "price": 0,
+      "menuName": "All Day Breakfast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev Khamni",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/914/3542dea738e52a1dcc424760d4c87914.jpeg",
+      "price": 0,
+      "menuName": "All Day Breakfast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Patra Roll",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "All Day Breakfast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Patra",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/943/fe15549f32440c7b9f67fe1ef7389943.jpg",
+      "price": 0,
+      "menuName": "All Day Breakfast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "5 Methi Thepla with Dahi",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "All Day Breakfast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lifafa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/08c/01bbeef46fa4c43604b3ec66a656c08c.png",
+      "price": 130,
+      "menuName": "All Day Breakfast",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Pattice and Sabudana Vada Mix [250 Grams]",
+      "description": "Crisp gold stuffed peanuts, potato and Sabudana flavored with handmade our special spices, [Serves 2]",
+      "media": null,
+      "price": 170,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sing Batata Bhaji and Farali Poori [7 Poori]",
+      "description": "A tasty and satisfying Farali meal with potato based bhaji and crispy poori bread. Serves 1.",
+      "media": null,
+      "price": 190,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sabudana Khichdi with Curd",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Aloo Bhaji and Poori",
+      "description": "",
+      "media": null,
+      "price": 190,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Thali",
+      "description": "Sing Batata Bhaji+Sabudana Khichdi+5 Farali Puri+2 Farali Pattice+2 Sabudana Vada+Sing Laddu [1 Piece]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/22f/e8111ec6de485b4c8d213733649b922f.jpeg",
+      "price": 480,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Combos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Aloo Bhaji Meal Combo",
+      "description": "Farali Aloo Bhaji [200 Grams]+7 Farali Puri+1 Farali Petis+1 Sabudana Vada+1 Sing Laddu+Chutney",
+      "media": "https://b.zmtcdn.com/data/dish_photos/073/6f3367be5d020153ccd5de8dc50fa073.jpeg",
+      "price": 360,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Combos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sabudana Khichdi Meal Combo",
+      "description": "Sabudana Khichdi [300 Grams]+1 Farali Petis+1 Sabudana Vada+1 Sing Laddu+ Dahi.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e0f/3dd8f18df8a47ed96eecdfdda754fe0f.jpeg",
+      "price": 360,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Combos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Aloo Bhaji with 7 Poori",
+      "description": "Morayo [300 grams]+Kadhai [150 grams]+1 Petis+1 Sabudana Vada+1 Sing Laddu.",
+      "media": null,
+      "price": 190,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Combos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Patties",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d93/040160e8c74beeb74d4cea9f8fd9dd93.jpeg",
+      "price": 0,
+      "menuName": "Farali Items",
+      "categoryName": "Farali [Upvaas]",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sabudana Vada",
+      "description": "Crispy snack made from a starch base, perfect for fasting days.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/777/162b90bb5092507308e80092c7479777.jpeg",
+      "price": 0,
+      "menuName": "Farali Items",
+      "categoryName": "Farali [Upvaas]",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sabudana Khichdi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/782/e90021ea9b48721f65c51076f5f37782.jpeg",
+      "price": 0,
+      "menuName": "Farali Items",
+      "categoryName": "Farali [Upvaas]",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sing Bataka Bhaji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e09/a673ef54a066cd2a6e4996ceb0046e09.jpeg",
+      "price": 0,
+      "menuName": "Farali Items",
+      "categoryName": "Farali [Upvaas]",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rajgara Moraya Mixed Farali Puri",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Farali Items",
+      "categoryName": "Farali [Upvaas]",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sing Ladoo",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e89/0a6356e1149976062f733f57cb70fe89.jpg",
+      "price": 0,
+      "menuName": "Farali Items",
+      "categoryName": "Farali [Upvaas]",
+      "slugs": [
+        "veg",
+        "services",
+        "category-slab-1",
+        "sf-mithai",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "category-slab-1",
+        "sf-mithai",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali White Chevdo",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/16c/3771486a06d553e087b13fc39618916c.png",
+      "price": 0,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Red Chevdo",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7dd/1a2ac06fb36c7be8dc347df3a85ff7dd.jpeg",
+      "price": 0,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Poori [250 grams]",
+      "description": "",
+      "media": null,
+      "price": 145,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Farali Bhakri [200 grams]",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "Farali Items",
+      "categoryName": "Farali Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cutlet",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Ghughra, Kachori and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Lili Tuver Na Ghughra",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Ghughra, Kachori and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lili Tuver Na Lasaniya Ghughra",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7c3/394dba391da1129b3d6d23227e35f7c3.jpeg",
+      "price": 0,
+      "menuName": "Ghughra, Kachori and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lila Nariyal Patties",
+      "description": "Surti patties.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae0/ce7c16c5f9e370e91ab4bbbaf6f05ae0.jpg",
+      "price": 0,
+      "menuName": "Ghughra, Kachori and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jamnagri Kachori",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2fe/5b004b77e13a55fb36cd9623672a72fe.jpeg",
+      "price": 0,
+      "menuName": "Ghughra, Kachori and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lila Nariyal Pattice [150 g]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae0/ce7c16c5f9e370e91ab4bbbaf6f05ae0.jpg",
+      "price": 115,
+      "menuName": "Ghughra, Kachori and Patties",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Samosa [1 Piece]",
+      "description": "A delectable pastry stuffed with savory, vegetarian filling.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/200/aee5aa2d1deef8bcf8602d3fb57ab200.jpeg",
+      "price": 45,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Amul Cheese Fried Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/30d/981389f16a6c0d662d83aa1236e8f30d.jpg",
+      "price": 140,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/398/2cb7fad3c83ecd35de8c3982486ab398.jpeg",
+      "price": 0,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chana Dal Kanda Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae8/fbd5e6cd1355c75f0ec6e621f5ac1ae8.jpg",
+      "price": 0,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chana Dal Pudina Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fac/ebb8bbc80f9cc1615057fcde840fbfac.jpeg",
+      "price": 0,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Green Peas Samosa [Non Jain]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b3/3254b8a74e199d6a6e029eaede1938b3.jpeg",
+      "price": 0,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Veg Samosa [Non Jain]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8b3/3254b8a74e199d6a6e029eaede1938b3.jpeg",
+      "price": 0,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Green Peas Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/085/78a9d6b8ca6097ff99eb48c008475085.jpg",
+      "price": 0,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Amul Cheese Samosa",
+      "description": "A crispy pastry filled with gooey, melted cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/212/e6ae481bf35a50b3c0fb40c9f97f3212.jpeg",
+      "price": 0,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Amul Cheese Paneer Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/30d/981389f16a6c0d662d83aa1236e8f30d.jpg",
+      "price": 0,
+      "menuName": "Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Bhaji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/462/545a71cbbe69717c08d58e086904a462.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Punjabi Chole Masala [250 grams]",
+      "description": "Boiled tuvar dal cooked with onion, tomatoes tadka added spices.",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kadai Masala [250 grams]",
+      "description": "Boiled tuvar dal cooked with onion, tomatoes tadka added spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4b9/ae56ee9802af3b3c15bedc2da138e4b9.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c30/1f4c35280f17dc83ea74b91f4a52fc30.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Amritsari Chole",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b28/dbaadded01987df80dac8da6ff05eb28.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lababdar",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e48/c72209ed204fb7cb75c8a3aba9f8ce48.jpeg",
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gujarati Dal",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "Boiled tuvar dal cooked with onion, tomatoes tadka added spices.",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadhi",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Main Course",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/79d/cd43489e2c8323301c0f39be8364079d.jpeg",
+      "price": 22,
+      "menuName": "Roti and Thepla",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Ghee Roti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/489/6a0d4bf07a80be707dcff4b18ce6b489.jpeg",
+      "price": 25,
+      "menuName": "Roti and Thepla",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Puri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e57/5ac7aeb1bbe1fe266e680aeb9b14be57.jpeg",
+      "price": 0,
+      "menuName": "Roti and Thepla",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Methi Thepla",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/866/e22af90358c3c5f4c0398e937ebef866.jpeg",
+      "price": 0,
+      "menuName": "Roti and Thepla",
+      "categoryName": "Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c83/358305a2703ca2d4e252a98b32cc8c83.jpeg",
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Rice",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Surti Khaja [Spicy]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c2e/46107aa3c0ff12d2f000582f9ca0ac2e.jpg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Dry Namkeen",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Methi Na Muthiya",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/06e/49fd6a75a2885f9a55687296b96e306e.jpeg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Dry Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Shakar Para",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4fd/80c0cc07a21241b3eb2e1ec1735764fd.jpeg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Dry Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Wheat Butter Chakri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c7c/7f7897e3b64faafa5ef770bb66011c7c.jpeg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Dry Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Suvali Puri [Sweet]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/701/4f8cc00f08126136f5757b9c3ea0b701.jpg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Dry Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Goba Puri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b30/08f5b36096ecceeb34f22480532b0b30.jpeg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Dry Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Puri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/273/fb200dcd65093efb9c13cbb46ca6f273.jpeg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Dry Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasan Methi Puri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ad7/4762404f6dc7903d15f7788ab11cfad7.jpeg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Dry Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Methi Muthia [Dry]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/479/abf55ab8e7b128dd732e252253b2d479.jpg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Dry Namkeen",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bhavnagri Gathiya",
+      "description": "Jina moda gathiya.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9ad/aab45f0078c5464cd9ba71cb986529ad.jpeg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Sev, Gathiya & Fafda",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jada Gathiya",
+      "description": "Full gathiya.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/69d/be4aebf8f97b3664e345ecf9f3d6869d.jpeg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Sev, Gathiya & Fafda",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tikha Gathiya",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3a5/420e7fc16ef37ab30c9cbf9f6e3513a5.jpg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Sev, Gathiya & Fafda",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bhata Ni Kani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/403/f44e2adfdbfc51e99fe9f639d3dc4403.jpeg",
+      "price": 0,
+      "menuName": "Namkeen",
+      "categoryName": "Sev, Gathiya & Fafda",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chaas",
+      "description": "Buttermilk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c30/d00d179a79616a88e7c688c3308a6c30.jpeg",
+      "price": 30,
+      "menuName": "Chaas",
+      "categoryName": "Buttermilk",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

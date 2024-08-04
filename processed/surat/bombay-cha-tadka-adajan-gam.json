@@ -1,0 +1,2323 @@
+{
+  "basicInfo": {
+    "name": "Bombay Cha Tadka",
+    "cuisine_string": "Maharashtrian, Konkan, North Indian",
+    "canonicalUrl": "https://www.zomato.com/surat/bombay-cha-tadka-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.4",
+      "reviewCount": "4",
+      "reviewTextSmall": "4 Reviews",
+      "subtext": "4 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.4",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.6",
+      "reviewCount": "866",
+      "reviewTextSmall": "866 Reviews",
+      "subtext": "866 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.6",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1858226000",
+    "longitude": "72.7951369000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1858226000,72.7951369000&maptype=zomato&markers=21.1858226000,72.7951369000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 4, Radha Palace, Opposite Imperial Mall, Star Bazzar, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919687341172"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Chicken Soup",
+      "description": "Chicken soup prepared from pure chicken stew tossed with green chilli, garlic, ginger, coriander, pink salt, chat masala. Its an pure chicken soup like desi home style [no food color, no vinegar, no corn starch used in making].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/17a/278a5f2d3ae4ef41509d0b574272717a.png",
+      "price": 0,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pepper Soup",
+      "description": "Chicken soup prepared from pure chicken stew tossed with green chilli, garlic, ginger, coriander, pink salt, black pepper. Its an pure chicken soup like desi home style [no food colour, no vinegar, no corn starch used in making].",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Gavthi Sukka",
+      "description": "Chicken coated with some authentic & traditional Maharashtrian spices tossed in kadhai with chef’s special secret base. Smooth outside juicy inside, its a must try dish if you like desi style dry chicken.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/609/b9456bb93bc9d58e3f3180b3d1170609.jpg",
+      "price": 249,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Bhuna Dry",
+      "description": "Bhuna is the most loved preparation from us. This chicken bhuna is so aromatic that it would make you fall in love with it. Combination of various spice’s along with chef’s special base is just perfect in this dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d96/0604e41a1626052d87872015207a9d96.jpg",
+      "price": 249,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "chef-special",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "chef-special",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Konkani Sukka",
+      "description": "Konkan is a region of Maharashtra famous for its non veg food, this konkani sukha chicken is prepared with hand picked konkani spices tossed with coconut in base gravy. It will give you true konkani taste to your taste buds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/beb/4a1e440721c3e7b3314548ca8d81dbeb.jpg",
+      "price": 249,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Aagri-Koli Chicken Sukha",
+      "description": "Aagri koli, the first citizens of currently known as Mumbai city. This chicken is prepared with the very authentic aagri koli masala, a regional spice blend originated from the vibrant kitchens of the aagri & koli communities. Being a community that borders the coastal line, influence of coconut in the food is very natural and therefore roasted coconut is used in this dish.",
+      "media": null,
+      "price": 249,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kadhai Sukka",
+      "description": "Juicy soft & fresh chicken tossed with chef's special spice mixed in kadhai. Tossed till it flovour smokey.",
+      "media": null,
+      "price": 249,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malvani Sukka",
+      "description": "Malvani sukka is a masaledar chicken with a dense paste and bursting with coconut flavor. Malvani cuisine comes from the konkan region of maharashtra and goa. Tossed with malvani spice's in kadhai.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0fc/cce8a9ee8aa0dc921a4cf10d558cd0fc.png",
+      "price": 249,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Daman Style Dry",
+      "description": "Juicy chicken cooked with spices and herbs in a traditional daman and diu style.",
+      "media": null,
+      "price": 249,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Bombay Tawa Fry Sukka",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Chicken Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pomfret Fish Tawa Fry",
+      "description": "The Konkani style pomfret fry is a tasty and spicy appetizer that you should must try. The sliver white pomfret is marinated well using a freshly ground konkani masala, dipped into rava and is pan roasted on a tawa till it is charred well. You can have the fried pomfret along with a flavourful fish curry and steamed rice by the side.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6b5/6706196ce2b40018c9a1895933e266b5.png",
+      "price": 385,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Maharashtrian Konkan Seafood Starter",
+      "slugs": [
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jhinga Fry",
+      "description": "Fresh prawns marinated with authentic hand picked spices from Konkan region of Maharashtra famous for its seafood cuisine pan roasted on a tawa till it is charred well. You can have the fry prawns along with a flavourful prawns curry and steamed rice by the side.",
+      "media": null,
+      "price": 340,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Maharashtrian Konkan Seafood Starter",
+      "slugs": [
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Tawa Fry",
+      "description": "Fresh prawns marinated with authentic hand picked spices from Konkan region of Maharashtra famous for its seafood cuisine pan roasted on a tawa till it is charred well. You can have the fry prawns along with a flavourful prawns curry and steamed rice by the side.",
+      "media": null,
+      "price": 340,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Maharashtrian Konkan Seafood Starter",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jhinga Bhuna Kadai Fry",
+      "description": "Bhuna is the most loved preparation from us. This jhinga bhuna fry is so aromatic that it would make you fall in love with it. Combination of various spice’s along with chef’s special base is just perfect in this dish.",
+      "media": null,
+      "price": 390,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Maharashtrian Konkan Seafood Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Tawa Fry",
+      "description": "Fresh sea water fish marinated with special Konkan region spices mixed which is famous and known for its seafood coated with rava fried on tawa till it looks dark brown crispy outside juicy and soft inside. Drizzle it with lemon enjoy with fish curry and rice.",
+      "media": null,
+      "price": 320,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Maharashtrian Konkan Seafood Starter",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Gavthi Sukha",
+      "description": "The heart of this dish is the exotic Maharashtrian spices tossed with the chef’s special base along with perfectly cooked soft & juicy mutton pieces. Its an mouth watering dish and one of the most liked dish from us, cooked till perfection. Can be eaten in its own as an appetizer or starter or goes well with rice too.",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Mutton Starters",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Bhuna Dry",
+      "description": "Bhuna is the most loved preparation from us. This mutton bhuna is so aromatic that it would make you fall in love with it. Combination of various spices along with chef’s special base is just perfect in this dish. Drizzle it with lemon & enjoy it.",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Mutton Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Kharda Sukka",
+      "description": "Kharda or thecha chutney is a famous Maharashtrian preparation which is the heart of this dish. Perfectly cooked mutton pieces sauteed in base along with green chilly, garlic, ginger & some chef’s special spices topped with some fresh parsley which makes the dish lip smacking that promises to set your taste buds ablaze.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/53e/62b0664ffa50a1cfcacf0dd814a4d53e.jpg",
+      "price": 0,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Mutton Starters",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Kadhai Sukka",
+      "description": "Juicy soft & fresh mutton tossed with chef's special spice mixed in kadhai. Tossed till it flavor smokey.",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Mutton Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Gavthi Egg Fry [3 Eggs]",
+      "description": "A delicious combination of eggs and vegetables, perfect for a hearty breakfast or a satisfying snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a56/47ee252a69c0b881fa7d23ef98a70a56.jpg",
+      "price": 122,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Egg Starters",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhuna Fry [3 Eggs]",
+      "description": "A delicious egg dish, prepared in a rich, flavorful, aromatic bhuna gravy with the perfect blend of spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d4f/ac7e2d04319aa30931b4c6b7a5be6d4f.jpg",
+      "price": 122,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Egg Starters",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kadhai Fry [3 Eggs]",
+      "description": "A rich and creamy egg curry with a hint of spice, this dish is sure to please.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ac3/678b72f5f9705a03f516c1fb1682dac3.jpg",
+      "price": 122,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Egg Starters",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Konkani Fry [3 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/709/c2ea045dbba9a1b21c63e0c1db9d8709.jpg",
+      "price": 122,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Egg Starters",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Malwani Fry [3 Eggs]",
+      "description": "A flavourful dish that is made with the delicious combination of eggs, spices and aromatic herbs.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ce7/64b32ffa5a01d6176cc68f901b183ce7.jpg",
+      "price": 122,
+      "menuName": "Non Veg Starters",
+      "categoryName": "Egg Starters",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Gavthi Egg Handi",
+      "description": "Half - 1 Egg Grated + 2 Eggs Cut Piece.\nFull  - 1 Egg Grated + 4 Eggs Cut Piece.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/683/bd339ecb5352a5e2e7ba18efa424e683.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Egg Main Course",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg kolhapuri",
+      "description": "Half - 1 Egg Grated + 2 Eggs Cut Piece.\nFull  - 1 Egg Grated + 4 Eggs Cut Piece.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cf4/5a48e86cbc56f2dafed93fe9bb030cf4.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Egg Main Course",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhuna Masala",
+      "description": "A spicy and flavorful egg dish, perfect for a hearty meal. Savory, aromatic, and satisfying.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e77/3fc4fc53dfb9accf5f72db6abd93ce77.jpg",
+      "price": 167,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Egg Main Course",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "new",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "new",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Konkani Egg Masala",
+      "description": "Half - 1 Egg Grated + 2 Eggs Cut Piece.\nFull  - 1 Egg Grated + 4 Eggs Cut Piece.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/71e/544f17f32584636a6d1ac307dbea271e.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Egg Main Course",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kadhai Masala",
+      "description": "Half - 1 Egg Grated + 2 Eggs Cut Piece.\nFull  - 1 Egg Grated + 4 Eggs Cut Piece.",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Egg Main Course",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Konkani Egg Handi",
+      "description": "Half - 1 Egg Grated + 2 Eggs Cut Piece.\nFull  - 1 Egg Grated + 4 Eggs Cut Piece.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b48/a40dd943f3507dc3da2176c577647b48.png",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Egg Main Course",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Malvani Egg Handi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/53a/bbcbe341171173fac1f587119945553a.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Egg Main Course",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Agri Egg Masala",
+      "description": "Half - 1 Egg Grated + 2 Eggs Cut Piece.\nFull  - 1 Egg Grated + 4 Eggs Cut Piece.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f17/1e01826736b14b748d49bad65746ff17.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Egg Main Course",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "new",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "new",
+        "home-style-meal",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Malvani Egg Masala",
+      "description": "Half - 1 Egg Grated + 2 Eggs Cut Piece.\nFull  - 1 Egg Grated + 4 Eggs Cut Piece.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc6/c239361ae217becd06da2956d9b20cc6.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Egg Main Course",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Chicken Gavthi Handi",
+      "description": "Cooked slowly in an authentic marathi way with traditional spices which gives your tastebuds the true & real taste of Maharashtra. This rules the list of Maharashtrian chicken cuisine called as chicken gavthi handi known for its patla tambda rassa [curry]. It is the most commonly cooked dish in the region of Maharashtra yet most famous & tasty. Top layer of tarri [tavang] & coconut in its base is the is the speciality of this dish. Best with steamed rice or rice bhakri.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/63c/f2a1a0f6db1e280ceaa155a14d6ed63c.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "main-course",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "main-course",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kolhapuri Masala",
+      "description": "It is prepared with hand picked special regional spice blend from Kolhapur region of Maharashtra. The gravy is super smooth which makes it very delicious & topped with some fresh parsley which makes the dish lip smacking that promises to set your taste buds ablaze.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8aa/e6f1a9aa3656efa0467651cda8c9a8aa.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkani Chicken Handi",
+      "description": "Konkani curry is cooked with with hand picked konkani spices the identity of western India. It is loved for its patla rassa [thin curry]. Konkan is a region of Maharashtra famous for its non veg food, best with butter chapati along with lemon onion salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b19/b8ff40a6c61dda7c3cd2d304eeda1b19.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkani Chicken Masala",
+      "description": "Konkan is a region of Maharashtra famous for its non veg food. This thick gravy konkani masala chicken is prepared with the blend of hand picked konkani spices tossed with coconut in base gravy. It will give true konkani taste to your taste buds. Slowly cooked on low flame till perfection.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/64b/fc7bcca18a9fd5706ee2fd8395a4f64b.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Bhuna Masala",
+      "description": "Bhuna is the most loved preparation from us. This chicken bhuna is so aromatic that it would make you fall in love with it. Combination of various spice’s along with chef’s special base is just perfect in this dish. The rich texture of this bhuna masala gravy will make you fall in love with it.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d96/0604e41a1626052d87872015207a9d96.jpg",
+      "price": 245,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "chef-special",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "chef-special",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malvani Masala",
+      "description": "This is a masaledar chicken with thick gravy bursting with coconut flavor. Malvani cuisine comes from the konkan region of Maharashtra and Goa. Tossed with malvani spice's in kadhai. Its smooth gravy makes this dish super delicious. Goes perfect when paired with the special millet flour roti such as rice roti or jowar roti.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ce/720e7a1f79cabc6b1e4d2c976dfe24ce.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kadhai Chicken Masala",
+      "description": "Chicken gravy made out of chefs special kadhai masala mix spice blend along with soft & fresh chicken pieces into the kadhai it self. It just taste soo good when had with simple chapati or with jeera rice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/550/8bc0d8ffb34cae67e629f5fa2f538550.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Agri Masala",
+      "description": "Aagri koli, the first citizens of currently known as Mumbai city. This chicken is prepared with the very authentic aagri koli masala, a regional spice blend originated from the vibrant kitchens of the aagri & koli communities. Being a community that borders the coastal line, influence of coconut in the food is very natural and therefore roasted coconut is used in this dish. It is loved for its spiciness. Best with Butter chapati along with a lemon onion salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d13/22c960e3646c8435a1374c8425dc0d13.jpg",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkan Fish Curry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2e5/eb7bb7a02d0d90d0afb0ab5f106df2e5.png",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Surmai Malvani Curry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Masala",
+      "description": "Prawns cooked in a traditional konkani coconut masala. The gravy has the right amount of sourness which you can enjoy along with steamed rice and solkadhi for a perfect and delicious meal.",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jhinga Masala",
+      "description": "Prawns cooked in a traditional konkani coconut masala. The gravy has the right amount of sourness which you can enjoy along with steamed rice and solkadhi for a perfect and delicious meal.",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "main-course",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "main-course",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Gavthi Mutton Handi",
+      "description": "Cooked slowly in an authentic marathi way with traditional spices which gives your tastebuds the true & real taste of Maharashtra. This rules the list of Maharashtrian mutton cuisine called as mutton gavthi handi known for its patla tambda rassa [curry]. It is the most commonly cooked dish in the region of Maharashtra yet most famous & tasty. Top layer of tarri [tavang] & coconut in its base is the is the speciality of this dish. Best with steamed rice or rice bhakri.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1a8/1025841215691910cd0725846760d1a8.png",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Kolhapuri Masala",
+      "description": "Its a thick gravy mutton dish from BCT, which is loved by most of the people. It is prepared with hand picked special regional spice blend from kolhapur region of maharashtra. The gravy is super smooth which makes it very delicious & topped with some fresh parsley which makes the dish lip smacking that promises to set your taste buds ablaze.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c71/091bbb97a1fb02832b8bc6c5f2f94c71.png",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Bhuna Masala",
+      "description": "Bhuna is the most loved preparation from us. This mutton bhuna is so aromatic that it would make you fall in love with it. Combination of various spices along with chef’s special base is just perfect in this dish. The rich texture of this bhuna masala gravy on soft & juicy mutton pieces will make you fall in love with it.",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkani Mutton Masala",
+      "description": "Mutton Konkani masala cooked with juicy mutton [goat meat] & Konkan region spices the identity of Western India. It is loved for its smooth gravy, prepared in a true Konkani way. Enjoy it with rice flour rotla or steamed rice along with lemon onion salad.",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Hara Kolhapuri",
+      "description": "[Medium Spicy] Mutton green gravy made in traditional style, spiced with exotic green chilli and chefs special blend of various Maharashtrian spices. Its smooth & naturally creamy gravy makes it very delicious as well as mouth watering.[No food colour &  No Cream is used in the food.]",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Solapuri Mutton Kala Masala",
+      "description": "This dish derives its taste from the kala or the black masala. Kala masala is a special blend of roasted spices and coconut which gives this dish a unique flavour and a dark brownish colour.",
+      "media": null,
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkani Mutton Handi",
+      "description": "Mutton Konkani curry cooked with juicy mutton [goat meat] & Konkan region spices the identity of Western India. It is loved for its thin curry [rassa]. Prepared in a true Konkani way. Best with butter chapati along with lemon onion salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/129/20b855d55189f7d7a80c77dbad792129.png",
+      "price": 0,
+      "menuName": "Non Veg Main Course",
+      "categoryName": "Mutton Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Rice Flour Rotla [Bhakri]",
+      "description": "These super soft, healthy and delicious! Rice flour rotis, aka Chawal Atta Chapatis are made from mainly rice flour and water, perfect gluten free, vegan, plant based flat beard.This are very popular in Indian community. These rotis taste amazing with any type of Non Veg curries, dal, sabji, raita, achar etc.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bec/b331b1ff6b72868fb5e0a381ec0fcbec.png",
+      "price": 50,
+      "menuName": "Chapati-Roti And Rotla-Bhakri",
+      "categoryName": "Rotla",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "rice",
+        "services",
+        "sf-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "rice",
+        "services",
+        "sf-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Chapati",
+      "description": "Plain chapati or chapati is a flat bread made from wheat flour [atta].",
+      "media": null,
+      "price": 13.37,
+      "menuName": "Chapati-Roti And Rotla-Bhakri",
+      "categoryName": "Chapati",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Chapati",
+      "description": "Plain chapati or chapati is a flat bread made from wheat flour [atta], layered with butter.",
+      "media": null,
+      "price": 18.83,
+      "menuName": "Chapati-Roti And Rotla-Bhakri",
+      "categoryName": "Chapati",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Rice",
+      "description": "Plain rice is a traditional Indian dish made with royal basmati long grain white boiled rice.",
+      "media": null,
+      "price": 110,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Cumin flavoured rice also known as jeera rice. It is usually made using rice and cumin seeds seasoning added. You can have this with any side dish, usually goes well with chicken curries. Since it is very mild in flavour it taste yummy with spicy curries.",
+      "media": null,
+      "price": 140,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chicken Bhuna Biryani",
+      "description": "Long grain steamed royal basmati rice tossed in pan with chef’s special bhuna masala along with soft & juicy biryani cut pieces of chicken. The balanced blend of various spices makes it so aromatic & delicious that one just can't forgot its taste & topped with some fresh parsley which makes the dish lip smacking that promises to set your taste buds ablaze.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c2d/0d05e3187f448130b9bdc2e0fba9dc2d.jpg",
+      "price": 295,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Bombay Chicken Biryani",
+      "description": "An aromatic and flavorful biryani made with tender chicken, basmati rice, and aromatic spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/584/09527e5f1373198e7817d709210c3584.jpg",
+      "price": 295,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Chicken",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jhinga Biryani",
+      "description": "Prawn biryani is popular as jhinga biryani in India. Spicy shrimp masala full of juice, moist and tasty tossed in pan with fragrant basmati rice, slow cooked to perfection, divine. The taste of this prawns biryani will linger on your taste buds so much so that it will straight away enter in your weekly menu list. Truly a treat for all seafood lovers, a dish that will make you ask for more and more.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e30/caa0cb0026dd0b453bb07e420a71fe30.png",
+      "price": 0,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Seafood",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Tikka Biryani",
+      "description": "Fish tikka biryani is a wholesome combination of boiled rice and tawa fried fish tikka which are prepared with the amalgamation of spices. You can have it as a main dish either for lunch or dinner. You are absolutely wrong if you think biryani can only be made with mutton or chicken. This becomes your favorite dish once you tried it. It is mouthwatering meal. It is also a whole package of nutrients. If you are a seafood lover then it’s a must try dish for you.",
+      "media": null,
+      "price": 330,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Seafood",
+      "slugs": [
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Egg Biryani",
+      "description": "Egg biryani is among one of the most special preparation from BCT. Fresh boiled eggs cooked In hot special bhuna masala in pan along with authentic & true Bombay style spice blend is the heart of the dish. Small pieces of chopped eggs with every bite of biryani is what make you fall in love with it. Rich in taste, juice as well tasty its an whole treat in itself.",
+      "media": null,
+      "price": 250,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Eggs",
+      "slugs": [
+        "egg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "restaurant-recommended",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhuna Rice",
+      "description": "Specially for egg lovers Long Grain steamed Royal Basmati Rice tossed in pan with chef’s special Bhuna Masala along with soft & juicy boiled eggs cut into pieces. The balanced blend of various spices makes it so aromatic & delicious that one just cant forgot its taste. & Topped With Some Fresh Parsley Which Makes The Dish Lip Smacking That Promises To Set Your Taste Buds Ablaze.",
+      "media": null,
+      "price": 250,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Eggs",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Chicken Thali [Regular]",
+      "description": "Chicken Gavthi Handi [Patla Tambda Gavran Rassa]+3 Chapati+Rice [1 Bowl]+Onion Lemon Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d7f/5ef833f839229e36c607a5e84c72ad7f.jpg",
+      "price": 240,
+      "menuName": "Maharashtrian Chicken Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "category-thali",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "category-thali",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Maharashtrian Chicken Thali",
+      "description": "Chicken Gavthi Handi [Patla Tambda Gavran Rassa]+Chicken Kolhapuri Sukka Dry+3 Chapati+Rice [1 Bowl]+Onion Lemon Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/07f/5541ea95059f4b6ea3c2543ef49bc07f.jpg",
+      "price": 290,
+      "menuName": "Maharashtrian Chicken Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "category-thali",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "category-thali",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Express Maharashtrian Chicken Thali",
+      "description": "Chicken Gavthi Handi [Patla Tambda Gavran Rassa]+Chicken Kolhapuri Sukka Dry+Aalni Chicken Soup+3 Chapati+Rice [1 Bowl]+Onion Lemon Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/145/2e3e1c052e161ac458ea0b4acb77c145.jpg",
+      "price": 330,
+      "menuName": "Maharashtrian Chicken Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "category-thali",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "category-thali",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Junction Maharashtrian Chicken Thali",
+      "description": "Chicken Gavthi Handi [Patla Tambda Gavran Rassa]+Chicken Kolhapuri Sukka Dry+Chicken Bhuna Sukka Dry+Aalni Chicken Soup+3 Chapati+Rice [1 Bowl]+Onion Lemon Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/006/35d095b4b35c0717a2a21f773e018006.png",
+      "price": 440,
+      "menuName": "Maharashtrian Chicken Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Mutton Thali [Regular]",
+      "description": "Mutton Gavthi Handi [2 Pieces] [Patla Tambda Gavran Rassa]+3 Chapati+Rice [1 Bowl]+Onion Lemon Salad",
+      "media": null,
+      "price": 310,
+      "menuName": "Maharashtrian Mutton Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Special Maharashtrian Mutton Thali",
+      "description": "Mutton Gavthi Handi [2 Pieces] [Patla Tambda Gavran Rassa]+Mutton Kolhapuri Sukha [2 Pieces]+3 Chapati+Rice [1 Bowl]+Onion Lemon Salad",
+      "media": null,
+      "price": 450,
+      "menuName": "Maharashtrian Mutton Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Express Maharashtrian Mutton Thali",
+      "description": "Gavthi Mutton Handi Patla Tambda Gavran Rassa [2 Pieces]+Mutton Kolhapuri Masala [2 Pieces]+Alani Mutton Soup [Small Bowl]+3 Chapati+Rice [1 Bowl]+Onion Lemon Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2ff/9ec758e35e019767c7286e046ee552ff.jpg",
+      "price": 490,
+      "menuName": "Maharashtrian Mutton Thali",
+      "categoryName": "",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan [Regular] Fish Thali [Small]",
+      "description": "Fish Gravy 1 Pc+ 3 Chapati+ Rice [1 Bowl]+ Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/436/636f28351a6f5aee6a8103f741117436.png",
+      "price": 190,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Small]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "category-thali",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "category-thali",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan Special Fish Thali [Small]",
+      "description": "Fish Gravy [1 Pc]+Fish Tawa Fry [1 Pc]+3 Chapati+ Rice +Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/723/1ede8ba7a7109cd34cb49053a2497723.png",
+      "price": 280,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Small]",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "category-thali",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "category-thali",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan Seafood Thali Number 1 [Small]",
+      "description": "[1 Pc Fish Gravy + 1 Pc Fish Tawa Fry + 5 Pc Prawns Tawa Fry + 3 Chapati + Rice + Salad]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bbe/0dfe1ee649c4b346a46aad535e194bbe.png",
+      "price": 420,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Small]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan Seafood Thali Number 2 [Small]",
+      "description": "Prawns Gravy [5 Pc]+ Fish Tawa Fry [1 Pc]+ Prawns Tawa Fry [5 Pc] +3 Chapati + Rice + Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c37/918c759d8e4b74e4a2520f4224fa3c37.png",
+      "price": 440,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Small]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan Prawns Thali [Small]",
+      "description": "Prawns Gravy [5 Pc]+ Prawns Tawa Fry [5 Pc]+ 3 Chapati+ Rice +Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c45/e42bae8b8baf8f7827632db4ad5ddc45.png",
+      "price": 420,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Small]",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan [Regular] Fish Thali [Large]",
+      "description": "Fish Gravy [2 Pc]+ 3 Chapati+ Rice +Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/84b/bac2f0b3e20fa3bc7671e273f56ec84b.png",
+      "price": 300,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Large]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan Special Fish Thali [Large]",
+      "description": "Fish Gravy [1 Pc]+Fish Tawa Fry [2 Pc]+3 Chapati+ Rice +Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/df3/e6e07320645fa3c80e53e8733fd06df3.png",
+      "price": 380,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Large]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan Seafood Thali [Large]",
+      "description": "Fish Gravy [1 Pc]+Fish Tawa Fry [2 Pc]+Prawns Tawa Fry [5 Pieces]+3 Chapati+ Rice +Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/039/5a426609b0690d10f588ab579898f039.png",
+      "price": 490,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Large]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan Seafood Thali Number 2 [Large]",
+      "description": "Prawns Gravy [5 Pc]+Fish Tawa Fry [2 Pc]+Prawns Tawa Fry [5 Pc]+3 Chapati+ Rice +Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c3f/bfb089e323f39fa8116f35d0c5ba9c3f.png",
+      "price": 520,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Large]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Konkan Prawns Thali [Large]",
+      "description": "Prawns Gravy [5 Pc]+Prawns Tawa Fry [10 Pc]+3 Chapati+ Rice +Salad",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dd7/4e7204c41ee0bde758f51f73b46f1dd7.png",
+      "price": 520,
+      "menuName": "Maharashtrian Konkan Sea Food Thalis",
+      "categoryName": "Maharashtrian Konkan Sea Food Thalis [Large]",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Pomfret Fish Tawa Fry",
+      "description": "The Konkani style pomfret fry is a tasty and spicy appetizer that you should must try. The sliver white pomfret is marinated well using a freshly ground konkani masala, dipped into rava and is pan roasted on a tawa till it is charred well. You can have the fried pomfret along with a flavourful fish curry and steamed rice by the side.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6b5/6706196ce2b40018c9a1895933e266b5.png",
+      "price": 385,
+      "menuName": "Maharashtrian Konkan Seafood",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jhinga Fry",
+      "description": "Fresh prawns marinated with authentic hand picked spices from Konkan region of Maharashtra famous for its seafood cuisine pan roasted on a tawa till it is charred well. You can have the fry prawns along with a flavourful prawns curry and steamed rice by the side.",
+      "media": null,
+      "price": 340,
+      "menuName": "Maharashtrian Konkan Seafood",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Tawa Fry",
+      "description": "Fresh prawns marinated with authentic hand picked spices from Konkan region of Maharashtra famous for its seafood cuisine pan roasted on a tawa till it is charred well. You can have the fry prawns along with a flavourful prawns curry and steamed rice by the side.",
+      "media": null,
+      "price": 340,
+      "menuName": "Maharashtrian Konkan Seafood",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jhinga Bhuna Kadai Fry",
+      "description": "Bhuna is the most loved preparation from us. This jhinga bhuna fry is so aromatic that it would make you fall in love with it. Combination of various spice’s along with chef’s special base is just perfect in this dish.",
+      "media": null,
+      "price": 390,
+      "menuName": "Maharashtrian Konkan Seafood",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Fish Tawa Fry",
+      "description": "Fresh sea water fish marinated with special Konkan region spices mixed which is famous and known for its seafood coated with rava fried on tawa till it looks dark brown crispy outside juicy and soft inside. Drizzle it with lemon enjoy with fish curry and rice.",
+      "media": null,
+      "price": 320,
+      "menuName": "Maharashtrian Konkan Seafood",
+      "categoryName": "Seafood Starters",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkan Fish Curry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2e5/eb7bb7a02d0d90d0afb0ab5f106df2e5.png",
+      "price": 0,
+      "menuName": "Maharashtrian Konkan Seafood",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Surmai Malvani Curry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Konkan Seafood",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Prawns Masala",
+      "description": "Prawns cooked in a traditional konkani coconut masala. The gravy has the right amount of sourness which you can enjoy along with steamed rice and solkadhi for a perfect and delicious meal.",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Konkan Seafood",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Jhinga Masala",
+      "description": "Prawns cooked in a traditional konkani coconut masala. The gravy has the right amount of sourness which you can enjoy along with steamed rice and solkadhi for a perfect and delicious meal.",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Konkan Seafood",
+      "categoryName": "Seafood Main Course",
+      "slugs": [
+        "non-veg",
+        "main-course",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "main-course",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Bhuna Dry",
+      "description": "Bhuna is the most loved preparation from us. This mutton bhuna is so aromatic that it would make you fall in love with it. Combination of various spices along with chef’s special base is just perfect in this dish. Drizzle it with lemon & enjoy it.",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Kharda Sukka",
+      "description": "Kharda or thecha chutney is a famous Maharashtrian preparation which is the heart of this dish. Perfectly cooked mutton pieces sauteed in base along with green chilly, garlic, ginger & some chef’s special spices topped with some fresh parsley which makes the dish lip smacking that promises to set your taste buds ablaze.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/53e/62b0664ffa50a1cfcacf0dd814a4d53e.jpg",
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Starter",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Gavthi Sukha",
+      "description": "The heart of this dish is the exotic Maharashtrian spices tossed with the chef’s special base along with perfectly cooked soft & juicy mutton pieces. Its an mouth watering dish and one of the most liked dish from us, cooked till perfection. Can be eaten in its own as an appetizer or starter or goes well with rice too.",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Starter",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Kadhai Sukka",
+      "description": "Juicy soft & fresh mutton tossed with chef's special spice mixed in kadhai. Tossed till it flavor smokey.",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Daman Style Mutton",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Gavthi Mutton Handi",
+      "description": "Cooked slowly in an authentic marathi way with traditional spices which gives your tastebuds the true & real taste of Maharashtra. This rules the list of Maharashtrian mutton cuisine called as mutton gavthi handi known for its patla tambda rassa [curry]. It is the most commonly cooked dish in the region of Maharashtra yet most famous & tasty. Top layer of tarri [tavang] & coconut in its base is the is the speciality of this dish. Best with steamed rice or rice bhakri.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1a8/1025841215691910cd0725846760d1a8.png",
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Main Course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkani Mutton Handi",
+      "description": "Mutton Konkani curry cooked with juicy mutton [goat meat] & Konkan region spices the identity of Western India. It is loved for its thin curry [rassa]. Prepared in a true Konkani way. Best with butter chapati along with lemon onion salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/129/20b855d55189f7d7a80c77dbad792129.png",
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkani Mutton Masala",
+      "description": "Mutton Konkani masala cooked with juicy mutton [goat meat] & Konkan region spices the identity of Western India. It is loved for its smooth gravy, prepared in a true Konkani way. Enjoy it with rice flour rotla or steamed rice along with lemon onion salad.",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Kolhapuri Masala",
+      "description": "Its a thick gravy mutton dish from BCT, which is loved by most of the people. It is prepared with hand picked special regional spice blend from kolhapur region of maharashtra. The gravy is super smooth which makes it very delicious & topped with some fresh parsley which makes the dish lip smacking that promises to set your taste buds ablaze.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c71/091bbb97a1fb02832b8bc6c5f2f94c71.png",
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Main Course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Hara Kolhapuri",
+      "description": "[Medium Spicy] Mutton green gravy made in traditional style, spiced with exotic green chilli and chefs special blend of various Maharashtrian spices. Its smooth & naturally creamy gravy makes it very delicious as well as mouth watering.[No food colour &  No Cream is used in the food.]",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Mutton Bhuna Masala",
+      "description": "Bhuna is the most loved preparation from us. This mutton bhuna is so aromatic that it would make you fall in love with it. Combination of various spices along with chef’s special base is just perfect in this dish. The rich texture of this bhuna masala gravy on soft & juicy mutton pieces will make you fall in love with it.",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Solapuri Mutton Kala Masala",
+      "description": "This dish derives its taste from the kala or the black masala. Kala masala is a special blend of roasted spices and coconut which gives this dish a unique flavour and a dark brownish colour.",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Mutton Special",
+      "categoryName": "Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Bombay Tawa Fry Sukka",
+      "description": "",
+      "media": null,
+      "price": 249,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Gavthi Sukka",
+      "description": "Chicken coated with some authentic & traditional Maharashtrian spices tossed in kadhai with chef’s special secret base. Smooth outside juicy inside, its a must try dish if you like desi style dry chicken.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/609/b9456bb93bc9d58e3f3180b3d1170609.jpg",
+      "price": 249,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Konkani Sukka",
+      "description": "Konkan is a region of Maharashtra famous for its non veg food, this konkani sukha chicken is prepared with hand picked konkani spices tossed with coconut in base gravy. It will give you true konkani taste to your taste buds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/beb/4a1e440721c3e7b3314548ca8d81dbeb.jpg",
+      "price": 249,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malvani Sukka",
+      "description": "Malvani sukka is a masaledar chicken with a dense paste and bursting with coconut flavor. Malvani cuisine comes from the konkan region of maharashtra and goa. Tossed with malvani spice's in kadhai.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0fc/cce8a9ee8aa0dc921a4cf10d558cd0fc.png",
+      "price": 249,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Soup",
+      "description": "Chicken soup prepared from pure chicken stew tossed with green chilli, garlic, ginger, coriander, pink salt, chat masala. Its an pure chicken soup like desi home style [no food color, no vinegar, no corn starch used in making].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/17a/278a5f2d3ae4ef41509d0b574272717a.png",
+      "price": 0,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Aagri-Koli Chicken Sukha",
+      "description": "Aagri koli, the first citizens of currently known as Mumbai city. This chicken is prepared with the very authentic aagri koli masala, a regional spice blend originated from the vibrant kitchens of the aagri & koli communities. Being a community that borders the coastal line, influence of coconut in the food is very natural and therefore roasted coconut is used in this dish.",
+      "media": null,
+      "price": 249,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kadhai Sukka",
+      "description": "Juicy soft & fresh chicken tossed with chef's special spice mixed in kadhai. Tossed till it flovour smokey.",
+      "media": null,
+      "price": 249,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Bhuna Dry",
+      "description": "Bhuna is the most loved preparation from us. This chicken bhuna is so aromatic that it would make you fall in love with it. Combination of various spice’s along with chef’s special base is just perfect in this dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d96/0604e41a1626052d87872015207a9d96.jpg",
+      "price": 249,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "chef-special",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "chef-special",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Daman Style Dry",
+      "description": "Juicy chicken cooked with spices and herbs in a traditional daman and diu style.",
+      "media": null,
+      "price": 249,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Pepper Soup",
+      "description": "Chicken soup prepared from pure chicken stew tossed with green chilli, garlic, ginger, coriander, pink salt, black pepper. Its an pure chicken soup like desi home style [no food colour, no vinegar, no corn starch used in making].",
+      "media": null,
+      "price": 0,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Starter",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Kadhai Chicken Masala",
+      "description": "Chicken gravy made out of chefs special kadhai masala mix spice blend along with soft & fresh chicken pieces into the kadhai it self. It just taste soo good when had with simple chapati or with jeera rice",
+      "media": "https://b.zmtcdn.com/data/dish_photos/550/8bc0d8ffb34cae67e629f5fa2f538550.jpg",
+      "price": 0,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Maharashtrian Chicken Gavthi Handi",
+      "description": "Cooked slowly in an authentic marathi way with traditional spices which gives your tastebuds the true & real taste of Maharashtra. This rules the list of Maharashtrian chicken cuisine called as chicken gavthi handi known for its patla tambda rassa [curry]. It is the most commonly cooked dish in the region of Maharashtra yet most famous & tasty. Top layer of tarri [tavang] & coconut in its base is the is the speciality of this dish. Best with steamed rice or rice bhakri.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/63c/f2a1a0f6db1e280ceaa155a14d6ed63c.jpg",
+      "price": 0,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "main-course",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "restaurant-recommended",
+        "main-course",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Malvani Masala",
+      "description": "This is a masaledar chicken with thick gravy bursting with coconut flavor. Malvani cuisine comes from the konkan region of Maharashtra and Goa. Tossed with malvani spice's in kadhai. Its smooth gravy makes this dish super delicious. Goes perfect when paired with the special millet flour roti such as rice roti or jowar roti.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ce/720e7a1f79cabc6b1e4d2c976dfe24ce.jpg",
+      "price": 0,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Kolhapuri Masala",
+      "description": "It is prepared with hand picked special regional spice blend from Kolhapur region of Maharashtra. The gravy is super smooth which makes it very delicious & topped with some fresh parsley which makes the dish lip smacking that promises to set your taste buds ablaze.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8aa/e6f1a9aa3656efa0467651cda8c9a8aa.jpg",
+      "price": 0,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkani Chicken Masala",
+      "description": "Konkan is a region of Maharashtra famous for its non veg food. This thick gravy konkani masala chicken is prepared with the blend of hand picked konkani spices tossed with coconut in base gravy. It will give true konkani taste to your taste buds. Slowly cooked on low flame till perfection.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/64b/fc7bcca18a9fd5706ee2fd8395a4f64b.jpg",
+      "price": 0,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Agri Masala",
+      "description": "Aagri koli, the first citizens of currently known as Mumbai city. This chicken is prepared with the very authentic aagri koli masala, a regional spice blend originated from the vibrant kitchens of the aagri & koli communities. Being a community that borders the coastal line, influence of coconut in the food is very natural and therefore roasted coconut is used in this dish. It is loved for its spiciness. Best with Butter chapati along with a lemon onion salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d13/22c960e3646c8435a1374c8425dc0d13.jpg",
+      "price": 0,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Chicken Bhuna Masala",
+      "description": "Bhuna is the most loved preparation from us. This chicken bhuna is so aromatic that it would make you fall in love with it. Combination of various spice’s along with chef’s special base is just perfect in this dish. The rich texture of this bhuna masala gravy will make you fall in love with it.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d96/0604e41a1626052d87872015207a9d96.jpg",
+      "price": 245,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "spicy",
+        "chef-special",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "spicy",
+        "chef-special",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Konkani Chicken Handi",
+      "description": "Konkani curry is cooked with with hand picked konkani spices the identity of western India. It is loved for its patla rassa [thin curry]. Konkan is a region of Maharashtra famous for its non veg food, best with butter chapati along with lemon onion salad.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b19/b8ff40a6c61dda7c3cd2d304eeda1b19.jpg",
+      "price": 0,
+      "menuName": "Maharashtrian Chicken Special",
+      "categoryName": "Chicken Main Course",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    }
+  ]
+}

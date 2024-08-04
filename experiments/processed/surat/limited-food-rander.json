@@ -1,0 +1,1198 @@
+{
+  "basicInfo": {
+    "name": "Limited Food",
+    "cuisine_string": "Chinese, Street Food, Fast Food, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/limited-food-rander/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "89",
+      "reviewTextSmall": "89 Reviews",
+      "subtext": "89 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.7",
+      "reviewCount": "1,261",
+      "reviewTextSmall": "1,261 Reviews",
+      "subtext": "1,261 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.7",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Rander, Surat",
+    "latitude": "21.2139081000",
+    "longitude": "72.7936320000",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2139081000,72.7936320000&maptype=zomato&markers=21.2139081000,72.7936320000,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Shop 1, Sejal Complex, Rander Road, Opposite Rupali Cinema, Rander, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+916359275776, +919879422204, +918005728462"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Hakka Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "noodle",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "restaurant-recommended",
+        "noodle",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "noodle",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "noodle",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-evening",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-evening",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Noodles",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Noodles",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Chinese",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg 65",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Manchurian",
+      "description": "Amul cheese.",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Dry",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Gravy",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Manchurian",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Dry",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "Chinese",
+      "categoryName": "Chinese Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Gravy",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese",
+      "categoryName": "Chinese Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Garlic",
+      "description": "Dry",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese",
+      "categoryName": "Chinese Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Garlic Gravy",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Chinese",
+      "categoryName": "Chinese Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Schezwan Dry",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese",
+      "categoryName": "Chinese Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli Schezwan Gravy",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Chinese",
+      "categoryName": "Chinese Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer 65 Dry",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese",
+      "categoryName": "Chinese Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer 65 Gravy",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese",
+      "categoryName": "Chinese Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Chopsuey",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Chinese",
+      "categoryName": "Chopsuey",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "American Chopsuey",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "Chopsuey",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Thali",
+      "description": "Manchurian+Noodles+Rice+Cold Beverages",
+      "media": null,
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "Thali",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Thali",
+      "description": "Manchurian+Noodles+Rice+Salad+Cold Beverage",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Thali",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapori Thali",
+      "description": "Manchurian+Noodles+Rice+Salad+Cold Beverage",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Thali",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Bhel",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "Fried noodles, perked up with crunchy veggies like cabbage, carrot, capsicum and spring onions with splashes of tongue tickling schezwan sauce and tomato ketchup.",
+      "media": null,
+      "price": 100,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Bhel",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Rice",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/118/97b64f059172390c687423545e288118.jpg",
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Noodles Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Manchurian Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodles Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Paneer Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Bhel",
+      "description": "1",
+      "media": null,
+      "price": 150,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mix Bombay Bhel",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Singapore Rice",
+      "description": "",
+      "media": null,
+      "price": 170,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Rice",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Singapore Rice",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Schezwan Rice",
+      "description": "",
+      "media": null,
+      "price": 140,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combination Paneer Rice",
+      "description": "",
+      "media": null,
+      "price": 160,
+      "menuName": "Chinese",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Maggi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/81a/4e23d9ac3c87a7e72fc107d4c9c8f81a.jpg",
+      "price": 40,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Maggi",
+      "description": "",
+      "media": null,
+      "price": 50,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Maggi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c75/98b35fcd8c6658d55870889b62875c75.png",
+      "price": 55,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Hot Maggi",
+      "description": "",
+      "media": null,
+      "price": 60,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-dinner",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Classic Maggi",
+      "description": "",
+      "media": null,
+      "price": 65,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vegetable Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "bestseller-late-night",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mayo Maggi",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Maggi",
+      "description": "",
+      "media": null,
+      "price": 70,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Cheese Maggi",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Maggi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

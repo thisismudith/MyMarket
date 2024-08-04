@@ -1,0 +1,234 @@
+{
+  "basicInfo": {
+    "name": "Om Sai Fast Food",
+    "cuisine_string": "Fast Food, Pizza, Burger, Shake, Beverages",
+    "canonicalUrl": "https://www.zomato.com/surat/om-sai-fast-food-athwa/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.1",
+      "reviewCount": "244",
+      "reviewTextSmall": "244 Reviews",
+      "subtext": "244 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.1",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "3.4",
+      "reviewCount": "4,311",
+      "reviewTextSmall": "4,311 Reviews",
+      "subtext": "4,311 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "3.4",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Athwa, Surat",
+    "latitude": "21.1751395081",
+    "longitude": "72.8014997765",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1751395081,72.8014997765&maptype=zomato&markers=21.1751395081,72.8014997765,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Bh Tribhuvam Complex, Ghod Dod Athwa, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919909835518"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4fa/45ce9c01b6516b9107266fa5ebb914fa.jpg",
+      "price": 130,
+      "menuName": "Best In Snacks",
+      "categoryName": "French Fries",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "medium-spicy",
+        "services",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-dinner",
+        "medium-spicy",
+        "services",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "description": "Golden brown strips of potato fried to crisp perfection and flavored with salt and peri peri masala served with delectable sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f6d/f082b86ce179dd414636f57050b22f6d.jpg",
+      "price": 140,
+      "menuName": "Best In Snacks",
+      "categoryName": "French Fries",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "medium-spicy",
+        "services",
+        "discounted-addon",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "medium-spicy",
+        "services",
+        "discounted-addon",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese French Fries",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/937/eabf2acba53b0e8de0d8035dbe7de937.png",
+      "price": 145,
+      "menuName": "Best In Snacks",
+      "categoryName": "French Fries",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Superme Veg Garlic Bread",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/002/6a702c30d65760b8a02e82949b397002.png",
+      "price": 180,
+      "menuName": "Best In Snacks",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "services",
+        "discounted-addon",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "discounted-addon",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pure Amul Cheese Garlic Bread",
+      "description": "Delight in the aromatic and cheesy goodness of our Garlic Bread, a perfect accompaniment to any meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f3/f47ae9ea034af5576cabeb786731e3f3.png",
+      "price": 180,
+      "menuName": "Best In Snacks",
+      "categoryName": "Garlic Breads",
+      "slugs": [
+        "veg",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bread",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Veg Chese Slice Burger",
+      "description": "Masaledar veg patty, onion and our signature tomato herb sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1ed/f94203c93b7a6ea60b2b293d7b69f1ed.png",
+      "price": 129,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Veg Burger",
+      "description": "Masaledar veg patty, onion and our signature tomato herb sauce.",
+      "media": null,
+      "price": 89,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Veg Combo",
+      "description": "Crispy Veg Burger+Crispy Fries+Thums Up [200 ml] Patty, onion & our signature tomato herb sauce.",
+      "media": null,
+      "price": 279,
+      "menuName": "Burgers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

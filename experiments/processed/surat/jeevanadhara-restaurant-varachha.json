@@ -1,0 +1,1181 @@
+{
+  "basicInfo": {
+    "name": "Jeevanadhara Restaurant",
+    "cuisine_string": "South Indian, North Indian, Gujarati, Chinese, Fast Food, Biryani, Kathiyawadi, Desserts",
+    "canonicalUrl": "https://www.zomato.com/surat/jeevanadhara-restaurant-varachha/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.8",
+      "reviewCount": "79",
+      "reviewTextSmall": "79 Reviews",
+      "subtext": "79 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.8",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "1,529",
+      "reviewTextSmall": "1,529 Reviews",
+      "subtext": "1,529 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Varachha, Surat",
+    "latitude": "21.2082257756",
+    "longitude": "72.8469612077",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2082257756,72.8469612077&maptype=zomato&markers=21.2082257756,72.8469612077,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "T P-4, 0027 Paiki, Opposite Gitanjali Cinema, Varachha Road, Varachha, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+912612504045, +916354620010"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Punjabi Thali",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Thali",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lasaniya",
+      "description": "A luscious gravy dish made with succulent paneer cooked in a rich, creamy tomato based sauce. A perfect blend of flavors and textures.",
+      "media": null,
+      "price": 290,
+      "menuName": "Main Course",
+      "categoryName": "Special Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "Dal Fry, The perfect side dish to your favorite Indian meal. This simple dish combines spices and lentils to make a flavorful dish.",
+      "media": null,
+      "price": 150,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "A spicy and flavorful dal dish made with aromatic spices and fresh herbs. Enjoy with naan, rice, or your favorite flatbread.",
+      "media": null,
+      "price": 190,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Dal",
+      "description": "Palak dal is a simple yet delicious dish made with spinach and lentils.",
+      "media": null,
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Jaipuri",
+      "description": "A flavorful vegetarian dish with a rich blend of spices and fresh vegetables.",
+      "media": null,
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Makhanwala",
+      "description": "A delectable dish that blends the rich taste of paneer with the mouth watering flavors of creamy gravy and aromatic spices.",
+      "media": null,
+      "price": 170,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Toofani",
+      "description": "A delicious mix of fresh vegetables and spices, served with chapati.",
+      "media": null,
+      "price": 200,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev Tomato",
+      "description": "A tasty and delicious snack made with a mix of fried potato, tomatoes and spices, topped with a tangy chutney.",
+      "media": null,
+      "price": 110,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Maharaja",
+      "description": "A delicious, tangy, and flavourful vegetarian dish made with mixed vegetables, spices, and aromatic herbs in a creamy gravy.",
+      "media": null,
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "Veg Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Malai Kofta",
+      "description": "A delectable sweetmeat made with milkbased batter and filled with soft, creamy malai. A perfect dessert for all occasions.",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Corse",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Palak",
+      "description": "A classic Indian dish of creamy and flavorful paneer cooked with spinach and spices.",
+      "media": null,
+      "price": 160,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "A classic Indian dish that features tender chunks of paneer in a rich and creamy gravy flavored with aromatic spices and herbs.",
+      "media": null,
+      "price": 240,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kolhapuri",
+      "description": "A spicy and tangy dish made with soft and succulent paneer cubes cooked with a special masala sauce.",
+      "media": null,
+      "price": 280,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhurji",
+      "description": "A delicious blend of soft and creamy paneer cooked with a variety of spices. A perfect option for a filling and satisfying breakfast.",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "description": "A mouth watering dish of soft and succulent paneer cubes cooked in a rich, creamy sauce, served with a bed of rice or naan.",
+      "media": null,
+      "price": 275,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Toofani",
+      "description": "A delicious dish that is a combination of paneer and spices, cooked in a rich tomato gravy.",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "Paneer Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Paneer",
+      "description": "A delicious dish made with a combination of cashew and paneer, cooked to perfection.",
+      "media": null,
+      "price": 275,
+      "menuName": "Main Course",
+      "categoryName": "Kaju and Cheese Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Masala",
+      "description": "",
+      "media": null,
+      "price": 275,
+      "menuName": "Main Course",
+      "categoryName": "Kaju and Cheese Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Cury",
+      "description": "A delicious and flavorful curry with cashews and spices, perfect for a satisfying meal.",
+      "media": null,
+      "price": 275,
+      "menuName": "Main Course",
+      "categoryName": "Kaju and Cheese Main Course",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Roti",
+      "description": "A traditional Indian bread that is made with wheat flour, roasted in a tandoori oven, and served with a flavorful dip.",
+      "media": null,
+      "price": 35,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Butter Roti",
+      "description": "A soft, buttery flatbread made with a traditional tandori oven. Perfect for dipping into curries or enjoying on its own.",
+      "media": null,
+      "price": 50,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Naan",
+      "description": "Naan is a flatbread that is typically prepared with yeast and baked in a clay oven.",
+      "media": null,
+      "price": 40,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "The soft, buttery and flaky bread made with milk and butter, perfect for dipping into your curry.",
+      "media": null,
+      "price": 60,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paratha",
+      "description": "A light and flaky flatbread that is stuffed with a variety of flavorful ingredients.",
+      "media": null,
+      "price": 40,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Paratha",
+      "description": "A crispy, golden brown, spiced potato stuffed parota a perfect blend of earthy spices and tangy potatoes.",
+      "media": null,
+      "price": 130,
+      "menuName": "Breads",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Sandwich",
+      "description": "The bread butter sandwich is a classic, simple and delicious snack that is enjoyed by many people all over the world.",
+      "media": null,
+      "price": 60,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bread Butter Toast Sandwich",
+      "description": "A delicious and crispy toast sandwich with a buttery spread and fresh veggies for a light and satisfying snack.",
+      "media": null,
+      "price": 80,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sandwich",
+      "description": "A delicious vegetarian sandwich made with a variety of fresh vegetables and a choice of bread, perfect for a satisfying meal.",
+      "media": null,
+      "price": 80,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Grilled Sandwich",
+      "description": "A delicious vegetarian sandwich that is grilled to perfection.",
+      "media": null,
+      "price": 140,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sandwich",
+      "description": "Cheesy goodness between two slices of bread, perfect for a quick bite.",
+      "media": null,
+      "price": 100,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Toast Sandwich",
+      "description": "A fresh, crunchy, and flavorful sandwich made with toasted bread, a layer of cheese and a spread of mayonnaise.",
+      "media": null,
+      "price": 120,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bombay Cheese Grilled Sandwich",
+      "description": "A flavorful grilled sandwich made with a creamy and aromatic cheese filling.",
+      "media": null,
+      "price": 180,
+      "menuName": "Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "A wholesome meal made with a flavorful mix of vegetables and rice, perfect for a filling meal or a satisfying snack.",
+      "media": null,
+      "price": 110,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "description": "A delicious combination of noodles, assorted vegetables and spices that will leave you wanting more.",
+      "media": null,
+      "price": 120,
+      "menuName": "Fried Rice and Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Jeera rice a fragrant dish with aromatic spices and saffron, perfect for a satisfying meal.",
+      "media": null,
+      "price": 130,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Rice",
+      "description": "Masala rice is a popular South Indian rice dish that is usually served with a side dish and a chutney.",
+      "media": null,
+      "price": 140,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Rice",
+      "description": "",
+      "media": null,
+      "price": 90,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pulao",
+      "description": "A wholesome vegetarian rice dish with a medley of fresh vegetables and aromatic spices.",
+      "media": null,
+      "price": 150,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pulao",
+      "description": "A flavorful Indian rice dish made with paneer, basmati rice and aromatic spices.",
+      "media": null,
+      "price": 160,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeevanadhara Special Dal Khichdi",
+      "description": "[Chef's Special]",
+      "media": null,
+      "price": 200,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Khichdi",
+      "description": "A delicious and comforting rice dish made with aromatic spices and vegetables, perfect for a light meal or a quick snack.",
+      "media": null,
+      "price": 160,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Khichdi",
+      "description": "A light and healthy vegetarian dish made with spinach, rice and lentils.",
+      "media": null,
+      "price": 200,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tawa Pulao",
+      "description": "A flavorful rice dish with a rich aroma and a burst of flavors.",
+      "media": null,
+      "price": 180,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dum Biryani",
+      "description": "The ultimate rice dish with a rich aroma and full of flavor.",
+      "media": null,
+      "price": 200,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hyderabadi Biryani",
+      "description": "A flavorful and fragrant biryani with a rich aroma, cooked in a traditional Hyderabi style.",
+      "media": null,
+      "price": 150,
+      "menuName": "Rice and Biryani",
+      "categoryName": "Biryani",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "description": "A spicy and creamy soup made with a mix of vegetables and spices, with a hint of ginger and chilli.",
+      "media": null,
+      "price": 100,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot and Sour Soup",
+      "description": "A savory soup with a spicy kick, perfect for a cold winter's day.",
+      "media": null,
+      "price": 100,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream of Tomato Soup",
+      "description": "Cream of tomato soup is a comforting soup made with a fragrant tomato base, topped with a rich and creamy soup.",
+      "media": null,
+      "price": 115,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian Dry",
+      "description": "Crispy, juicy and flavorful veg mancunians, coated in a spicy, tangy sauce. The perfect snack or appetizer.",
+      "media": null,
+      "price": 170,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Paneer Dry",
+      "description": "A spicy dish made with soft, succulent paneer cooked in a fiery sauce with a hint of sweetness.",
+      "media": null,
+      "price": 280,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "A crunchy and flavorful snack that is a perfect blend of Chinese and Indian cuisines.",
+      "media": null,
+      "price": 140,
+      "menuName": "Snack",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Salad",
+      "description": "A fresh and healthy salad with a burst of flavors, perfect for a light and satisfying meal.",
+      "media": null,
+      "price": 90,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Raita",
+      "description": "A creamy and refreshing yogurt based sauce made with vegetables like cucumber, tomato and onion. Perfect for a light meal or a side dish.",
+      "media": null,
+      "price": 65,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Papad",
+      "description": "A crunchy and flavorful papad garnished with a spicy and aromatic masala mix. It is perfect for sharing with friends and family.",
+      "media": null,
+      "price": 60,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Papad",
+      "description": "Crispy and golden brown, this crunchy snack is made with a special blend of spices that will satisfy your craving for a satisfying snack.",
+      "media": null,
+      "price": 50,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "Roasted papad are crispy and crunchy, with a delightful smoky flavor.",
+      "media": null,
+      "price": 40,
+      "menuName": "Accompaniments",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aam Ras",
+      "description": "[Dessert]",
+      "media": null,
+      "price": 50,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gulab Jamun",
+      "description": "[Dessert] [Pre-Prepared]",
+      "media": null,
+      "price": 50,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "goods",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "dessert",
+        "pre-prepared",
+        "non-refundable",
+        "goods",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Lassi",
+      "description": "A refreshing beverage that is sweet and tart, with a creamy texture and a hint of yogurt.",
+      "media": null,
+      "price": 90,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Lassi",
+      "description": "A creamy, refreshing beverage made with yogurt and topped with sweet, crunchy toppings.",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts and Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

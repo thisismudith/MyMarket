@@ -1,0 +1,1832 @@
+{
+  "basicInfo": {
+    "name": "Egg Tadka",
+    "cuisine_string": "North Indian, Fast Food, Street Food",
+    "canonicalUrl": "https://www.zomato.com/surat/egg-tadka-piplod/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "",
+      "reviewCount": "1",
+      "reviewTextSmall": "1 Reviews",
+      "subtext": "Does not offer Dining",
+      "color": "",
+      "ratingV2": "-",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "grey",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "60",
+      "reviewTextSmall": "60 Reviews",
+      "subtext": "60 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "395007",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Piplod, Surat",
+    "latitude": "21.1668977665",
+    "longitude": "72.7794788464",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1668977665,72.7794788464&maptype=zomato&markers=21.1668977665,72.7794788464,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Plot 40/3, Pragati Medan, Piplod, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918200073036"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Boiled Egg [2 Eggs]",
+      "description": "Prepared with oil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ddb/47a6383e9913679fb5c81d9f057c5ddb.jpg",
+      "price": 45,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boiled Salad [2 Eggs]",
+      "description": "A delicious, healthy, and nutritious salad made by boiling fresh vegetables in a flavorful broth, and then tossed with a light and tangy dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/acd/dfcb63a87aa1eb5f10d9d350e8c66acd.jpg",
+      "price": 55,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Boiled Cheese Salad [2 Eggs]",
+      "description": "A light and refreshing salad with a generous helping of cheese and vegetables, perfect for a quick snack or a light meal.",
+      "media": null,
+      "price": 95,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Boiled Dry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/312/2910a3d4abfd1ba18f83ada2fe159312.jpg",
+      "price": 95,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Masala Boiled Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bf5/477ab1d5d3dcc490138a393a778ddbf5.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Masala Cheese Boiled Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/558/b010c0a98702e832ce7df021fecac558.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green Cheese Boiled [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/312/2910a3d4abfd1ba18f83ada2fe159312.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cutlet [2 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Dry Kofta [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1d9/427b5b5cc40b05d924892350305ff1d9.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Cutlet [2 Pieces]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dry Roll [3 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/312/2910a3d4abfd1ba18f83ada2fe159312.jpg",
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Machhi Masala [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Starters",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Omelette [2 Eggs]",
+      "description": "Omelette is a versatile dish made by whisking eggs and cooking them in a pan until fluffy and golden.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/312/2910a3d4abfd1ba18f83ada2fe159312.jpg",
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Cheese Omelette [2 Eggs]",
+      "description": "A delectable twist on the classic omelette, featuring fluffy eggs folded over a generous filling of melted cheese. With each bite, enjoy the creamy richness of the cheese perfectly complementing the tender texture of the eggs.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/312/2910a3d4abfd1ba18f83ada2fe159312.jpg",
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Baby Omelette [2 Eggs]",
+      "description": "Baby omelette.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/312/2910a3d4abfd1ba18f83ada2fe159312.jpg",
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Baby Cheese Omelette [2 Eggs]",
+      "description": "Baby cheese omelette.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/312/2910a3d4abfd1ba18f83ada2fe159312.jpg",
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Bombay Omelette [2 Eggs]",
+      "description": "A vibrant and flavorful variation of the classic omelette, inspired by the bustling streets of Bombay. This hearty dish is filled with a medley of aromatic spices, onion, tomatoes and green chilies, giving it a burst of bold flavors and a touch of heat.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/59a/e5bd3c366c712deeba7330429909a59a.png",
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Ghari Omelette [2 Eggs]",
+      "description": "A creamy layer of melted cheese blankets a fluffy omelette. This dish is a flavorful combination of textures and tastes, perfect for a satisfying meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/828/68fd4815ade4de634aa02a6c3b5b1828.jpg",
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Rasavali Omelette [4 Eggs]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a3/debd33170b48e869ebfc32041d3155a3.png",
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Paplet [Mini, 4 Eggs]",
+      "description": "Egg paplet.",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Patra [4 Eggs]",
+      "description": "Egg patra.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d87/419151c1bd2636795a8825a96c6e1d87.jpg",
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bheja Fry [4 Eggs]",
+      "description": "Egg bheja fry.",
+      "media": null,
+      "price": 0,
+      "menuName": "Omelette",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Keema [2 Eggs] with 4 Pav and Salad",
+      "description": "A hearty and savory dish perfect for any meal, featuring scrambled eggs mixed with the flavorful Keema spices [Subject to Availability].",
+      "media": "https://b.zmtcdn.com/data/dish_photos/437/a2f16afbc7d882822bf27aff81f12437.jpg",
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg White Keema [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Masala Keema [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kachu Paku [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhurji [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/766/a828650858f21d5104ff666b9e03c766.jpg",
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Anda Curry [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Keema [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhurji Gravy [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/766/a828650858f21d5104ff666b9e03c766.jpg",
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Keema Lahori [3 Eggs] with 6 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7d9/1b117be15fca613f2a69ba33743057d9.jpg",
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Boiled Tikka Gravy [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kofta [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f0/f0bfd25c7c9d358606c5923f159dc9f0.jpg",
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Kofta [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Red Gotalo [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green Gotalo [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Goti Gotalo [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Kolhapuri Gotalo [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Dhaba Curry [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Laziz Kachu [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Chinese Fry [2 Eggs] with 4 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Angoor Rabdi [5 Eggs] with 10 Pav and Salad",
+      "description": "[Subject to Availability]",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Egg Zayka",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Green Egg Ravaiya [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e4b/0aedcba58e7af6457dfc80badc78ee4b.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Gulabo [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4fa/96282eec74d13b91b8f37cb8fcb094fa.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Special Bheju [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg American Rabdi [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Golden Tikka [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a7d/5ec190caa819e1d880d31a17ea38aa7d.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Cheese Tikka [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3ef/8e91e9c7826245fc082657be83d763ef.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Green Egg Tikka [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Red Egg Tikka [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Rasmalai [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1da/9ed037c106dd6a775d4ae40f88a5e1da.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tadka Dhamaka [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Chatpata [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Nawabi [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Mawa Lachko [2 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Fish Fry Gravy [3 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Goa [3 Eggs]",
+      "description": "",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Raja Rani [4 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b4c/69fd4cdbe06e6b4b12faade986041b4c.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Special Egg Tikhari [4 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e5b/b39500f1f01f21738260b08694e63e5b.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lahori [4 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/45e/b7e00b7b4b91fb8e53da020276e3345e.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Afghani [4 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c09/396434449138558fc5ea0f4e72a28c09.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lawa [4 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Maharaja [4 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Malai Angoor Rabdi [5 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Patudi Gravy [5 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sunflower [5 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/47a/f398d79b5465505c4c66679015c5847a.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhakarwadi [5 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/312/2910a3d4abfd1ba18f83ada2fe159312.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Malai Kofta [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7fe/344f6a1b2ff70d5fbdea5a998ac1b7fe.jpg",
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pataudi Gravy [5 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Specials",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Sadi Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Garlic Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Masala Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Tomato Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Goti Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Lemon Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Australian Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/933/09d3a1325d7846e6db3d13e540f83933.jpg",
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Russian Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/935/f1abbf1d3694a724be6f74cafd12e935.jpg",
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Chicken Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Ghari Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c4a/f91cb5f7b8700671d6b97cc8fab7ec4a.jpg",
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Mexican Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2a8/a0bf584e575b3f72102b57978f5c72a8.jpg",
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bengali Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d9a/1077e98daab762bce743eb073a3f1d9a.jpg",
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Green Fry Gravy [3 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5ac/ddd28089181a119447e56d29318865ac.jpg",
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Toofani Fry [2 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/254/fa4c031dcbf2c5f0ec21fe68e9969254.jpg",
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Triple Fry [4 Eggs]",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/215/dac3483f9854f69739e616b424308215.jpg",
+      "price": 0,
+      "menuName": "Surti Fry",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Jeera Rice",
+      "description": "Egg jeera rice is a flavorful and satisfying dish that combines fluffy rice, fragrant cumin seeds [jeera] and scrambled eggs. Cooked to perfection with aromatic spices like cumin and coriander, this dish boasts a tantalizing aroma and a burst of flavors.",
+      "media": null,
+      "price": 0,
+      "menuName": "Chef Special Egg Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Schezwan Rice [2 Eggs]",
+      "description": "Egg schezwan rice is a delicious fusion dish that combines the bold flavors of Schezwan cuisine with the comfort of fried rice and the protein rich goodness of eggs. This dish typically features cooked rice stir fried with a spicy schezwan sauce, mixed with scrambled or fried eggs.",
+      "media": null,
+      "price": 0,
+      "menuName": "Chef Special Egg Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Fried Rice [2 Eggs]",
+      "description": "Egg fried rice is a classic and beloved dish that brings together fluffy rice, scrambled eggs and a medley of vegetables, all stir fried to perfection. This versatile dish is known for it is simplicity and deliciousness, making it a favorite comfort food across various cuisines.",
+      "media": null,
+      "price": 0,
+      "menuName": "Chef Special Egg Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Pulao [3 Eggs]",
+      "description": "Egg pulao is a delightful rice dish infused with aromatic spices and boiled eggs, creating a flavorful and satisfying meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c2d/2356cd8042351c8818edc4ec5fef7c2d.jpg",
+      "price": 0,
+      "menuName": "Chef Special Egg Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Biryani [2 Eggs]",
+      "description": "Egg biryani is a luxurious and aromatic rice dish that tantalizes the taste buds with its rich flavors and fragrant spices. Basmati rice, infused with a blend of spices such as cumin, cardamom, cinnamon and saffron, forms the flavorful base of this dish.",
+      "media": null,
+      "price": 0,
+      "menuName": "Chef Special Egg Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Gravy Pulao [2 Eggs]",
+      "description": "Egg gravy pulao is a flavorful and comforting rice dish that combines the richness of a savory gravy with the fluffy texture of rice and the protein punch of boiled eggs. The gravy, typically made with tomatoes, onions, ginger, garlic and a blend of spices, adds depth and richness to the pulao. It coats each grain of rice and egg with its luscious texture and savory taste, creating a harmonious blend of flavors in every bite.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/592/7db9b8932ed6be9e4e176d04eb7f7592.png",
+      "price": 0,
+      "menuName": "Chef Special Egg Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Bhurji Pulao [2 Eggs]",
+      "description": "Egg bhurji pulao is a delightful fusion dish that combines the flavors of spicy scrambled eggs with fragrant rice, creating a hearty and satisfying meal. Basmati rice serves as the base, cooked with a medley of aromatic spices like cumin, cloves, and cinnamon, lending a rich and flavorful backdrop to the dish.",
+      "media": null,
+      "price": 0,
+      "menuName": "Chef Special Egg Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "sf-spicy",
+        "egg"
+      ]
+    },
+    {
+      "name": "Egg Creamy Pulao [2 Eggs]",
+      "description": "Egg creamy pulao is a luxurious and indulgent rice dish that combines the richness of a creamy sauce with the delicate flavor of boiled eggs and aromatic spices. The creamy sauce, a blend of velvety cheese and fresh coriander, lends a luxurious texture and depth of taste to the dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/63c/74a9dfa6cd4aa3d76a93ee34398f163c.png",
+      "price": 0,
+      "menuName": "Chef Special Egg Rice",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "2 Pav",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Breads",
+      "categoryName": "Pav",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "4 Pav",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Breads",
+      "categoryName": "Pav",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "8 Pav",
+      "description": "Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast or a quick snack.",
+      "media": null,
+      "price": 0,
+      "menuName": "Breads",
+      "categoryName": "Pav",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Lehsuni Chutney",
+      "description": "Lehsuni chutney, also known as garlic chutney, is a fiery condiment hailing from Indian cuisine. It is bold flavor comes from a potent combination of garlic cloves, dried red chillies and zesty lemon juice, all expertly blended with aromatic spices like cumin and coriander.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b3/b5d4b882b847e739bba0e9e6b41ee2b3.jpg",
+      "price": 0,
+      "menuName": "Khaane ke Saath",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Chutney",
+      "description": "Tomato chutney is a tangy and savory condiment that adds a burst of flavor to a variety of dishes. Made primarily from ripe tomatoes, this chutney is seasoned with aromatic spices like mustard seeds, cumin and curry leaves.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7d9/f54d9b8cd4125e5bdc943a4ea57ca7d9.jpg",
+      "price": 0,
+      "menuName": "Khaane ke Saath",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chutney",
+      "description": "Cheese chutney is a delectable fusion condiment that combines the creamy richness of cheese with the tangy zest of traditional chutney. Made by blending cheese with a variety of flavorful ingredients such as herbs, spices, cheese chutney offers a delightful balance of savory and sweet notes.",
+      "media": null,
+      "price": 0,
+      "menuName": "Khaane ke Saath",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "mild",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "mild",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Combo 1",
+      "description": "Green Cheese Boiled [2 Eggs]+Keema Lahori [3 Eggs]+Australian Fry [2 Eggs]+ Special Tikhari [4 Eggs]+16 Pav+4 Jeeru Soda",
+      "media": null,
+      "price": 0,
+      "menuName": "Egg Tadka Super Saver Combos",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "combo-item",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Combo 2",
+      "description": "Masala Cheese Boil Fry [2 Eggs]+Laziz Kachu [2 Eggs]+Special Tikhari [4 Eggs]+Cheese Tikka [2 Eggs]+16 Pav+4 Jeeru",
+      "media": null,
+      "price": 0,
+      "menuName": "Egg Tadka Super Saver Combos",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "combo-item",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Combo 3",
+      "description": "Green Cheese Boiled [2 Eggs]+Kheema Lahori [3 Eggs]+Australian Fry [2 Eggs]+Special Tikhari [6 Eggs]+16 Pav+4 Jeeru",
+      "media": null,
+      "price": 0,
+      "menuName": "Egg Tadka Super Saver Combos",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "services",
+        "egg"
+      ]
+    },
+    {
+      "name": "Combo 4",
+      "description": "Masala Boil Fry [2 Eggs]+Gotala [2 Eggs]+Egg Ravaiya [2 Eggs]+Egg Lahori [4 Eggs]+16 Pav+4 Jeeru",
+      "media": null,
+      "price": 0,
+      "menuName": "Egg Tadka Super Saver Combos",
+      "categoryName": "",
+      "slugs": [
+        "egg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "egg",
+        "combo-item",
+        "services",
+        "egg"
+      ]
+    }
+  ]
+}

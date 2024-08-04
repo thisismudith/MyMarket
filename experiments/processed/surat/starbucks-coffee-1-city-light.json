@@ -1,0 +1,1458 @@
+{
+  "basicInfo": {
+    "name": "Starbucks Coffee",
+    "cuisine_string": "Beverages, Desserts",
+    "canonicalUrl": "https://www.zomato.com/surat/starbucks-coffee-1-city-light/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.2",
+      "reviewCount": "274",
+      "reviewTextSmall": "274 Reviews",
+      "subtext": "274 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.2",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "2,346",
+      "reviewTextSmall": "2,346 Reviews",
+      "subtext": "2,346 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "City Light, Surat",
+    "latitude": "21.1723413671",
+    "longitude": "72.7937270701",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1723413671,72.7937270701&maptype=zomato&markers=21.1723413671,72.7937270701,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "G 1 & M 1, S.N.S Saigon, Near Jani Farsan, Parle Point Athwalines, City Light, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919930897934"
+    },
+    "res_chain_text": "See all 3 Starbucks Coffee outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/starbucks-coffee",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Mocha Cookie Crumble Frappuccino",
+      "description": "Our Mocha Cookie crumble Frappuccino is a deliciously flavoured mocha indulgence - Blended Coffee meets chocolate and cookies for a perfect combination.\nServing size (ml)/Calories (kcal) - Tall: 354 ML, 420 kcal, Grande: 431 ML, 620 kcal, Venti: 591 ML, 778 kcal\nAllergen - Contains Milk, Soy, Wheat.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/123/094ce306110e673511a2191b886b2123.jpeg",
+      "price": 475,
+      "menuName": "Monsoon Specials",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mocha Cookie Crumble Cream Frappuccino",
+      "description": "Our Mocha Cookie crumble cream Frappuccino is a deliciously flavoured mocha indulgence - milk and cookies meet chocolate for a perfect combination. A coffee free delight.\nServing size (ml)/Calories (kcal) - Tall: 354 ML, 466 kcal, Grande: 431 ML, 641 kcal, Venti: 591 ML, 806 kcal\nAllergen - Contains Milk, Soy, Wheat.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/123/094ce306110e673511a2191b886b2123.jpeg",
+      "price": 475,
+      "menuName": "Monsoon Specials",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stardust Macchiato Frappuccino",
+      "description": "Super smooth and creamy vanilla half and half blended with ice, marked with an intense ristretto shot and cocoa dust.\nServing size (ml)/Calories (kcal) - Tall: 354 ML, 406 kcal, Grande: 431 ML, 574 kcal, Venti: 591 ML, 704 kcal\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d56/70e764a8761e933dead6a37bc7551d56.jpeg",
+      "price": 470,
+      "menuName": "Monsoon Specials",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mocha Cookie Crumble Latte",
+      "description": "Our Mocha Cookie crumble Latte is a deliciously flavoured mocha indulgence - Hot coffee meets chocolate and cookies for a perfect combination.\nServing size (ml)/Calories (kcal) - Short: 237 ML, 294 kcal, Tall: 354 ML, 446 kcal, Grande: 431 ML, 513 kcal, Venti: 591 ML, 635 kcal\nAllergen - Contains Milk, Soy, Wheat.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5a3/2416ea38a033a4107aabd87b110245a3.jpeg",
+      "price": 400,
+      "menuName": "Monsoon Specials",
+      "categoryName": "Hot",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stardust Macchiato",
+      "description": "Super smooth and creamy vanilla half and half crowned with sweet and subtle cold foam, marked with an intense ristretto shot and cocoa dust.\nServing size (ml)/Calories (kcal) - Short: 237 ML, 541 kcal, Tall: 354 ML, 643 kcal\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d71/f8aaa5f72f032317637dfee7f4d60d71.jpeg",
+      "price": 395,
+      "menuName": "Monsoon Specials",
+      "categoryName": "Hot",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew with Ginger Ale",
+      "description": "A refreshing double-layered beverage. Our 48-hour steeped cold brew layered with chilled ginger ale. \nServing size (ml)/Calories (kcal) - Tall: 354 ML, 141 kcal, Grande: 431 ML, 152 kcal, Venti: 591 ML, 162 kcal\nAllergen - NA.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ffd/2a9d76f4350c420f2efb2261fc654ffd.jpeg",
+      "price": 330,
+      "menuName": "Monsoon Specials",
+      "categoryName": "Iced",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Mocha Cookie Crumble Latte",
+      "description": "Our Mocha Cookie crumble Latte is a deliciously flavoured mocha indulgence - Hot coffee meets chocolate and cookies for a perfect combination. Served over ice.\nServing size (ml)/Calories (kcal) - Tall: 354 ML, 386 kcal, Grande: 431 ML, 481 kcal, Venti: 591 ML, 562 kcal\nAllergen - Contains Milk, Soy, Wheat.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d79/bb426eeef832ae5bbf1167614500ad79.jpeg",
+      "price": 440,
+      "menuName": "Monsoon Specials",
+      "categoryName": "Iced",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Stardust Macchiato",
+      "description": "Super smooth and creamy vanilla half and half crowned with sweet and subtle cold foam, marked with an intense ristretto shot and cocoa dust. Served over ice.\nServing size (ml)/Calories (kcal) - Tall: 354 ML, 386 kcal\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f87/b423926ee9384046aeda8f22267e8f87.jpeg",
+      "price": 435,
+      "menuName": "Monsoon Specials",
+      "categoryName": "Iced",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Coffee Frappuccino",
+      "description": "Savour one of our original Frappuccinos - a smooth fusion of coffee, milk, and ice.\nEnergy  - Tall (354ml) - 208.6 kcal / Grande (473ml) - 306.87 kcal / Venti (591ml) 391.98 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/15f/f43e4676fbf1e1519a18d93e3340e15f.jpeg",
+      "price": 295,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mocha Frappuccino",
+      "description": "Brighten your day with this delightful blend of coffee, mocha sauce, milk, and ice, topped with a whipped vanilla topping.\nEnergy  - Tall (354ml) - 341.7 kcal / Grande (473ml) - 470.31 kcal / Venti (591ml) 585.42 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ab6/8eb2e241b251c934aa5c4f9f9fb9eab6.jpeg",
+      "price": 330,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Java Chip Frappuccino.",
+      "description": "A joyful blend of coffee, Java chips, and mocha syrup with milk and ice. Topped with a perfect whipped vanilla swirl and mocha drizzle to finish. \nEnergy  - Tall (354ml) - 391.7 kcal / Grande (473ml) - 536.19 kcal / Venti (591ml) 667.4 kcal.\nAllergen - Contains Wheat, Milk, Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/79d/28ce00688861423b99ac813b0cd6979d.jpeg",
+      "price": 310,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Cream Frappuccino",
+      "description": "Creamy Vanilla goodness. A smooth blend of vanilla, milk, and ice, finished with a whipped vanilla topping.\nEnergy  - Tall (354ml) - 345.1 kcal / Grande (473ml) - 474.75 kcal / Venti (591ml) 591.72 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/649/8d3ca9daffd3c744a8414e0541a86649.jpeg",
+      "price": 335,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Frappuccino",
+      "description": "Bold and refreshing, Espresso crafted from the World’s Top 3% Arabica coffee beans is blended with milk and ice.\nEnergy  - Tall (354ml) - 194.8 kcal / Grande (473ml) - 292.78 kcal / Venti (591ml) 378.2 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/85b/a7002f0f1dec1b2b6609e0bf319a985b.jpeg",
+      "price": 320,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Frappuccino",
+      "description": "Indulge in this divine blend of coffee, caramel syrup, milk, and ice. Crowned with a whipped vanilla topping and a swirl of caramel drizzle for that perfect treat.\nEnergy  - Tall (354ml) - 364.5 kcal / Grande (473ml) - 485.42 kcal / Venti (591ml) 601.65 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d97/6b7398272b414b14f6d9781d3591bd97.jpeg",
+      "price": 305,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberries & Crème Frappuccino",
+      "description": "A blend of sweet strawberry flavours, milk, and ice, with a whipped topping. A fruity paradise in every sip!\nEnergy  - Tall (354ml) - 530.2 kcal / Grande (473ml) - 752.87 kcal / Venti (591ml) 962.58 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0ed/d52a1e25668b677a0b70783ce4a280ed.jpeg",
+      "price": 335,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "White Mocha Frappuccino",
+      "description": "A heavenly blend of coffee, white chocolate, milk, and ice. Topped with whipped vanilla for a delightful treat for your tastebuds.\nEnergy  - Tall (354ml) - 370.7 kcal / Grande (473ml) - 538.87 kcal / Venti (591ml) 643.58 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a4f/69de9688cfc5f42335f387cdc40dca4f.jpeg",
+      "price": 330,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Java Chip Frappuccino.",
+      "description": "A sweet delight. Coffee with mocha syrup blended with milk, Java chips, caramel syrup and ice. Topped with a whipped topping and a drizzle of caramel perfection.\nEnergy  - Tall (354ml) - 398 kcal / Grande (473ml) - 574.16 kcal / Venti (591ml) 714.18 kcal.\nAllergen - Contains Wheat, Milk, Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd9/1b03634c382e33cc4a317ae45530bcd9.jpeg",
+      "price": 365,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Chocolate Chip Frappuccino.",
+      "description": "Indulge in this blend of mocha syrup, chocolatey Java chips, milk, and ice. Finished with a vanilla whipped topping and mocha drizzle to make you experience pure bliss.\nEnergy  - Tall (354ml) - 414.9 kcal / Grande (473ml) - 580.35 kcal / Venti (591ml) 729.42 kcal.\nAllergen - Contains Wheat, Milk, Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f3e/4c1aa6815041dae49e6d5229564a8f3e.jpeg",
+      "price": 355,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Tea Cream Frappuccino",
+      "description": "A fusion of premium matcha green tea, chilled milk, and ice, with a dollop of whipped topping to give you a delicious energy boost!\nEnergy  - Tall (354ml) - 412.4 kcal / Grande (473ml) - 575.94 kcal / Venti (591ml) 726.64 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/954/0b94ed9495f3bd616f94f2edc70ff954.jpeg",
+      "price": 355,
+      "menuName": "Cold Beverages",
+      "categoryName": "Frappuccino",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Acai Refresher",
+      "description": "Sweet strawberry flavours accented by acai notes, shaken with ice and generous amount of sliced strawberry - a welcoming sweet spot of refreshment.\nServing size (ml)/Calories (kcal) - Tall: 354 ML, 89 kcal, Grande: 431 ML, 115 kcal, Venti: 591 ML, 143 kcal\nAllergen - NA.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/631/cf40314ffe98c5b9cbbb595d48ce9631.jpeg",
+      "price": 290,
+      "menuName": "Cold Beverages",
+      "categoryName": "Refresher",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Dragonfruit Refresher",
+      "description": "Crafted with a combination of vibrant mango and refreshing dragonfruit flavors. Hand-shaken with ice and generous amount of diced mango and dragonfruits. A tropical inspired pick-me-up.\nServing size (ml)/Calories (kcal) - Tall: 354 ML, 102 kcal, Grande: 431 ML, 131 kcal, Venti: 591 ML, 160 kcal\nAllergen - NA.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7ff/0a5b90fe6b865e6539b614d3f9d5b7ff.jpeg",
+      "price": 290,
+      "menuName": "Cold Beverages",
+      "categoryName": "Refresher",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Shaken Hibiscus & Passion Lemonade",
+      "description": "Delight in a zesty symphony of hibiscus, flavours of orange peel and a touch of cinnamon. Hand-shaken with ice for a sip of refreshment.\nEnergy  - Tall: 354 ML, 74 kcal, Grande: 473 ML, 111 kcal, Venti: 591 ML, 149 kcal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/765/a026cde305e62d6fb50195c7d6152765.jpeg",
+      "price": 290,
+      "menuName": "Cold Beverages",
+      "categoryName": "Refresher",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Signature Chocolate",
+      "description": "Our decadent signature chocolate served over ice that leaves you craving for more.\nServing size (ml)/Calories (kcal) - Tall: 354 ML, 446 kcal, Grande: 431 ML, 580 kcal, Venti: 591 ML, 735 kcal\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/336/a976df6c0cfbf0edd44e50c95cd2d336.jpeg",
+      "price": 275,
+      "menuName": "Cold Beverages",
+      "categoryName": "Cold Coffee & Milkshakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Coffee.",
+      "description": "Everybody’s favourite indulgence. Crafted expertly with premium espresso, blended with milk, and perfected with a hint of vanilla in every sip.\nAllergen - Contains Milk, Tall: 354 ML, 354 kcal, Grande: 473 ML, 473 kcal, Venti: 591 ML, 501 kcal.An average active adult requires 2000 kcal energy per day, however, calorie needs may vary.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/15f/f43e4676fbf1e1519a18d93e3340e15f.jpeg",
+      "price": 290,
+      "menuName": "Cold Beverages",
+      "categoryName": "Cold Coffee & Milkshakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "description": "An indulgent Starbucks signature chocolate milkshake, perfected for you.\nEnergy  - Tall (354ml) - 632 kcal / Grande (473ml) - 825 kcal / Venti (591ml) 1050 kcal.\nAllergen - Contains Wheat, Milk, Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/28d/e77da016957d23ff40d5fd95a358128d.jpeg",
+      "price": 305,
+      "menuName": "Cold Beverages",
+      "categoryName": "Cold Coffee & Milkshakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "description": "Experience creamy goodness and a luscious strawberry flavour in every sip.\nEnergy  - Tall (354ml) - 569 kcal / Grande (473ml) - 769 kcal / Venti (591ml) 943 kcal.\nAllergen - Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/905/ec725596ecc39468e73d3587aa334905.jpeg",
+      "price": 305,
+      "menuName": "Cold Beverages",
+      "categoryName": "Cold Coffee & Milkshakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Milkshake",
+      "description": "Delight in the timeless flavour of our Vanilla Milkshake.\nEnergy  - Tall (354ml) - 531 kcal / Grande (473ml) - 700 kcal / Venti (591ml) 920 kcal.\nAllergen - Milk.\nAn average active adult requires 2000 kcal energy per day, however, calorie needs may vary.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e95/555d8372103391f36bb5bc762ff90e95.jpeg",
+      "price": 305,
+      "menuName": "Cold Beverages",
+      "categoryName": "Cold Coffee & Milkshakes",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew Black",
+      "description": "Ground coffee steeped for 48 hours, creating a refined iced coffee served unsweetened over ice. Sourced from the world’s top 3% arabica beans.\nunsweetened. Tall: 354 ML, 0 kcal, Grande: 473 ML, 0 kcal, Venti: 591 ML, 0 kcal.An average active adult requires 2000 kcal energy per day, however, calorie needs may vary.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6da/f088c72f90fecc62b5e139d60d8306da.jpeg",
+      "price": 305,
+      "menuName": "Cold Beverages",
+      "categoryName": "Cold Brews",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Sweet Cream Cold Brew",
+      "description": "Our 48- hours steeped cold brew  topped with a slowly cascading vanilla sweet cream for a delicious twist on a classic favorite.\nEnergy  - Tall (354ml) - 63 kcal / Grande (473ml) - 84 kcal / Venti (591ml) 104.97 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5f8/820837b19ee3ff7d36c7fb46762945f8.jpeg",
+      "price": 355,
+      "menuName": "Cold Beverages",
+      "categoryName": "Cold Brews",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "White mocha caramel Cold Brew",
+      "description": "Our 48-hour steeped cold brew shaken with white chocolate and milk to add a touch of sweetness to this delight.\nEnergy  - Tall (354ml) - 193.6 kcal / Grande (473ml) - 288.85 kcal / Venti (591ml) 371.65 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/823/07be218766a028d6df2456ce5e873823.jpeg",
+      "price": 375,
+      "menuName": "Cold Beverages",
+      "categoryName": "Cold Brews",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Brew Malt",
+      "description": "Our 48-hour steeped cold brew blended with vanilla ice cream and malt. An artisanal ice cream beverage.\nEnergy  - 187 kcal/ 100ml. Size 412 ml\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/73e/73665a3d54ab046ffc9913e90de7573e.jpeg",
+      "price": 460,
+      "menuName": "Cold Beverages",
+      "categoryName": "Cold Brews",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Caffè Americano",
+      "description": "Espresso sourced from the World’s top 3% Arabica with cold water to create a layer of velvety, aromatic Crema. Served over ice for a refreshing kick.\nTall: 354 ML, 0 kcal, Grande: 473 ML, 0 kcal, Venti: 591 ML, 0 kcal.An average active adult requires 2000 kcal energy per day, however, calorie needs may vary.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f4e/ef392346623dc465eb3107d7502bbf4e.jpeg",
+      "price": 265,
+      "menuName": "Cold Beverages",
+      "categoryName": "Iced Coffee Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Caffè Latte",
+      "description": "Espresso from the World’s Top 3% Arabica balanced with milk and ice. An all-day favourite.\nEnergy  - Iced - Tall (354ml) - 121.59 kcal / Grande (473ml) - 157.5 kcal / Venti (591ml) - 176.4 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/057/32632f33976aede26beb407156b51057.jpeg",
+      "price": 270,
+      "menuName": "Cold Beverages",
+      "categoryName": "Iced Coffee Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Caramel Macchiato",
+      "description": "Espresso poured over steamed milk infused with vanilla syrup. Finished with a beautiful cross hash caramel drizzle on the top for a decadent treat.\nEnergy  - Iced - Tall (354ml) - 209.59 kcal / Grande (473ml) - 287 kcal / Venti (591ml) - 325.36 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/059/8c022e30f7482347c6a7248c366d2059.jpeg",
+      "price": 345,
+      "menuName": "Cold Beverages",
+      "categoryName": "Iced Coffee Beverages",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "description": "Espresso brewed with the world's top 3% Arabica beans, steamed milk, and velvety foam. Handcrafted by our skilled baristas with care.\nEnergy  - Hot - Picco (180ml) - 94.5 kcal\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/468/beafebeb370a02fdc9fdd1dc4ac45468.jpeg",
+      "price": 205,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Latte",
+      "description": "Handcrafted with espresso from the World’s Top 3% Arabica, steamed milk with a light foam.\nHot - Picco (180ml) - 75.6 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/46f/879e3f36c309519bd089ce9a8d13746f.jpeg",
+      "price": 210,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cocoa Cappuccino",
+      "description": "Crafted with premium espresso, steamed milk, velvety foam, and a touch of bittersweet cocoa for a chocolaty twist!\nServing size (ml)/Calories (kcal) - Short: 237 ML, 152 kcal, Tall: 354 ML, 199 kcal, Grande: 431 ML, 316 kcal, Venti: 591 ML, 411 kcal\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9ba/96ed3bc10dbc38831dee036540aee9ba.jpeg",
+      "price": 305,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Velvet Vanilla Latte",
+      "description": "Handcrafted with espresso from the World’s Top 3% Arabica, steamed milk with a light foam.\nServing size (ml)/Calories (kcal) - Short: 237 ML, 280 kcal, Tall: 354 ML, 474 kcal, Grande: 431 ML, 615 kcal, Venti: 591 ML, 809 kcal\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/80b/df82c9802c913fd60d4a7bd8811e980b.jpeg",
+      "price": 330,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caffe Americano",
+      "description": "\"Espresso brewed from the world’s top 3% percent Arabica beans with hot water for the perfect caffeine fix. \nEnergy  - Nil , Allergen - Nil.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/859/8ab5b36ad575355648e552f578675859.jpeg",
+      "price": 230,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Flat White",
+      "description": "A timeless classic. Ristresso shots of espresso, steamed milk, expertly finished with a Starbucks dot.\nEnergy  - Hot - Short (237ml) - 103.8 kcal / Tall (354ml) - 173 kcal / Grande (473ml) - 220.18 kcal / Venti (591ml) 289.38 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c67/01ff4226b0aa37214981a61f4f330c67.jpeg",
+      "price": 260,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Caffe Latte",
+      "description": "Handcrafted with espresso from the World’s Top 3% Arabica, steamed milk with a light foam.\nEnergy  - Hot - Short (237ml) - 129.8 kcal / Tall (354ml) - 199 kcal / Grande (473ml) - 246.2 kcal / Venti (591ml) 315.4 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4a3/3093f65a76fafd6242aed4f36bba04a3.jpeg",
+      "price": 290,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Caffe Latte",
+      "description": "Handcrafted with espresso from the World’s Top 3% Arabica, steamed milk with a light foam.\nEnergy  - Hot - Short (237ml) - 124.8 kcal / Tall (354ml) - 194 kcal / Grande (473ml) - 241.2 kcal / Venti (591ml) 310.4 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/49f/b23c96e79f0aa157fb47b36b6617049f.jpeg",
+      "price": 290,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "White Chocolate Mocha",
+      "description": "Our signature espresso meets white chocolate sauce and steamed milk in this white chocolate delight.\nEnergy  - Hot - Short (237ml) - 251.8 kcal / Tall (354ml) - 395 kcal / Grande (473ml) - 451.38 kcal / Venti (591ml) 563.74 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/229/163717ae27e6e3979bca0d83ff86f229.jpeg",
+      "price": 295,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caffe Mocha",
+      "description": "We combine our Rich in flavour, full-bodied espresso with bittersweet mocha sauce and steamed milk. The classic coffee drink to satisfy your sweet tooth.\nEnergy  - Hot - Short (237ml) - 232 kcal / Tall (354ml) - 335.7 kcal / Grande (473ml) - 391.1 kcal / Venti (591ml) 472.7 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/784/68079cc30be931ca6230c652b55ab784.jpeg",
+      "price": 290,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Macchiato",
+      "description": "Espresso poured over steamed milk infused with vanilla syrup. Finished with a beautiful cross hash caramel drizzle on the top for a decadent treat.\nEnergy  - Hot - Short (237ml) - 162.2 kcal / Tall (354ml) - 255.2 kcal / Grande (473ml) - 333.1 kcal / Venti (591ml) 426.1 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b6d/66c952e81802a59401624547c5f96b6d.jpeg",
+      "price": 310,
+      "menuName": "Hot Beverages",
+      "categoryName": "Hot Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Filter Coffee",
+      "description": "A South Indian specialty. Expertly handcrafted to deliver excellence in every sip. \nEnergy  - Hot - Picco (180ml) - 166 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/527/1791c48b1d0da22e514963603d281527.jpeg",
+      "price": 210,
+      "menuName": "Hot Beverages",
+      "categoryName": "Chai & Filter Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Chai",
+      "description": "Delight in our classic masala chai, bursting with flavours of hearty Indian spices and flavorful handpicked teas. \nEnergy  - Hot - Picco (180ml) - 161 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e45/691c033c252cf046e07b59331f6bde45.jpeg",
+      "price": 210,
+      "menuName": "Hot Beverages",
+      "categoryName": "Chai & Filter Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Elaichi Chai",
+      "description": "Introducing the new small size from Starbucks - Picco Cardamom Chai\nOur traditional chai with abundance of Cardamom and flavourful handpicked teas.\nEnergy  - Hot - Picco (180ml) - 161 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fc3/0cfb85c7e78e2570baf469c96cab7fc3.jpeg",
+      "price": 210,
+      "menuName": "Hot Beverages",
+      "categoryName": "Chai & Filter Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Tea Latte",
+      "description": "Our creamy matcha, lightly sweetened, and paired with steamed milk for a delight in every sip. \nEnergy  - Hot - Short (237ml) - 171.2 kcal / Tall (354ml) - 240.4 kcal / Grande (473ml) - 321.28 kcal / Venti (591ml) 424.18 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e3b/44102a8191001bb9e48ce6961b859e3b.jpeg",
+      "price": 270,
+      "menuName": "Hot Beverages",
+      "categoryName": "Chai & Filter Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chai Tea Latte",
+      "description": "Black tea infused with cinnamon, clove, and other warming spices are combined with milk for the perfect balance of sweet and spicy.\nEnergy  - Hot - Short (237ml) - 169.84 kcal / Tall (354ml) - 203 kcal / Grande (473ml) - 305.07 kcal / Venti (591ml) 385.27 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bc4/5f055968702140298ab037c09614ebc4.jpeg",
+      "price": 265,
+      "menuName": "Hot Beverages",
+      "categoryName": "Chai & Filter Coffee",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Signature Hot Chocolate",
+      "description": "Experience pure comfort in a cup. A caffeine-free delight created from the Starbucks’ signature hot chocolate powder. Finished with a swirl of whipped vanilla topping.\nEnergy  - Hot - Picco (180ml) - 123.24 kcal.\nAllergen - Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/304/4015806a5135dedbd3f78f4b18d12304.jpeg",
+      "price": 215,
+      "menuName": "Hot Beverages",
+      "categoryName": "Signature Hot Chocolate",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla with strawberry Sauce",
+      "description": "A delicious scoop of Vanilla ice cream served with strawberry sauce on top.\nServing Size - 165 ML/344kcal, Allergen - Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1c0/86ebcb912a2a3705cedd27d012e831c0.jpeg",
+      "price": 135,
+      "menuName": "Ice Cream Scoops",
+      "categoryName": "Scoops",
+      "slugs": [
+        "veg",
+        "non-promo",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "non-promo",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Java Chip with chocolate sauce and Chips",
+      "description": "A delicious scoop of Java Chip ice cream served with Chocolatey sauce drizzle and java chips on top.\nServing Size - 140 ML/393kcal, Allergen - Contains Wheat, Milk, Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bf6/99ac99be3c5d8d55f56d71345087ebf6.jpeg",
+      "price": 135,
+      "menuName": "Ice Cream Scoops",
+      "categoryName": "Scoops",
+      "slugs": [
+        "veg",
+        "non-promo",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "non-promo",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Macchiato with salted caramel Drizzle",
+      "description": "Espresso poured over steamed milk infused with vanilla syrup. Finished with a beautiful cross hash caramel drizzle on the top for a decadent treat.\nServing Size - 170 ML/381kcal, Allergen - Contains Milk, Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/624/814d6f5bece212a89d9d88c4549ba624.jpeg",
+      "price": 125,
+      "menuName": "Ice Cream Scoops",
+      "categoryName": "Scoops",
+      "slugs": [
+        "veg",
+        "non-promo",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "non-promo",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Soya Chaap Wrap",
+      "description": "Soft, juicy soya in tandoori marinade, encased in a spinach wrap, with bell peppers, and makhni sauce.\n165 g | 484 kcal\nAllergen: Contains - Milk, Wheat, Nut, Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/faf/6b5555973a78260f495b4b6715c9bfaf.jpeg",
+      "price": 335,
+      "menuName": "Food",
+      "categoryName": "Wraps",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Cheese Melt Multigrain Sandwich",
+      "description": "Hearty mushrooms in a herbed aioli garnished with chopped parsley served between multigrain bread slices with yellow cheddar cheese.\n210 g | 531 kcal\nAllergen: Contains - Milk, Wheat, Soy, Oat",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1cb/6fec89c60a92fc8d79c503ef1749a1cb.jpeg",
+      "price": 445,
+      "menuName": "Food",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roast Chicken Multigrain Sandwich",
+      "description": "Roasted chicken meets assorted bell peppers and onions in brown sauce. Served between multigrain bread slices.\n210 g | 695 kcal\nAllergen: Contains - Milk, Soy, Wheat, Oat",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae8/3b0c99f0f68c0d23dc75d726d47b0ae8.jpeg",
+      "price": 450,
+      "menuName": "Food",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "non-veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Basil Tomato Mozzarella Cheese Sandwich",
+      "description": "A must-try. Tomato and mozzarella slices on a layer of basil sauce sandwiched in a multigrain bread.\n170 g | 484 kcal\nAllergen: Contains - Milk, Nut, Wheat, Soy, Oat",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f1a/67456c9c49038dc74ad8b2162598bf1a.jpeg",
+      "price": 360,
+      "menuName": "Food",
+      "categoryName": "Sandwiches",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baked Veggie Bagel",
+      "description": "Herb roasted farm fresh vegetables cooked in a tomato based sauce and sandwiched in a sunflower seed and paprika bagel.\nContains - Wheat, Milk, Soy\n170 g | 419 kcal",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cc9/558a09a7dbe2ba3a16cd6a2906f80cc9.jpeg",
+      "price": 275,
+      "menuName": "Food",
+      "categoryName": "Savoury Snacks",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Thetcha Swirl With Garlic Chutney",
+      "description": "Fiery, zesty flavors of a buttery swirl pastry rolled with a tantalizing thecha filling served with garlic chutney & green chilli.\n80 g | 393 kcal\nAllergen: Contains - Milk, Wheat, Nut",
+      "media": "https://b.zmtcdn.com/data/dish_photos/74f/2c6dfbebb02f56fdccb6a7b8b8b5674f.jpeg",
+      "price": 175,
+      "menuName": "Food",
+      "categoryName": "Savoury Snacks",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Silk Pastry",
+      "description": "A symphony of textures, with crunchy nuts, double chocolate mousse, and smooth ganache, all united by a dark chocolate harmony. \nContains - Nut, Wheat, Milk, Soy\n100 g | 298 kcal",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c60/df1bc310f4b69bc1fe9ff481cd202c60.jpeg",
+      "price": 330,
+      "menuName": "Food",
+      "categoryName": "Cookies, Cakes & Desserts",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Loaf Cake",
+      "description": "Flavourful English tea cake, infused with the warmth of butter and citrusy lemon, perfect for a comforting treat. \nServing size (g/ml) - 120g/477kcal.\nAllergen - Contains Wheat, Egg, Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dc4/53a86611d5c865552fa2d90a047c7dc4.jpeg",
+      "price": 305,
+      "menuName": "Food",
+      "categoryName": "Cookies, Cakes & Desserts",
+      "slugs": [
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "services",
+        "sf-kid-friendly",
+        "sf-cake",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Bottled Caramel Frappuccino",
+      "description": "Bottled Caramel Frappuccino\nProduct Size - 200 ML\nEnergy  -   65.7 kcal / 100 ml, Allergen - Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e3a/c9ba7ce7063381b4dcdb3f9ebd0dee3a.jpeg",
+      "price": 376.19,
+      "menuName": "Ready to Drink & Eat",
+      "categoryName": "Bottled Frappuccino & Bottled Juice",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bottled Mocha Frappuccino",
+      "description": "Bottled Mocha Frappuccino\nProduct Size - 200 ML\nEnergy  - 64.6 kcal / 100 ml, Allergen - Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ea0/5e6d0009947d10f37d19997872988ea0.jpeg",
+      "price": 376.19,
+      "menuName": "Ready to Drink & Eat",
+      "categoryName": "Bottled Frappuccino & Bottled Juice",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Bottled Coffee Frappuccino",
+      "description": "Bottled Coffee Frappuccino\nProduct Size - 200 ML\nEnergy  -  63.9 kcal / 100 ml, Allergen - Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d13/801c0af963e63048ad58d9d8ca470d13.jpeg",
+      "price": 376.19,
+      "menuName": "Ready to Drink & Eat",
+      "categoryName": "Bottled Frappuccino & Bottled Juice",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rauch Blueberry Juice",
+      "description": "\"A refreshing juice with the goodness of blueberries, best enjoyed on ice.\nProduct Size - 200 ML.\nEnergy  -   60 kcal / 100 ml, Allergen - NA.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2f3/37b98b37d6345baa7ace9fccc83bc2f3.jpeg",
+      "price": 266.67,
+      "menuName": "Ready to Drink & Eat",
+      "categoryName": "Bottled Frappuccino & Bottled Juice",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Almond Biscotti",
+      "description": "Almond Biscotti\nProduct Size - 50 g\nEnergy  - 409 kcal / 100 g\nAllergen - Contains Nut, Wheat, Egg and Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c19/c9b03af745f61de24f9f54ff20928c19.jpeg",
+      "price": 152.38,
+      "menuName": "Ready to Drink & Eat",
+      "categoryName": "Packaged Food",
+      "slugs": [
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "non-veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "non-veg"
+      ]
+    },
+    {
+      "name": "Roasted & Salted Cashews",
+      "description": "Roasted & Salted Cashews\nProduct Size - 50 g\nEnergy  - 606.3 kcal /100 g\nAllergen - Contains Nuts",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f7/11a5dc5460af7d9fbea7b5e7b9a253f7.jpeg",
+      "price": 171.43,
+      "menuName": "Ready to Drink & Eat",
+      "categoryName": "Packaged Food",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted & Salted Almonds",
+      "description": "Roasted & Salted Almonds\nProduct Size - 50 g\nEnergy  - 630.2 kcal /100 g\nAllergen - Contains Nuts.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f13/62ee3f3815d144bbe683ea348a90ff13.jpeg",
+      "price": 171.43,
+      "menuName": "Ready to Drink & Eat",
+      "categoryName": "Packaged Food",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Himalayan Still Water",
+      "description": "Himalayan Still Water\nProduct Size - 250 ML\nEnergy  - 0 kcal\nAllergen - Nil",
+      "media": "https://b.zmtcdn.com/data/dish_photos/43a/0c3513c9901e0b716b1e179def2ca43a.jpeg",
+      "price": 119.05,
+      "menuName": "Ready to Drink & Eat",
+      "categoryName": "Other Bottled Bevarages",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

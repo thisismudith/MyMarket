@@ -1,0 +1,1064 @@
+{
+  "basicInfo": {
+    "name": "Shree Sai Restaurant",
+    "cuisine_string": "Chinese, South Indian, Fast Food",
+    "canonicalUrl": "https://www.zomato.com/surat/shree-sai-restaurant-salabatpura/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.0",
+      "reviewCount": "105",
+      "reviewTextSmall": "105 Reviews",
+      "subtext": "105 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.3",
+      "reviewCount": "9,947",
+      "reviewTextSmall": "9,947 Reviews",
+      "subtext": "9,947 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.3",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Salabatpura, Surat",
+    "latitude": "21.1873269048",
+    "longitude": "72.8350840509",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1873269048,72.8350840509&maptype=zomato&markers=21.1873269048,72.8350840509,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "L 14 & 15, Shree Ram Snehi Complex, Near Rupam Cinema, Salabatpura, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918140882995"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Idli Sambar",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/483/f2a15c6454d9d8272f5c41ac53d34483.jpg",
+      "price": 105,
+      "menuName": "South Indian",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Medu Vada",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8f0/51a61dcb856a757ba4b41d540cfc28f0.jpg",
+      "price": 110,
+      "menuName": "South Indian",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Samosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f8a/b9430166c2bfe823898b3401445daf8a.jpg",
+      "price": 110,
+      "menuName": "South Indian",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idli Fry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/da5/5b158e224a5faf3cb1b44fec595efda5.jpg",
+      "price": 135,
+      "menuName": "South Indian",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Vada",
+      "description": "",
+      "media": null,
+      "price": 135,
+      "menuName": "South Indian",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Idli",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "South Indian",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dahi Boondi",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "South Indian",
+      "categoryName": "Snacks",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Dosa",
+      "description": "(Serves 1)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ed0/f1a1cb8ecedb1856ccc53ca71c56aed0.jpg",
+      "price": 95,
+      "menuName": "South Indian",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Sada Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/532/89e5286a3fa5ed027562a26f5bd5b532.jpg",
+      "price": 100,
+      "menuName": "South Indian",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7ad/06b9709ce743b0f4037014dedf3eb7ad.jpg",
+      "price": 135,
+      "menuName": "South Indian",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "bestseller-lunch",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-lunch",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "South Indian",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e3d/6ef5c960ee4cee13ffec031844bdde3d.jpg",
+      "price": 130,
+      "menuName": "South Indian",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "description": "(Serves 1)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c27/7ca9dec95891457fc9a53daca94e0c27.jpg",
+      "price": 165,
+      "menuName": "South Indian",
+      "categoryName": "South Indian",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Sada Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/805/76d58db6bfe9830c7a4914052d32e805.jpg",
+      "price": 130,
+      "menuName": "South Indian",
+      "categoryName": "Butter Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Onion Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "South Indian",
+      "categoryName": "Butter Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Mysore Sada Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d6b/56598a8491a7091e8f2c9b4a3d0cbd6b.jpg",
+      "price": 140,
+      "menuName": "South Indian",
+      "categoryName": "Butter Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/227/d9116af70e824817ed2d411ca66ab227.jpg",
+      "price": 170,
+      "menuName": "South Indian",
+      "categoryName": "Butter Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Mysore Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9f2/e1137ed2acaa0813cac05294c846d9f2.jpg",
+      "price": 190,
+      "menuName": "South Indian",
+      "categoryName": "Butter Dosa",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Onion Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ffa/bbbf2832e173c78ae1831183aeec0ffa.jpg",
+      "price": 175,
+      "menuName": "South Indian",
+      "categoryName": "Butter Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sada Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d14/c5570e4ddf73164730bdc2b04d7c4d14.jpg",
+      "price": 185,
+      "menuName": "South Indian",
+      "categoryName": "Cheese Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mysore Sada Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2b2/77da4074c172589b2a0f8ed92809a2b2.jpg",
+      "price": 240,
+      "menuName": "South Indian",
+      "categoryName": "Cheese Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Onion Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian",
+      "categoryName": "Cheese Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1b9/629838e923ab27569cb4d61a181541b9.jpg",
+      "price": 240,
+      "menuName": "South Indian",
+      "categoryName": "Cheese Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Onion Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ffa/bbbf2832e173c78ae1831183aeec0ffa.jpg",
+      "price": 210,
+      "menuName": "South Indian",
+      "categoryName": "Cheese Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mysore Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/92a/ca2cdd15fd404bad12044a8639f2192a.jpg",
+      "price": 230,
+      "menuName": "South Indian",
+      "categoryName": "Cheese Dosa",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 180,
+      "menuName": "South Indian",
+      "categoryName": "Paneer Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Rava Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 195,
+      "menuName": "South Indian",
+      "categoryName": "Paneer Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Masala Dosa",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "South Indian",
+      "categoryName": "Paneer Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Rava Masala Dosa",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "South Indian",
+      "categoryName": "Paneer Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mysore Masala Dosa",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "South Indian",
+      "categoryName": "Paneer Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Rava Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Rava Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9a0/2f10eb29b90e801e4fb48019db32e9a0.jpg",
+      "price": 110,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Rava Masala Dosa",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d8f/b43d397b84b4df8debfeec17b2b09d8f.jpg",
+      "price": 150,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Rava Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 145,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Rava Masala Dosa",
+      "description": "",
+      "media": null,
+      "price": 165,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Rava Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Onion Rava Sada Dosa",
+      "description": "",
+      "media": null,
+      "price": 205,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Rava Masala Dosa",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Onion Rava Masala Dosa",
+      "description": "",
+      "media": null,
+      "price": 220,
+      "menuName": "South Indian",
+      "categoryName": "Rava Dosa",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6ce/55915ddb0258514735972577093cc6ce.jpg",
+      "price": 100,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/40c/a4f302f0ebb77a41ec5b0a6c031a340c.jpg",
+      "price": 130,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/08e/ca6eea65f2ae26e12f1b9c461a0a908e.jpg",
+      "price": 160,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/52b/b66c25f57e8d879e7cdb766308e8a52b.jpg",
+      "price": 130,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2a8/6b0c45c141aedbf96b80dfc9158bd2a8.jpg",
+      "price": 170,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Sada Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/df6/6d1725ac437ee144829f4e4fd2717df6.jpg",
+      "price": 150,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Onion Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/89b/7158cd824306618a501c1b262032c89b.jpg",
+      "price": 175,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Sada Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/01d/443ec873c0135735a2fe7c0ded71c01d.jpg",
+      "price": 180,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Tomato Uttapam",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Masala Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bee/f98849a3ce9466d8cd753eb093a9ebee.jpg",
+      "price": 190,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Onion Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/431/3904e1ac2b594050b5f4383566a12431.jpg",
+      "price": 215,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Mixed Uttapam",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Uttapam",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6fb/c6374efd8ec4618f4b4823e9da2aa6fb.jpg",
+      "price": 225,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Tomato Uttapam",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "South Indian",
+      "categoryName": "Uttapam",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    }
+  ]
+}

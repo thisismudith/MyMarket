@@ -1,0 +1,948 @@
+{
+  "basicInfo": {
+    "name": "Jani Locho & Khaman House",
+    "cuisine_string": "Gujarati",
+    "canonicalUrl": "https://www.zomato.com/surat/jani-locho-khaman-house-pal-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.7",
+      "reviewCount": "56",
+      "reviewTextSmall": "56 Reviews",
+      "subtext": "56 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.7",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "600"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.1",
+      "reviewCount": "3,088",
+      "reviewTextSmall": "3,088 Reviews",
+      "subtext": "3,088 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.1",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Pal Gam, Surat",
+    "latitude": "21.2020933668",
+    "longitude": "72.7820929885",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.2020933668,72.7820929885&maptype=zomato&markers=21.2020933668,72.7820929885,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "17-B, Shop G-17, Mahalaxmi Shopping Center, Near LP Savani School, Pal Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+918758555889"
+    },
+    "res_chain_text": "See all 3 Jani Locho & Khaman House outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/jani-locho-khaman-house-1",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Oil Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/212/b4064aa897b1becbe9841b31a8c2b212.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/373/086ab7bf86c77cf953d2732bdb24c373.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-breakfast",
+        "bestseller-lunch",
+        "bestseller-evening",
+        "bestseller-late-night",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f3/2489f0d1ea7f838c48907cba5bd1a3f3.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/212/b4064aa897b1becbe9841b31a8c2b212.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoor Butter Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50e/b10a78c52615e02751f1501ca0af350e.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoor Cheese Butter Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/949/95bbeaadd31f215d5b89cefb83d0f949.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasan Oil Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/880/e82eddac6f5ef5b8892fd8dcef27c880.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasan Butter Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/514/a87fc518b8175f59bbb6863e46956514.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasan Cheese Butter Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/735/08c0810dae8e3f400be93f944803f735.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Butter Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50e/b10a78c52615e02751f1501ca0af350e.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Cheese Butter Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/949/95bbeaadd31f215d5b89cefb83d0f949.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Butter Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5bd/42055dea60fde157cb46891c3d5e05bd.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Cheese Butter Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/735/08c0810dae8e3f400be93f944803f735.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Butter Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/37f/f668c1ca64d503e423a72bae6444937f.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Cheese Butter Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fcc/f393951b6fafc22da9dc7f3ed29e2fcc.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Butter Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/65e/5905af3e10db60bd32b691bfa734865e.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Butter Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f3/2489f0d1ea7f838c48907cba5bd1a3f3.jpg",
+      "price": 0,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roll Cheese Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f46/ed7bb88ea7f13a1bf1d27cb85beccf46.jpg",
+      "price": 150,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Mayonnaise Special Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoor Cheese Roll Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/239/078ba2ada34e1585795df536d7953239.jpg",
+      "price": 150,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Mayonnaise Special Lochos",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Cheese Roll Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bfd/bda57e3fc3aeb9cc14ff866c2259abfd.jpg",
+      "price": 150,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Mayonnaise Special Lochos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lasan Cheese Roll Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/624/7eb2f5f2eef5ebad7891d3b515fb3624.jpg",
+      "price": 150,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Mayonnaise Special Lochos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Roll Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a40/b2ab2f641776eb832ab8b9e7cd5c7a40.jpg",
+      "price": 150,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Mayonnaise Special Lochos",
+      "slugs": [
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "bestseller-evening",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mayonnaise Peri Peri Roll Locho",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/640/1e18474de1cbbd714d8429860a493640.jpg",
+      "price": 150,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Mayonnaise Special Lochos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fusion Cheese Roll Locho",
+      "description": "Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is made from Gram Flour.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/640/1e18474de1cbbd714d8429860a493640.jpg",
+      "price": 160,
+      "menuName": "Jani Special Lochos",
+      "categoryName": "Mayonnaise Special Lochos",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Samosa [Roll Cutting]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/50d/e77b85cbd26ddd05d0d7eda18a26b50d.jpg",
+      "price": 0,
+      "menuName": "Jani Special Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Roll [2 Pieces]",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/744/71373447d62015d58170f75cecc88744.jpg",
+      "price": 52,
+      "menuName": "Jani Special Samosa",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "new",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "new",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman",
+      "description": "Khaman is made up of fresh ground channa daal or channa flour (besan), soaked in water to make a soft thick paste which has a cake-batter like consistency. This is then baked to a spongy bread like texture. The snack can be baked in a cooker, steamer or even a microwave.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f9d/3f3d9b644a7f0a895508c8cf95787f9d.jpg",
+      "price": 0,
+      "menuName": "Khaman - Idada - Patudi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Khamni",
+      "description": "Surti Sev Khamani is a well-known snack of Surat in Gujarat. It is made from grounded Chana Dal and other at-home ingredients like ginger, garlic, green chilies, etc",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6cb/4e3ae5ed8ea649b3110b717a469a46cb.jpg",
+      "price": 0,
+      "menuName": "Khaman - Idada - Patudi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sada Khaman",
+      "description": "Khaman is made up of fresh ground channa daal or channa flour (besan), soaked in water to make a soft thick paste which has a cake-batter like consistency. This is then baked to a spongy bread like texture. The snack can be baked in a cooker, steamer or even a microwave.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0df/c61d64dd010a63e54765149a4c5960df.jpg",
+      "price": 0,
+      "menuName": "Khaman - Idada - Patudi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "home-style-meal",
+        "navratri-special",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Idada",
+      "description": "Idada, here is a non-fermented version of dhokla, for people with acidity and for jains. This can be made even faster than the khatta dhoklas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/617/79c7736aadee8fbcff06d36e95355617.jpg",
+      "price": 0,
+      "menuName": "Khaman - Idada - Patudi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Idada [150 grams]",
+      "description": "Idada, here is a non-fermented version of dhokla, for people with acidity and for jains. This can be made even faster than the khatta dhoklas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/617/79c7736aadee8fbcff06d36e95355617.jpg",
+      "price": 0,
+      "menuName": "Khaman - Idada - Patudi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Cheese Idada [150 grams]",
+      "description": "Idada, here is a non-fermented version of dhokla, for people with acidity and for jains. This can be made even faster than the khatta dhoklas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/bc1/36f9a9d44b7371389a4732148ee5cbc1.jpg",
+      "price": 101,
+      "menuName": "Khaman - Idada - Patudi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Idada [150 grams]",
+      "description": "Idada, here is a non-fermented version of dhokla, for people with acidity and for jains. This can be made even faster than the khatta dhoklas.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/617/79c7736aadee8fbcff06d36e95355617.jpg",
+      "price": 78,
+      "menuName": "Khaman - Idada - Patudi",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman [1 Plate] with Oil Locho [1 Plate] and Sev",
+      "description": "FREE Sev + EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3d9/a3b81716901a92d0712fa33611a093d9.jpg",
+      "price": 128.7,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Chota Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Locho [1 Plate] with Butter Locho [1 Plate] and Sev",
+      "description": "FREE Sev + EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b0/9ac2fe35739b4cea839e2b583a0839b0.jpg",
+      "price": 150,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Chota Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "zpl-combo",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "zpl-combo",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Locho [1 Plate] with Masala Chaas and Sev",
+      "description": "EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/373/086ab7bf86c77cf953d2732bdb24c373.jpg",
+      "price": 120.9,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Chota Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Idada [1 Plate] with Vagharela Khaman [1 Plate] and Sev",
+      "description": "FREE Sev + EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/617/79c7736aadee8fbcff06d36e95355617.jpg",
+      "price": 128.7,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Chota Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Khamni [1 Plate] with Oil Locho [1 Plate] and Sev",
+      "description": "FREE Sev + EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6e8/56d16f449df69456a33d838ebffea6e8.jpg",
+      "price": 140,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Chota Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Locho [1 Plate] with Cheese Butter Locho [1 Plate] and Sev",
+      "description": "FREE Sev + EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fcc/f393951b6fafc22da9dc7f3ed29e2fcc.jpg",
+      "price": 182,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Mota Combos",
+      "slugs": [
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "chef-special",
+        "restaurant-recommended",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Locho [1 Plate] + Sev + Khamni [1 Plate] + Masala Chaas",
+      "description": "FREE Sev + EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3f3/2489f0d1ea7f838c48907cba5bd1a3f3.jpg",
+      "price": 198.9,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Mota Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oil Locho [2 Plate] with Butter Locho [1 Plate] and Sev",
+      "description": "FREE Sev + EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b0/9ac2fe35739b4cea839e2b583a0839b0.jpg",
+      "price": 208,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Mota Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vagharela Khaman [1 Plate] with Oil Locho [2 Plate] and Sev",
+      "description": "FREE Sev + EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3d9/a3b81716901a92d0712fa33611a093d9.jpg",
+      "price": 195,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Mota Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roll Cheese Locho [1 Plate] + Sev + Masala Chaas",
+      "description": "FREE Sev + EXTRA Discount !",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f46/ed7bb88ea7f13a1bf1d27cb85beccf46.jpg",
+      "price": 179.4,
+      "menuName": "Jani Special Navratri Combos",
+      "categoryName": "Mota Combos",
+      "slugs": [
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "combo-item",
+        "zpl-combo",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Chaas",
+      "description": "",
+      "media": null,
+      "price": 19.5,
+      "menuName": "Extras",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

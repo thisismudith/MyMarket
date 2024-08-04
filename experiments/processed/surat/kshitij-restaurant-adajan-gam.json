@@ -1,0 +1,4517 @@
+{
+  "basicInfo": {
+    "name": "Kshitij Restaurant",
+    "cuisine_string": "North Indian, Chinese, Fast Food, Desserts, Sichuan",
+    "canonicalUrl": "https://www.zomato.com/surat/kshitij-restaurant-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "4.0",
+      "reviewCount": "317",
+      "reviewTextSmall": "317 Reviews",
+      "subtext": "317 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "4.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.2",
+      "reviewCount": "12.4K",
+      "reviewTextSmall": "12.4K Reviews",
+      "subtext": "12.4K Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.2",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Adajan Gam, Surat",
+    "latitude": "21.1898815539",
+    "longitude": "72.7964468300",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1898815539,72.7964468300&maptype=zomato&markers=21.1898815539,72.7964468300,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "1st Floor, Western Corridor, Char Rasta, Hazira-Adajan Road, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919924294440"
+    },
+    "res_chain_text": "",
+    "res_group_text": "",
+    "res_chain_url": "",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Broccoli Almond Soup",
+      "description": "",
+      "media": null,
+      "price": 135,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Corn Tomato Soup",
+      "description": "",
+      "media": null,
+      "price": 139,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cream Of Tomato Soup",
+      "description": "A indulging soup that is packed with the tanginess and goodness of tomatoes.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7f6/bd9bdc54fb7e7f2667e0b23b7b9b67f6.jpeg",
+      "price": 115,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "description": "A delightfully flavor-packed hot and sour soup with chopped veggies - perfect to satiate your cravings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/976/03cede4f8cd1b35b067485c1207ee976.jpeg",
+      "price": 130,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kshitij Special Soup(500 Ml Container)",
+      "description": "",
+      "media": null,
+      "price": 135,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Coriander Soup",
+      "description": "Seductive thick soup with fresh coriander and a squeez of lemon.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/20f/e6bdc0fe92f31022170fd0a884da220f.jpeg",
+      "price": 130,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Minestrone Soup",
+      "description": "A fine Italian tomato flavour soup with small vegetables, pasta and topped with parmesan cheese.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3ee/73f92dc3f276b96037d946ae9ce383ee.jpeg",
+      "price": 130,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Soup",
+      "description": "Approx 250 ml",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3b2/950fc70bfe06bc02b66d2ba0d81553b2.jpeg",
+      "price": 135,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Palak Garlic Soup",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Clear Soup",
+      "description": "A delightfully flavor-packed clear soup with chopped veggies - perfect to satiate your cravings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cbf/5bd282409f94604be3470090922e7cbf.jpeg",
+      "price": 115,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ebc/07c85b650946aa624c5384e9e4849ebc.jpeg",
+      "price": 130,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sweet Corn Soup",
+      "description": "A healthy soup that is packed with the goodness of tender and nutritious corn.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f3e/ca8544cdd17fe1c38bf3df72fc534f3e.jpeg",
+      "price": 120,
+      "menuName": "Soups",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aasuri Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Achari Paneer Tikka",
+      "description": "Marinated paneer cubes bursting with tangy and zesty flavors.",
+      "media": null,
+      "price": 255,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Afghani Paneer Tikka",
+      "description": "Paneer marinated in indian spices, curd, cream, cashew gravy and cooked in a tandoor with onion and capsicum for a smoky and creamy flavour served with kachumber salad and green chutney",
+      "media": null,
+      "price": 260,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Seekh Kebab",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chukundari Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Tikki (Fried)",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Hariyali Tikka",
+      "description": "A succulent and flavorful veg dish straight from the Indian Tandoor, Paneer Haryali Tikka is a must-try for all paneer lovers.",
+      "media": null,
+      "price": 255,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Jalandhar Tikka",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Jalandhari Tikka",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lehsuni Tikka",
+      "description": "Mouth-watering tandoor-grilled cubes of soft, flavorful paneer.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/046/282351ecb787b98ba3e93fb0d6531046.jpeg",
+      "price": 255,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Makhmali Tikka",
+      "description": "Stuffed Paneer with Cheese and Dry Fruit. Marinated with Creamy Marination and cooked in Tandoor Bhatti.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/352/ae4131217c66b7a8459c2720f369b352.jpeg",
+      "price": 265,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pudina Tikka",
+      "description": "A flavorful and aromatic vegetarian starter that's perfect for any meal.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/175/2006a076c7619e7127bec399331a1175.jpeg",
+      "price": 255,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka",
+      "description": "Soft paneer cubes marinated in a seasoned masala and cooked in a tandoor.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/653/97edfb569edcddd94fcf848795b5a653.jpg",
+      "price": 250,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Raja Kabab[Fried]",
+      "description": "",
+      "media": null,
+      "price": 215,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Aloo Tikka",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tiranga Paneer Tikka",
+      "description": "",
+      "media": null,
+      "price": 305,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hara Bhara Kebab (Fried)",
+      "description": "",
+      "media": null,
+      "price": 205,
+      "menuName": "Veg Starters",
+      "categoryName": "Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Gobi",
+      "description": "",
+      "media": null,
+      "price": 200,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Mattar",
+      "description": "This spiced potato & peas stir fry is one of the popular Indian dishes.",
+      "media": null,
+      "price": 200,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Methi",
+      "description": "Approx 450 ml, Serve 3 Person",
+      "media": null,
+      "price": 200,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Masala",
+      "description": "Serve 2",
+      "media": null,
+      "price": 245,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chana Masala",
+      "description": "A tasty and savory gravy made from cooking chickepeas in a flavorful gravy, seasoned with Indian spices.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1f0/0ec36555505c95cd57e1d89b52e5c1f0.jpeg",
+      "price": 200,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Palak",
+      "description": "The palak corn subzi is a mellow preparation of nutrient-rich spinach and sweet corn.",
+      "media": null,
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dum Aloo Kashmiri",
+      "description": "Tawa- toasted, crispy and delicious dosa, folded in with masala.",
+      "media": null,
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dum Aloo Punjabi",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Aloo",
+      "description": "Popular Indian side dish made with potatoes and cumin seeds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ab6/a1392038e9988a5aa9c7a664c80d5ab6.jpeg",
+      "price": 195,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Curry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6f6/7fa77d19486dbeb6de2f495939d016f6.jpeg",
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Kadai Masala(500 Ml Container)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f9d/72fd68f29dfe7a04004941113e001f9d.jpeg",
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Khoya Kaju (Sweet)",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ca/cba3ab76b1fb6a136f67784f1bc854ca.jpeg",
+      "price": 265,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Methi Malai Mattar [Sweet]",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Vegetable",
+      "description": "",
+      "media": null,
+      "price": 205,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Butter Masala",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Masala [350 Grams]",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Mattar",
+      "description": "A one pot curried side dish made with mushrooms, green peas, onions, tomatoes, spices and herbs.",
+      "media": null,
+      "price": 245,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Navaratan Korma (Sweet)",
+      "description": "",
+      "media": null,
+      "price": 235,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Veg Kshitij",
+      "description": "[Chef's Special]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/2e1/ff3ff87cd09461dc9c309ee3edb9d2e1.jpeg",
+      "price": 240,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Afghani",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Angara",
+      "description": "Veg angara is a delicious curry made with mixed vegetable, in a tomato onion based gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5f3/9c5afa1c91343a1e93604037b2e365f3.jpeg",
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Birbali",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Diwani Handi",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Handi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/582/d31b791806bfd1310b7c071db78be582.jpeg",
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hyderabadi",
+      "description": "Approx 300 ml, Serve 2 Person",
+      "media": "https://b.zmtcdn.com/data/dish_photos/55d/038355dd262684f5deea70aeb8d5155d.jpeg",
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Jalfrezi",
+      "description": "Crispy vegetables in spicy gravy.",
+      "media": null,
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kadai",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/432/d19f8760e2823fea8e5d7e468967e432.jpeg",
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kebab Masala",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Keema Masala",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kolhapuri",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1e2/af8133bba810ed45e7fb5a88c758e1e2.jpeg",
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Lasuni",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Lehsuni",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Makhanwala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a91/bb437df30880f073807a3caa50506a91.jpeg",
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Shaam Savera",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sham Savera",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Tawa Masala",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Toofani",
+      "description": "Approx 300 ml, Serve 2 Person",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dbc/88fb385e90d2135203b64d31bd873dbc.jpeg",
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Vegetables",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry Butter",
+      "description": "Flavourful and tasty dal made with boiled lentil, tomatoes, onions tempered with mild fried spices and butter, serves one to two.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b40/ae609a2ad78b0ab34ef5da8899ebcb40.jpeg",
+      "price": 150,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Fry",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/782/2c595bf784be445d0e9dbf21bfc64782.jpeg",
+      "price": 140,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Methi",
+      "description": "",
+      "media": null,
+      "price": 150,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Palak",
+      "description": "A healthy dish with protein filled dal cooked in palak puree with a flavorful masala. A healthy diet for your daily supplements.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d09/120a3340723433e5326627fe33d10d09.jpeg",
+      "price": 150,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/baa/2ca338685e84b76aac5aa877adb74baa.jpeg",
+      "price": 150,
+      "menuName": "Main Course",
+      "categoryName": "Dal",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Butter Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/37f/16dbe908a7c03bfe0e5be77ab93db37f.jpeg",
+      "price": 255,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/85c/b1bc694860b1173a0eefe98703e3d85c.jpeg",
+      "price": 235,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Angara",
+      "description": "A flavorful and satisfying dish that is perfect for paneer lovers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7ea/30d4f5b3959af94a35de28073a1767ea.jpeg",
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Badami Masala(500 Ml Container)",
+      "description": "",
+      "media": null,
+      "price": 265,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bagain Bahar",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Balti",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/180/e128ee2e4680370b326981daad92d180.jpeg",
+      "price": 255,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Bhurji",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/050/edf981752956201dee5a82a128e85050.jpeg",
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a96/98d8ba208cdb6e688c32dbbe7457fa96.jpeg",
+      "price": 245,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Cheese Masala",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cd3/d748ac0839989d88f2fab27bd82f1cd3.jpeg",
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Handi",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a76/4537048621acdf3a471836f29be63a76.jpeg",
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Hara Masala",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Hyderabadi",
+      "description": "A delightfully flavor-packed hyderabadi paneer with veggies and delectable masalas - perfect to satiate your cravings.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f0b/3b1aefec55e201b59e93db322bba9f0b.jpeg",
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Jalfrezi(500 Ml Container)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kadai",
+      "description": "A flavorful vegetarian main course with tender cubes of paneer in a rich and aromatic tomato-based sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/70d/915f53297dd444418d228a5208e1270d.jpeg",
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kaju Masala",
+      "description": "Succulent paneer chunks and kaju soaked in a creamy gravy with a generous helping butter .",
+      "media": "https://b.zmtcdn.com/data/dish_photos/51b/6f36e7d82b9e2c2e608fd7ab7183951b.jpeg",
+      "price": 265,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Khurchan(500 Ml Container)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lababdar(500 Ml Container)",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lehsuni",
+      "description": "Marinated chicken in spices, nuts cream, and butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/80c/ef55f03102e309731b40597eb127a80c.jpeg",
+      "price": 255,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Lazeez",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f99/c08f836c772b48ced212c4cd08b3df99.jpeg",
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mattar",
+      "description": "Delicious dish prepared by cooking peas and Paneer in cream",
+      "media": null,
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Palak",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/990/02ccc71e5d30ff47b609e7924fa5a990.jpeg",
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pasanda",
+      "description": "A mouth-watering vegetarian main course sure to satisfy any appetite.",
+      "media": null,
+      "price": 265,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Patiala",
+      "description": "A rich and flavorful vegetarian dish.",
+      "media": null,
+      "price": 255,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Peshawari",
+      "description": "Super delicious dish prepared with 8 pieces of paneer, ground spices and fresh cream.",
+      "media": null,
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Rajwadi",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Sham Shavera(500 Ml Container)",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Silsila(500 Ml Container)",
+      "description": "",
+      "media": null,
+      "price": 265,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tawa Masala",
+      "description": "Soft cottage cheese soaked in a rich and creamy gravy laden with butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/44d/e86d55c279c436ed4ba51b1d5815444d.jpeg",
+      "price": 250,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Toofani",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/94e/894c9d12eb089f85069f47328009194e.jpeg",
+      "price": 265,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Paneer Kshitij",
+      "description": "[Chef's Special]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/000/7e6c945f1efb353a20c2d626263de000.jpeg",
+      "price": 270,
+      "menuName": "Main Course",
+      "categoryName": "Paneer",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Kofta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/49c/8ef3863a9ea96168035c81a415c7549c.jpeg",
+      "price": 235,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kadai Kofta",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Kofta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8fd/55e81c20e74e58b5efad4e9d14e2f8fd.jpeg",
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Kofta (Sweet)",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Malai Kofta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0bd/87bf507f7d92485897d34cc372a9b0bd.jpeg",
+      "price": 225,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Nargisi Kofta",
+      "description": "Cheese ball in yellow gravy topped with fruits.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c52/516afdcfb9e5871992440a3f64381c52.jpeg",
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Kofta",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/72a/affe2d242eec1d5ef25e54faab86072a.jpeg",
+      "price": 230,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Kofta",
+      "description": "Minced vegetables kofta in spicy brown gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7cf/ac89d34dfd875ad702e4a8875be497cf.jpeg",
+      "price": 220,
+      "menuName": "Main Course",
+      "categoryName": "Kofta Main Course",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Pulao",
+      "description": "A creamy and flavorful rice dish, perfect for anyone who loves cheese.",
+      "media": null,
+      "price": 210,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dal Khichdi",
+      "description": "A comforting vegetarian main course.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c77/823e416fa8264708b16e2766ab198c77.jpeg",
+      "price": 170,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Peas Pulao",
+      "description": "(Serve In 750ml Container) With Raita",
+      "media": null,
+      "price": 180,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hyderabadi Biryani",
+      "description": "A flavorful and aromatic rice dish of Hyderabadi origin, perfect for veggie lovers.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ef8/c59ac232157533631eb2796291a8eef8.jpeg",
+      "price": 210,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Pan fried cumin seed rice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/35a/39e0179acd1b1728ea81157c5e60a35a.jpeg",
+      "price": 130,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Pulao",
+      "description": "Fragrant and flavorful rice dish with a blend of aromatic spices and dried fruits.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/920/c293e4a15d530dbfa5232e2fd5bf3920.jpeg",
+      "price": 210,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Dum Biryani",
+      "description": "Aromatic rice layered with flavorful paneer tikka.",
+      "media": null,
+      "price": 260,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Special Kshitij Dum Biryani",
+      "description": "[Chef's Special]",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6b9/4b7e897f2a56dee480bd08b430e866b9.jpeg",
+      "price": 235,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Steamed Rice",
+      "description": "(Serve In 450ml Container)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/743/adabf1565b71e896f330233ba1ae0743.jpeg",
+      "price": 110,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Biryani",
+      "description": "A flavorful Indian rice dish with mixed vegetables.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a12/b76c2b0c297b21ac0a653c0e84118a12.jpeg",
+      "price": 210,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Pulao",
+      "description": "(Serve In 750ml Container) With Raita",
+      "media": "https://b.zmtcdn.com/data/dish_photos/99e/488b375e2382dcb34897e9b0051fb99e.jpeg",
+      "price": 185,
+      "menuName": "Rice And Biryani",
+      "categoryName": "Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Naan",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/058/2a97a5b37fd9b82af329f83e05816058.jpeg",
+      "price": 55,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Kulcha",
+      "description": "A soft and buttery Indian bread, freshly baked in a tandoor oven.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/efc/2b647850de85d5283ad783642466fefc.jpeg",
+      "price": 55,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Paratha",
+      "description": "Flaky layers of buttery goodness in every bite.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/923/065c3025643c9cd2fe390ac84af2e923.jpeg",
+      "price": 50,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butter Roti",
+      "description": "A warm and flaky Indian bread smothered in rich, creamy butter.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6c8/9406ebb876aa2a899fe6932a7e5956c8.jpeg",
+      "price": 35,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chapati Butter",
+      "description": "A traditional Indian flatbread with a golden, buttery finish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/7ee/ed2e548f2e427180d8d415373b08c7ee.jpeg",
+      "price": 35,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Naan",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Garlic Naan",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Naan",
+      "description": "North Indian bread with a generous serving of cheese that tastes brilliant when paired with a gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ee5/d41b6652d1e610a54d177b3a60b41ee5.jpeg",
+      "price": 100,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Naan",
+      "description": "A mouth-watering Roti infused with robust garlic.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/554/19efcaf27bcb73bf7975f81302ea4554.jpeg",
+      "price": 90,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kashmiri Naan",
+      "description": "A slightly sweet naan with cashew, almond, coconut stuffing, perfect for gravy or with pickles.",
+      "media": null,
+      "price": 105,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kulcha",
+      "description": "A mouthwatering Roti dish with a unique texture and a delectable flavor.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4a0/dc0ba489555a2f739ddafd1f774414a0.jpeg",
+      "price": 50,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lacchedar Paratha",
+      "description": "Layered wheat paratha.",
+      "media": null,
+      "price": 55,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Methi Roti",
+      "description": "Whole some flatbreads from unleavened whole wheat dough featuring fenugreek leaves, herbs and spices.",
+      "media": null,
+      "price": 50,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Missi Roti",
+      "description": "A scrumptious and savory Indian flatbread with a unique, hearty flavor.",
+      "media": null,
+      "price": 50,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Onion Kulcha",
+      "description": "North Indian bread with a generous serving of onion that tastes brilliant when paired with a gravy.",
+      "media": null,
+      "price": 70,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Naan",
+      "description": "Soft and fluffy naan tastes amazing when paired with a gravy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a0f/f28f08b0398c6fd099e1ca4cc693da0f.jpeg",
+      "price": 50,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Chapati Roti",
+      "description": "A classic and simple roti bread perfect for pairing with any dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0b7/31ca14fa51219bb34201d5880f1b30b7.jpeg",
+      "price": 30,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Plain Tandoori Paratha",
+      "description": "A flaky and flavorful Indian flatbread perfect for any main course dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/584/911cc1803b893950f097f87d4f237584.jpeg",
+      "price": 45,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pudina Roti",
+      "description": "This aromatic & refreshing Indian bread with a delicate mint flavour is a must-try. Serves 1",
+      "media": null,
+      "price": 60,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Paratha",
+      "description": "Indian flatbread, unleavened, made from wheat flour, cooked with ghee or oil, stuffed, and served with accompaniments",
+      "media": null,
+      "price": 95,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Stuffed Kulcha",
+      "description": "A mouthwatering Tandoori Bread stuffed with delectable goodness.",
+      "media": null,
+      "price": 95,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tawa Paratha",
+      "description": "A flaky, layered bread cooked on a griddle.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/299/83f299b6216ed0cabcc2a3090fcb9299.jpeg",
+      "price": 40,
+      "menuName": "Indian Breads",
+      "categoryName": "Roti And Naan",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "home-style-meal",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baby Corn Mushroom Chilli",
+      "description": "",
+      "media": null,
+      "price": 280,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": "A fusion of Chinese and Indian flavors, this veg dish is a treat for your taste buds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b57/e62b7e64bb255f95f0579657cf990b57.jpeg",
+      "price": 210,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Corn Papper Chilli",
+      "description": "",
+      "media": null,
+      "price": 255,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Chilli Baby Corn",
+      "description": "Yummy and healthy, this crispy chilli baby corn is sure to satisfy your cravings!",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Paneer Honey Chilli",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Potato Chilli",
+      "description": "",
+      "media": null,
+      "price": 215,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crispy Veg",
+      "description": "Vegetables like baby corn, broccoli, carrot and mushrooms fried and tossed in sauces to give a tangy and mild spicy flavour.",
+      "media": null,
+      "price": 220,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gobi Manchurian",
+      "description": "(Serve In 750ml Container)",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Chilli",
+      "description": "Savory and irresistible- A perfect mushroom starter!",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer 65",
+      "description": "(Serve in 750ml container)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c2f/58078c37e1eadabfb7a6e6341ccd1c2f.jpeg",
+      "price": 255,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Chilli",
+      "description": "A savory and flavorful vegetarian appetizer with a satisfying crunch.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/063/4df31f47a99508814567af391f13c063.jpeg",
+      "price": 255,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Manchurian",
+      "description": "A flavorful blend of Chinese and Indian cuisine that's sure to tantalize your taste buds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8a5/b7641320ef95ea530988f921276868a5.jpeg",
+      "price": 255,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Red Cook",
+      "description": "Serves 1",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Schezwan",
+      "description": "Flavorsome Chinese-style paneer dish with a fiery Schezwan twist.",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Spring Roll",
+      "description": "",
+      "media": null,
+      "price": 260,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sizzling Paneer Dry",
+      "description": "",
+      "media": null,
+      "price": 270,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Manchurian",
+      "description": "",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f45/df4c9033a57c38f38e9e3a05b20c0f45.jpeg",
+      "price": 215,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg 65",
+      "description": "(Serve in 750ml container)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/90b/83bf047d4eab9361ca3050bab221390b.jpeg",
+      "price": 215,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Lollipop",
+      "description": "(Serve in 750ml container)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4ec/65032601ddd49982261fdcfeba9e64ec.jpeg",
+      "price": 215,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Schezwan Fingers",
+      "description": "",
+      "media": null,
+      "price": 215,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Spring Roll",
+      "description": "(Serve In 750ml Container)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0f9/83dfc05c2252e995d463d393404850f9.jpeg",
+      "price": 215,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Starters",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Garlic Potato",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Vegetable",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Vegetable",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Vegetable",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Sweet 'N' Sour",
+      "description": "",
+      "media": null,
+      "price": 215,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Vegetable",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Balls In Hot Garlic Sauce",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Vegetable",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Ginger Sauce",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Chinese Dishes",
+      "categoryName": "Chinese Vegetable",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Garlic Noodles",
+      "description": "Packaged noodles cooked with home made chilly garlic sauce. Its spicy",
+      "media": null,
+      "price": 210,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "packaged",
+        "non-refundable",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hong Kong Noodles",
+      "description": "A savory, flavorful noodle dish inspired by Hong Kong cuisine.",
+      "media": null,
+      "price": 215,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Noodles",
+      "description": "A savory and flavorful noodle dish with a bold and robust sauce.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ffb/def942de034aaebaf789a2212706affb.jpeg",
+      "price": 215,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Singapuri Noodles",
+      "description": "",
+      "media": null,
+      "price": 215,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg American Chopsuey",
+      "description": "A delicious dish served in a thick, sweet and sour, starch-based vegetable sauce with crispy fried noodles.",
+      "media": null,
+      "price": 210,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Chow-Chow",
+      "description": "",
+      "media": null,
+      "price": 215,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "description": "| Serves 1-2 | | Medium spicy |",
+      "media": "https://b.zmtcdn.com/data/dish_photos/04b/ec482516ed668c54019b3822046ac04b.jpeg",
+      "price": 210,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Noodles",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kshitij Special Fried Rice",
+      "description": "",
+      "media": null,
+      "price": 230,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Manchurian Fried Rice",
+      "description": "Savory and flavorful Chinese rice dish.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/473/59163b0579c5da48a738ce1d2f6cf473.jpeg",
+      "price": 210,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Fried Rice",
+      "description": "A savory and satisfying rice dish bursting with earthy mushroom flavor.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ae8/4638629f7e0973092324d35cfae1bae8.jpeg",
+      "price": 225,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Fried Rice",
+      "description": "An irresistibly savory fried rice dish with a unique twist.",
+      "media": null,
+      "price": 225,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "description": "A delicious main course of fragrant rice stir-fried with vegetables and savory spices from the Sichuan region of China.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ce6/2466d761c189ebc5e028feee9f4f8ce6.jpeg",
+      "price": 210,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Schezwan Rice",
+      "description": "A bold and flavorful veg rice dish with a Chinese twist.",
+      "media": null,
+      "price": 260,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-extra-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": "A flavorful and savory Chinese dish made with mixed vegetables and fried rice.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/814/b17956be9412c01c033c88cc606e5814.jpeg",
+      "price": 185,
+      "menuName": "Fried Rice And Noodles",
+      "categoryName": "Fried Rice",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baked Macaroni",
+      "description": "",
+      "media": null,
+      "price": 240,
+      "menuName": "Sizzlers And Baked Dishes",
+      "categoryName": "Baked Dish",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baked Spaghetti",
+      "description": "",
+      "media": null,
+      "price": 235,
+      "menuName": "Sizzlers And Baked Dishes",
+      "categoryName": "Baked Dish",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Baked Macaroni With Pineapple",
+      "description": "",
+      "media": null,
+      "price": 250,
+      "menuName": "Sizzlers And Baked Dishes",
+      "categoryName": "Baked Dish",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Au-Gratin",
+      "description": "",
+      "media": null,
+      "price": 235,
+      "menuName": "Sizzlers And Baked Dishes",
+      "categoryName": "Baked Dish",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Aloo Chaat",
+      "description": "Crispy puris stuffed with potato, onions, spicy chaat masala, tangy chutneys and plenty of creamy curd.",
+      "media": null,
+      "price": 130,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chana Chaat",
+      "description": "Chana chaat is a tasty, tangy and easy variety of chaat snack made with white chickpeas (chana or chole), spices, herbs, onions.",
+      "media": null,
+      "price": 130,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Chilli Toast",
+      "description": "Perfectly cooked noodles tossed in brown garlic with spring onion garnishing.",
+      "media": null,
+      "price": 100,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Pizza.",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chole Bhatoore",
+      "description": "A popular Indian snack that combines a spicy and fragrant chickpea curry with crispy, fluffy deep-fried bread.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/354/65eee7140d44ae610928adf2365e1354.jpeg",
+      "price": 200,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "medium-spicy",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Finger Chips With Cheese.",
+      "description": "",
+      "media": null,
+      "price": 125,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Finger Chips.",
+      "description": "",
+      "media": null,
+      "price": 100,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Italian Pizza.",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Jain Pizza.",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kshitij Special Pizza.",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mix Veg Pakoda.",
+      "description": "",
+      "media": null,
+      "price": 135,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mushroom Pizza.",
+      "description": "",
+      "media": null,
+      "price": 225,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Pakoda.",
+      "description": "",
+      "media": null,
+      "price": 185,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tomato Pizza.",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Pizza.",
+      "description": "",
+      "media": null,
+      "price": 210,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Cheese Sandwich.",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Snacks",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Boondi Raita",
+      "description": "A refreshing and creamy side salad with small fried crispy balls.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a0b/8e29cf58546a04a11180560fc8171a0b.jpeg",
+      "price": 85,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Masala Papad",
+      "description": "Serve 1 to 2",
+      "media": "https://b.zmtcdn.com/data/dish_photos/27e/e9e4572e07298947e24180fb220e927e.jpeg",
+      "price": 55,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fried Papad",
+      "description": "Papad fried in shallow oil",
+      "media": "https://b.zmtcdn.com/data/dish_photos/0ea/22e98f81dc696bfb733cc05abacd50ea.jpeg",
+      "price": 35,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Salad",
+      "description": "A refreshing and nutritious medley of fresh greens and vegetables tossed together in a light dressing.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c4a/f5c4e95b35339eae64982c1738894c4a.jpeg",
+      "price": 90,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kachumber Salad",
+      "description": "A refreshing mix of crisp vegetables tossed together in a zesty and tangy dressing, perfect for a light and flavorful meal.",
+      "media": null,
+      "price": 90,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Masala Papad",
+      "description": "A savory and aromatic vegetarian delight that brings excitement to your taste buds.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/675/fb699ed6cae025db6472bbcaf33d1675.jpeg",
+      "price": 45,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mixed Fruit Raita",
+      "description": "",
+      "media": null,
+      "price": 115,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Roasted Papad",
+      "description": "Crisp lentil papad served roasted or fried.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/44a/93bc374f8e1a50d3e6e5ab77ff68444a.jpeg",
+      "price": 30,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Pineapple Raita",
+      "description": "A tropical twist to a classic side dish, with the perfect blend of sweetness and tanginess.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3b4/48588895a7606fa6384b5f6f5badd3b4.jpeg",
+      "price": 95,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sev Masala Papad",
+      "description": "",
+      "media": null,
+      "price": 55,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tandoori Salad",
+      "description": "Tandoori Salad consists of mixed Vegetables and a simple Tandoori Dressing that is really just to good.",
+      "media": null,
+      "price": 110,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Raita",
+      "description": "A refreshing accompaniment made with mixed vegetables and yogurt.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d41/55c9c69b3e5c17649e8d42bafae27d41.jpeg",
+      "price": 85,
+      "menuName": "Accompaniments",
+      "categoryName": "Raita And Salad",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Fruit Salad Ice Cream",
+      "description": "",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gulab Jamun With Vanilla Ice Cream",
+      "description": "",
+      "media": null,
+      "price": 110,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "value-meal",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "value-meal",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hot Gulab Jamun",
+      "description": "[2 Pcs]",
+      "media": null,
+      "price": 90,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Hot Chocolate",
+      "description": "",
+      "media": null,
+      "price": 120,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Desserts",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "dessert",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Butterscotch Milkshake",
+      "description": "A sweet and decadent cake flavor that is sure to satisfy any sweet tooth.",
+      "media": null,
+      "price": 140,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Milk Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "description": "An ultimate bliss for all the chocolate lovers",
+      "media": "https://b.zmtcdn.com/data/dish_photos/945/131338dbbe60bcdebbcf38a876376945.jpeg",
+      "price": 130,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Milk Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Anjeer Milkshake",
+      "description": "A delicious and creamy shake made with cashews and figs.",
+      "media": null,
+      "price": 150,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Milk Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kaju Mango Milkshake",
+      "description": "Serves1",
+      "media": null,
+      "price": 145,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Milk Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kesar Pista Milkshake",
+      "description": "A refreshing milkshake made from milk, flavored with saffron and pista.",
+      "media": null,
+      "price": 140,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Milk Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Milkshake",
+      "description": "A fruity milkshake that's classic and refreshing.",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Milk Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "description": "Strawberry, Greek Yoghurt, Honey",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Milk Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Milkshake",
+      "description": "A classic flavor that is sweet and irresistible.",
+      "media": null,
+      "price": 130,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Milk Shakes",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Kshitij Special Lassi",
+      "description": "[Chef's Special]",
+      "media": null,
+      "price": 135,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Mango Flavoured Lassi",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Sweet Plain Lassi",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Salted Plain Lassi",
+      "description": "",
+      "media": null,
+      "price": 75,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Strawberry Flavoured Lassi",
+      "description": "",
+      "media": null,
+      "price": 95,
+      "menuName": "Desserts And Beverages",
+      "categoryName": "Drinks (Beverages)",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    }
+  ]
+}

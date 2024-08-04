@@ -1,0 +1,1936 @@
+{
+  "basicInfo": {
+    "name": "Cafe Coffee Day",
+    "cuisine_string": "Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts",
+    "canonicalUrl": "https://www.zomato.com/surat/cafe-coffee-day-adajan-gam/order"
+  },
+  "ratings": {
+    "DINING": {
+      "rating_type": "DINING",
+      "rating": "3.0",
+      "reviewCount": "50",
+      "reviewTextSmall": "50 Reviews",
+      "subtext": "50 Dining Reviews",
+      "color": "#1C1C1C",
+      "ratingV2": "3.0",
+      "subtitle": "DINING",
+      "sideSubTitle": "Dining Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "500"
+      },
+      "newOnDining": false
+    },
+    "DELIVERY": {
+      "rating_type": "DELIVERY",
+      "rating": "4.0",
+      "reviewCount": "690",
+      "reviewTextSmall": "690 Reviews",
+      "subtext": "690 Delivery Reviews",
+      "color": "#E23744",
+      "ratingV2": "4.0",
+      "subtitle": "DELIVERY",
+      "sideSubTitle": "Delivery Ratings",
+      "bgColorV2": {
+        "type": "green",
+        "tint": "700"
+      },
+      "newOnDelivery": false
+    }
+  },
+  "establishment": {
+    "city_id": 38,
+    "city_name": "Surat",
+    "country_id": 1,
+    "country_name": "India",
+    "zipcode": "",
+    "is_dark_kitchen": false,
+    "locality_verbose": "Riddhi Residency, Adajan Gam, Surat",
+    "latitude": "21.1963351911",
+    "longitude": "72.7849062905",
+    "static_map_url": "https://maps.zomato.com/php/staticmap?center=21.1963351911,72.7849062905&maptype=zomato&markers=21.1963351911,72.7849062905,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+    "address": "Riddhi Residency, Guru Ram Pavan Bhumi, LP Savani Road, Adajan Gam, Surat",
+    "is_phone_available": 1,
+    "phoneDetails": {
+      "title": "Phone Numbers",
+      "phoneStr": "+919601641800"
+    },
+    "res_chain_text": "See all 2 Cafe Coffee Day outlets in Surat",
+    "res_group_text": "",
+    "res_chain_url": "https://www.zomato.com/surat/restaurants/cafe-coffee-day",
+    "res_group_url": "",
+    "show_res_map": true
+  },
+  "items": [
+    {
+      "name": "Orange Mocha Shake",
+      "description": "A mouthwatering melange of chocolatey and citrusy flavours, mixed with creamy coffee. Serving Size(gm/ml) - 350, Energy (kcal) - 388.4, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e53/079443dafd16843cd2d4aef4bfb86e53.jpeg",
+      "price": 369,
+      "menuName": "Summer Of 24-New Launch!",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tropical Delight",
+      "description": "Sip the ultimate mango refresher curated with virgin mulled wiine, citrusy lemon notes and lots of love. Serving Size(gm/ml) - 300, Energy (kcal) - 188.2",
+      "media": "https://b.zmtcdn.com/data/dish_photos/39f/6dda98c2b97df9b3dc1447ff57a7439f.jpeg",
+      "price": 309,
+      "menuName": "Summer Of 24-New Launch!",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dark N Intense Choco Shake",
+      "description": "A sinful indulgence of rumm and raisin flavours, blended into a rich choco shake. Serving Size(gm/ml) - 350, Energy (kcal) - 385.8, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f7d/3e394fcb1dbc772e730fd1adfa30bf7d.jpeg",
+      "price": 369,
+      "menuName": "Summer Of 24-New Launch!",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Cappuccino",
+      "description": "The flavourful hazelnut brings a new twist to your favorite cappuccino. Serving Size(gm/ml) - 250, Energy (kcal) - 229.71, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/00b/249c09e0942fdc744013133fa9d7c00b.jpg",
+      "price": 269,
+      "menuName": "Top Picks - Must Try",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Garlic Bread N Gourmet Hot Chocolate",
+      "description": "New Launch Alert - Peri Peri Garlic Bread along with Gourmet Belgian Hot Chocolate make this an irresistible combo at special price",
+      "media": "https://b.zmtcdn.com/data/dish_photos/15f/7511d6295e441e764b3d851f9265515f.jpg",
+      "price": 403,
+      "menuName": "Top Picks - Must Try",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Toastizza N King Cappuccino",
+      "description": "New Launch Alert -  Paneer Toasty meets Pizza for Toastizza along with all time favorite King Cappuccino make this a world cup special combo at attractive price",
+      "media": "https://b.zmtcdn.com/data/dish_photos/cb6/af2eedaa4eec61b071885dc7b86a9cb6.jpg",
+      "price": 502,
+      "menuName": "Top Picks - Must Try",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino N Cookie",
+      "description": "Delicious crunchy cookies served with regular cappuccino to enhance your beverage experience. Serving Size(gm/ml) - 250, Energy (kcal) - 128.9 Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/35e/39a97ef0887aa6670de463e2c191b35e.jpeg",
+      "price": 245,
+      "menuName": "Top Picks - Must Try",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Latte N Cookie",
+      "description": "Delicious crunchy cookies served with regular latte to enhance your beverage experience. Serving Size(gm/ml) - 250, Energy (kcal) - 131.9 Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/35e/39a97ef0887aa6670de463e2c191b35e.jpeg",
+      "price": 245,
+      "menuName": "Top Picks - Must Try",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "King Latte",
+      "description": "Light, hot coffee, with 2 shots of espresso in steamed milk., Serving Size(gm/ml) - 350, Energy (kcal) - 184.66 Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d03/9a5db9f3e8b62cf8b0d7d820684acd03.jpg",
+      "price": 269,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "King Cappuccino",
+      "description": "Two shots of Italian styled espresso, evened out with steamed and foamed milk., Serving Size(gm/ml) - 350, Energy (kcal) - 180.46 Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/63d/e439933617fafc7140b3b569e2cca63d.jpg",
+      "price": 259,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Latte",
+      "description": "Our Cafe Latte, enhanced with the delicate and subtle flavour of Vanilla., Serving Size(gm/ml) - 250, Energy (kcal) - 227.5 Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/db9/c808d41bec20185386e332b6cda60db9.jpg",
+      "price": 279,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Cappuccino",
+      "description": "Our Classic Cappuccino, enhanced with the delicate and subtle flavour of Vanilla., Serving Size(gm/ml) - 250, Energy (kcal) - 231.35 Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/db9/c808d41bec20185386e332b6cda60db9.jpg",
+      "price": 269,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "description": "A strong shot of Italian styled espresso, evened out with steamed and foamed milk., Serving Size(gm/ml) - 250, Energy (kcal) - 128.9 Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/63d/e439933617fafc7140b3b569e2cca63d.jpg",
+      "price": 229,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Mocha",
+      "description": "Warm your heart with an espresso layered with chocolate sauce `200 (210ml | 129.05kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/851/7ed3c80ac752c545141954278541c851.jpg",
+      "price": 249,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Latte",
+      "description": "Light, hot coffee, with a shot of espresso in steamed milk., Serving Size(gm/ml) - 250, Energy (kcal) - 131.9 Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d03/9a5db9f3e8b62cf8b0d7d820684acd03.jpg",
+      "price": 239,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Americano",
+      "description": "(STANDARD/ STRONG) Shots of espresso in hot water to shoot those blues `181 (180ml | 7.27kcal) (180ml | 17.06kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/30b/6071ae7d4d741657d0aaf667a271b30b.jpg",
+      "price": 219,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Filter Coffee",
+      "description": "Classic South Indian style coffee you canât resist `171 (230ml | 133.24kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/397/402087030713496de7e7b7cbe49d1397.jpg",
+      "price": 229,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Espresso Shot",
+      "description": "Power up your day with our all-time favourite black coffee `162 (30ml | 5.81kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dbe/0e24b83336ec57891354ef7bdc0dbdbe.jpg",
+      "price": 179,
+      "menuName": "Hot Coffee Selections",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Irish Latte",
+      "description": "Get high on caffeine with this irish latte. Serving Size(gm/ml) - 250, Energy (kcal) - 221.08, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a9b/827a3241c67b35be9e4a99b6ab12da9b.jpg",
+      "price": 279,
+      "menuName": "Hot Special Flavorful Beverages",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Irish Hot Chocolate",
+      "description": "A blend of irish flavour, gourmet belgian dark chocolate and milk to tingle your taste buds. Serving Size(gm/ml) - 200, Energy (kcal) - 252.93, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/10c/59a9de895d0e5f5e48865bdff0bf410c.jpg",
+      "price": 309,
+      "menuName": "Hot Special Flavorful Beverages",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Irish Coffee",
+      "description": "Layered black coffee, stretched espresso flavored with Irish cream syrup. Topped with whipped cream. Serving Size(gm/ml) - 200, Energy (kcal) - 189.54, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/218/5c0f5320015d3331374bd03726c04218.jpg",
+      "price": 279,
+      "menuName": "Hot Special Flavorful Beverages",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Irish Cappuccino",
+      "description": "Get high on caffeine with this irish cappuccino. Serving Size(gm/ml) - 250, Energy (kcal) - 228.26, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9c2/64b5b189c683a474a507c4bac88a69c2.jpg",
+      "price": 269,
+      "menuName": "Hot Special Flavorful Beverages",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Latte",
+      "description": "The flavourful hazelnut brings a new twist to your favorite Latte. Serving Size(gm/ml) - 250, Energy (kcal) - 222.4, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eee/dab93aceb8caebf59dbec81ce69a8eee.jpg",
+      "price": 279,
+      "menuName": "Hot Special Flavorful Beverages",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Hot Chocolate",
+      "description": "A blend of hazelnut flavour, gourmet belgian dark chocolate and milk to tingle your taste buds. Serving Size(gm/ml) - 200, Energy (kcal) - 261.15, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/18f/2e5a5e8fc43ebb50e513355a8ae8e18f.jpg",
+      "price": 309,
+      "menuName": "Hot Special Flavorful Beverages",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gourmet Belgian Hot Chocolate",
+      "description": "Because we love Belgian chocolate as much as you do\n`200 (180ml | 173.97kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4f8/b56bfed3342eee0727e0bfe2e55004f8.jpg",
+      "price": 269,
+      "menuName": "Hot Special Flavorful Beverages",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Filter Coffee N Chilli Cheese Toast",
+      "description": "Save 7% with combo of iced filter coffee and chilli cheese toast",
+      "media": "https://b.zmtcdn.com/data/dish_photos/193/542fbd48830b282ddcd763f67e07a193.jpg",
+      "price": 403,
+      "menuName": "Meal Box",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Veg Slider Cappuccino Combo",
+      "description": "Save 7% with combo of cappuccino and delicious veg slider",
+      "media": "https://b.zmtcdn.com/data/dish_photos/707/3e119d2cf86f9fd10f5d4d6e9c483707.jpg",
+      "price": 412,
+      "menuName": "Meal Box",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cappuccino n Paneer Tikka Sandwich",
+      "description": "Save 13% with combo of cappuccino and paneer tikka chipotle sandwich",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9bd/74edc5cf5cb6edddd30960275914e9bd.jpg",
+      "price": 439,
+      "menuName": "Meal Box",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Croissant Cappuccino Combo",
+      "description": "Save 16% with combo of cappuccino and small bite croissant",
+      "media": "https://b.zmtcdn.com/data/dish_photos/79b/ef9b58758e968df65355cc73f4a2179b.jpg",
+      "price": 367,
+      "menuName": "Meal Box",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spinach n Corn Cheese Sandwich",
+      "description": "Spinach and corn with melted cheese, served in a soft chipotle bread, Serving Size(gm/ml) - 150, Energy (kcal) - 351 , Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9ac/539a5274c68278eedfa5f2380f4f79ac.jpg",
+      "price": 239,
+      "menuName": "Crunchy Burger And Crispy Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Sandwich",
+      "description": "Traditional paneer tikka with crunchy salad and mayo in a chipotle bread, Serving Size(gm/ml) - 165, Energy (kcal) - 376.18 , Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fdb/88b3e5b5ebdcda49bb175f75f76b5fdb.jpg",
+      "price": 259,
+      "menuName": "Crunchy Burger And Crispy Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Oregano Garlic Bread",
+      "description": "Zesty oregano generously sprinkled over flavorful garlic bread. Serving Size(gm/ml) - 70, Energy (kcal) - 247.73, Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/54a/175f9b004fec47b22ddd346eab6e654a.jpg",
+      "price": 179,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Toasty Paneer Garlic Bread",
+      "description": "Garlic bread topped with spicy paneer tikka and cheese, Serving Size(gm/ml) - 100, Energy (kcal) - 338.7 , Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/350/20c3c4ad1095bc2df263f56d68649350.jpg",
+      "price": 198,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spinach n Corn Garlic Bread",
+      "description": "The delicious duo on garlic bread helps make your coffee break delightful `124 (100g | 277.91kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6a7/db7b0c449cb020f2f20f8a42b38796a7.jpg",
+      "price": 198,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Spicy Mozzarella Garlic Bread",
+      "description": "Creamy mozzarella with a spicy zing to create the most delectable garlic bread ever. Serving Size(gm/ml) - 135, Energy (kcal) - 307.47, Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/962/90c968fb3a3a78e37765bd98810a8962.jpg",
+      "price": 249,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peri Peri Garlic Bread",
+      "description": "We have added a spicy peri peri twist to your comforting garlic bread. Truly a must try. Serving Size(gm/ml) - 70, Energy (kcal) - 246.2, Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c99/d095f745ae8d1c13dee90a9639c5cc99.jpg",
+      "price": 179,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Paneer Mozzarella Toastizza",
+      "description": "Herbed cottage cheese plus generously sprinkled mozzarella cheese on a toast. It is going to be so filling. Serving Size(gm/ml) - 175, Energy (kcal) - 451.57 , Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/634/5fec933ce172aa820dd9e6fa76231634.jpg",
+      "price": 299,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chilli Cheese Toast",
+      "description": "The toast to raise when your hunger's ablaze `114 (50g | 113kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a4e/f133296406ec894fcecf2aa3ace77a4e.jpg",
+      "price": 189,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheesy Mozzarella Garlic Bread",
+      "description": "When your garlic bread gets cheesier with mozzarella, life just feels better. Serving Size(gm/ml) - 100, Energy (kcal) - 333.93, Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fff/f1786a2d4a0a1fe6f0825daf276eefff.jpg",
+      "price": 249,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "A dish so classic, it's a perfect +1 for every drink in our menu `105 (80g | 298.22kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/99a/0ff31a04367e075de08fb16af34f099a.jpg",
+      "price": 189,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Chilli Cheese Toast",
+      "description": "Get cheesy with this two servings of crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes. Serving Size(gm/ml) - 100, Energy (kcal) - 226, Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ec4/3689b779998da865ee925722a1bd1ec4.png",
+      "price": 289,
+      "menuName": "Toastizzas And Garlic Breads - New",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Decker Spinach Corn N Cheese Sandwich",
+      "description": "The most popular double decker sandwich with one layer of tomato and cheese and base layer of onion, cheese and spinach corn filling. Serving Size(gm/ml) - 200, Energy (kcal) - 416.88, Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8a8/5def261bada2fe6c14b1a8bf0dd548a8.jpg",
+      "price": 309,
+      "menuName": "Double Decker Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Decker Paneer Tikka Sandwich",
+      "description": "Satiate your hunger with this double decker sandwich made with traditional paneer tikka, crunchy salad, mayo and a second layer of cheese and tomatoes served in a chipotle bread. Serving Size(gm/ml) - 180, Energy (kcal) - 449.45, Contains Gluten, Contains Milk, Contains Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f94/27e66b371ddbb8aa9eef6a2273674f94.jpg",
+      "price": 299,
+      "menuName": "Double Decker Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Decker Cheese N Tomato Sandwich",
+      "description": "When one is not enough for those hunger pangs, you get two decks of mayo, cheese and tomatoes in a chipotle bread. Serving Size(gm/ml) - 160, Energy (kcal) - 362.41, Contains Gluten, Contains Milk, Contains Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ab0/dd62ba996f621a81be4f95f9a2ed8ab0.jpg",
+      "price": 259,
+      "menuName": "Double Decker Sandwiches",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Frappe",
+      "description": "Hazelnut brings nutty flavor to the rich, creamy and irresistible Cafe Frappe. Serving Size(gm/ml) - 350, Energy (kcal) - 332.90, Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b56/2f3156ff09ad5017b28de9d978d3cb56.jpg",
+      "price": 319,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Vanilla Frappe",
+      "description": "Vanilla Cafe Frappe is an all time delight with rich and creamy texture and irresistible mouth feel. Serving Size(gm/ml) - 350, Energy (kcal) - 311.96, Contains Milk.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/052/77c19f012ffed5b25cd185a728541052.jpg",
+      "price": 319,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tropical Ice Berg",
+      "description": "Have a sip of the most delicious brain freeze with chocolate notes\n`219 (350ml | 322.67kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/312/9aa7fecdfb237a0f277a909ca43c6312.jpg",
+      "price": 269,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Tiramisu Frappe",
+      "description": "Escape into an icy summer with our signature frappe blended with tiramisu flavor. Serving Size(gm/ml) - 350, Energy (kcal) - 381.5, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/166/caa03d361a90e92a51de98f1b7618166.jpg",
+      "price": 319,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Signature Cold Coffee",
+      "description": "You can never go wrong with the classic cold coffee\n`229 (300ml | 227.52kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/eba/3b10f50aa0638a4630acf0af72f93eba.jpg",
+      "price": 269,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "packaged",
+        "non-refundable",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Dark Frappe",
+      "description": "When chocolate meets cold coffee, the colour gets darker. Your mood, lighter `257 (350ml | 344.16kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/1e1/49a01f2f895d82d9d2b2327aa30a71e1.jpg",
+      "price": 319,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Caramel Frappe",
+      "description": "A creamy blend of our signature frappe and sweet caramel to beat the summer heat with. Serving Size(gm/ml) - 350, Energy (kcal) - 409.5, Contains Gluten, Contains Milk, Contains Nuts",
+      "media": "https://b.zmtcdn.com/data/dish_photos/063/a0cad64e4664d167256936ac28826063.jpg",
+      "price": 319,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Frappe",
+      "description": "Our signature cream-blended cold coffee to blend you with good vibes\n`238 (350ml | 335.48kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/597/bbe2b599762ad27ef2c2988be5bc6597.jpg",
+      "price": 284,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Crunchy Frappe",
+      "description": "Some eat an oreo. Some dunk it. Some frappe it and do both`257 (350ml | 541.59kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/8f0/ef4a7bf3bc35a0678dcee1609784e8f0.jpg",
+      "price": 319,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cold Devils Own",
+      "description": "A drink so rich and indulgent, that it may even take the devil to paradise `276 (350ml | 382.66kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a43/a9c471b0bed2891d20d75108fcd46a43.jpg",
+      "price": 329,
+      "menuName": "Cold Coffee Delights",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "description": "Enjoy the citrusy punch in an iced tea to cool you off, quench your thirst or for your casual sip. Serving Size(gm/ml) - 300, Energy (kcal) - 156",
+      "media": "https://b.zmtcdn.com/data/dish_photos/f5d/ea2c0a43444189e85729a537486d1f5d.jpg",
+      "price": 229,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Berry Mojito",
+      "description": "Experience a delightful symphony of flavors with this blend of summer berries, delivering a tangy and refreshing taste like breezy summer days. Serving Size(gm/ml) - 300, Energy (kcal) - 122.07",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dc7/6a68008f264cec05d3fdd62248267dc7.jpeg",
+      "price": 279,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Berry Milkshake",
+      "description": "Taste the richness of red berries in this thick and creamy milkshake, providing a burst of summer sweetness with every sip. Serving Size(gm/ml) - 350, Energy (kcal) - 352.86",
+      "media": "https://b.zmtcdn.com/data/dish_photos/80c/b75137b511eece4d0bacb7be132f980c.jpeg",
+      "price": 359,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Green Apple Refresher",
+      "description": "Dive into the refreshing taste of green apples, offering a crisp and energising escape from the summer heat. Serving Size(gm/ml) - 300, Energy (kcal) - 121.82",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9d3/e526912a506e64f8feecc56c1a2e69d3.jpeg",
+      "price": 279,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Belgian Chocolate Milkshake",
+      "description": "Treat yourself to the rich flavour of Belgian chocolate, offering a creamy and satisfying experience that is sure to satisfy your sweet cravings. Serving Size(gm/ml) - 350, Energy (kcal) - 340.4",
+      "media": "https://b.zmtcdn.com/data/dish_photos/ed3/5e120d0d22aaeb24ceab04eb887e1ed3.jpeg",
+      "price": 359,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Alphonso Mango Milkshake",
+      "description": "Indulge in the pulpy texture and exotic sweetness of Alphonso mangoes, transporting you to a tropical paradise with every sip of this delicious milkshake. Serving Size(gm/ml) - 350, Energy (kcal) - 380.76",
+      "media": "https://b.zmtcdn.com/data/dish_photos/10f/4359e32b0513106f61d9a72d2b40e10f.jpeg",
+      "price": 359,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gourmet Belgian Cold Chocolate",
+      "description": "Love Belgian chocolate as much as we do? Hereâs the perfect frappe for you `248 (350ml | 345.84kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b8f/d8d09779b5d822a22ed7a9d3c9f8bb8f.jpg",
+      "price": 319,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cucumber Mint Mojito",
+      "description": "Refresh your senses with a combination of cucumber and mint, a perfect drink to cruise through the summer heat. Serving Size(gm/ml) - 300, Energy (kcal) - 137.37",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9cb/3785f4d80ce31f67233e67a6b504a9cb.jpeg",
+      "price": 279,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Lemonade",
+      "description": "Whether life gives you lemons or not, a lemonade is always a good idea`190 (350ml | 145.78kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/a3e/16755833bae4b9e49ad61cf9e7cf4a3e.jpg",
+      "price": 229,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Watermelon Mojito",
+      "description": "The watermelon way to quench your thirst this summer `190 (350ml | 190.4kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/857/a136b9f0f99b851eb5b878c853a70857.jpg",
+      "price": 229,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Peach Iced Tea",
+      "description": "An iced tea with peachy freshness. Serving Size(gm/ml) - 300, Energy (kcal) - 143.1",
+      "media": "https://b.zmtcdn.com/data/dish_photos/586/632f6e416cac59d6f0f0ec12b24fd586.jpg",
+      "price": 229,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Watermelon Granita",
+      "description": "The citrusy and slushy love from a watermelon\n`190 (350ml | 161kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/535/96452ebbb5bcc8a7c3f3b964f41cd535.jpg",
+      "price": 229,
+      "menuName": "Refreshing Quenchers",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Red Velvet Cake (740 g)",
+      "description": "Soft red sponge and decadent creamy cheese, indulges your taste buds in this Red Velvet cake. Serving Size(gm/ml) - 100, Energy (kcal) - 274.22 , Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3a3/4b91f85c3a8146e0f8c0b577204cb3a3.jpg",
+      "price": 699,
+      "menuName": "Celebration Cake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Dutch Truffle Cake (730 g)",
+      "description": "Tangy orange flavored, creamy truffle topped, delightful cocoa cake laced with a delicious ganache glaze. Serving Size(gm/ml) - 100, Energy (kcal) - 366.25 , Contains Gluten, Contains Milk, Contains Soy",
+      "media": "https://b.zmtcdn.com/data/dish_photos/561/391b4c700967bcac5ba8553c94cb2561.jpg",
+      "price": 699,
+      "menuName": "Celebration Cake",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "special-fleet",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Signature Choco Fantasy",
+      "description": "So chocolatey and creamy, our signature chocolate ganache feels paradisey `190 (120g | 450.27kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/60c/23a4143b15a8d16d3506fc99a330a60c.jpg",
+      "price": 259,
+      "menuName": "Delightful Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Muffin",
+      "description": "The best choice when you want food but chocolate is the mood`133 (100g | 404.21kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/c24/00d199d7595ed3331793d08d6b033c24.jpg",
+      "price": 194,
+      "menuName": "Delightful Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "restaurant-recommended",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Hazelnut Brownie",
+      "description": "The only time Hazelnut wins against the chocolate brownie`171 (95g | 321.19kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/501/25cfcfd9e679a3086a4c8b3d65033501.jpg",
+      "price": 249,
+      "menuName": "Delightful Desserts",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Chocolate Croissant",
+      "description": "A pair of sweet croissants with choco hugs`181 (80g | 598.91kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/934/3d678c9c73bdb32b8e13c50edabee934.jpg",
+      "price": 219,
+      "menuName": "Croissants Reloaded",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cheese Tomato Croissant Slider",
+      "description": "Enjoy delicious bite of tomato and cheese stuffed in a pair of croissants. Serving Size(gm/ml) - 130, Energy (kcal) - 426.4, Contains Gluten, Contains Milk, Contains Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e33/baac35cc640a77398d45c3c822ae8e33.jpg",
+      "price": 229,
+      "menuName": "Croissants Reloaded",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Croissant",
+      "description": "These twin flaky croissants are the perfect accompanimentto your coffee break `143 (60g | 259.56kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/d82/60224c3e632041772a68b3236b457d82.jpg",
+      "price": 179,
+      "menuName": "Croissants Reloaded",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Classic Hot Fudge Sundae",
+      "description": "Enjoy the goodness of vanilla ice cream and nuts dripping\nwith the sinful hot fudge sauce `190 (180g | 499.14kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/6db/8fb3e2ea0bef6f3a7178014c29f566db.jpg",
+      "price": 289,
+      "menuName": "Sinful Sundaes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Choco Nirvana Sundae",
+      "description": "Rich chocolate pastry, choco fudge, vanilla and choco ice cream. Its the best of 3 worlds. Serving Size(gm/ml) - 250, Energy (kcal) - 638.5, Contains Gluten, Contains Milk, Contains Nuts, Contains Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/241/8f1eebffa365a5b8ebbc73f278005241.jpg",
+      "price": 329,
+      "menuName": "Sinful Sundaes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gooey Fudgy Brownie Sundae",
+      "description": "Brownie or fudge? Indulge in both as we spoil you with servings of vanilla and choco ice cream",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b11/ba5cd34d7557dc94213f5c816df68b11.jpg",
+      "price": 319,
+      "menuName": "Sinful Sundaes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "veg"
+      ]
+    },
+    {
+      "name": "Death By Chocolate Sundae",
+      "description": "Rich chocolate pastry with extra warm choco fudge, vanilla ice cream, topped with nuts.  Serving Size(gm/ml) - 300, Energy (kcal) - 954.35, Contains Gluten, Contains Milk, Contains Nuts, Contains Soy.",
+      "media": "https://b.zmtcdn.com/data/dish_photos/e09/d28d9df439b5072167e861bd748e5e09.png",
+      "price": 369,
+      "menuName": "Sinful Sundaes",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Filter Coffee Sugar Free",
+      "description": "Rich espresso with steamed milk, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 86.66, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/18a/0e5e14176cc3058bbb98d27d0305818a.jpg",
+      "price": 259,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Mocha",
+      "description": "Little chocolate, lots of coffee, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 153.09, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/05c/a72177582c500616e68572a11f13505c.jpg",
+      "price": 269,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Latte Sugar Free",
+      "description": "Rich espresso, steamed milk with sugarfree, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 91.13, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b36/763f6482acee077d38d29f7ec2115b36.jpg",
+      "price": 259,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Latte No Sugar",
+      "description": "Rich espresso, steamed milk with sugarfree, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 91.40, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b36/763f6482acee077d38d29f7ec2115b36.jpg",
+      "price": 259,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Latte",
+      "description": "Rich espresso with steamed milk, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 135.84, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/b36/763f6482acee077d38d29f7ec2115b36.jpg",
+      "price": 259,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Filter Coffee No Sugar",
+      "description": "Rich espresso with steamed milk, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 86.91, Contains Milk",
+      "media": "https://b.zmtcdn.com/data/dish_photos/18a/0e5e14176cc3058bbb98d27d0305818a.jpg",
+      "price": 259,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Filter Coffee",
+      "description": "The classic South Indian style coffee goes cool (REGULAR/ SUGAR-FREE/ NO SUGAR) `219 (350ml | 154.19kcal) (350ml | 101.1kcal) (350ml | 101.39kcal)",
+      "media": "https://b.zmtcdn.com/data/dish_photos/18a/0e5e14176cc3058bbb98d27d0305818a.jpg",
+      "price": 259,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Americano Sugar Free",
+      "description": "Single shot of espresso with sugarfree and ice cold water make an addictive beverage to beat the heat, Serving Size(gm/ml) - 300, Energy (kcal) - 4.97",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9bb/f57083cd0b2e2f526ec7852d08e269bb.jpg",
+      "price": 229,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Americano No Sugar",
+      "description": "Single shot of espresso without sugar and ice cold water make an addictive beverage to beat the heat, Serving Size(gm/ml) - 300, Energy (kcal) - 4.98",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9bb/f57083cd0b2e2f526ec7852d08e269bb.jpg",
+      "price": 229,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Iced Americano",
+      "description": "Single shot of espresso and ice cold water make an addictive beverage to beat the heat, Serving Size(gm/ml) - 300, Energy (kcal) - 52.48",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9bb/f57083cd0b2e2f526ec7852d08e269bb.jpg",
+      "price": 229,
+      "menuName": "Iced Coffees",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Triple Treat Veg Cold",
+      "description": "Save Rs 220 with this Triple combo of Cafe Frappe, Spinach N Corn Chipotle Sandwich N Hazelnut Brownie",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9fa/1bcf077e50b654d120cf5ef7c2f8b9fa.jpg",
+      "price": 617,
+      "menuName": "Triple Treat Min. 160 Off !",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-spicy",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-spicy",
+        "veg"
+      ]
+    },
+    {
+      "name": "Americano Mini Flask (360ml, Serves 3 to 4)",
+      "description": "Activating, black coffee with two shots of espresso., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fc7/9e4a3bf70b627cf316ab634fb5e24fc7.jpg",
+      "price": 394,
+      "menuName": "Flask",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Latte Mini Flask (500ml, Serves 3 to 4)",
+      "description": "Light, hot coffee, with 2 shots of espresso in steamed milk., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle",
+      "media": "https://b.zmtcdn.com/data/dish_photos/5b0/3d9176b4da8fcfb72514e0bda6dd15b0.jpg",
+      "price": 429,
+      "menuName": "Flask",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Cafe Frappe Mega Flask (700ml, Serves 3 to 4)",
+      "description": "The rich, creamy and irresistible Cafe Frappe that is an all time favourite, Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle",
+      "media": "https://b.zmtcdn.com/data/dish_photos/52a/bf70164ffd16700d63b692accf72352a.jpg",
+      "price": 513,
+      "menuName": "Flask",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Gourmet Belgian Hot Chocolate Mini Flask (420ml, Serves 3 to 4)",
+      "description": "This sinful brew is a blend of gourmet Belgian dark chocolate and milk., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle",
+      "media": "https://b.zmtcdn.com/data/dish_photos/fa3/df776dbc3f40f3c87f40c4ecc3fa5fa3.jpg",
+      "price": 484,
+      "menuName": "Flask",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Filter Coffee Mini Flask (460ml, Serves 3 to 4)",
+      "description": "A classic South Indian style coffee, which will remind you of Chikmagalurs coffee plantations., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4bc/3d7a4ad0e3e55d6429de60ae8d2884bc.jpg",
+      "price": 412,
+      "menuName": "Flask",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Filter Coffee Mega Flask (690ml, Serves 5 to 6)",
+      "description": "A classic South Indian style coffee, which will remind you of Chikmagalurs coffee plantations., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle",
+      "media": "https://b.zmtcdn.com/data/dish_photos/4bc/3d7a4ad0e3e55d6429de60ae8d2884bc.jpg",
+      "price": 549,
+      "menuName": "Flask",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Storm Energy Drink Pack of 6 (250ml each)",
+      "description": "Get a boost of energy, from this refreshing and rejuvenating drink which will boost your energy level",
+      "media": "https://b.zmtcdn.com/data/dish_photos/3fd/d996058fb7f75296168369e3e45ca3fd.jpg",
+      "price": 857,
+      "menuName": "Ready To Drink",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "veg"
+      ]
+    },
+    {
+      "name": "Honey And Oatmeal Cookies Twin Pack (150gm each)",
+      "description": "Enjoy the crunch of real honey and oats in these perfectly baked cookies",
+      "media": "https://b.zmtcdn.com/data/dish_photos/9b9/7c512d072ca09791cf8c87ea78ab39b9.jpg",
+      "price": 381,
+      "menuName": "Cookies N Chips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "sf-not-vegan",
+        "veg"
+      ]
+    },
+    {
+      "name": "Double Choco Chip Cookies Twin Pack (150gm each)",
+      "description": "Delicious and crunchy these cookies are the perfect coffee mate",
+      "media": "https://b.zmtcdn.com/data/dish_photos/dbd/9afd5cd3581f071f88359bb78fc7ddbd.jpg",
+      "price": 381,
+      "menuName": "Cookies N Chips",
+      "categoryName": "",
+      "slugs": [
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "delivery-enabled",
+        "delivery-enabled",
+        "veg",
+        "services",
+        "sf-no-onion",
+        "sf-no-garlic",
+        "sf-kid-friendly",
+        "veg"
+      ]
+    }
+  ]
+}

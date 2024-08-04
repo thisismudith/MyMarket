@@ -91,7 +91,7 @@ export default function queryResults() {
 		title: "Avg Pricing vs Rating",
 	};
 
-	var smth = Object.values(
+	const smth = Object.values(
 		data.reduce((acc, curr) => {
 			acc[`${curr.lat}|${curr.lon}`] = acc[`${curr.lat}|${curr.lon}`] || { price: 0, lat: curr.lat, lon: curr.lon, count: 0 };
 			acc[`${curr.lat}|${curr.lon}`].price += curr.price;
@@ -119,6 +119,15 @@ export default function queryResults() {
 
 				<h2>Average Pricing: ₹ {(data.reduce((acc, cur) => acc + cur.price, 0) / data.length).toFixed(2)}</h2>
 				<h2>Average Rating: ★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</h2>
+
+				<p>
+					For your query, we found <span className="highlight">{data.length}</span> dishes spread over <span className="highlight">{smth.length}</span> restraunts. These dishes had the average price
+					of <span className="highlight">₹ {(data.reduce((acc, cur) => acc + cur.price, 0) / data.length).toFixed(2)}</span> and maintained an average rating of{" "}
+					<span className="highlight">★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</span>. Do note the fact that all the restraunts had an average of{" "}
+					<span className="highlight">{(smth.reduce((acc, cur) => acc + cur.count, 0) / smth.length).toFixed(2)}</span> dishes and minimum{" "}
+					<span className="highlight">{Math.min(...smth.map((items) => items.count))}</span> for this query. Some restraunt also had as many as{" "}
+					<span className="highlight">{Math.max(...smth.map((items) => items.count))}</span>
+				</p>
 			</div>
 
 			<h1>Here are the results of your query</h1>

@@ -22,3 +22,7 @@
 		@apply text-neutral-700 mx-3 font-semibold text-sm truncate;
 	}
 }
+
+span.highlight {
+	@apply bg-[#f9fbfd] border border-[#e3ebf6] rounded-md px-1;
+}

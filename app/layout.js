@@ -1,5 +1,8 @@
 import { Inter } from "next/font/google";
+import Image from "next/image";
 import "./globals.css";
+import { Icon } from "@iconify/react";
+import SearchBox from "@/app/providers/search";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -11,7 +14,22 @@ export const metadata = {
 export default function RootLayout({ children }) {
 	return (
 		<html lang="en">
-			<body className={inter.className}>{children}</body>
+			<body className={inter.className}>
+				<div className="Navigation">
+					<div className="left">
+						<Image src="https://picsum.photos/100/100" alt="Book Club" width={50} height={50} />
+						<a href="/">MyMarket</a>
+					</div>
+					<SearchBox />
+					<div className="right">
+						<Icon icon="iconamoon:enter" width="1.2em" height="1.2em" />
+						<a className="SignUp" href="/signup">
+							Sign up
+						</a>
+					</div>
+				</div>
+				{children}
+			</body>
 		</html>
 	);
 }

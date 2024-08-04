@@ -177,6 +177,83 @@ def extractRestraunts():
 		
 		save_data(processed, f'processed/{cityName}/{href[2]}.json')
 
+def downloadRestraunt(clickURL):
+	...
 
 
-extractRestraunts()
+def getRestraunts():
+	country, cityName = 'india', 'surat'
+	city = orjson.loads(Path(f'raw/{country}/{cityName}.json').read_text(encoding='utf-8'))
+	search = city['pages']['current']['pageUrl']
+	restraunts = city['pages']['search'][search]['sections']['SECTION_SEARCH_RESULT']
+
+	for restraunt in restraunts:
+		if restraunt['type'] != 'restaurant': continue
+		print(f" ⇢ Downloading {restraunt['info']['name']}")
+		downloadRestraunt(restraunt['cardAction']['clickUrl'])
+
+	# Just to freshen things up
+	url = f"https://www.zomato.com{search}"
+	_, response_content = request(url, common_headers)
+	data = extract_preloaded(response_content)
+
+	searchMetaData = data['pages']['search'][search]['sections']['SECTION_SEARCH_META_INFO']['searchMetaData']
+	del searchMetaData['filterInfo']
+
+	filters = {
+		'appliedFilter': [
+			{"filterType": 'category_sheet', "filterValue": 'go_out_home', "isHidden": True, "isApplied": True, "postKey": '{"category_context":"go_out_home"}'},
+			{"filterType": 'context', "filterValue": 'dineout_home', "isHidden": True, "isApplied": True, "postKey": '{"context":"dineout_home"}'}
+		],
+		'dineoutAdsMetaData': {},
+		'searchMetadata': orjson.dumps(searchMetaData).decode('utf-8'),
+		'urlParamsForAds': {}
+	}
+
+	sections = data['pages']['search'][search]['sections']
+	location = data['location']['currentLocation']
+
+	place = sections['SECTION_POPULAR_LOCATIONS']['locations'][0]['name'] + ', ' + location['cityName']
+	payload = {
+		"context":"dineout",
+		"filters": orjson.loads(orjson.dumps(filters)),
+		"addressId":0,
+		"entityId":sections['SECTION_POPULAR_LOCATIONS']['locations'][0]['subzone_id'],
+		"entityType":"subzone",
+		"locationType":"",
+		"isOrderLocation":1,
+		"cityId":location['cityId'],
+		"latitude":location['latitude'],
+		"longitude": location['longitude'],
+		"userDefinedLatitude":21.144356,
+		"userDefinedLongitude":72.771468,
+		"entityName": place,
+		"orderLocationName": place,
+		"cityName":location['cityName'],
+		"countryId":1,
+		"countryName":"India",
+		"displayTitle":place,
+		"o2Serviceable":True,
+		"placeId":"ChIJmwQr-XZS4DsR7pdY7TQn-1g",
+		"cellId": location['cellId'],
+		"deliverySubzoneId":location['deliverySubzoneId'],
+		"placeType":"GOOGLE_PLACE",
+		"placeName":place,
+		"isO2City":True,
+		"fetchFromGoogle":False,
+		"fetchedFromCookie":True,
+		"isO2OnlyCity":False,
+		"address_template":[],
+		"otherRestaurantsUrl":""
+	}
+
+	_, response_content = request("https://www.zomato.com/webroutes/search/home", common_headers, orjson.dumps(payload))
+	print(response_content[:100])
+
+
+
+
+	
+getRestraunts()
+
+# extractRestraunts()

@@ -6,6 +6,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import "./style.css";
 import { Box, Scatter } from "@ant-design/plots";
+import { Icon } from "@iconify/react";
 
 const defaultMapContainerStyle = {
 	width: "100%",
@@ -40,6 +41,19 @@ function quantile(arr, q) {
 	return arr.sort()[Math.ceil(arr.length * q) - 1];
 }
 
+function ParaGraph({ data, smth }) {
+	return (
+		<p className="w-[50rem] mx-auto">
+			For your query, we found <span className="highlight">{data.length}</span> dishes spread over <span className="highlight">{smth.length}</span> restraunts. These dishes had the average price of{" "}
+			<span className="highlight">₹ {(data.reduce((acc, cur) => acc + cur.price, 0) / data.length).toFixed(2)}</span> and maintained an average rating of{" "}
+			<span className="highlight">★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</span>. Do note the fact that all the restraunts had an average of{" "}
+			<span className="highlight">{(smth.reduce((acc, cur) => acc + cur.count, 0) / smth.length).toFixed(2)}</span> dishes and minimum{" "}
+			<span className="highlight">{Math.min(...smth.map((items) => items.count))}</span> for this query. Some restraunt also had as many as{" "}
+			<span className="highlight">{Math.max(...smth.map((items) => items.count))}</span>
+		</p>
+	);
+}
+
 export default function queryResults() {
 	const searchParams = useSearchParams();
 	const city = searchParams.get("city");
@@ -57,7 +71,13 @@ export default function queryResults() {
 	}, []);
 
 	if (isLoading) return <p>Loading...</p>;
-	if (!data) return <p>No profile data</p>;
+	if (!data.length)
+		return (
+			<p className="flex flex-row gap-1 text-3xl">
+				<Icon icon="solar:ufo-3-linear" width="1.2em" height="1.2em" />
+				Sorry, no data avaliable!
+			</p>
+		);
 
 	const priceDistribution = {
 		height: 160,
@@ -91,7 +111,7 @@ export default function queryResults() {
 		title: "Avg Pricing vs Rating",
 	};
 
-	var smth = Object.values(
+	const smth = Object.values(
 		data.reduce((acc, curr) => {
 			acc[`${curr.lat}|${curr.lon}`] = acc[`${curr.lat}|${curr.lon}`] || { price: 0, lat: curr.lat, lon: curr.lon, count: 0 };
 			acc[`${curr.lat}|${curr.lon}`].price += curr.price;
@@ -101,15 +121,18 @@ export default function queryResults() {
 	);
 
 	return (
-		<div>
-			<h1 className="font-bold text-3xl mb-3">Some Sample Dishes</h1>
-			<div className="samples">
-				{data
-					.filter((item) => item.media)
-					.slice(0, 8)
-					.map((item) => (
-						<Card key={item.id} data={item} />
-					))}
+		<div className="flex flex-col gap-16">
+			<ParaGraph data={data} smth={smth} />
+			<div>
+				<h1 className="font-bold text-3xl mb-3">Some Sample Dishes</h1>
+				<div className="samples">
+					{data
+						.filter((item) => item.media)
+						.slice(0, 8)
+						.map((item) => (
+							<Card key={item.id} data={item} />
+						))}
+				</div>
 			</div>
 
 			<div className="container">
@@ -121,14 +144,16 @@ export default function queryResults() {
 				<h2>Average Rating: ★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</h2>
 			</div>
 
-			<h1>Here are the results of your query</h1>
-			<MapProvider>
-				<GoogleMap mapContainerStyle={defaultMapContainerStyle} center={defaultMapCenter} zoom={defaultMapZoom} options={defaultMapOptions}>
-					{smth.map((item) => (
-						<MarkerF key={item.id} position={{ lat: item.lat, lng: item.lon }} label={(item.price / item.count).toFixed(0)} />
-					))}
-				</GoogleMap>
-			</MapProvider>
+			<div className="w-full">
+				<h1 className="font-bold text-3xl mb-3">Here are the results of your query</h1>
+				<MapProvider>
+					<GoogleMap mapContainerStyle={defaultMapContainerStyle} center={defaultMapCenter} zoom={defaultMapZoom} options={defaultMapOptions}>
+						{smth.map((item) => (
+							<MarkerF key={item.id} position={{ lat: item.lat, lng: item.lon }} label={(item.price / item.count).toFixed(0)} />
+						))}
+					</GoogleMap>
+				</MapProvider>
+			</div>
 		</div>
 	);
 }

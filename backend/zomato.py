@@ -131,10 +131,10 @@ def extractRestraunts():
 
 	city = orjson.loads(Path(f'raw/{country}/{cityName}.json').read_text(encoding='utf-8'))
 	search = city['pages']['current']['ogPageUrl']
-	restraunts = city['pages']['search'][search]['sections']['SECTION_SEARCH_RESULT']
-	print(f"Total restraunts: {len(restraunts)}")
+	restaurants = city['pages']['search'][search]['sections']['SECTION_SEARCH_RESULT']
+	print(f"Total restaurants: {len(restaurants)}")
 
-	for restraunt in restraunts:
+	for restraunt in restaurants:
 		if restraunt['type'] != 'restaurant': continue
 		print(f" ⇢ Downloading {restraunt['info']['name']}")
 		href = restraunt['cardAction']['clickUrl'].split('/')
@@ -185,9 +185,9 @@ def getRestraunts():
 	country, cityName = 'india', 'surat'
 	city = orjson.loads(Path(f'raw/{country}/{cityName}.json').read_text(encoding='utf-8'))
 	search = city['pages']['current']['pageUrl']
-	restraunts = city['pages']['search'][search]['sections']['SECTION_SEARCH_RESULT']
+	restaurants = city['pages']['search'][search]['sections']['SECTION_SEARCH_RESULT']
 
-	for restraunt in restraunts:
+	for restraunt in restaurants:
 		if restraunt['type'] != 'restaurant': continue
 		print(f" ⇢ Downloading {restraunt['info']['name']}")
 		downloadRestraunt(restraunt['cardAction']['clickUrl'])

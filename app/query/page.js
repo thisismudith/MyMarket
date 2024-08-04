@@ -44,9 +44,9 @@ function quantile(arr, q) {
 function ParaGraph({ data, smth }) {
 	return (
 		<p className="w-[50rem] mx-auto">
-			For your query, we found <span className="highlight">{data.length}</span> dishes spread over <span className="highlight">{smth.length}</span> restraunts. These dishes had the average price of{" "}
+			For your query, we found <span className="highlight">{data.length}</span> dishes spread over <span className="highlight">{smth.length}</span> restaurants. These dishes had the average price of{" "}
 			<span className="highlight">₹ {(data.reduce((acc, cur) => acc + cur.price, 0) / data.length).toFixed(2)}</span> and maintained an average rating of{" "}
-			<span className="highlight">★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</span>. Do note the fact that all the restraunts had an average of{" "}
+			<span className="highlight">★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</span>. Do note the fact that all the restaurants had an average of{" "}
 			<span className="highlight">{(smth.reduce((acc, cur) => acc + cur.count, 0) / smth.length).toFixed(2)}</span> dishes and minimum{" "}
 			<span className="highlight">{Math.min(...smth.map((items) => items.count))}</span> for this query. Some restraunt also had as many as{" "}
 			<span className="highlight">{Math.max(...smth.map((items) => items.count))}</span>

@@ -161,7 +161,7 @@ export default function Home() {
 				</div>
 			</div>
 			<div className="topRestraunts">
-				<h1 className="text-4xl font-bold text-center mb-3">Top Restraunts</h1>
+				<h1 className="text-4xl font-bold text-center mb-3">Top Restaurants</h1>
 				<div className="flex flex-row gap-4 overflow-x-auto">
 					{RestData.map((item) => (
 						<Card key={btoa(item.name)} {...item} />

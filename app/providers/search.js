@@ -1,6 +1,5 @@
 "use client";
 
-import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { Icon } from "@iconify/react";
 
@@ -9,8 +8,8 @@ export default function SearchBox() {
 	const [city, setCity] = useState("Surat");
 	const [query, setQuery] = useState("");
 
-	function redirectPage() {
-		console.log(city, query);
+	function redirect(event) {
+		if (event.type == "keyup" && event.key !== "Enter") return setQuery(event.target.value);
 		if (city == "" || query == "") return alert("Please enter a valid query");
 		if (city != "Surat") return alert("We are currently only serving Surat");
 
@@ -29,8 +28,8 @@ export default function SearchBox() {
 				</select>
 			</div>
 			<div className="SearchBox">
-				<input placeholder="Search Food Items..." onInput={(e) => setQuery(e.target.value)} />
-				<Icon icon="fe:search" width="1.2em" height="1.2em" onClick={redirectPage} />
+				<input placeholder="Search Food Items..." onKeyUp={redirect} />
+				<Icon icon="fe:search" width="1.2em" height="1.2em" onClick={redirect} />
 			</div>
 		</div>
 	);

@@ -32,7 +32,7 @@ function Card({ data }) {
 			<Image src={data.media || "https://picsum.photos/200/100"} alt={data.name} width={200} height={200} />
 			<h2>{data.name}</h2>
 			<p>₹ {data.price}</p>
-			<p>{data.description}</p>
+			<p>{data.description || "No Description Provided..."}</p>
 		</div>
 	);
 }
@@ -130,7 +130,7 @@ export default function queryResults() {
 						.filter((item) => item.media)
 						.slice(0, 8)
 						.map((item) => (
-							<Card key={item.id} data={item} />
+							<Card key={item.name} data={item} />
 						))}
 				</div>
 			</div>

@@ -11,6 +11,10 @@ export default function sign() {
 	const [confirm, setConfirm] = useState("");
 	const [type, setType] = useState("user");
 
+	function doTheDeed() {
+		// Here lies the code that will handle the sign-in and sign-up process
+	}
+
 	return (
 		<div className="signing">
 			<h1>{creating ? "Sign Up" : "Sign In"}</h1>
@@ -38,7 +42,9 @@ export default function sign() {
 					Chef
 				</button>
 			</div>
-			<button className="submit">{creating ? "Sign Up" : "Sign In"}</button>
+			<button className="submit" onSubmit={doTheDeed}>
+				{creating ? "Sign Up" : "Sign In"}
+			</button>
 		</div>
 	);
 }

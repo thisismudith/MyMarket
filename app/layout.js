@@ -3,6 +3,7 @@ import Image from "next/image";
 import "./globals.css";
 import { Icon } from "@iconify/react";
 import SearchBox from "@/app/providers/search";
+import icon from "@/assets/pizza.png";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -17,7 +18,7 @@ export default function RootLayout({ children }) {
 			<body className={inter.className}>
 				<div className="Navigation">
 					<div className="left">
-						<Image src="https://picsum.photos/100/100" alt="Book Club" width={50} height={50} />
+						<Image src={icon} alt="Book Club" width={50} height={50} />
 						<a href="/">MyMarket</a>
 					</div>
 					<SearchBox />

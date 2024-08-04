@@ -11,6 +11,14 @@ body {
 	@apply flex justify-between absolute inset-x-0 top-0 h-16
 	bg-white border-b border-[#e3ebf6] px-10;
 
+	.left {
+		img {
+			@apply w-7 h-7;
+		}
+		a {
+			@apply text-3xl font-bold;
+		}
+	}
 	div {
 		@apply flex flex-row justify-center items-center gap-2;
 	}

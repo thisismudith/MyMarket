@@ -1,24 +1,26 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Icon } from "@iconify/react";
-import { redirect } from "next/navigation";
 
 export default function SearchBox() {
 	const cities = ["Surat", "Mumbai", "Delhi", "Bangalore", "Chennai", "Kolkata", "Hyderabad", "Ahmedabad"];
 	const [city, setCity] = useState("Surat");
 	const [query, setQuery] = useState("");
-	const router = useRouter();
 
 	function redirectPage() {
+		console.log(city, query);
+		if (city == "" || query == "") return alert("Please enter a valid query");
+		if (city != "Surat") return alert("We are currently only serving Surat");
+
 		window.location.href = `/query?city=${city.toLowerCase()}&query=${query.toLowerCase()}`;
 	}
 
 	return (
 		<div className="middle">
 			<div className="ComboBox">
-				<select onSelect={setCity}>
+				<select onChange={(e) => setCity(e.target.value)}>
 					{cities.map((city) => (
 						<option key={city} value={city}>
 							{city}

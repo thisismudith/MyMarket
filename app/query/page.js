@@ -121,7 +121,7 @@ export default function queryResults() {
 	);
 
 	return (
-		<div className="flex flex-col gap-16">
+		<div className="flex flex-col gap-4">
 			<ParaGraph data={data} smth={smth} />
 			<div>
 				<h1 className="font-bold text-3xl mb-3">Some Sample Dishes</h1>

@@ -6,7 +6,7 @@ import { glob } from "glob";
 export async function GET(request) {
 	const searchParams = request.nextUrl.searchParams;
 	const city = searchParams.get("city");
-	const query = searchParams.get("query");
+	const query = searchParams.get("query").toLowerCase().split(" ");
 	console.log(`Returning results for "${query}" in "${city}"`);
 
 	var isCity = existsSync(`./processed/${city}`);
@@ -24,7 +24,7 @@ export async function GET(request) {
 		var rating = Number(data.ratings.DINING.rating || data.ratings.DELIVERY.rating);
 		if (rating <= 0) continue;
 		for (var j = 0; j < data.items.length; j++) {
-			if (!data.items[j].name.toLowerCase().includes(query)) continue;
+			if (query.every((word) => data.items[j].name.toLowerCase().includes(word)) == false) continue;
 			if (data.items[j].price <= 0) continue;
 			data.items[j].lat = Number(data.establishment.latitude);
 			data.items[j].lon = Number(data.establishment.longitude);

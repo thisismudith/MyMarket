@@ -1,5 +1,7 @@
 import { Inter } from "next/font/google";
+import Image from "next/image";
 import "./globals.css";
+import { Icon } from "@iconify/react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -9,9 +11,39 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+	const cities = ["Surat", "Mumbai", "Delhi", "Bangalore", "Chennai", "Kolkata", "Hyderabad", "Ahmedabad"];
 	return (
 		<html lang="en">
-			<body className={inter.className}>{children}</body>
+			<body className={inter.className}>
+				<div className="Navigation">
+					<div className="left">
+						<Image src="https://picsum.photos/100/100" alt="Book Club" width={50} height={50} />
+						<a href="/">MyMarket</a>
+					</div>
+					<div className="middle">
+						<div className="ComboBox">
+							<select>
+								{cities.map((city) => (
+									<option key={city} value={city}>
+										{city}
+									</option>
+								))}
+							</select>
+						</div>
+						<div className="SearchBox">
+							<input placeholder="Search Food Items..." />
+							<Icon icon="fe:search" width="1.2em" height="1.2em" />
+						</div>
+					</div>
+					<div className="right">
+						<Icon icon="iconamoon:enter" width="1.2em" height="1.2em" />
+						<a className="SignUp" href="/signup">
+							Sign up
+						</a>
+					</div>
+				</div>
+				{children}
+			</body>
 		</html>
 	);
 }

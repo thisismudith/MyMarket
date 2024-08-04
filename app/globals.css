@@ -4,5 +4,26 @@
 
 body {
 	@apply flex flex-col gap-16 justify-center items-center w-full
-	bg-[#f9fbfd];
+	bg-[#f9fbfd] mt-20;
+}
+
+.Navigation {
+	@apply flex justify-between absolute inset-x-0 top-0 h-16
+	bg-white border-b border-[#e3ebf6] px-10;
+
+	div {
+		@apply flex flex-row justify-center items-center gap-2;
+	}
+
+	.SearchBox {
+		@apply flex items-center gap-5 flex-row relative border p-1 rounded-md;
+	}
+
+	.SearchBox input {
+		@apply outline-none;
+	}
+
+	.ComboBox select {
+		@apply outline-none border rounded-md overflow-hidden h-8 p-1;
+	}
 }

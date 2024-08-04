@@ -40,6 +40,19 @@ function quantile(arr, q) {
 	return arr.sort()[Math.ceil(arr.length * q) - 1];
 }
 
+function ParaGraph({ data, smth }) {
+	return (
+		<p className="w-[40rem]">
+			For your query, we found <span className="highlight">{data.length}</span> dishes spread over <span className="highlight">{smth.length}</span> restraunts. These dishes had the average price of{" "}
+			<span className="highlight">₹ {(data.reduce((acc, cur) => acc + cur.price, 0) / data.length).toFixed(2)}</span> and maintained an average rating of{" "}
+			<span className="highlight">★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</span>. Do note the fact that all the restraunts had an average of{" "}
+			<span className="highlight">{(smth.reduce((acc, cur) => acc + cur.count, 0) / smth.length).toFixed(2)}</span> dishes and minimum{" "}
+			<span className="highlight">{Math.min(...smth.map((items) => items.count))}</span> for this query. Some restraunt also had as many as{" "}
+			<span className="highlight">{Math.max(...smth.map((items) => items.count))}</span>
+		</p>
+	);
+}
+
 export default function queryResults() {
 	const searchParams = useSearchParams();
 	const city = searchParams.get("city");
@@ -102,6 +115,7 @@ export default function queryResults() {
 
 	return (
 		<div>
+			<ParaGraph data={data} smth={smth} />
 			<h1 className="font-bold text-3xl mb-3">Some Sample Dishes</h1>
 			<div className="samples">
 				{data
@@ -119,15 +133,6 @@ export default function queryResults() {
 
 				<h2>Average Pricing: ₹ {(data.reduce((acc, cur) => acc + cur.price, 0) / data.length).toFixed(2)}</h2>
 				<h2>Average Rating: ★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</h2>
-
-				<p>
-					For your query, we found <span className="highlight">{data.length}</span> dishes spread over <span className="highlight">{smth.length}</span> restraunts. These dishes had the average price
-					of <span className="highlight">₹ {(data.reduce((acc, cur) => acc + cur.price, 0) / data.length).toFixed(2)}</span> and maintained an average rating of{" "}
-					<span className="highlight">★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</span>. Do note the fact that all the restraunts had an average of{" "}
-					<span className="highlight">{(smth.reduce((acc, cur) => acc + cur.count, 0) / smth.length).toFixed(2)}</span> dishes and minimum{" "}
-					<span className="highlight">{Math.min(...smth.map((items) => items.count))}</span> for this query. Some restraunt also had as many as{" "}
-					<span className="highlight">{Math.max(...smth.map((items) => items.count))}</span>
-				</p>
 			</div>
 
 			<h1>Here are the results of your query</h1>

@@ -129,7 +129,7 @@ export default function Home() {
 	}
 
 	return (
-		<div>
+		<div className="flex flex-col gap-12 items-center overflow-hidden">
 			<div className="header">
 				<h1>My Market</h1>
 				<p>
@@ -152,29 +152,29 @@ export default function Home() {
 				</div>
 			</div>
 
-			<div className="topFood mt-12 overflow-clip">
+			<div className="topFood">
 				<h1 className="text-4xl font-bold text-center mb-3">Popular Food Items</h1>
-				<div className="movingCarosel">
-					{FoodData.map((item) => (
-						<Card key={btoa(item.name)} {...item} />
-					))}
+				<div className="flex flex-row gap-4 overflow-x-auto">
 					{FoodData.map((item) => (
 						<Card key={btoa(item.name)} {...item} />
 					))}
 				</div>
 			</div>
-			<div className="topRestraunts mt-12 overflow-clip">
+			<div className="topRestraunts">
 				<h1 className="text-4xl font-bold text-center mb-3">Top Restraunts</h1>
-				<div className="movingCarosel">
-					{RestData.map((item) => (
-						<Card key={btoa(item.name)} {...item} />
-					))}
+				<div className="flex flex-row gap-4 overflow-x-auto">
 					{RestData.map((item) => (
 						<Card key={btoa(item.name)} {...item} />
 					))}
 				</div>
 			</div>
-			<div className="allibies"></div>
+			<div className="container">
+				<h1>What are you doing here?</h1>
+				<h2>Start Searching, its free of cost!</h2>
+				<button>
+					Go up <Icon icon="icon-park-outline:up" onClick={() => document.body.scrollIntoView({ behavior: "smooth" })} />
+				</button>
+			</div>
 		</div>
 	);
 }

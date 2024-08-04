@@ -3,12 +3,12 @@
 		transform: translateX(0);
 	}
 	100% {
-		transform: translateX(-50%);
+		transform: translateX(-100%);
 	}
 }
 
 .movingCarosel {
-	@apply flex flex-row gap-4 w-fit;
+	@apply flex flex-row gap-4 w-fit flex-nowrap;
 	animation: loop 25s linear infinite;
 }
 
@@ -58,5 +58,24 @@
 			@apply bg-[#12263F] text-white rounded-full px-4 py-2
 			border border-[#12263F]/70;
 		}
+	}
+}
+
+.container {
+	@apply bg-white border border-[#e3ebf6] rounded-lg p-6
+	flex flex-col justify-center items-center gap-2;
+
+	h1 {
+		@apply font-black text-2xl text-gray-700;
+	}
+
+	h2 {
+		@apply font-bold text-gray-500;
+	}
+
+	button {
+		@apply flex flex-row justify-center items-center gap-2
+		bg-gray-300 border border-gray-400 rounded-md
+		px-4 py-2 text-gray-700;
 	}
 }

@@ -2,7 +2,7 @@ import { Inter } from "next/font/google";
 import Image from "next/image";
 import "./globals.css";
 import { Icon } from "@iconify/react";
-import SearchBox from "@/app/providers/search";
+import SearchBox, {SignUps} from "@/app/providers/search";
 import icon from "@/assets/pizza.png";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -23,10 +23,7 @@ export default function RootLayout({ children }) {
 					</div>
 					<SearchBox />
 					<div className="right">
-						<Icon icon="iconamoon:enter" width="1.2em" height="1.2em" />
-						<a className="SignUp" href="/signup">
-							Sign Out
-						</a>
+						<SignUps />
 					</div>
 				</div>
 				{children}

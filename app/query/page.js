@@ -6,6 +6,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import "./style.css";
 import { Box, Scatter } from "@ant-design/plots";
+import { Icon } from "@iconify/react";
 
 const defaultMapContainerStyle = {
 	width: "100%",
@@ -42,7 +43,7 @@ function quantile(arr, q) {
 
 function ParaGraph({ data, smth }) {
 	return (
-		<p className="w-[40rem]">
+		<p className="w-[50rem] mx-auto">
 			For your query, we found <span className="highlight">{data.length}</span> dishes spread over <span className="highlight">{smth.length}</span> restraunts. These dishes had the average price of{" "}
 			<span className="highlight">₹ {(data.reduce((acc, cur) => acc + cur.price, 0) / data.length).toFixed(2)}</span> and maintained an average rating of{" "}
 			<span className="highlight">★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</span>. Do note the fact that all the restraunts had an average of{" "}
@@ -70,7 +71,13 @@ export default function queryResults() {
 	}, []);
 
 	if (isLoading) return <p>Loading...</p>;
-	if (!data) return <p>No profile data</p>;
+	if (!data.length)
+		return (
+			<p className="flex flex-row gap-1 text-3xl">
+				<Icon icon="solar:ufo-3-linear" width="1.2em" height="1.2em" />
+				Sorry, no data avaliable!
+			</p>
+		);
 
 	const priceDistribution = {
 		height: 160,
@@ -114,16 +121,18 @@ export default function queryResults() {
 	);
 
 	return (
-		<div>
+		<div className="flex flex-col gap-16">
 			<ParaGraph data={data} smth={smth} />
-			<h1 className="font-bold text-3xl mb-3">Some Sample Dishes</h1>
-			<div className="samples">
-				{data
-					.filter((item) => item.media)
-					.slice(0, 8)
-					.map((item) => (
-						<Card key={item.id} data={item} />
-					))}
+			<div>
+				<h1 className="font-bold text-3xl mb-3">Some Sample Dishes</h1>
+				<div className="samples">
+					{data
+						.filter((item) => item.media)
+						.slice(0, 8)
+						.map((item) => (
+							<Card key={item.id} data={item} />
+						))}
+				</div>
 			</div>
 
 			<div className="container">
@@ -135,14 +144,16 @@ export default function queryResults() {
 				<h2>Average Rating: ★{(data.reduce((acc, cur) => acc + cur.rating, 0) / data.length).toFixed(2)}</h2>
 			</div>
 
-			<h1>Here are the results of your query</h1>
-			<MapProvider>
-				<GoogleMap mapContainerStyle={defaultMapContainerStyle} center={defaultMapCenter} zoom={defaultMapZoom} options={defaultMapOptions}>
-					{smth.map((item) => (
-						<MarkerF key={item.id} position={{ lat: item.lat, lng: item.lon }} label={(item.price / item.count).toFixed(0)} />
-					))}
-				</GoogleMap>
-			</MapProvider>
+			<div className="w-full">
+				<h1 className="font-bold text-3xl mb-3">Here are the results of your query</h1>
+				<MapProvider>
+					<GoogleMap mapContainerStyle={defaultMapContainerStyle} center={defaultMapCenter} zoom={defaultMapZoom} options={defaultMapOptions}>
+						{smth.map((item) => (
+							<MarkerF key={item.id} position={{ lat: item.lat, lng: item.lon }} label={(item.price / item.count).toFixed(0)} />
+						))}
+					</GoogleMap>
+				</MapProvider>
+			</div>
 		</div>
 	);
 }

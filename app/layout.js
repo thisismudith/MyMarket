@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
 					<div className="right">
 						<Icon icon="iconamoon:enter" width="1.2em" height="1.2em" />
 						<a className="SignUp" href="/signup">
-							Sign up
+							Sign Out
 						</a>
 					</div>
 				</div>

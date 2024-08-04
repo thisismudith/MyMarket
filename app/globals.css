@@ -3,8 +3,7 @@
 @tailwind utilities;
 
 body {
-	@apply flex flex-col gap-16 justify-center items-center w-full
-	bg-[#f9fbfd] mt-20;
+	@apply bg-[#f9fbfd] mt-16;
 }
 
 .Navigation {
@@ -34,4 +33,53 @@ body {
 	.ComboBox select {
 		@apply outline-none border rounded-md overflow-hidden h-8 p-1;
 	}
+}
+
+.header {
+	@apply h-[30rem] relative
+	bg-gradient-to-br from-[#f956b3] to-[#f9a826] w-full
+	flex flex-col gap-6 items-center justify-center;
+
+	h1 {
+		@apply text-7xl text-white font-bold;
+	}
+
+	p {
+		@apply text-white text-lg w-[35rem];
+	}
+
+	.searchBox {
+		@apply bg-white w-min flex flex-row items-center gap-2 p-1 rounded-full pl-4
+		border-2 border-gray-600/90;
+
+		input {
+			@apply outline-none;
+		}
+		button {
+			@apply bg-[#12263F] text-white rounded-full px-4 py-2
+			border border-[#12263F]/70;
+		}
+	}
+}
+
+.custom-shape-divider-bottom-1722770232 {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	line-height: 0;
+	transform: rotate(180deg);
+	pointer-events: none;
+}
+
+.custom-shape-divider-bottom-1722770232 svg {
+	position: relative;
+	display: block;
+	width: calc(100% + 1.3px);
+	height: 100px;
+}
+
+.custom-shape-divider-bottom-1722770232 .shape-fill {
+	@apply fill-[#f9fbfd];
 }
